@@ -20,7 +20,7 @@ class PlaylistParser
 
     parsed_resp = JSON.parse(response.body)
     if parsed_resp["items"].nil?
-      raise parsed_resp
+      raise parsed_resp.inspect
     end
     parsed_resp["items"].each_with_object({}) do |item, acc|
       acc[item["snippet"]["resourceId"]["videoId"]] = {
