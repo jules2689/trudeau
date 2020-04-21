@@ -14,7 +14,7 @@ Brett Ruskin and tom Murphy  Brett is in Portapique where this all began, but we
 
 
 **TOM**:
-We're expecting an  in a couple of hours now to shed more light on what happened.
+We're expecting an rcmpbriefing in a couple of hours now to shed more light on what happened.
 We're hearing of more victims.
 The count is up to 17 including the killer.
 You mentioned the occupations of some of those people.
@@ -100,12 +100,12 @@ The Prime Minister is expected to give his daily briefing outside Rideau cottage
 I want to show viewers the inside of the house of commons.
 That's where I'll bring in My colleagues the host of "power & politics," Vassy  and David  In the midst of this it seems the house of commons has returned because there was no agreement between four of the parties and the conservatives todo something different.
 This is also something that is preoccupying Ottawa right now.
-Vassy, what is the latest we know?
+ what is the latest we know?
 
 
 
 **Vassy**:
-The latest I'm hearings there will be a motion introduced by the liberals.
+The latest I'm hearing is there will be a motion introduced by the liberals.
 and the nature of the tension I should just say is over how many times they should be meeting.
 The liberals are offering once a week in person and then some virtual, supplemental sessions.
 The n. D.p. and the bloc quÉbÉcois are supportive of thatin  forms.
@@ -130,7 +130,7 @@ David, your perspective.
 
 **David**:
 It's interesting.
-Andrew scheer has been like an auctioneer going in reverse.
+Andrew schemer has been like an auctioneer going in reverse.
 He wanted five days a week and now he's down to three days a week.
 That has been the compromise that the other parties have agreed to. The greens don't want any session unless there is a vote.
 The bloc is content to have rules of engagement so they don't have to go through this every time they have to come back.
@@ -138,7 +138,7 @@ Yves-franÇois blanchet  the conservatives of holding them hostage.
 While there's an obsession here about the numbers of sittings and the numbers of hours of question period, I think the country might be worried about other numbers, 35, 000 cases of COVID-19, and 16 deaths in Nova Scotia due to a shooting.
 In the times we're in, no funerals or wakes.
 This is a time when the Prime Minister and other dignitaries would travel to Nova Scotia to offer comfort in a time like this, and none of that is happening because of what's going on. It makes it difficult to argue that politics as much as you canneeds  continue in parliament with as many as three sittings a week.
-Andrew scheer said if MPs  go to a grocery store, they can come here.
+Andrew scheer  if MPs  go to a grocery store, they can come here.
 But what are we told about that, go once a week.
 and you don't need to get on a plane from vancouver  ottawa  buy your grocery.
 It looks like the majority is going to get its way with the motion that is going to be presented and voted on.
@@ -152,12 +152,12 @@ I don't think all the parties believe that parliament should have some role to p
 That is a vital part of our democracy.
 It's just like on a day like today quibbling about the hours and the times, it becomes a little bit difficult to talk about the importance of that.
 There is an importance to it, it becomes a legitimate concern.
-Vassy, I'll get you to weigh in as we continue to wait for the Prime Minister.
+ I'll get you to weigh in as we continue to wait for the Prime Minister.
 
 
 
 **Vassy**:
-At the heart of all of this is like you and David printout a desire for accountability.
+At the heart of all of this is like you and David point out a desire for accountability.
 There's evidence that that accountability has worked over the past month, right.
 There's lots of legislation that the government has introduced that has some holes that the opposition parties pointed out.
 They went back and got agreement.
@@ -172,7 +172,7 @@ There would be a few hours of accountability.
 There is a question mark over how this virtual thing would go, if it would be effective.
 We've seen examples of things right across the country of things not working.
 You would have thought much of this would have occurred in negotiations behind the scenes.
-Instead, we'll see this play outing the house of commons today.
+Instead, we'll see this play out in the house of commons today.
 Maybe there will be an agreement and they will vote on it. Certainly not the first thing onpeople's minds right now.
 
 

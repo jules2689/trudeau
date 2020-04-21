@@ -32,7 +32,7 @@ Are you aware of any foreign takeover deals that are occurring or are there any 
 
 
 **Prime Minister Trudeau**:
-Certainly as we look at challenges around supply chains for essential medical supplies and personal protective equipment as we strengthen our own domestic industry and production, we wouldn't want a foreign investor tonic that production that is being made for Canadians in this moment of crisis and send it overseas.
+Certainly as we look at challenges around supply chains for essential medical supplies and personal protective equipment as we strengthen our own domestic industry and production, we wouldn't want a foreign investor tic that production that is being made for Canadians in this moment of crisis and send it overseas.
 We also recognize that there are perhaps some startups that we would want to remain Canadian for the coming years that could be exposed to predatory foreign investors.
 This is something that, of course, we'll be keeping an eye on.
 
@@ -224,7 +224,7 @@ Will the federal government put a plan up and what are you saying action which b
 Many of the decisions around what makes sense in terms of a careful restarting of the economy are much more appropriately made at the provincial level.
 Given both provincial authorities and the reality that the shape of this pandemic is very, very different in different parts of the country.
 What we are working on coordinating with the provinces is a set of principles and approaches that can be applied at different moments and in different ways across the country.
-We want to be there to ensure that there is a testing capacity, that we are supporting on contact tracing and we're remaining consistent in the messages that Canadians are hearing from different orders of government across the country, about how to be very, very careful to not allow for a resurge ens of COVID-19 just as restrictions start being eased.
+We want to be there to ensure that there is a testing capacity, that we are supporting on contact tracing and we're remaining consistent in the messages that Canadians are hearing from different orders of government across the country, about how to be very, very careful to not allow for a resurge en ls of COVID-19 just as restrictions start being eased.
 These conversations are very much live with the provinces right now.
 We are listening very carefully to what experts and looking very carefully at what is working and has worked in other jurisdictions and how and if that can be adapted to US We recognized from the beginning that we have been slightly slower.
 We were able to hold off the pace of the virus in Canada for a few more weeks and many other places and, therefore, we can take advantage of learning what works in different situations to adapt it to Canada.

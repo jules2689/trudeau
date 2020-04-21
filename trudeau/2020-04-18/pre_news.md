@@ -3,7 +3,7 @@
 We are standing by, as we do every day almost to hear from the Prime Minister for his daily update on the federal response to the COVID-19 pandemic.
 Yesterday Justin Trudeau unveiled more than $2 billion in rescue money for Canada's slumping energy sector and other key industries like tourism.
 Today we are expecting to hear more about additional help for indigenous businesses that may be taking a due to the pandemic.
-Justin Trudeau is also addressing the nation on a day that the Canadian military begin an operation to combat COVID-19.125 personnel are being deployed to quÉbec to assist some overwhelmed staff in the province's long-term care homes.
+Justin Trudeau is also addressing the nation on a day that the Canadian military begin an operation to combat  personnel are being deployed to quÉbec to assist some overwhelmed staff in the province's long-term care homes.
 QuÉbec requested that had he been in an effort to contain thedeadly  that are sweeping through the facilities are and of course in the province of Ontario as well.
 That is a scene you are familiarwith  this stage, the front door at the Prime Minister's residence, Rideau  We will hear from him in 15 minutes' time.
 I want to bring in Catharine   is here to help with coverage.
@@ -16,7 +16,7 @@ The Prime Minister has been asked those questions virtually every day this week.
 That's right.
 He says it's key to moving forward.
 Any attempt to reopen the economy will depend on testing.
-The world health organization, an organization that we should say is under added scrutiny, but it put forward this week six criteria for any jurisdiction that's looking at moving forward and widespread testing would be a part of that.
+The world health organization, an organization that we should say is under added scrutiny, bu tit put forward this week six criteria for any jurisdiction that's looking at moving forward and widespread testing would be a part of that.
 Canada, according to many experts, is not at a point to reopen the economy.
 Even beyond that there is a debate of larger jurisdictions, notably Ontario, they are still trying to ramp up to a level that everyone is happy with to deal with the situation as it is, let alone allow people to return to people's lives not as normal, not to some sense of normalcy.
 
@@ -31,7 +31,7 @@ There was a move last night that came late in the day by the federal government 
 
 **Catherine**:
 That's right.
-Anyone now who enters an airport, anyone who is doing any airline travel will need to wears non-medical mask, a cloth facecovering.
+Anyone now who enters an airport, anyone who is doing any airline travel will need to weary non-medical mask, a cloth facecovering.
  we're talking about membersof  general public, they do not want people using those medical masks, but more and morepeople  have gone out of their house see people with those masks.
 If you're in an airport or anywhere you cannot maintain that physical distancing, you will have to wear a face covering.
 That would be going through security or an I. D. check, border checks, getting on the plane itself.
@@ -109,7 +109,7 @@ Were there cases  at the time in her residence or have there been since?
 
 
 **Interview**:
-No, there were no proven cases of COVID-19, which gave me a good in to get My mother out.
+No, there were no proven cases of  which gave me a good in to get My mother out.
 Because I'm not sure what the situation would be had there been one contracted there.
 
 
@@ -161,22 +161,22 @@ Thank you very much.
 
 
 **Rosemary**:
-Eileen myth in barrier Ontario.
-In Ontario there are more than 100 long-term care homes who have outbreaks of COVID-19. So we're talking about almost one in six homes.
+Eileen smith in barrier Ontario.
+In Ontario there are more than 100 long-term care homes who have outbreaks of COVID-19.  we're talking about almost one in six homes.
 That has been the picture, not only in Ontario but definitely in quÉbec and to some extent in British Columbia as well.
 Let's go to the cbc's megan   vancouver  BC is ahead of the curve, has flattened the curve, and is now already talking about ways to reopen and what that might look like.
 
 
 
 **Megan**:
-Yeah, rosier we're seeing data coming out of Band Dr. Bonnie Henry being cautiously optimistic that some restrictions are being lifted.
+Yeah, rosier we're seeing data coming out of BC and Dr. Bonnie Henry being cautiously optimistic that some restrictions are being lifted.
 We're seeing a slow down in the increase in cases across the country in particular in  in quÉbec.
 B.c. is also changing the way that it's doing its modelling.
-It used to compare the number ofcases  those in italy  hubeiprovince  china, those real hot spots, the epicentres of COVID-19. Now they are not comparing the worst-case scenario from there, looking at what could perhaps happen to our medical system here because we are starting to see this flattening of the curve.
+It used to compare the number ofcases  those in italy  hubeiprovince  china, those real hot spots, the epicentres of COVID-19.  they are not comparing the worst-case scenario from there, looking at what could perhaps happen to our medical system here because we are starting to see this flattening of the curve.
 Now officials here are starting to develop new models, looking at the cases that are happening short term, and projecting those, assuming there is no change in the current measures.
 They're also looking at what could happen if they start to ease some of the physical distancing restrictions.
 We say that now with the restrictions in place, contacts between british columbians is 30%  normal.
-They do say they could go up to 60% of normal and not see a reemergence of COVID-19 in BCthey are  looking ahead at that second wave that we keep talking about.
+They do say they could go up to 60% of normal and not see a reemergence of COVID-19 in  are  looking ahead at that second wave that we keep talking about.
 The officials here are preparingfor that and adjusting their modelling there.
 
 
@@ -185,7 +185,7 @@ The officials here are preparingfor that and adjusting their modelling there.
 Megan bachelor in  a different picture on the west coast.
 That is the issue with COVID-19 is that the chief public health officer, Dr. Theresa tam, has talked about regional epidemics.
 Every province looks a little bit different.
-So easing back some of the restrictions will happen on different timetables in different parts of this country, and that will make it challenging likely for the federal government, who only basso much say how this is going  As we wait for the Prime Minister, he is expected to be on time.
+So easing back some of the restrictions will happen on different timetables in different parts of this country, and that will make it challenging likely for the federal government, who only has so much say how this is going  As we wait for the Prime Minister, he is expected to be on time.
 I'll bring back My colleague Catharine  but I may cut you off.
 Yesterday the Prime Minister made significant announcements in terms of money.
 One of them was to address the oil and gas sector, although it was in no way a bailout.

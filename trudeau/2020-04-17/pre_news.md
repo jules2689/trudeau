@@ -3,7 +3,7 @@
 I'm rosemary  Thank you for joining US on  CBC news network, or streaming around the world.
 We are, as we do at this time of day, standing by to hear from Prime Minister Justin  He is expected today to respond to some of the urgent appeals to support various industries across Canada.
 For weeks, as his government has been rolling out emergency aid for Canadian businesses and workers.
-The Prime Minister has also been promising second -- pectoral help by certain industries that have been hit particularly hard by the COVID-19 shutdown.
+The Prime Minister has also been promising second -- sect oral help by certain industries that have been hit particularly hard by the COVID-19 shutdown.
 Let me bring in My colleagues as we stand by and wait for the Prime Minister.
 The host of "power & politics", Vassy  and   I don't think this is an oil and gas announcement from what I'm hearing.
 But there will be components that will help Alberta and other places.
@@ -42,12 +42,12 @@ Are we expecting that -- it should be fairly substantive, I would guess, too, ta
 
 **Reporter**:
 Yeah.
-We're hearing it is across multiple sectors and that has been the focus from the government from the git-go. As Vassy mentioned, bill more know did talk about help for the oil and gas sector coming within hours.
+We're hearing it is across multiple sectors and that has been the focus from the government from the git-go. As Vassy  bill more know did talk about help for the oil and gas sector coming within hours.
 That was three long weeks ago.
 Whenever the government has been talking about this, they have been framing it as help for multiple vulnerable industries.
 As you mentioned, tourismt  sector as well and the focus has been on workers.
 So, getting people back working on this.
-We are hearing regional developments will play a part in this, in terms of, as Vassy was mentioning, what certain areas are really feeling more particularly -- you know, certain tourism -- the focus on tourism, people aren't going on tour buses and people aren't, you know, signing up to go into museums and whatnot.
+We are hearing regional developments will play a part in this, in terms of, as Vassy Was mentioning, what certain areas are really feeling more particularly -- you know, certain tourism -- the focus on tourism, people aren't going on tour buses and people aren't, you know, signing up to go into museums and whatnot.
 So, it is really the focus on workers and that in particular across a broad spectrum of sectors that are really hard hit by this.
 
 
@@ -80,8 +80,7 @@ But what's really interesting is that orphan well package and I expect that we h
 There are more than 150, 000 orphaned wells in Alberta.
 Those are wells that have been abandon and they're not being serviced.
 So just sitting, wrecking farmer's fields, really.
-and a it would be, you know, billions of dollars, perhaps $8 billion to remediate those.
-What it might mean at this time is sort of a double whammy that would put oil workers back to work cleaning those up and get them cleaned up. Normally it would come under a lot of criticism that taxpayers will be paying to clean up the mess that oil companies left.
+and a it would be, you know, billions of dollars, perhaps $8 billion to remediate  What it might mean at this time is sort of a double whammy that would put oil workers back to work cleaning those up and get them cleaned up. Normally it would come under a lot of criticism that taxpayers will be paying to clean up the mess that oil companies left.
 But these are not normal times as you know.
 So if there is some help for orphan wells, it could actually help the industry by keeping people working and deal with a real environmental problem here in Alberta.
 
@@ -165,18 +164,18 @@ THANK YOU.
 
 **Rosemary**:
 Ok. Cathy duke, c. E.o. Of destination st. John's, agency of tourism for that province which, of course, is another sector that has been hit hard.
-Just to give you a sense of how bad things are, and then I'll bring in Vassy, the accommodation and food services sector in this country has shrunk by a quarter.
+Just to give you a sense of how bad things are, and then I'll bring in Vassy,  accommodation and food services sector in this country has shrunk by a quarter.
 I.t. Arts and culture lost 13% of all its jobs.
 Education, 9%.wholesale and retail trade lost 7%.the only place that continues to add some jobs, other than grocery stores and essential services work would be agriculture.
 Nearly 7, 000 jobs there created as obviously the reliance on the domestic food chain becomes more and more important.
-I'll bring in My colleagues again and turn to you, Vassy, about it guess the ways in which the government has tried to shore up support.
+I'll bring in My colleagues again and turn to you, Vassy, about  guess the ways in which the government has tried to shore up support.
 and how this might be different given that there are particular areas, of course, that are basically not functioning anymore.
 
 
 
 **Vassy**:
 Yeah.
-I think we've seen the unveiling and rolling out of two giant financial aid packages, right?the first being directed at individuals who have to stay home because of COVID-19, who can't work, and who have lost most, if not all of their income.
+I think we've seen the unveiling and rolling out of two giant financial aid packages, right?the first being directed at individuals who have to stay home because of COVID-19,  can't work, and who have lost most, if not all of their income.
 They're getting right now $2, 000 and, as you reminded our viewers yesterday, they should be re-applying for the second month, which they might need that money.
 That was the first step.
 The second step was aimed at businesses.
@@ -232,7 +231,7 @@ and we heard earlier from conservative leader and doctor sheer and that is the r
 It, too, was on a deadline.
 All parties had agreed that it would be suspended until monday unless they  reach another agreement to continue that suspension.
 As of now, there is no deal on, that either.
-and andrew scheer has  pushing very hard to see in-person sitings.
+and andrew scheer has   very hard to see in-person sitings.
 He is asking  four times a week.
 Doesn't sound like that is acceptable to the government.
 and it doesn't even sound like other partis are interested in  in and having MPs here in a  capacity for that many days of week.
@@ -240,7 +239,7 @@ But it is something that conservatives continue to push.
 and for now, there is no deal.
 and if they don't get a deal by monday, which I imagine  will, we would be in a place where the house of commons would have to resume.
 Which obviously would fly in the face of public health directives.
-Another issue to keep your eye on. and I will bring in Vassy because there is another two-minute warning.
+Another issue to keep your eye on. and I will bring in Vassy because there is  two-minute warning.
 I don't know if I can do that much on My own.[laughter]maybe we'll just pick up on that issue that the conservatives are pushing very hard for increased accountability and increased questions to the government, which, you know, I totally get.
 But I'm not sure that we are -- it doesn't sound like we're anywhere near close on a deal in terms of everyone agreeing that one or two or three times a week will actually happen.
 

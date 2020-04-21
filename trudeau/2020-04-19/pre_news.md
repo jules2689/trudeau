@@ -60,13 +60,13 @@ and maybe give US some details if he has any,  What else are we expecting from h
 
 **Reporter**:
 I'm not sure we'll get much in the way of a significant news announcement today.
-But the news that is happening here in Ottawa is the negotiations happening behind the scenes with all the parties to figure out what to do about the house of commons which is due to come back in full force with all 388 MP's scheduled to come back and take their seats in the middle of a pandemic, an   one is super keen to have at all.
+But the news that is happening here in Ottawa is the negotiations happening behind the scenes with all the part is to figure out what to do about the house of commons which is due to come back in full force with all 388 MP's scheduled to come back and take their seats in the middle of a pandemic, an   one is super keen to have at all.
 There are talks of reduced sitings  reduced numbers, but they are not all the way down yet.
 The liberals and new democrats have reached an agreement in the last 20 minutes as far as I can tell, that they would get the support of liberal n. D.p. To have one sitting this week with a lot of time dedicated to question period, the equivalents of a week of question period happening in one city and then move into one virtual sitting next week and the week after that, one in person and two virtual sitings and  would become the template for the house of commons on how it would function going forward.
 This is a move from the liberals who wanted one sitting and one virtual sitting as the baseline each week.
 They decided to go up to two to satisfy the new democrats.
 The greens and bloc quÉbÉcois, would go along with this.
-Andrew scheer is keen to have parliament come back and resume its normal function in what are abnormal times with a reduced sitting.
+Andrew scheer is  to have parliament come back and resume its normal function in what are abnormal times with a reduced sitting.
 Something like we saw before and theys paed   30 to 40MPs from  the ottawa area.
  conservatives started with a request or demand for four in-person sitings as the  have gone on, they have countered with three in-person sitings.
 The liberals, the  the bloc, they don't want to go to that.
@@ -74,7 +74,7 @@ You can reduce the number of MPs, but you need  broadcasters, political staff, c
 and when you head back, there's too many support staff for people to safely social distance.
 These are the behind the scenes conversations in ottawa.
 What is the  of the parties have largely found an agreement that functions.
-The conservatives are not on board with that yet and we'll hear from andrew scheer a little bit  this afternoon to see what he has to say on this.
+The conservatives are not on board with that yet and we'll hear from andrew scheer a little bit   afternoon to see what he has to say on this.
 
 
 
@@ -97,7 +97,7 @@ We're up to almost $300 billion in aid that has been put on the table by the gov
 You know, a full year's budget is normally about $350 billion.
 So, they have done almost a year of spending in a matter of four or five weeks.
 As the urgent needs caused by COVID-19 keep expanding and growing and more and more people are.
-Captured by these  We've seen Andrew scheer come back to Ottawa with his family and holding daily press conferences.
+Captured by these  We've seen Andrew schemer come back to Ottawa with his family and holding daily press conferences.
 and his argument is that this is necessary to hold the government to account by answering clear and specific questions about whether they were slow to  the pandemic or close the borders or buy equipment.
 This is what he wants to do. The other parties, though, do not agree with the conservative leader's demand for the sheer volume for in-person sitings  he is looking for.
 
@@ -130,9 +130,9 @@ When did this start for you?was it last night and what were you told?
 **Caller**:
 It was around 10:30 or 11:00 last night.
 We noticed police cars and then the house fire and two more fires after that.
-We're assuming warehouses as well.
+We're assuming warehouse st as well.
 and with not much information we were a little concerned until this morning when we heard stay inside.
-So, we pretty much hunkered in for the time being.
+So, we pretty much bunker ed in for the time being.
 
 
 
@@ -156,7 +156,7 @@ and do you know the residents of the homes?I don't know how much you could see i
 
 
 **Caller**:
-We know a couple for sure that were kind of viable from our yard.
+We know a couple for sure that were kind of viz able from our yard.
 But the third we don't know for sure.
 But scary, I guess.
 
@@ -349,7 +349,7 @@ You can imagine where you have the situation where people try to talk over one a
 I'm sure it's possible.
 I'm just not sure how easy it will be and whether it will be the best demonstration of accountability.
 and the agree to suspend only goes until tomorrow.
-They have to reach some or of agreement before the day is over and as we've seen throughout this pandemic, they do tend to reach agreement, but they to end do it right at the very last minute.
+They have to reach some Oort of agreement before the day is over and as we've seen throughout this pandemic, they do tend to reach agreement, but they to end do it right at the very last minute.
 Ok. I think  Trudeau, the Prime Minister, is about to come out in about a minute's time.
 Again, we are expecting him to perhaps bring US up to date on the negotiations of the return of the house of commons.
 and we expect him to address the situation that now appears, anyway, to be under control in Nova Scotia where a suspect has been taken into custody.

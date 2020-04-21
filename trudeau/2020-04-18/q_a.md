@@ -83,7 +83,7 @@ What's wrong with that?
 
 **Answer**:
 First of all, it's extremely important and has been important that every single day the Canadian public gets informed of measures we are putting forward.
-We are putting forward new measures almost every single day, and I think it is essential that the media continues to have access to asking questions to better inform and to ensure Canada is functioning the way it needs to be. Part of that job in our democracy is ensuring that there's accountability through our parliamentary systems.
+We are putting forward new measures almost every single day, and I think it is essential that the media continues to have access to asking questions to better inform and to ensure Canada is functioning the way it needs to be. Part of that job in our democracy is ensuring that there is accountability through our parliamentary systems.
 That is something that we are also very much focused on. We have proposed that the house of commons return in some fashion every single week, to permit engagement on accountability and also pass further measures to help Canadians.
 Right now we're in a situation where MP's across the country and their staff are wondering ifthey're going to have to get on planes tomorrow and fly to  Obviously that is not something from a public health standpoint we should want to see happening.
 Right now on the books the rule is parliament needs to re-open fully on monday.
@@ -171,8 +171,8 @@ We have discussed the issue of commercial rent with the provinces.
 I had a good conversation with them on Thursday evening where this came up. We are looking at it very, very closely.
 We have a number of proposals that are working their way through the system, talking to various industry groups and renters' associations, as well as looking at the provinces.
 The provinces have jurisdictions over rents and the relationship between landlords and tenants.
-We need to work with them, chichis what we are doing.
-We recognize there are very different realities and systems right across the country, but weals have heard very, very clearly from small business owners that the wage subsidy is helpful, but fixed costs are a real concern.
+We need to work with them, which is what we are doing.
+We recognize there are very different realities and systems right across the country, but we also have heard very, very clearly from small business owners that the wage subsidy is helpful, but fixed costs are a real concern.
 That is something that we're going to have more to say on soon.
 
 ---
@@ -277,7 +277,7 @@ We took a few days more to do that with the United States because we needed to e
 We wanted to do it in cooperation with our closest partner and ally.
 So these measures were absolutely critical in order to protect Canadians and limit the spread of the virus.
 We will keep them in place in relation to the United States and all the other countries around the globe for many, many weeks to come.[end of translation] we made thedecision a number of weeks ago to close our borders to international travellers.
-We recognized that this was a significant measure but was an important one in order to prevent further spread of COVID-19 from coming in from overseas.
+We recognized that this was a significant measure but was an important one in order to prevent further spread of COVID-19  coming in from overseas.
 It has contributed to why we arenow  many parts of the countrytalking  seeing a flattening of the curve, which is good news.
 We agreed with the united states in those measures because these are measures we put in place around the world.
 We did take a couple more days to ensure that we were properly coordinated with our closest neighbour and most-important trading partner.

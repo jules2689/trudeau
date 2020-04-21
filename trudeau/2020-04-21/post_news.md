@@ -4,7 +4,7 @@
 All right.
 That is the Prime Minister of Canada with his daily update on how his government is tackling the pandemic.
 I'm going to bring back Vassy and David and each 30 seconds because we're close to the top of the clock.
-Vassy, you can have the first 30.
+ you can have the first 30.
 
 
 
@@ -32,7 +32,7 @@ But prices may very well go up.
 **Rosemary**:
 Ok. Thank you both very much.
 So succinct.
-I should make you do that all the time.[laughter]Vassy kapelos and  cochrane.$350   Vassy talked about there does not include the option for charities for wage subsidies.
+I should make you do that all the time.[laughter]Vassy kapelos and  cochrane.$350   Vassy talked  there does not include the option for charities for wage subsidies.
 While their ask was substantive at $10 billion, they get $350 million to help them and they can also start using the wage subsidy, which we'll get more details about at noon eastern at the next federal briefing coming up and we'll bring you up to date on any new information we have about the shooting rampage in Nova Scotia which has killed as many as 20 people now.
 We are not necessarily expecting to get a briefing from the local RCMP today.
 But we will get some details probably via press release in terms of how their investigation over those 16 different crime scenes is going and we'll talk about that at the top of the clock as well and bring you all details in terms of the stories that we're learning about the people that were killed over the course of weekend in Nova Scotia as that community and that whole province continues to strugle with  during the time of the pandemic.
@@ -218,8 +218,8 @@ Thank you.
 The spread of COVID-19 has brought about unprecedented circumstances for Canadian businesses and workers.
 Our government is committed to helping Canadian employers support their employees during these very tough times.
 That is why the Prime Minister again this morning has reiterated and announced the introduction of the Canada emergency wage subsidy in order to help businesses support their employees in these very difficult times.[speaking french][voice of interpreter] our government is committed to helping canadian businesses and their employees during these difficult times.
-That is why this morning the Prime Minister announced new information about the Canada emergency wage subsidy which will help employers pay their employees' salaries during the COVID-19 crisis.[end of translation] designed tohelp employers keep and rehire workers amidst the challenges possessed by the COVID-19 epidemic.
-Having the ability to retain staff and rehire people will putemployers in the  possible position to resume normal circumstances once circumstancesdo allow it.  health and wellness of Canadians is almost -- is also that much better when people have the ability to pay their bills, their rent and buy food for their families.
+That is why this morning the Prime Minister announced new information about the Canada emergency wage subsidy which will help employers pay their employees' salaries during the COVID-19 crisis.[end  translation] designed tohelp employers keep and rehire workers amidst the challenges possessed by the COVID-19 epidemic.
+Having  ability to retain staff and rehire people will putemployers in the  possible position to resume normal circumstances once circumstancesdo allow it.  health and wellness of Canadians is almost -- is also that much better when people have the ability to pay their bills, their rent and buy food for their families.
 It is a government's intent to keep as many Canadians working as possible and the implementation of the Canada emergency wage subsidy is one ofthe measures in  to supportthis goal.[speaking french][voice  interpreter] the Canada emergency wage subsidy covers upto 75% of employees' salaries.
 This  be up to $847 per worker per week for up to a maximum of 12 weeks.
 The subsidy is back dated to march 15 and businesses will be able to apply as of next monday, april 27. The Canada revenue   administer the wage subsidy programme on behalf of the  of Canada.
@@ -258,7 +258,7 @@ MY QUESTION IS FOR DR. TAM.DR. TAM, YOUR COUNTERPART IN THEU.S., DR. FAUCI, TALK
 
 **Dr. Theresa Tam**:
 So right now together with all the chief medical officers of health, we're looking at the next phase, if you like, again stressing extreme caution in how we have to keep going right now with the measures that we have.
-We know that population immunity's not going to be high.
+We know that population immunity is not going to be high.
 So we have to move extremely carefully.
 I think we will be looking at all different kinds of  activities and providing what -- there has to be a risk-based approach, a riskassessment, and that will include this area.
 So -- but I think as some of these innovative thinking is coming together, these are some of the ideas, but again that two-metre distance and ensuring that we don't spread the illnessis extremely  which ever solution people are going to think of. So absolutely, I think every sector should begin some thinking about how innovative they can be in maintaining social distance.
@@ -410,7 +410,7 @@ But the numbers are up to individual, even the health authority at the local lev
 
 
 **Patty Hajdu (Minister of Health)**:
-I'll add, it is extremely important we understand the investments we make in public health, both from prevention perspective and a public health perspective are critical to the next steps of whether you call it reopening the economy or moving forward interns of recovering from the pandemic.
+I'll add, it is extremely important we understand the investments we make in public health, both fro ma prevention perspective and a public health perspective are critical to the next steps of whether you call it reopening the economy or moving forward in terms of recovering from the pandemic.
 That if we don't have local health capacity we'll be hindered in our abilities.
 We have that conversation with provinces and territories at the health Minister table.
 It is very important we continue to redouble our efforts to support public health.
@@ -475,7 +475,7 @@ I'll bring in David  to help US wrap that up. I will say, I take little glimmers
 
 
 **Reporter**:
-I think we're getting more clarity on the questions that were ran by Andrew scheer, the conservative leader, but planes coming back from china empty.
+I think we're getting more clarity on the questions that were ran by Andrew  the conservative leader, but planes coming back from china empty.
 and gotten a statement from the Minister of public services and procurement on what happened.
 Two planes did come back from shanghai without their lead of PPE.
 Gear they were sent to get.

@@ -151,7 +151,7 @@ My understanding is that what is announced today won't necessarily be that much.
 I'm not sure of the exact figure.
 But that will be sort of a chunk of change for charities, specifically aimed at supplementing the money that they have lost due to a lack of fundraising.
 The second aspect, the second facet of what I'm expecting from the Prime Minister has to do with that other huge government relief package for businesses around wage six  subsidies.
-The government has passed legislation with opposition parties a few weeks acing to provide a wage subsidy for businesses of any size, of 75% of the first I think is nearly $58, 000 of an employee's salary.
+The government has passed legislation with opposition part is a few weeks acing to provide a wage subsidy for businesses of any size, of 75% of the first I think is nearly $58, 000 of an employee's salary.
 That is in the -- the application process is starting.
 It will be starting in a few weeks is My understanding.
 Although that is always a moving target as well.
@@ -203,7 +203,7 @@ and another example of that occurring, too, in the United States.
 So, that is a real concern, as you say, for supply.
 and I imagine, you know, some being that people have to think about.
 Because those are close working quarters and obviously that is a large part of the people working there that had been affected.
-Vassy, maybe I'll goat you as we wait for the Prime Minister to weigh in on the oil piece of this.
+ maybe I'll goat you as we wait for the Prime Minister to weigh in on the oil piece of this.
 Because it is, you know, shocking to see numbers in the negatives like that.
 and to try to understand how any industry could rebound from those numbers and the pandemic.
 

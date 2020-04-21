@@ -359,11 +359,11 @@ On the supporting provinces, we recognize that various provinces are facing real
 
 **Interpreter**:
 Now earlier in your speech, you said there was some positive science and I won't Earp what those positive signs are in your opinion.
-and on the wage subsidy, can you assure US that not $1 of taxpayer money will go to companies that have money in tax havens?well, in terms of encouraging signs, when we look at the pandemic curves and the numbers in terms of spread of COVID-19, we can see that there has been a the decline in the numbers.
+and on the wage subsidy, can you assure US that not $1 of taxpayer money will go to companies that have money in tax havens?well, in terms of encouraging signs, when we look at the pandemic curves and the numbers in terms of spread of COVID-19,  can see that there has been a the decline in the numbers.
 Now we see the numbers going up in certain parts of the country.
 But there are fewer and fewer cases each day and we hope that what this means is that the measures we've been taking are now helping.
 and are now helping the expected outcome.
-At the same time, we need to keep those measures in place because if we relax them too soon, we could end up in a situation where COVID-19 would ramp up again and this is not something we would want to see happen.
+At the same time, we need to keep those measures in place because if we relax them too soon, we could end up in a situation where COVID-19  ramp up again and this is not something we would want to see happen.
 In terms of our approach in helping businesses, we have always been focused on help for workers.
 We did not want to judge whether someone working for a small halifax  or for a large internation  chain would be treated differently.
 We wanted to ensure that workers and families that depend on that income would have the necessary help and that is why we moved forward with the wage six did and moving forward with the emergency response benefit.

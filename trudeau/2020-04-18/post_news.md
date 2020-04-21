@@ -2,7 +2,7 @@
 
 **Rosemary**:
 That is the Prime Minister of Canada on this Saturday morning, briefing Canadians on his government's actions to fight COVID-19. Let's bring in the cbc's Catharine   I'll pick up where the Prime Minister left off.
-It is of interest in  but it should be of interest to everyone.
+It is of interest in  bu tit should be of interest to everyone.
 If no agreement is reached, 338 people have to get back here  for parliament to sit.
 
 
@@ -59,7 +59,7 @@ You'll be on standby.
 The Prime Minister spoke of the requirement to wear a mask when you're getting on a plane.
 The Prime Minister making it clear that you shouldn't be travelling, that non-essential travel shouldn't be happen, but if you are required for some reason to get on a plane, you are required to wear a mask.
 The other substance of the announcement was the decision toallow $306  in loans and some non-refundable payments to indigenous small- and medium-sized businesses.
-This is another sector obviouslythat's been hard hit by COVID-19. We saw the government try to getmoney to particular  yesterday.
+This is another sector obviouslythat's been hard hit by COVID-19. We saw  government try to getmoney to particular  yesterday.
 a bit of a continuation of that today.
 If I'm not mistaken, there's something like 6, 000 indigenous businesses across the country.
 Tabatha bull joins me from toronto.
@@ -79,7 +79,7 @@ How needed was this going to be?was there a real desire for additional money for
 **Interview**:
 Absolutely.
 There are actually over 50, 000 indigenous businesses across  and 95% of those are small- and medium-sized businesses.
-In march we sent a letter to theprime Minister and the COVID-19 cabinet along with a number of our friends including the national aboriginal capital commission, which the Prime Minister mentioned today.
+In march we sent a letter to theprime Minister and the COVID-19  along with a number of our friends including the national aboriginal capital commission, which the Prime Minister mentioned today.
 We wanted to ensure there was a way that small- and medium-sizedenterprises could  the liquidity and capital that was going out through the community emergency business account.
 This is a much-needed and welcome announcement.
 
@@ -131,7 +131,7 @@ Some of those businesses have laid off over half of their employees, and those a
 We need to make sure they can access that wage subsidy.
 Additionally procurement, we have a number of indigenous business members who are able to supply PPE.
 and able to pivot to ensure we can all fight COVID-19 together.
-I would like to see some type of incentives that we can ensure that those indigenous businesses have an opportunity to be part of the fight against COVID-19, particularly when they can support loss of life in indigenous communities that are at a higher risk of this pandemic.
+I would like to see some type of incentives that we can ensure that those indigenous businesses have an opportunity to be part of the fight against  particularly when they can support loss of life in indigenous communities that are at a higher risk of this pandemic.
 
 
 
@@ -142,13 +142,13 @@ You're talking about companies switching their supply chains to create things li
 
 **Interview**:
 Definitely.
-We have seen a couple of our indigenous members who have pivoted to ethanol and producing hand sanitizer and a number of businesses too who have been able to access masks.
+We have seen a couple of our indigenous members who have pivoted to ethanol and producing hand sanitize and a number of businesses too who have been able to access masks.
 Another great business  has been able to pivot to  We want to make sure those businesses have an opportunity to be part of the the federal supply chain and also to provide support to communities.
 
 
 
 **Rosemary**:
-Tabatha, thanks forsaking time for US
+Tabatha, thanks for making time for US
 
 
 
@@ -167,13 +167,13 @@ That is the Prime Minister's substantial announcement of aid today, $306 million
 
 
 **Reporter**:
-Really what we heard yesterday from quÉbec's premier, franÇois  was amen  about how the government of quÉbec has handled the situation of long-term care facilities during the COVID-19 pandemic, so much so that the government actually asked for assistance from the federal government to get canadian   to come into the province and help out in some ofthese  That's going to start today.
+Really what we heard yesterday from quÉbec's premier, franÇois  was am ea  about how the government of quÉbec has handled the situation of long-term care facilities during the COVID-19  so much so that the government actually asked for assistance from the federal government to get canadian   to come into the province and help out in some ofthese  That's going to start today.
 There are going to be 125 armed forces members deployed in quÉbec to help in these facilities.
 We heard from the canadian   that is starting at a specific long-term care facility in montreal.
 In  by noon people should be in that facility.
 We're talking about nursing officers, technicians, and othersupport staff  are going to be going in there to try to helpout.
 Premier  essentially  is a deteriorating situation in these long-term care facilities.
-In fact, more than half of the deaths reported in quÉbec attributable to COVID-19 have happened in these long-term carefacilities.
+In fact, more than half of the deaths reported in quÉbec attributable to COVID-19 have happened  these long-term carefacilities.
 Now, the premier  that his government should have tackled the situation in these long-termcare facilities sooner, especially the  of chronic under staffing.
 He said before this pandemic thegovernment should have acted quicker  trying to get higher salaries in these places --
 
@@ -186,8 +186,8 @@ You can watch US on CBC news network.[♪♪♪] [ please stand by ]
 
 
 **Rosemary**:
-The city  today is holding some talks about laying out potential timeline for  even though it instill many week away from allowing that to happen.
-This is all in the  The Prime Minister, of course, has said that it will be weeks, still, before Canadians will be able to go back to some sort offense of normal life, even if that includes going to the park, for instance.
+The city  today is holding some talks about laying out potential timeline for  even though it is still many week away from allowing that to happen.
+This is all in the  The Prime Minister, of course, has said that it will be weeks, still, before Canadians will be able to go back to some sort of sense of normal life, even if that includes going to the park, for instance.
 COVID-19 continues to  everyday, particularly as we know in Ontario andquebec's long-term care homes, about half of the deaths in thiscountry  to what ishappening  those places.
 The severe outbreaks and theinability  contain or movepeople  long-term carecentres.
 As  wait for this briefing to get started, I'll bring incatherine cullen.
@@ -264,7 +264,7 @@ THANK YOU, DR. WONG AND WEARE NOW READY TO TAKE QUESTIONS.THANK YOU, MINISTER.WE
 
 
 **Operator**:
-The first questions from radio-Canada.
+The first question is from radio-Canada.
 
 ---
 
@@ -309,7 +309,7 @@ THANK YOU, MINISTER.NEXT QUESTION.
 
 
 **Operator**:
-Our next questions from Teresa wright.
+Our next question is from Teresa wright.
 Please go ahead.
 
 ---
@@ -361,7 +361,7 @@ We all recognise the urgency of the situation the government  has a primary resp
 The government of Quebec will manage their deployment.
 The government of Quebec will identify it's needs, where the needs are on the ground and the government of Quebec will decide what responsibilities these armed force's members will have.
 We've heard it is satisfied with how quickly we have stepped into make this happen.
-These individuals will be sent to facilities where needs  The government of Quebec dissatisfied and that said, the federal government must continue to help in any way that it can, given the importance and urgency of the situation.
+These individuals will be sent to facilities where needs  The government of Quebec is satisfied and that said, the federal government must continue to help in any way that it can, given the importance and urgency of the situation.
 
 
 
@@ -371,7 +371,7 @@ Now a
 ---
 
 **Question**:
-I'm getting the impression you don't know where the needs are dire and maybe toucan answer on Minister Freeland.
+I'm getting the impression you don't know where the needs are dire and maybe you can answer on Minister Freeland.
 There was a Minister's call with the provisional and territorial premiers and remuneration of essential workers was discussed.
 Had a deal been reached with provinces regarding  for essential workexperts  decisions have beentaken and which workers willreceive  top-ups.
 
@@ -460,7 +460,7 @@ When trump expresses impatienceand a strong desire to reopenthe   does thatworry
 **Answer**:
 As an economist, given the current circumstances, if we want to reopen  then we must be very, very cautious, especially when it comes to public health.
 We have made major sacrifices these past few weeks.
-We have been isolated and weave felt anxious and we have also made economic sacrifices.
+We have been isolated and we have felt anxious and we have also made economic sacrifices.
 People have lost their jobs.
 People are having difficulty making ends meet.
 So we always have to weigh public health outcomes and economic outcomes..in the next few weeks andmonths,  will have to be very, very cautious.
@@ -496,12 +496,12 @@ The federal cabinet Minister's briefing and public health official'spreving.
 Briefing.
 Let me give you some information in the Canada relief benefit, the CERB that many of you have tapped into because you have lost work or lost your jobs due to COVID-19 and he says there have been 7.9  Just to give you a sense of how much the economy is struggling and how many of you are, too, are turning to the government for support.
 Catherine Cullen has been listening along with US and I'mnot sure if anything else stood out for you.
-We did get new numbers on covid outbreaks in different indigenous communities.
+We did get new numbers on  in different indigenous communities.
 
 
 
 **Reporter**:
-Let's talk about what Minister  said whence was asked about the protective equipment across  border.
+Let's talk about what Minister  said when he was asked about the protective equipment across  border.
 I thought it was interesting hesaid  have to remainvigilant  this particularissue and did note while thecanada-US  is agood one,  one that has beentested and  said it wouldcontinue to  tested over thecourse of  next few weeks, and that goes back to the pointwe were  about beforethis news  started.
 That the government officials donot want  politician italy sata   this is, as wesee the  across theproblems and  and thepicture seems  change fromstate to  too, and a lotof attention  paid to newyork city  The government does not want to say it's a significant concernbut obviously,  30-day 30-dyextension on  border is arelief to  trying todeal with a large number ofother issue.
  heard recurring conversation, once again, with the Prime Minister today, withjean duclos,   whencanada can  aboutrestartingthe economy.
@@ -513,21 +513,21 @@ It's a  contribution, I guess, we can say, to thenumber of deaths  seeing incana
 
 
 **Rosemary**:
-Probably it will look not only different region to region, but probably it will look different in terms  Vulnerable people, seniors, older Canadians will probably believing under different restrictions than other people for some time because they are the ones most susceptible.
+Probably it will look not only different region to region, but probably it will look different in terms  Vulnerable people, seniors, older Canadians will probably be living under different restrictions than other people for some time because they are the ones most susceptible.
 So you can see a ramping down of measures and maybe parks will open to kick around a  But restaurants only open at 50%capacity.
 We are seeing some of that happening in other parts of the world and so that gives US some indications of what that might look like.
 Dr. Tam was not there today   say they remain cautiously optimistic about what they are seeing.
-But again, I think everyone assaying we can't let go now because then everything thatwe've done for past four or five weeks will be lost, potentially.
+But again, I think everyone is saying we can't let go now because then everything thatwe've done for past four or five weeks will be lost, potentially.
 
 
 
 **Reporter**:
 That raises couple of points.
 One about testing and if I could echo Dr. Tam for a minute and  perhaps, what she  something we've heard repeatedly is this question of the curve.
-Yes, perhaps, you've reached the peak but that's only 50% of the cases and you have to be certainwe've heard her say time and time again, be mindful of what happens on the way back down, because that is 50% of  Again, the need for  We would talk about testing, as well, a question Ashley  when speaking to the prime Minister and she pointed to research out of  which suggests forth United States to sort of open things back up, they need to be doing something in the neighborhood of half a million tests or upwards of that.
-Ashley asked the prime minister whether there was a specific number he had been advised offer Canada in terms of the level of testing needed and he did not certainly come close to engaging in specific numbers, but did  too, is uneven across  Where there are somesomejurisdictions doing well,  words carefully, saying there are other jurisdictions trying to improve their efforts.
+Yes, perhaps, you've reached the peak but that's only 50% of the cases and you have to be certainwe've heard her say time and time again, be mindful of what happens on the way back down, because that is 50% of  Again, the need for  We would talk about testing, as well, a question Ashley  when speaking to the prime Minister and she pointed to research out of  which suggests for the United States to sort of open things back up, they need to be doing something in the neighborhood of half a million tests or upwards of that.
+Ashley asked the prime minister whether there was a specific number he had been advised of for Canada in terms of the level of testing needed and he did not certainly come close to engaging in specific numbers, but did  too, is uneven across  Where there are somesomejurisdictions doing well,  words carefully, saying there are other jurisdictions trying to improve their efforts.
 That is one piece of the puzzle.
-You talk about kicking around the soccer ball and that's nice mental image for US  but obviously, there  too, about what the picture looks like.
+You talk about kicking around the soccer ball and that's an ice mental image for US  but obviously, there  too, about what the picture looks like.
 I thought when you were speaking about what's happening --  I should say ofwhat's happening in  the governor talking about the prospect of Ok. perhaps we would reopen restaurants, but menus would be disposable and all of the precautions taken.
 You can imagine that just one false move would cause everybody to snap back, as well.
 So it's really a very  but one that think people are hungry for answers to, as well.

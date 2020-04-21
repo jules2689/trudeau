@@ -6,7 +6,7 @@ First question Laura  "the Canadian press."line open.
 ---
 
 **Question**:
-Mr. Prime Minister, conservative leader Andrew scheer accused you of being inflexible about the number of sittings in parliament.
+Mr. Prime Minister, conservative leader Andrew schemer accused you of being inflexible about the number of sittings in parliament.
 I wonder if there's any room fora compromise, two sittings per week, given that moving forward may be preferable to no deal at all?
 
 
@@ -157,7 +157,7 @@ Given what we know about the shooting in Nova Scotia, could that have prevented 
 **Answer**:
 As we know, this is very much an ongoing investigation that is in its early stages in Nova Scotia right now.
 So I don't want to jump to conclusions or make characterizations about what happens until we get a full accounting from the authorities.
-But in regards to gun control, we took very serious commitments in the election campaign and removing forward on them to make sure we're strengthening gun control in this country.
+But in regards to gun control, we took very serious commitments in the election campaign and are moving forward on them to make sure we're strengthening gun control in this country.
 I can say we were on the verge of introducing legislation to ban assault-style weapons acrossthe  It was interrupted when the pandemic caused parliament to besuspended.
  have ever intention of movingforward  that measure and potentially other measures when the parliament returns.
 
@@ -174,14 +174,14 @@ We understand how incredibly painful it is for families who've lost loved ones i
 But at the same time, there are thousands and thousands of Canadians across the country who've lost loved ones to COVID-19 over the past days and others who lost family members to cancer and to other causes who haven't been able to gather, to mourn, to grieve, to attend funerals.
 This is something that we are dealing with right now that is heart break on top of other heart breaks.
 and I know that everyone will be looking for ways to demonstrate their solidarity without putting further at risk communities, first  our health professionals, and our seniors.[speaking french] [voice of interpreter] I recognize that there are people who have lost loved ones in this past day or so in Nova Scotia.
-There are also people who have lost family members and friends or parents in the recent weeks because of COVID-19. They have been unable to come together for funerals or to mourn together.
+There are also people who have lost family members and friends or parents in the recent weeks because of COVID-19.  have been unable to come together for funerals or to mourn together.
 This is a difficult situation made even worse in times of lossand  But we must continue to try to be there for each other in thesetragic  and ensure that we are not creating greater risk for our loved ones, our neighbours, our first responders,  healthcare workers.
 We need to do everything we can to keep people safe and healthy, even in the midst of this tragedy and pandemic.[end of translation].
 
 ---
 
 **Question**:
-Prime Minister, waste Nova Scotia shooter on the federal government's radar?were any federal agencies watching him?
+Prime Minister, was the Nova Scotia shooter on the federal government's radar?were any federal agencies watching him?
 
 
 
@@ -255,7 +255,7 @@ Now, will you be participating in that ceremony and could you introduce your gun
 
 
 **Answer**:
-Yes, I intend to participate in the virtual vigils much as possible.
+Yes, I intend to participate in the virtual vigil as much as possible.
 We will most certainly be listening very carefully to  are saying with respect to more gun control.
 So we will look at what the options are when it comes to introduce that bill when the appropriate time is with us.[end of translation] I have every intention of participatingin  vigils.
 I know that many Canadians will want to express their solidaritywith  in Nova Scotia who are grieving.

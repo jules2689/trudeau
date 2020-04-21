@@ -6,27 +6,27 @@ and I'll bring in Vassy    to muddle through what we heard there, because there'
 Let me just say this part thatquÉbec did ask for additional help from the federal government and that has now been negotiated and confirms that 125  members are on their way to help at long-term carecentres,  to do someof  additional work thatdoctors and the nurses and aideworkers  do. and they could be there as earlyas  afternoon.
 So that is significant.
 But there's just an astoundingamount  money flowing fromfederal  right now andi'll say this, that we gotupdated  on the CERB,$7  so far $25 billionfederal  programme,  billion wage subsidy.
-and now today on top of this, Vassy, what parts stood out toyou  as highly significant.
+and now today on top of this, Vassy,  parts stood out toyou  as highly significant.
 Oil and gas is probably what youwant  talk about.
 
 
 
 **Reporter**:
 I will, if you don't mind, rosier zero in on oil and gas.
-Because as we had discussed prior to this, there's heightened need for help in  especially for workers who have been laid off with the double whammy of COVID-19 bandits consequences and then also price war that emerged between Saudi Arabia and  The announcement from the Prime Minister today somewhat anticipated and geared towards cleaning up what are known as orphan wells in both Alberta  I think that BC as well.$1.7 billion  towardsthat, that the  saysthat will help to maintain 5, 200 jobs.
+Because as we had discussed prior to this, there's heightened need for help in  especially for workers who have been laid off with the double whammy of COVID-19 and its consequences and then also price war that emerged between Saudi Arabia and  The announcement from the Prime Minister today somewhat anticipated and geared towards cleaning up what are known as orphan wells in both Alberta  I think that BC as well.$1.7 billion  towardsthat, that the  saysthat will help to maintain 5, 200 jobs.
 and they have  emissionreduction fund and combiningthat and that  gospecifically towardsnewfoundland and  butcombining that with  wellsannouncement, that  ormaintains is the word  theyused about 10, 000 jobs.
 On the orphan wells  toexplain -- basically this is a big problem in Alberta.
 and it has actually  fordecades.
 Usually an oil  willcome, drill on someone's land.
 In Alberta you have  toyour land but not  theminerals and  resourcesunderneath them.
 If that company goes  whatended up happening is  manyof the wells then  thereunclaimed.
-They're not  andcleaned up and thousands  suchwells exist in Alberta rightnow.
+They're   andcleaned up and thousands  suchwells exist in Alberta rightnow.
 The provincial  hasput some money towards it. The industry has put a littlebit of money towards it. But this by far is  biggestchunk of change that  beendirected towards that.
 I would highlight  finalthing and that is on  secondpart of what was being  forby the province of albertaspecifically --  liquidityfor oil producers.
 The Prime Minister said thatthey're going to be   bbc, the  banksand  EDC., to  morecredit to small and  companies.
 But he did not offer any specifics about how much money they would be using and if it would be, in fact, to backstop those loans.
 I think that the hint they could take from that is not for big oil companies.
-So that addresses some of the criticism that the government inbound to receive that they rein a way subsidizing industry.
+So that addresses some of the criticism that the government is bound to receive that they are in a way subsidizing industry.
 Obviously, with environmental concerns that is sort of vulnerability for them.
 I think that is aimed at addressing that  I just don't know what that backstop means, what that liquidity looks like and there were no details offered today.
 
@@ -43,16 +43,16 @@ This is the deputy Prime Minister.
 
 **The Hon.
 ChyrstiaFREELAND**:
-(voice   Bains who's joining US remotely as well.
+(voice   Bains who is joining US remotely as well.
 Also with US is the deputy chief public health officer,[speaking french](voice of translator):dr. Howard njoo is with US andready to answer  questions.[end of translation]dr. Tam, please.
 
 
 
 **HELLO, EVERYONE.I'LL BEGIN WITH OUR USUAL UPDATEON THE NUMBER OF COVID-19 CASESIN CANADA.THERE ARE NOW 31,407 CASES,INCLUDING 1,250 DEATHS.FOR THE LAB TESTING WE'VECOMPLETED TESTS FOR OVER 503,000PEOPLE WITH 6% CONFIRMEDPOSITIVE.WITH THE RECENT SLOWDOWN IN THEEPIDEMIC GROWTH, CASE COUNTS ARENOT CLIMBING AS RAPIDLY, HOWEVER, DUE TO THE DISEASE,DEATHS HAVE CLIMBED AS COVID-19TAKES A DEVASTATING TOLL.IT CREATES A BIT OF A PARADOX.WHERE EARLY IN AN EPIDEMIC WESEE A RAPID GROWTH OF INFECTIONSAND NOT SO WITH DEATH.AS THE INFECTIONS SLOW, THEDEATHS GO TO A FASTER PACE.THAT'S WHY THE DEATHS CAN BEUNDERESTIMATED.BUT THERE'S OTHER REASONS SUCHAS WHEN COVID-19 EPIDEMIC ISINTRODUCED INTO SETTINGS WHERETHERE'S MANY OLDER ANDVULNERABLE PEOPLE.I CANNOT STRESS ENOUGH HOWIMPORTANT IT IS TO PROTECT THESEVULNERABLE SETTINGS AND PEOPLE.THIS IS A LONG-STANDING PROBLEM,BUT IT IS NOW INCUMBENT UPON USTO SOLVE IT BY ADDRESSING ALLWEAK POINTS IN OUR SYSTEM.[Speaking French](Voice of Translator)**:
 To measure our progress we must take into account the evolution of COVID-19 in Canada.
-The nature and the intensity of spread depends on where you rein the country.
+The nature and the intensity of spread depends on where you are in the country.
 Although our four largest provinces continue to report the bulk of cases in Canada, the highest case numbers have been coming out of quÉbec and  That is an important juncture in the intense public health efforts that are needed to stamp out the existing outbreaks, prevent new outbreaks, and trace and manage chains of transmission in the community.
-To get this done without slipping backwards,  need to continue to stay home and to practise physical distancing.[end of translation]the COVID-19 outbreak in canadato be  of as we measure ourprogress is a differentcharacter and  ofspread, depending  you arein the  Although our four largestprovinces continue  report thebulk of  in Canada, thehighest case  have beencoming out  quÉbec and ontariorecently.
+To get this done without slipping backwards,  need to continue to stay home and to practise physical distancing.[end of translation]the COVID-19 outbreak  canadato be  of as we measure ourprogress is a differentcharacter and  ofspread, depending  you arein the  Although our four largestprovinces continue  report thebulk of  in Canada, thehighest case  have beencoming out  quÉbec and ontariorecently.
 At  important juncture theintense public  effortsare needed  stamp out theexisting outbreaks,  newoutbreaks, and  and managethe chains  transmission inthe community.
  get this done withoutslipping backwards,  need  continue tostay at  and to practisephysical distancing.
 and for news of when and how wemight get  an easing ofthese strict  healthmeasures, some  willexperience the  slowdownearlier than  but nomatter where  are in thecountry we've  to rememberthat Canadians  highlysusceptible to  virus unlesswe all  diligent in mainmaintaining our  habits ofphysical distancing and hygiene, new outbreaks can be sparkedanywhere, at  time.
@@ -84,7 +84,7 @@ Let's go back to finance minister bill
 
 **The Hon.
 Bill Morneau**:
-That would go through heritage  My colleague will betaking about.
+That would go through heritage  My colleague will be talking about.
 and we know that there are  companies, companiesthat  just getting going, that might not be able to haveaccess  the Canada emergencywage  or the emergencybusiness  so we'reputting money in that regard as well towards those firms.
 I know that My colleague navdeepbains  be talking aboutthat.
  also recognize that there's areal importance to supportingjobs  parts of our countrythat  been particularly hardhit.
@@ -147,7 +147,7 @@ Chyrstia Freeland:MERCI, STEVEN.WE'LL NOW GO TO MINISTER JOLY.MINISTER JOLY?
 In recent weeks I had an opportunity to have discussions with a number of heads of chambers of commerce across  to montrÉal, quÉbec,  and  What they've all said is that this crisis is hitting  They've shared their concerns with me, their realities,  and we have heard  Our objective today in conjunction with the Minister  is to protect  our small communities.
 We are doubling the budget of our economic development agencies across the country, so essentially $1 billion in additional funding will go to these development agencies across the country.
 Be it in the east, the middle  the west or the north.
-What we've heard is that access to financial institutions is oftentimes more difficult, so our objective is this -- we want to prevent entrepreneurs from falling through the cracks when they have critical roles to playing their communities.
+What we've heard is that access to financial institutions is oftentimes more difficult, so our objective is this -- we want to prevent entrepreneurs from falling through the cracks when they have critical roles to play in their communities.
 Through our development and community futures  which do excellent work on  we will be in a position to help companies to have access to various government measures to help them to make it through the crisis.
 The development agencies  work locally and bring the government into the communities and defend the economic reality there.
 It's also responsible for helping during crises.
@@ -264,13 +264,13 @@ In the "maclean's" article, doctor who served in the force stalked about some 2,
 **The Hon.
 ChyrstiaFREELAND**:
 (voice  Minister  answer.
-The decision to respond toquÉbec's request that went to the Prime Minister is unimportant one.
-It's a decision that was made enclose cooperation with quÉbec, the Canadian forces, the minister of public safety, the minister of health, the minister of defence.
+The decision to respond toquÉbec's request that went to the Prime Minister is an important one.
+It's a decision that was made in close cooperation with quÉbec, the Canadian forces, the minister of public safety, the minister of health, the minister of defence.
 We worked hard to identify the necessary people with the language skills, the  to help in quÉbec.
 We identified 125 people and decision was made in conjunction with quÉbec.
 and these people will make  With respect to providing additional assistance, we continue to hold ongoing discussions with quÉbec.
 We are working with quÉbec to support the province.
-I'd also like to add that the prime Minister has stated that we will be working with the recross and we'll also help inquÉbec.
+I'd also like to add that the prime Minister has stated that we will be working with the red cross and we'll also help inquÉbec.
 and then there are the volunteers who have registered, so we'll also be working with that list of people to identify those who can help.
 Thank you.
 
@@ -282,7 +282,7 @@ Thank you.
 
 **The Hon.
 ChyrstiaFREELAND**:
-(voice  answer,  At this point, no. What I do want to underscore is that it is essential to work enclose cooperation with  We are doing this work together and I'd also like to assurequÉbecers that we fully understand the urgency of  and we are working very hard to find the resources to helpquÉbecers.
+(voice  answer,  At this point, no. What I do want to underscore is that it is essential to work in close cooperation with  We are doing this work together and I'd also like to assurequÉbecers that we fully understand the urgency of  and we are working very hard to find the resources to helpquÉbecers.
 
 
 
@@ -447,7 +447,7 @@ Also speaking to people within the various  We think this is  It's credit, it's 
 ---
 
 **Question**:
-It sort of soundalike you weren't quite in agreement in your questions.
+It sort of sounds like you weren't quite in agreement in your questions.
 So I guess that I'll ask  In terms of the possibility of the government buying equity shares in oil companies, it sort of sounds, Minister o'regan, like you were saying maybe?am I correct in understandingwhat  were saying?
 
 

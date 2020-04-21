@@ -11,7 +11,7 @@ Your line is open.
 **Caller**:
 Prime Minister.
 You've expressed a preference for virtual parliament.
-Many regions of Canada have terrible internet connection and they tend to be the ones that feel the most ignored by  Are you comfortable with having virtual sittings if MP's can't participate in mealtime from their home?
+Many regions of Canada have terrible internet connection and they tend to be the ones that feel the most ignored by  Are you comfortable with having virtual sittings if MP's can't participate in real time from their home?
 
 
 
@@ -36,7 +36,7 @@ We do hope that the opposition parties will agree to that proposal because other
 
 **Caller**:
 Prime Minister, the premier of Saskatchewan has asked for [inaudible] interest rates.
-Governor polo says they have not asked to help with the provincial debt market.
+Governor pol oz says they have not asked to help with the provincial debt market.
 He says no one has asked US to do anything on the provincial front t. Premier has also asked to put public servants on e. I. today's job announcement  affect the provincial debt market.
 My question is, when will the provinces learn what you're doing for their debt and what is already off the table?
 
@@ -79,7 +79,7 @@ is that the worst thing that will happen to people who apply for CERB  they feel
 
 
 **Prime Minister Trudeau**:
-We expect people to apply for the programmers for which they qualify.
+We expect people to apply for the program mes for which they qualify.
 and, therefore, we are working to make sure we're expanding the qualifications so that people who need the help will get them.
 We'll continue to announce measures that will include more and more people, help more and more people as we move forward because, for all the millions of people and businesses and employers that we're helping across this country, we know there is more to do and that is what we're continually announcing almost every day.
 New measures to fix people and fix support for people in particular situations.[speaking french].
@@ -87,9 +87,9 @@ New measures to fix people and fix support for people in particular situations.[
 
 
 **Interpreter**:
-We recognize the programmers that we created to help as many people as possible are not enough.
+We recognize the program mes that we created to help as many people as possible are not enough.
 Because some people have special circumstances.
-Almost on a daily basis, we have been announcing changes or extensions of the programmers to allow people to receive more help based on the programmers we put in place.
+Almost on a daily basis, we have been announcing changes or extensions of the program mes to allow people to receive more help based on the program mes we put in place.
 Operator: thank you.
  french].
 
@@ -107,7 +107,7 @@ a lot of people were expecting you to do more.
 Some people were suggesting that there needed to be an equity contribution from the government.
 Are you prepared to do that and, if not, why not?why did you not choose that avenue?our emphasis from the outset was to help Canadians in difficultty, to  families that are suffering, to help people who need help.
 and that is why the wage subsidy and the Canada emergency response benefit are there to assist millions of Canadians in industries right across the country.
-and we clearly saw that the oil industry has special issues because of what is happening on international markets with the oil price decline and also because of COVID-19. So all of these issues mean that we have to do a bit more and that is exactly what we're doing now.
+and we clearly saw that the oil industry has special issues because of what is happening on international markets with the oil price decline and also because of COVID-19. So  of these issues mean that we have to do a bit more and that is exactly what we're doing now.
 We will continue to look at other possibilities if there is a need.
 But we pry marely want  ensure that we're helping canadian families and canadian workers  need help during these difficult times.
 
@@ -198,7 +198,7 @@ It is putting money in the pockets of more than seven million Canadians, includi
 On top of that, the wage subsidy allows Canadians -- Canadian workers to continue to receive their salaries and continue to stay connected to their work in the oil and gas sector, which are significant helps for a major industry across this country.
 On top of that, we've been working with the government of Alberta and with industry to look at other things that could be necessary.
 We heard very clearly that the methane regulations that we are bringing in would be a challenge for industry to meet and industry and others can ska that we, therefore, back off on the methane regulations.
-We decided, instead, to lend them money to help them keep them working and so we can continue to fleeting climate change and reduce emissions while keeping people at work.
+We decided, instead, to lend them money to help them keep them working and so we can continue to fee ting climate change and reduce emissions while keeping people at work.
 We've also heard very clearly, and not just from industry, but from municipalities, particularly rural municipalities, landowners across Alberta, that the issue of persistent orphan or inactive wells is a real challenge.
 and this is an opportunity for US to make sure that  are getting to work in cleaning up their province at the same time as we've gotten commitments by the government of Alberta to strengthen the regulations so we see fewer orphan and inactive wells in the future.
 We've also made credit available for medium-sized oil and gas companies who are facing particular challenges in terms of liquidity right now.
@@ -240,7 +240,7 @@ Reporter:MENT , CANADA'S LARGEST AND OIL GAS LOBBY GROUP SAYS THE FEDERAL GOVERN
 **Prime Minister Trudeau**:
 Just because we are in one crisis right now doesn't mean we can forget about the other Cree sister, the climate crisis, that we're also facing as a world, as a country.
 But we recognize that, for example, moving ahead with the methane regulations something very difficult for companies right now in the oil and gas sector who are strained because of the multiple challenges they're facing both on the global stage and on the lower demand.
-That is whale we are making investments in supporting those companies directly so they can meet those methane reduction targets, you know, with funds that we're giving them so that we can stay on track to protect future generations and to reduce emissions from our industry.
+That is whale we are making en vestments in supporting those companies directly so they can meet those methane reduction targets, you know, with funds that we're giving them so that we can stay on track to protect future generations and to reduce emissions from our industry.
 This is something that Canadians understand, that we need to continue to move forward.
 But we need to help people in different ways as we move forward.
 That will be the lens that we take.
@@ -272,9 +272,9 @@ SO ARE YOU SUGGESTING, IGUESS, THAT CHINA MAY WITHHOLDP.P.E., IS THAT WHY YOU'RE
 
 **Prime Minister JustinTrudeau**:
 We've looked at the need for many more tests.
-We see that testing has been key part of controlling  not just knowing who has -- who has developed covid and can pass it on, but actually being able to control the spread through contact tracing and through isolation and  testing is a key part of it. We need to continue to ramp pour testing capacities and wended to do a better job of coordinating on testing methodology and approaches across the provinces, so that wean have a better vision of whats exactly happening.
+We see that testing has been key part of controlling  not just knowing who has -- who has developed  can pass it on, but actually being able to control the spread through contact tracing and through isolation and  testing is a key part of it. We need to continue to ramp up our testing capacities and we need to do a better job of coordinating on testing methodology and approaches across the provinces, so that we can have a better vision of what is exactly happening.
 But testing certainly needs to increase as we move forward.
-Fortunately, it is increasing awe move forward.
+Fortunately, it is increasing as we move forward.
 
 
 
@@ -298,7 +298,7 @@ Fortunately, it is increasing awe move forward.
 
 
 **Prime Minister JustinTrudeau**:
-(voice  well, I want to say that the ministers will beat a press conference very soon to answer those questions as nohow we're going to be helping our artists.
+(voice  well, I want to say that the ministers will beat a press conference very soon to answer those questions as to how we're going to be helping our artists.
 We know this is a situation where many artists are in a real difficulty and we need  We need them to continue to make US dream, particularly in  That's why we're going to be there to help them.
 
 
