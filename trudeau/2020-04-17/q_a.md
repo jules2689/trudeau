@@ -58,7 +58,7 @@ Your line is open.
 **Reporter**:
 Good morning, Prime Minister.[inaudible] lowered the threshold for owners to apply for interest-free loans.
 But still a number of people I've spoken with this week are not impacted by any of these changes.
-What should people in these positions, people who are left out and who have a hard time making ends meet do?should they apply for the c. R.b. Or wait for your government to come up with another fix?
+What should people in these positions, people WHO are left out and WHO have a hard time making ends meet do?should they apply for the c. R.b. Or wait for your government to come up with another fix?
 
 
 
@@ -74,13 +74,13 @@ FOLLOW-UP QUESTION?
 Yeah, thank you.
 Are you basically saying wait until the government comes up with another fix?as you know on saturday,   to support a motion that basically said if you need help, the government is going to ensure that if you applied for the CERB and you weren't supposed to be eligible you would be unjustly penalized.
 is the government saying the worst thing that happens for you if you apply for CERB and don't qualify that you will have to pay the money back in full next year.
-is that the worst thing that will happen to people who apply for CERB  they feel they need it?
+is that the worst thing that will happen to people WHO apply for CERB  they feel they need it?
 
 
 
 **Prime Minister Trudeau**:
 We expect people to apply for the program mes for which they qualify.
-and, therefore, we are working to make sure we're expanding the qualifications so that people who need the help will get them.
+and, therefore, we are working to make sure we're expanding the qualifications so that people WHO need the help will get them.
 We'll continue to announce measures that will include more and more people, help more and more people as we move forward because, for all the millions of people and businesses and employers that we're helping across this country, we know there is more to do and that is what we're continually announcing almost every day.
 New measures to fix people and fix support for people in particular situations.[speaking french].
 
@@ -105,17 +105,17 @@ Good morning,  Trudeau.
 I'd like to come back to your aid plan that you have just unveiled.
 a lot of people were expecting you to do more.
 Some people were suggesting that there needed to be an equity contribution from the government.
-Are you prepared to do that and, if not, why not?why did you not choose that avenue?our emphasis from the outset was to help Canadians in difficultty, to  families that are suffering, to help people who need help.
+Are you prepared to do that and, if not, why not?why did you not choose that avenue?our emphasis from the outset was to help Canadians in difficultty, to  families that are suffering, to help people WHO need help.
 and that is why the wage subsidy and the Canada emergency response benefit are there to assist millions of Canadians in industries right across the country.
 and we clearly saw that the oil industry has special issues because of what is happening on international markets with the oil price decline and also because of COVID-19. So  of these issues mean that we have to do a bit more and that is exactly what we're doing now.
 We will continue to look at other possibilities if there is a need.
-But we pry marely want  ensure that we're helping canadian families and canadian workers  need help during these difficult times.
+But we pry marely want  ensure that we're helping canadian families and canadian workers WHO need help during these difficult times.
 
 
 
 **Prime Minister Trudeau**:
 We took, as an approach from the very beginning, that we need to help Canadians.
-Woe need to help workers and families who are hit by this COVID-19 slowdown and shutdown.
+Woe need to help workers and families WHO are hit by this COVID-19 slowdown and shutdown.
 That is why we moved forward with the Canada emergency response benefit that has helped millions upon millions of Canadians and the wage subsidy which has allowed companies to rehire workers and will ensure that families across the country get much more support and that is across all industries, across the country.
 We recognize that certain industries are facing more difficult times.
 The oil and gas sector, because of the global price war, because of the lower demand related to COVID-19 and because of the measures brought in to counter COVID-19 itself, those families are particularly hard hit and that is where this initiative, which will create or preserve 5200 jobs in Alberta and the other initiatives that lead to perhaps 10, 000 jobs across the energy sector are the kinds of things that we can do right now of course, we will continue to work with partners and concerned sectors across the country as we move forward to see if there is a need to do more.
@@ -131,7 +131,7 @@ The oil and gas sector, because of the global price war, because of the lower de
 Some people were concerned that your assistance would be influenced by some members of your cabinet.
 The views of some members of the cabinet.
 Today you are providing support to clean up orphaned wells and to reduce emissions.
-So, what do you say to those people who will be disappointed by the extent of the assistance that's available and also other people who said that you may have been tainted by the views of other members of your cabinet.
+So, what do you say to those people WHO will be disappointed by the extent of the assistance that's available and also other people WHO said that you may have been tainted by the views of other members of your cabinet.
 
 
 
@@ -141,7 +141,7 @@ So, what do you say to those people who will be disappointed by the extent of th
 
 
 **Interpreter**:
-I can tell you that personal convictions of cabinet members have always been that we need to help Canadians who need help and to fight the COVID-19 crisis.
+I can tell you that personal convictions of cabinet members have always been that we need to help Canadians WHO need help and to fight the COVID-19 crisis.
 It is to  we get through this and continue to be an extraordinary country in the years to come.
 That is our priority and that is why the help that we've been giving workers with two main measures, the emergency response benefit and wage subsidy are available to everyone.
 At the same time, we're doing other things that the government of Alberta has been asking US to do for some time, which is to clean up orphaned wells so that the companies that now are reducing or required to reduce their emissions are able to do that.
@@ -161,7 +161,7 @@ Operator: thank you.
 Good morning,  Trudeau.
 With respect to the deployment of Canadian armed forces members, can you tell US where those military members are coming from and why such a limited number of reinforcements for Quebec?because, as we know, the -- these facilitis  in a dire situation.
 We have been working with Quebec and we were speaking to Quebec yesterday to see exactly how we could support them.
-We're talking about 125 military members who will be providing significant support to these institutions in Quebec and we know that we can do more with the red cross and the bank of volunteers that we have.
+We're talking about 125 military members WHO will be providing significant support to these institutions in Quebec and we know that we can do more with the red cross and the bank of volunteers that we have.
 Quebec also has a group of volunteers it can access.
 We will continue to seek ways to provide that help as best we can and will always want to do more.
 But the situation with the c. a.f. Members is that we are always limited in our medical resources within any organization.
@@ -188,22 +188,22 @@ That is what we'll continue to do and the conversations with the americans  been
 **Reporter**:
 Prime Minister, for weeks now, you have been promising relief and aid for the energy sector.
 What you announced today will help a comparatively small number of workers, isn't going to do anything for the sector overall to help deal with devastating impact of this virus and the downturn in the world oil markets.
-My question is, is this it?is this the package you were promising?if so, what do you say to people in western Canada, particularly who were expecting more substantial relief?
+My question is, is this it?is this the package you were promising?if so, what do you say to people in western Canada, particularly WHO were expecting more substantial relief?
 
 
 
 **Prime Minister Trudeau**:
 The first things we dead was move forward with the Canada emergency response benefit.
-It is putting money in the pockets of more than seven million Canadians, including many people in the oil and gas sector who have lost their pay cheques because of this COVID-19 crisis.
+It is putting money in the pockets of more than seven million Canadians, including many people in the oil and gas sector WHO have lost their pay cheques because of this COVID-19 crisis.
 On top of that, the wage subsidy allows Canadians -- Canadian workers to continue to receive their salaries and continue to stay connected to their work in the oil and gas sector, which are significant helps for a major industry across this country.
 On top of that, we've been working with the government of Alberta and with industry to look at other things that could be necessary.
 We heard very clearly that the methane regulations that we are bringing in would be a challenge for industry to meet and industry and others can ska that we, therefore, back off on the methane regulations.
 We decided, instead, to lend them money to help them keep them working and so we can continue to fee ting climate change and reduce emissions while keeping people at work.
 We've also heard very clearly, and not just from industry, but from municipalities, particularly rural municipalities, landowners across Alberta, that the issue of persistent orphan or inactive wells is a real challenge.
 and this is an opportunity for US to make sure that  are getting to work in cleaning up their province at the same time as we've gotten commitments by the government of Alberta to strengthen the regulations so we see fewer orphan and inactive wells in the future.
-We've also made credit available for medium-sized oil and gas companies who are facing particular challenges in terms of liquidity right now.
+We've also made credit available for medium-sized oil and gas companies WHO are facing particular challenges in terms of liquidity right now.
 We'll continue to look at ways we can support important industris  this country, including the oil and gas sector.
-We look forward to doing that while at the same time, keeping our focus squarely on families and workers who need our help.
+We look forward to doing that while at the same time, keeping our focus squarely on families and workers WHO need our help.
 
 
 
@@ -212,7 +212,7 @@ Prime Minister, Julie van  CBC news.
 You spoke to the premiers last night so I'm hoping you can update US on this.
 Blaine Higgs said he is hoping to get his economy going by the summer.
 John Horgan on CBC said he and his Washington state counterpart could decide when the border opens.
-I'm wondering, who decides all this?is it you?is it them?if it is you, will there be international standards to guide them?
+I'm wondering, WHO decides all this?is it you?is it them?if it is you, will there be international standards to guide them?
 
 
 
@@ -239,7 +239,7 @@ Reporter:MENT , CANADA'S LARGEST AND OIL GAS LOBBY GROUP SAYS THE FEDERAL GOVERN
 
 **Prime Minister Trudeau**:
 Just because we are in one crisis right now doesn't mean we can forget about the other Cree sister, the climate crisis, that we're also facing as a world, as a country.
-But we recognize that, for example, moving ahead with the methane regulations something very difficult for companies right now in the oil and gas sector who are strained because of the multiple challenges they're facing both on the global stage and on the lower demand.
+But we recognize that, for example, moving ahead with the methane regulations something very difficult for companies right now in the oil and gas sector WHO are strained because of the multiple challenges they're facing both on the global stage and on the lower demand.
 That is whale we are making en vestments in supporting those companies directly so they can meet those methane reduction targets, you know, with funds that we're giving them so that we can stay on track to protect future generations and to reduce emissions from our industry.
 This is something that Canadians understand, that we need to continue to move forward.
 But we need to help people in different ways as we move forward.
@@ -272,7 +272,7 @@ SO ARE YOU SUGGESTING, IGUESS, THAT CHINA MAY WITHHOLDP.P.E., IS THAT WHY YOU'RE
 
 **Prime Minister JustinTrudeau**:
 We've looked at the need for many more tests.
-We see that testing has been key part of controlling  not just knowing who has -- who has developed  can pass it on, but actually being able to control the spread through contact tracing and through isolation and  testing is a key part of it. We need to continue to ramp up our testing capacities and we need to do a better job of coordinating on testing methodology and approaches across the provinces, so that we can have a better vision of what is exactly happening.
+We see that testing has been key part of controlling  not just knowing who has -- WHO has developed  can pass it on, but actually being able to control the spread through contact tracing and through isolation and  testing is a key part of it. We need to continue to ramp up our testing capacities and we need to do a better job of coordinating on testing methodology and approaches across the provinces, so that we can have a better vision of what is exactly happening.
 But testing certainly needs to increase as we move forward.
 Fortunately, it is increasing as we move forward.
 
@@ -293,7 +293,7 @@ Fortunately, it is increasing as we move forward.
 ---
 
 **Question**:
-(voice  and with respect to the $500 million for artists, who will be getting it, whyisn't it the association receiving it?
+(voice  and with respect to the $500 million for artists, WHO will be getting it, whyisn't it the association receiving it?
 
 
 

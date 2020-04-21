@@ -15,7 +15,7 @@ She was answering the call of duty, something she had done every day when she we
 This happened in small towns, Portapique,     people have deep roots, places where people know their neighbours and look out for everyone.
 There everyone knows a mountie  they're everything from social workers to teen counsellors.
 Now these communities are in mourning and Canada is in mourning with them.
-To the grandparents who lost a child, to the children who lost a parent, to the neighbour who lost a friend, we are so sorry for your loss.
+To the grandparents WHO lost a child, to the children WHO lost a parent, to the neighbour WHO lost a friend, we are so sorry for your loss.
 Such a tragedy should have neveroccurred.
  of any kind has no place in Canada.
 We stand with you and we grieve with you and you can count on our government's full support during this incredibly painful time.
@@ -32,7 +32,7 @@ We share in your mourning and westand with you and mourn with you as you go thro
 [end of  I want to wish a full and speedy recovery to all those injured, including another RCMP officer.
 Canada is a vast and sweeping country, filled with long stretches of lonely roads.
 With unwavering courage and compassion, our royal canadian mounted police patrol  roads to keep US safe, as they have for over 100 years.
-I know from coast to coast to coast, the women and men who wear the red surge in service tocanada are grieving deeply  loss of one of their own and one of our best.
+I know from coast to coast to coast, the women and men WHO wear the red surge in service tocanada are grieving deeply  loss of one of their own and one of our best.
 This tragedy is a painful reminder of the risks all of ourfirst responders take to   of the sacrifices  mayevery single day to  our communities, paramedics, doctors, nurses, firefighters, and police officers, they're always here for US They've been stepping up throughthe pandemic, and yesterday  Nova Scotia they showed that bravery.
 I want to take a moment to thankthem all for the  their courage.
 Many  you are already working overtime because of this pandemic.

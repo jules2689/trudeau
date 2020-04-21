@@ -10,12 +10,12 @@ Open.
 
 **Reporter**:
 Good morning, Prime Minister.
-How will you help millions of Canadians who find themselves without medical benefits during a global pandemic?
+How will you help millions of Canadians WHO find themselves without medical benefits during a global pandemic?
 
 
 
 **Prime Minister Trudeau**:
-We know that the way we get through this particular crisis is by pulling together and making sure those who are most vulnerable get the support  particular crisis is by pulling together and making sure those who are most vulnerable get the support they need.
+We know that the way we get through this particular crisis is by pulling together and making sure those WHO are most vulnerable get the support  particular crisis is by pulling together and making sure those WHO are most vulnerable get the support they need.
 It is key to being able to recover quickly once we're through this pandemic.
 That is why we continue to work with partners across the country, to highlight gaps and challenges and things we need to do more to help people.
 We will continue to work with partners to make sure we're getting that help out there.
@@ -24,8 +24,8 @@ We will continue to work with partners to make sure we're getting that help out 
 
 
 **Interpreter**:
-We know that, in the midst of this pandemic, there are many people who are suffering and who need help and that is why we have put in place new measures that will help many, many people.
-But we also recognize that there are other people who need more help and that is why we're working with our partners, with people across the country and other levels of government to help people get through these difficult times so that we can come back very strong once this pandemic is over.
+We know that, in the midst of this pandemic, there are many people WHO are suffering and WHO need help and that is why we have put in place new measures that will help many, many people.
+But we also recognize that there are other people WHO need more help and that is why we're working with our partners, with people across the country and other levels of government to help people get through these difficult times so that we can come back very strong once this pandemic is over.
 
 
 
@@ -187,7 +187,7 @@ We expect many more over the next days and weeks.
 As well as the Canadian industrial facilities tooling up their ability to deliver PPE.
 S.it's always a challenge to get the PPE.
  Canada in a time where the global market is very, very competitive for these.
-But we have managed so far to get the equipment the provinces have asked for and we will continue to make sure we're prioritizing support for our frontline  who are going into battle every day against this virus.
+But we have managed so far to get the equipment the provinces have asked for and we will continue to make sure we're prioritizing support for our frontline  WHO are going into battle every day against this virus.
 
 
 
@@ -208,7 +208,7 @@ With respect to the province, I will let the province share that information wit
 
 
 **Reporter**:
-I want to ask you a question on behalf of nick Beaton who lost his wife Kristen in the senseless violence in Nova Scotia this weekend.
+I want to ask you a question on behalf of nick Beaton WHO lost his wife Kristen in the senseless violence in Nova Scotia this weekend.
 He just spoke with our chief anchor.
 His wife Kristen died.
 She was a front line worker, a dedicated nurse and was also pregnant and she was forced to reuse her personal protective equipment because there was not enough.
@@ -221,7 +221,7 @@ S for nurses and other health care workers not only in Nova Scotia, but across t
 First of all to nick and all the families going through a heart wrenching loss right now looking for answers, looking for reasons, looking for support.
 We are there for you.
 We will be there for you.
-Like so many people across the country who are worried about what the next days will bring and the challenges we're facing, our front line workers have been worried about the continued availability of personal protection equipment.
+Like so many people across the country WHO are worried about what the next days will bring and the challenges we're facing, our front line workers have been worried about the continued availability of personal protection equipment.
 We've seen a number of provinces talk about the shortages a number of days away.
 We've managed to cover those but we are in a situation where people are trying to stretch out our PPE.
 As long as possible.
@@ -232,9 +232,9 @@ At the same time, we have been this a competitive and international environment 
 
 
 **Interpreter**:
-First of all, I want to express My deepest condolences to nick and all those who lost loved ones because of this terrible tragedy in Nova Scotia.
+First of all, I want to express My deepest condolences to nick and all those WHO lost loved ones because of this terrible tragedy in Nova Scotia.
 This is something that people are having a hard time understanding and we want you to know that we will be there for all the families suffering at this time.
-Now with respect to our health care workers who are concerned about having the necessary protective equipment, the provinces are responsible for managing their protocols and their equipment and, as a government, we will bawls there and have always been there to respond to any requests from the provinces for p. P. e. Now we heard provinces say a couple of times well we're three days  I from being completely out of this piece of equipment or that piece of equipment, but every single time we avoided shortages and provinces were able to extend the availability of their protective equipment.
+Now with respect to our health care workers WHO are concerned about having the necessary protective equipment, the provinces are responsible for managing their protocols and their equipment and, as a government, we will bawls there and have always been there to respond to any requests from the provinces for p. P. e. Now we heard provinces say a couple of times well we're three days  I from being completely out of this piece of equipment or that piece of equipment, but every single time we avoided shortages and provinces were able to extend the availability of their protective equipment.
 But we're working very hard at the national and international level in an environment that's become extremely competitive in terms of getting that perform p. E. up until now, we have succeeded in filling all the necessary orders from the provinces and we realised that we had to develop a domestic capacity to produce that equipment.
 and that is why I'm so pleased to be seeing all of those Canadian companies that have stepped up to produce the necessary equipment and that equipment will be available very soon.
 
@@ -289,15 +289,17 @@ We've long been committed to it. This is just another tragic reminder of the fac
 
 
 **Reporter**:
-As a follow-up, on the world health organization, ireland  it would quadruple funding for the w. H.o. and australia and  rick and -- and the UK are calling for an independent investigation of the handing of the crisis.
+As a follow-up, on the world health organization, ireland  it would quadruple funding for the WHO.
+and australia and the rick and -- and the UK are calling for an independent investigation of the handing of the crisis.
 Are we going to be calling for an investigation?
 
 
 
 **Prime Minister Trudeau**:
-We have been increasing our contribution to the w. H.o. In order to deal with this pandemic.
+We have been increasing our contribution to the WHO.
+In order to deal with this pandemic.
 We fund them to the tune of tens of millions of dollars a year.
-At the same imtoo,  do need to find answers to how this happened so we unction how to ensure that it never happens again and that is certainly something Canada will be part of.
+At the same  we do need to find answers to how this happened so we unction how to ensure that it never happens again and that is certainly something Canada will be part of.
 
 
 
@@ -392,10 +394,10 @@ But it is encouraging to see the things that Canadians are doing from coast to c
 **Interpreter**:
 Now just to understand with respect to tax havens, you didn't really answer My question.
 Can you tell Canadians today that the money that you paid in taxes will not go to companies that have accounts in tax havens?can you assure US of that today or can you not assure US of that today?we are helping workers right across this country.
-Someone who works for a company whose family depends on that job and has lost that job needs help.
+Someone WHO works for a company whose family depends on that job and has lost that job needs help.
 Needs to be able to pay for groceries or pay rent.
 It is that reason that we decided to help people, whether it is a small company or big company.
-We are helping workers who need that support.
+We are helping workers WHO need that support.
 Now with respect to tax avieed answer,  will continue to fight that sort of action.
-and choices made by some companis who  to pay their fair share of taxes.
+and choices made by some companis WHO  to pay their fair share of taxes.
 We have invested more than $1 billion in the Canada revenue agency so that we have more tools available to US to target those companies.

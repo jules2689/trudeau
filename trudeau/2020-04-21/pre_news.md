@@ -1,7 +1,7 @@
 
 
 We are expecting the focus today to be on government response and initiatives to support vulnerable Canadians through the COVID-19 pandemic.
-We will also, though, of course take you to Nova Scotia this hour and throughout the day for some of what you might call the careful and safe tributes in this time of COVID-19 to those who were killed in that violent rampage over the weekend.
+We will also, though, of course take you to Nova Scotia this hour and throughout the day for some of what you might call the careful and safe tributes in this time of COVID-19 to those WHO were killed in that violent rampage over the weekend.
 We know now of at least 20 victims, 18 of them have been confirmed.
 Two more presumed to be dead by their son and we'll also bring you the latest on the investigation today.
 Those numbers, of course, could vary because police are still looking at some 16 crime scenes.
@@ -71,7 +71,7 @@ YES, I DID.I KNEW ONE.I KNEW LISA McCULLY.THE SCHOOLTEACHER.AND, AGAIN, THESE AR
 **Rosemary**:
 Larry, I want to ask you a more serious question about some of the response and it is really around the emergency alert notice.
 I ask you that because the RCMP decided to send out tweets instead of issuing the alert that would have gone off on everyone's phones.
-There is one person who says that that would have made a difference, they think, to one of their friends.
+There is one person WHO says that that would have made a difference, they think, to one of their friends.
 is that something you'll want some answers to going forward as a politician, as an MLA?
 
 
@@ -156,7 +156,7 @@ That is in the -- the application process is starting.
 It will be starting in a few weeks is My understanding.
 Although that is always a moving target as well.
 Today will be an announcement around opening up sort of a process by which employers can figure out how much they can expect to get.
-So, sort of an online mechanism for doing so because that is something that we heard from a number of employers, a number of business owners who plan to access it. They're still very kind of vague on the details.
+So, sort of an online mechanism for doing so because that is something that we heard from a number of employers, a number of business owners WHO plan to access it. They're still very kind of vague on the details.
 Vague on how fast that money will come.
 They needed it yesterday kind of thing and how much they might be entitled to. My understanding is that there is some information on that today as well.
 

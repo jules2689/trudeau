@@ -24,7 +24,7 @@ I don't know to what degree.
 The second big ask, particularly from industry, is around liquidity for producers that have had to shelve capital projects, for example, or are trying to keep employees on the payroll.
 There is the wage subsidy that they can access, but they also asked for help with liquidity.
 It will be interesting to see that part of the announcement.
-There are indications so far that there this won't necessarily be, you know, a big package targeted specifically at the oil sector, that there is also an announcement coming from the Prime Minister that would be aimed at helping people who the CERB or the  business loan have missed and we have certainly heard from a lot of those people.
+There are indications so far that there this won't necessarily be, you know, a big package targeted specifically at the oil sector, that there is also an announcement coming from the Prime Minister that would be aimed at helping people WHO the CERB or the  business loan have missed and we have certainly heard from a lot of those people.
 Think of some musicians, for example, or others in the culture sector.
 That kind of thing.
 I'm going to be looking to see what announcement that involves but there are people looking for sector-specific help and to what degree will this announcement address that.
@@ -175,13 +175,13 @@ and how this might be different given that there are particular areas, of course
 
 **Vassy**:
 Yeah.
-I think we've seen the unveiling and rolling out of two giant financial aid packages, right?the first being directed at individuals who have to stay home because of COVID-19,  can't work, and who have lost most, if not all of their income.
+I think we've seen the unveiling and rolling out of two giant financial aid packages, right?the first being directed at individuals WHO have to stay home because of COVID-19, WHO can't work, and WHO have lost most, if not all of their income.
 They're getting right now $2, 000 and, as you reminded our viewers yesterday, they should be re-applying for the second month, which they might need that money.
 That was the first step.
 The second step was aimed at businesses.
 and it involves wage subsidies as well as this loan, this canadian emergency  account.
 Basically a $40, 000 interest-free loan, a quarter of it can be forgiven.
-They expanded the parameters yesterday to who can qualify for that loan.
+They expanded the parameters yesterday to WHO can qualify for that loan.
 I I think they had 220, 000 applications approved so far.$8.8 billion worth of credit.
 So, the need is clear and it's evidents.
 However,  you've been discussing with carolyn and  last guest, there are certain sectors and the Prime Minister always -- I've noticed names in tandem.

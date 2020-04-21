@@ -21,7 +21,7 @@ You mentioned the occupations of some of those people.
 Just devastating.
 People woke up in Nova Scotia wondered if this was a dream.
 is this going to be over.
-People are trying not to let this define them, saying they'regoing to help families who are feeling the pain and give them virtual hug.
+People are trying not to let this define them, saying they'regoing to help families WHO are feeling the pain and give them virtual hug.
 The RCMP have been scant with the details.
 They are still trying to piece together the crime scenes, and there are multiple crime scenes across Nova Scotia, which makes it complicated.
 There were house fires in  where Brett is, and we learned that three people died in that location.
@@ -31,7 +31,7 @@ We're learning more about the personalities and the people behind the deadly sta
 
 
 **Rosemary**:
-What do we know more about the second shooter, who is also dead.
+What do we know more about the second shooter, WHO is also dead.
 What more do we know about him or his interactions or connections to the community.
 
 
@@ -41,7 +41,7 @@ He's a mystery.
 People in his community of Portapique where he lived and  where he had a  people liked him.
 They felt he was a good community person.
 There is the other side of him that is being exposed.
-This is a guy who had a penchant for old police cars.
+This is a guy WHO had a penchant for old police cars.
 He used to buy them and fix  He had an RCMP car that was fake but he was driving it and he also had RCMP clothing.
 This all points to a premeditation.
 In terms of what motivated him and why he did this, that is unanswered.
@@ -60,17 +60,17 @@ Heidi Stevenson was a 23-year veteran of the RCMP.
 She was at one point the face of the RCMP in this province.
 She would do interviews for the RCMP.
 I know some people from the media know her and there has been some reaction coming in about how important she was in people's lives in this part of the province.
-We know three of the people who died in the fire in  one of those was a corrections officer.
+We know three of the people WHO died in the fire in  one of those was a corrections officer.
 That's a loss that that professional community is feeling as well.
-Two Victoria order nurses staff members, who were busy helping in the COVID-19 fight.
+Two Victoria order nurses staff members, WHO were busy helping in the COVID-19 fight.
 They died as well.
-and Lisa McCully who died and left behind a family.
+and Lisa McCully WHO died and left behind a family.
 
 
 
 **Rosemary**:
 Tom  thank you for that.
-Let me turn to Brett Ruskin who is in Portapique.
+Let me turn to Brett Ruskin WHO is in Portapique.
 It's a small community.
 How are people dealing with things today as they start to understand the magnitude of 
 
@@ -113,7 +113,7 @@ The conservatives are arguing for more in-person sessions withreduced MPs  My un
 As you've been reporting, rosie, it's  minute to minuteand hour  hour, and also set against the backdrop of everything you've been talking about.
 Difficult to I guess see the sort of benefits of all this arguing right now.
 I think that -- expect some sortof agreement  most of theparties.
-I'm  sure this will continue much beyond that, but who knows.
+I'm  sure this will continue much beyond that, but WHO knows.
 
 
 
@@ -163,7 +163,7 @@ There's lots of legislation that the government has introduced that has some hol
 They went back and got agreement.
 I think the disagreement is how that accountability should be  There are some saying they don'twant anything in person and they feel safe.
 Some are saying there should be more MP's than are there now.
-I think it's hard for people sitting at home watching the horror in Nova Scotia unfold, who are living the reality of COVID-19. There is a need for accountability.
+I think it's hard for people sitting at home watching the horror in Nova Scotia unfold, WHO are living the reality of COVID-19. There is a need for accountability.
 I wouldn't disagree with that especially as a journalist.
 The contention from the conservatives is that the Prime Minister is answering questions every day, why isn't he in the house.
 He should be open to receiving those questions from the opposition.

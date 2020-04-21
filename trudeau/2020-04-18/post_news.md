@@ -13,7 +13,7 @@ We're going to see people engaged in this issue people biting their nails.
 There is something of a face-offbetween  party and the conservative party.
 They do have a deal with the bloc quÉbÉcois and they are close to a deal with the n. D.p. They are really at odds with theconservatives.
 Now  throw another element into this, elizabeth may,  green party, was tweeting if there was some sort of agreementthat would  as she put it, frequent return to the houseof commons,  wouldn't give unanimous consent to that or letthat happen  she thinks it is a public health issue.
-She was engaging with candace bergen   she essentially agrees everyone having to come back on monday would  irresponsible, not a good idea.
+She was engaging with candace bergen WHO  she essentially agrees everyone having to come back on monday would  irresponsible, not a good idea.
 It was implicit and not explicit, she was putting the responsibility on the liberals.
 We need a deal to make this happen.
 She said parliament isn't ready for a virtual parliament.
@@ -47,7 +47,7 @@ I think it was interesting towards the end of the conversation, rosemary, the Pr
 This deal extends for another 30days.
 It's not clear if he was suggesting an extension beyond that as well, whether that is something they will be seeking.
 So much changes in the course ofthe day.
-Who  where we will be in 30days.
+WHO  where we will be in 30days.
 The liberals have pushed that issue back for another 30 days.
 
 
@@ -126,10 +126,10 @@ is there anything else you're looking for?
 Definitely.
 We've been working closely with the government on a number of the programs that have already been established.
 I don't think it's intentional, but I think there's a number of factors in those programs that excludes indigenous businesses.
-The wage subsidy is an example, aboriginal economic development corporations, who are a limited partnership with their community, but employ up to 800 indigenous people and a number of those organizations are currently excluded from the wage subsidy just by the way their limited partnership is set up. So we're working closely with the government to try to understand that.
+The wage subsidy is an example, aboriginal economic development corporations, WHO are a limited partnership with their community, but employ up to 800 indigenous people and a number of those organizations are currently excluded from the wage subsidy just by the way their limited partnership is set up. So we're working closely with the government to try to understand that.
 Some of those businesses have laid off over half of their employees, and those are businesses that put back programming into the community.
 We need to make sure they can access that wage subsidy.
-Additionally procurement, we have a number of indigenous business members who are able to supply PPE.
+Additionally procurement, we have a number of indigenous business members WHO are able to supply PPE.
 and able to pivot to ensure we can all fight COVID-19 together.
 I would like to see some type of incentives that we can ensure that those indigenous businesses have an opportunity to be part of the fight against  particularly when they can support loss of life in indigenous communities that are at a higher risk of this pandemic.
 
@@ -142,7 +142,7 @@ You're talking about companies switching their supply chains to create things li
 
 **Interview**:
 Definitely.
-We have seen a couple of our indigenous members who have pivoted to ethanol and producing hand sanitize and a number of businesses too who have been able to access masks.
+We have seen a couple of our indigenous members WHO have pivoted to ethanol and producing hand sanitize and a number of businesses too WHO have been able to access masks.
 Another great business  has been able to pivot to  We want to make sure those businesses have an opportunity to be part of the the federal supply chain and also to provide support to communities.
 
 
@@ -171,7 +171,7 @@ Really what we heard yesterday from quÉbec's premier, franÇois  was am ea  abo
 There are going to be 125 armed forces members deployed in quÉbec to help in these facilities.
 We heard from the canadian   that is starting at a specific long-term care facility in montreal.
 In  by noon people should be in that facility.
-We're talking about nursing officers, technicians, and othersupport staff  are going to be going in there to try to helpout.
+We're talking about nursing officers, technicians, and othersupport staff WHO are going to be going in there to try to helpout.
 Premier  essentially  is a deteriorating situation in these long-term care facilities.
 In fact, more than half of the deaths reported in quÉbec attributable to COVID-19 have happened  these long-term carefacilities.
 Now, the premier  that his government should have tackled the situation in these long-termcare facilities sooner, especially the  of chronic under staffing.
@@ -356,7 +356,7 @@ Could you tell US where thesemilitary  are sent todayand  many are sent and towh
 
 **Answer**:
 Minister  Os. Thank you for your question.
-I would like to thank actors in both governments who have worked hard to make this happen very, very quickly.
+I would like to thank actors in both governments WHO have worked hard to make this happen very, very quickly.
 We all recognise the urgency of the situation the government  has a primary responsibility to handle  but the federal government is also responsible for quickly stepping in to help after receiving the request that we received.125 medically trained force swill be deployed in Quebec.
 The government of Quebec will manage their deployment.
 The government of Quebec will identify it's needs, where the needs are on the ground and the government of Quebec will decide what responsibilities these armed force's members will have.
@@ -397,7 +397,7 @@ YOU ARE ABSOLUTELY CORRECT INDESCRIBING TESTING AND TRACINGAS BEING KEY AND ACTI
 ---
 
 **Question**:
-With regard to those that are on old-agesecurity  disability benefits, those that have a fixed income, what's being done for thosepeople  might be facingmounting  with regard togroceries  transportation orcost  living on a fixed incomeand is there any talk with theprovinces  making sure thatcerb  affect theirreceiving  benefits?
+With regard to those that are on old-agesecurity  disability benefits, those that have a fixed income, what's being done for thosepeople WHO might be facingmounting  with regard togroceries  transportation orcost  living on a fixed incomeand is there any talk with theprovinces  making sure thatcerb  affect theirreceiving  benefits?
 
 
 

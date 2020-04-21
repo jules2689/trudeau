@@ -128,7 +128,7 @@ We'llnow go to Stephen
 
 
 **(Voice of Translator)**:
-I'dlike to ask you what are you doing during  the news, watching amovie,  a good book?looking at a virtual exhibit?[end of translation]our favourite athletes whoinspire US to get involved  french](voice of translator): thegovernment is very proud toprovide assistance to  We stand behind  who areusing  passion and theirwork to liven  lives.[end of translation]$100  to establish acovid-19 emergency support fundfor cultural, heritage andsports orginisations.[speaking  of translator):  will provide$500   orginisations in culture, heritage andsupport.[end  translation]the targeted measure willprovide  support thatis consistent  the existingcovid-19 support members forwage and  costs fororginisations.
+I'dlike to ask you what are you doing during  the news, watching amovie,  a good book?looking at a virtual exhibit?[end of translation]our favourite athletes whoinspire US to get involved  french](voice of translator): thegovernment is very proud toprovide assistance to  We stand behind  WHO areusing  passion and theirwork to liven  lives.[end of translation]$100  to establish acovid-19 emergency support fundfor cultural, heritage andsports orginisations.[speaking  of translator):  will provide$500   orginisations in culture, heritage andsupport.[end  translation]the targeted measure willprovide  support thatis consistent  the existingcovid-19 support members forwage and  costs fororginisations.
  will be administered  heritage with  of many partners  asthe Canada council for  arts.[speaking french](voice  translator):Minister guilbeault.
 We'll be  with the sectorto fine-tune this aid.
 We are doing our utmost  to your concerns, yourmost pressing  to ensure your survival, stability, and to let Canadians  to have access  cultural contentand sports, which are the bestin the world.[end of translation]Canada day this year will behosted virtually.[speaking  of translator):Minister guilbeault.
@@ -188,7 +188,7 @@ Our first question...  Please go ahead.
 
 **Question**:
 (voice  journalist.
-Mr.  can you give us more details on the assistance that you'll provide to the cultural and the  who will the money go to?how will it assist?go to the sports associations?to the athletes morespecifically?
+Mr.  can you give us more details on the assistance that you'll provide to the cultural and the  WHO will the money go to?how will it assist?go to the sports associations?to the athletes morespecifically?
 
 
 
@@ -256,8 +256,8 @@ THANK YOU.MERCI.OUR NEXT QUESTION, [SpeakingFrench]PLEASE GO AHEAD.
 
 **Question**:
 (voice  journalist.
-I'm not sure who to put my question to, but anyone can answer it. It deals with soldiers being sent in to help out in quÉbec.
-In the "maclean's" article, doctor who served in the force stalked about some 2, 500 soldiers who are trained that could be available but there's a problem with respect to their qualifications in quÉbec and  is there some way to make an exception so that more than --these particular soldiers can be used to provide assistance?
+I'm not sure WHO to put my question to, but anyone can answer it. It deals with soldiers being sent in to help out in quÉbec.
+In the "maclean's" article, doctor WHO served in the force stalked about some 2, 500 soldiers who are trained that could be available but there's a problem with respect to their qualifications in quÉbec and  is there some way to make an exception so that more than --these particular soldiers can be used to provide assistance?
 
 
 
@@ -271,7 +271,7 @@ We identified 125 people and decision was made in conjunction with quÉbec.
 and these people will make  With respect to providing additional assistance, we continue to hold ongoing discussions with quÉbec.
 We are working with quÉbec to support the province.
 I'd also like to add that the prime Minister has stated that we will be working with the red cross and we'll also help inquÉbec.
-and then there are the volunteers who have registered, so we'll also be working with that list of people to identify those who can help.
+and then there are the volunteers WHO have registered, so we'll also be working with that list of people to identify those WHO can help.
 Thank you.
 
 
@@ -351,7 +351,7 @@ I THINK THAT THE MAJORITY OFTHE CASES AS I SAID ARE IN THEFOUR BIGGEST JURISDICT
 ---
 
 **Question**:
-and this is for --well, I'll ask and see who wants to answer.
+and this is for --well, I'll ask and see WHO wants to answer.
 Does this suggest that there's different approach that we could take to re-starting the country, depending what province we'redealing with?
 
 

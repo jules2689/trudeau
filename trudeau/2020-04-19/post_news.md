@@ -57,7 +57,7 @@ We know that he is a denturist.
 We know that he is a denturist.
  know that he owns multiple properties around Nova Scotia.
 Including several properties in Portapique.
- has a business in dartmouth, a denturist  So, we can tell you that, you know, he is -- we've been speaking over the phone with people in the community who tell US that he was fairly well known within Portapique.
+ has a business in dartmouth, a denturist  So, we can tell you that, you know, he is -- we've been speaking over the phone with people in the community WHO tell US that he was fairly well known within Portapique.
  people are saying that he was well-liked.
 So this is certainly an unfolding incident and we expect to get more from the RCMP this afternoon.
 

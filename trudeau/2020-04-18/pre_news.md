@@ -6,7 +6,7 @@ Today we are expecting to hear more about additional help for indigenous busines
 Justin Trudeau is also addressing the nation on a day that the Canadian military begin an operation to combat  personnel are being deployed to quÉbec to assist some overwhelmed staff in the province's long-term care homes.
 QuÉbec requested that had he been in an effort to contain thedeadly  that are sweeping through the facilities are and of course in the province of Ontario as well.
 That is a scene you are familiarwith  this stage, the front door at the Prime Minister's residence, Rideau  We will hear from him in 15 minutes' time.
-I want to bring in Catharine   is here to help with coverage.
+I want to bring in Catharine  WHO is here to help with coverage.
 More than half a million tests have been completed and testing is important to get a handle on things to allow the economy to reopen and restrictions to loosen.
 The Prime Minister has been asked those questions virtually every day this week.
 
@@ -31,12 +31,12 @@ There was a move last night that came late in the day by the federal government 
 
 **Catherine**:
 That's right.
-Anyone now who enters an airport, anyone who is doing any airline travel will need to weary non-medical mask, a cloth facecovering.
- we're talking about membersof  general public, they do not want people using those medical masks, but more and morepeople  have gone out of their house see people with those masks.
+Anyone now WHO enters an airport, anyone WHO is doing any airline travel will need to weary non-medical mask, a cloth facecovering.
+ we're talking about membersof  general public, they do not want people using those medical masks, but more and morepeople WHO have gone out of their house see people with those masks.
 If you're in an airport or anywhere you cannot maintain that physical distancing, you will have to wear a face covering.
 That would be going through security or an I. D. check, border checks, getting on the plane itself.
 Monday at noon you will be expected to have some sort of face covering.
-There will be exceptions for people under the age of 2 and people who have mobility issues.
+There will be exceptions for people under the age of 2 and people WHO have mobility issues.
 This is for moments in the airport where you wouldn't be able to maintain safe physical distancing.
 This also came with guidelines for other modes of transportation as well.
 This raises questions about other places in society where people are unable to maintain that 2-metre distance as well, rosie.
@@ -54,7 +54,7 @@ As restrictions are eased, other measures have to come into play.
  I'll come back to you shortly as we stand by and wait for the Prime Minister in  Obviously the coronavirus continues to claim lives in long-term care facilities.
 More than half of the deaths in this country have occurred in those places.
 Because of that, some family members are choosing to bring their family members home.
-Ilene smyth is one of those who removed her mother from a care home earlier this week.
+Ilene smyth is one of those WHO removed her mother from a care home earlier this week.
 Good to see you.
 
 
@@ -83,7 +83,7 @@ So between both of us, we're managing pretty well.
 **Rosemary**:
 Good morning.
 I'm glad to hear that.
-Explain to people how you came to this decision, where your mom, who you mentioned has dementia, that your mother needed to come live with you fora period of time.
+Explain to people how you came to this decision, where your mom, WHO you mentioned has dementia, that your mother needed to come live with you fora period of time.
 
 
 
@@ -94,8 +94,8 @@ There was no help.
 The personal support workers forscared  go and work at a lot of these homes.
 So My fear was that My mother would die alone.
 She's unable to follow any sort of isolation.
-So it became a nightmare for me. Then I got a letter from the home stating that they're not going to be transporting the seniors who get sick to the hospital.
-In other words, a similar situation who gets the ventilator, I understand.
+So it became a nightmare for me. Then I got a letter from the home stating that they're not going to be transporting the seniors WHO get sick to the hospital.
+In other words, a similar situation WHO gets the ventilator, I understand.
 But at that point there was -- you know, they were so low supplied with PPE.,  know, essentials.
 So when I heard families on tv and heard of families in a nightmare where a parent would die and they wouldn't even know where the parent went.
 So they were having nightmares about that.
@@ -135,7 +135,7 @@ Does it worry you about having to send her back?because, if anything, this pande
 
 
 **Interview**:
-Well, the government could be a little more lenient to families who want to take their loved ones home.
+Well, the government could be a little more lenient to families WHO want to take their loved ones home.
 It was a real dilemma for me because when I called the  the ministry of health, the lady told me that My mother would lose her bed, that she would go on the waiting list as a  and not sure when she would get back in. My question to her was is the pre-admit  or below the crises list?because I know the crises list is probably in a couple thousand.
 She couldn't answer that, but she did leave the phone and scamback with an  and said it was below the crises list.
 At that point I e-mailed My local MPp.
@@ -143,7 +143,7 @@ and voiced My  and also e-mailed -- youknow, a detailed e-mail.
 I  back from that office three days later.
 and I was -- he said he would put it to his superior.
 But I had not heard anything since.
-The last phone call was to ccac who deals with mom's particular  She explained to me that My mother would go on a re-admit list, but she would be a priority at the very top if I call them in the 90-day span from now or this past week, theni won't have to go through the  so that the next bed that becomes available at the home will be available to her.
+The last phone call was to ccac WHO deals with mom's particular  She explained to me that My mother would go on a re-admit list, but she would be a priority at the very top if I call them in the 90-day span from now or this past week, theni won't have to go through the  so that the next bed that becomes available at the home will be available to her.
 Now, if I go past the 90 days --as you said, this may go on -- then what am I going to do?so that's an issue for sure.
 
 
@@ -162,7 +162,7 @@ Thank you very much.
 
 **Rosemary**:
 Eileen smith in barrier Ontario.
-In Ontario there are more than 100 long-term care homes who have outbreaks of COVID-19.  we're talking about almost one in six homes.
+In Ontario there are more than 100 long-term care homes WHO have outbreaks of COVID-19.  we're talking about almost one in six homes.
 That has been the picture, not only in Ontario but definitely in quÉbec and to some extent in British Columbia as well.
 Let's go to the cbc's megan   vancouver  BC is ahead of the curve, has flattened the curve, and is now already talking about ways to reopen and what that might look like.
 
@@ -185,7 +185,7 @@ The officials here are preparingfor that and adjusting their modelling there.
 Megan bachelor in  a different picture on the west coast.
 That is the issue with COVID-19 is that the chief public health officer, Dr. Theresa tam, has talked about regional epidemics.
 Every province looks a little bit different.
-So easing back some of the restrictions will happen on different timetables in different parts of this country, and that will make it challenging likely for the federal government, who only has so much say how this is going  As we wait for the Prime Minister, he is expected to be on time.
+So easing back some of the restrictions will happen on different timetables in different parts of this country, and that will make it challenging likely for the federal government, WHO only has so much say how this is going  As we wait for the Prime Minister, he is expected to be on time.
 I'll bring back My colleague Catharine  but I may cut you off.
 Yesterday the Prime Minister made significant announcements in terms of money.
 One of them was to address the oil and gas sector, although it was in no way a bailout.

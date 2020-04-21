@@ -8,7 +8,7 @@ Let me bring in My colleagues Vassy  and David   over to you first.
 
 **Vassy**:
 Hey, rosier On the comments of what happened in Nova Scotia, a number of different condolences offered by the Prime Minister.
-He was asked interestingly if he was willing to relax any of the social distancing rules for those who will find it tough to mourn all of this and grieve all of this from their homes rather than getting together.
+He was asked interestingly if he was willing to relax any of the social distancing rules for those WHO will find it tough to mourn all of this and grieve all of this from their homes rather than getting together.
 He talked about how difficult it would be from a public health standpoint.
 He said there is going to be a virtual vigil.
 Some things that stood out for me on this subject were questions, first of all, whether or not the subject was on the federal government's radar or  radar.
@@ -24,7 +24,7 @@ Again, it's difficult to know because there are so few details about motive and 
 My understanding the last conversation about it was that something was expected this spring.
 They had been promising it right through the election campaign.
 They did a consultation last  so about a year ago.
-There were calls for people who wanted more to bring that legislation in sooner.
+There were calls for people WHO wanted more to bring that legislation in sooner.
 I notice the Prime Minister said they still intend to, but once this pandemic thing is over.
 That gives US an indication when that might happen.
 a number of policy-oriented questions and intelligence questions associated with what we've seen unfold in Nova Scotia.
@@ -43,7 +43,7 @@ Iran flight 752 was just over a hundred days ago.
 The stark difference between then and now is just how much COVID-19 is robbing people the ability to go to rituals and milestones and seeking cold front from their loved ones.
 and being asked if we can relax things to allow that to happen.
 There is an acute focus on these18 murders, because as the killer went door to door, the police today are going door to door and making terrible and horrible discoveries.
-He pivoted to the point that it's not just -- it's people who are dying of cancer, people who are dying of heart disease, people dying of the ordinary run-of-the-mill things we see each year and the total inability of families to find comfort and seek relief from their grief with loved ones and gatherings and how difficult that is. This is why when he's asking thepolitical questions, he  I don't want to be bickering or arguing with anyone on this.
+He pivoted to the point that it's not just -- it's people who are dying of cancer, people WHO are dying of heart disease, people dying of the ordinary run-of-the-mill things we see each year and the total inability of families to find comfort and seek relief from their grief with loved ones and gatherings and how difficult that is. This is why when he's asking thepolitical questions, he  I don't want to be bickering or arguing with anyone on this.
 It does seem there's going to bean agreement by the end of the day to sit in person once a weekand supplement that  virtualsittings.
 On fundamental  of life and death, nothing is working asit should because  this.
 Everything from parliament on down have to find ways to adapt.
@@ -86,7 +86,7 @@ We were talking to Brett  Portapique is cottage country and these are small town
 Oh, yes.
 As the Prime Minister said, we all know each other here.
 Where you live in Portapique or Debert or  we are all related, cousins, sisters, brothers, husbands, wives.
-So many, many, many of US know people who know people who are definitely involved and their family members have been affected.
+So many, many, many of US know people WHO know people WHO are definitely involved and their family members have been affected.
 Many people were looking for loved ones yesterday, putting up their pictures saying, have you seen them?they live in Portapique.
  can't get ahold  them.
 and Wentworth is another area.
@@ -133,7 +133,7 @@ Very kind and understanding.
 He wanted to know if there's anything that I need, understanding how difficult this is to go through.
 Making sure I knew if our community needs anything, the government will be there.
 Today he came on the phone with all of us, with the entire nova  liberal caucus and basically said the same thing.
-It's nice to have a leader who is kind and compassionate and understanding and takes the time to do this with his members and anyone else who has been affected.
+It's nice to have a leader WHO is kind and compassionate and understanding and takes the time to do this with his members and anyone else WHO has been affected.
 I know My community appreciates it and we appreciate the outpouring of love from across Canada to be honest.
 We're very moved by that.
 
@@ -145,8 +145,8 @@ We only have identified a number of the victims, so if there's some that we have
 
 
 **Interview**:
-I don't know all of the names myself yet, but I know who some of them are and I have friends who are friends of those people.
-I also have friends who knew the gunman who contacted me and saidthey're in a state of shock because they went to school  They've known him since he was 16. He was such a nice guy.
+I don't know all of the names myself yet, but I know WHO some of them are and I have friends WHO are friends of those people.
+I also have friends WHO knew the gunman WHO contacted me and saidthey're in a state of shock because they went to school  They've known him since he was 16. He was such a nice guy.
 They talked to him all the time.
 He seemed to be fine.
 Another friend said that the gentleman drove into his brother's yard in a car on Sunday and they had a few words and he seemed normal and drove off and said he was having a drive.

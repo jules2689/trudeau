@@ -92,7 +92,7 @@ Can you explain why two is unaccepting?
 
 **Prime Minister Trudeau**:
 I think it is important that we have in-person sitings and one a week seems about the right number in a reduced fashion.
-But we also have been clear from the very beginning that we think there should be virtual sittings to allow parliamentarians from across the country who aren't within driving distance of ottawa  continue to participate and that is why we have been pushing for virtual sittings.
+But we also have been clear from the very beginning that we think there should be virtual sittings to allow parliamentarians from across the country WHO aren't within driving distance of ottawa  continue to participate and that is why we have been pushing for virtual sittings.
 We heard that they are incapable of standing up virtual sittings for this coming week.
 But we are very open to increasing them over the subsequent weeks because it's important that we be able to hear from all parliamentarians.
 
@@ -126,13 +126,13 @@ At the same time, we know that canadian and  different levels of government and 
 In a positive way compared to other countries.
 But even if we end up having a better history than other countries, let's not forget this is a terrible tragedy for too many families out there and we all have a responsibility to do our very best to ensure that we come out of this tragedy and this crisis without too many additional tragedies.
 Could you tell me why three in-person sitings per week  reduced numbers is unreasonable?well, I think we know that all parliamentarians cannot return to the house of commons.
-There are people who live in provinces that are far away from ottawa and cannot return.
+There are people WHO live in provinces that are far away from ottawa and cannot return.
 and that is why we've been saying it's very important to have virtual sittings so that people can participate in order to represent their community during this crisis.
 At the same time, in being there to answer questions regularly, it is also important for democracy and our Canadians.
 It's fine to take media questions here.
 I do that about every day and parliamentarians have a role to play and the proposal we made for a session or a sitting every week was accepted by most of the parties as being a reasonable compromise during this crisis.
 It is important to remember that people are elected from all corners of this country to be their community's voice in parliament.
-Particularly in a crime of crisis, it is important to look at virtual ways that allow members from every corner of the country to engage in parliamentary debate and discussion and not just those who have the opportunity to proximity to be around the national capital region.
+Particularly in a crime of crisis, it is important to look at virtual ways that allow members from every corner of the country to engage in parliamentary debate and discussion and not just those WHO have the opportunity to proximity to be around the national capital region.
 That is why we've been pushing the virtual sittings.
 We know that accountability is important and taking questions every day from the media is a good thing.
 But it is also important that parliamentarians and opposition politicians go et to ask questions  the government which is why we proposed parliaments sit every fwhaoek reduced fashion and  is a proposal that was accepted by most parties.
@@ -256,7 +256,7 @@ Should measures be in place to make sure that returning workers isolate whether 
 
 
 **Prime Minister Trudeau**:
-We all understand how important it is to keep workers in essential businesses, workers who continue to work as safe as possible.
+We all understand how important it is to keep workers in essential businesses, workers WHO continue to work as safe as possible.
 Safety of workers, of their families as well needs to be the primary consideration of any government and I certainly expect that to be that one as well.
 
 

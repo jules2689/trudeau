@@ -63,7 +63,7 @@ I'm not sure we'll get much in the way of a significant news announcement today.
 But the news that is happening here in Ottawa is the negotiations happening behind the scenes with all the part is to figure out what to do about the house of commons which is due to come back in full force with all 388 MP's scheduled to come back and take their seats in the middle of a pandemic, an   one is super keen to have at all.
 There are talks of reduced sitings  reduced numbers, but they are not all the way down yet.
 The liberals and new democrats have reached an agreement in the last 20 minutes as far as I can tell, that they would get the support of liberal n. D.p. To have one sitting this week with a lot of time dedicated to question period, the equivalents of a week of question period happening in one city and then move into one virtual sitting next week and the week after that, one in person and two virtual sitings and  would become the template for the house of commons on how it would function going forward.
-This is a move from the liberals who wanted one sitting and one virtual sitting as the baseline each week.
+This is a move from the liberals WHO wanted one sitting and one virtual sitting as the baseline each week.
 They decided to go up to two to satisfy the new democrats.
 The greens and bloc quÉbÉcois, would go along with this.
 Andrew scheer is  to have parliament come back and resume its normal function in what are abnormal times with a reduced sitting.
@@ -182,7 +182,7 @@ When you got word that that's what was actually happening and they told you to s
 
 
 **Caller**:
-Well, we don't have a basement so we're still on the main floor and concerned, again, not knowing for sure what or who to be looking out for.
+Well, we don't have a basement so we're still on the main floor and concerned, again, not knowing for sure what or WHO to be looking out for.
 So we didn't get a lot of information until this morning.
 
 

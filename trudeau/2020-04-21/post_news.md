@@ -37,7 +37,7 @@ While their ask was substantive at $10 billion, they get $350 million to help th
 We are not necessarily expecting to get a briefing from the local RCMP today.
 But we will get some details probably via press release in terms of how their investigation over those 16 different crime scenes is going and we'll talk about that at the top of the clock as well and bring you all details in terms of the stories that we're learning about the people that were killed over the course of weekend in Nova Scotia as that community and that whole province continues to strugle with  during the time of the pandemic.
 Also incountried ble   them on so many fronts.
-Ok. I  I'm going to wrap it up. We'll hear shortly from our federal cabinet ministers who will give US a short briefing more about the wage subsidy that opens up on monday and a public health update to give US a sense of how we're doing in fighting the pandemic.
+Ok. I  I'm going to wrap it up. We'll hear shortly from our federal cabinet ministers WHO will give US a short briefing more about the wage subsidy that opens up on monday and a public health update to give US a sense of how we're doing in fighting the pandemic.
 Some encouraging signs.
 But we still have to keep doing what we're doing.
 The sky is looking better in ottawa.
@@ -54,10 +54,10 @@ I'm speaking specifically of businesses, for example, small businesses, but also
 Think about air Canada and westjet.
 They signalled  would take advantage of this programme but the  are going to be important.
 At the end of the Prime Minister's press conference he got a question, is this going to be available to companies that use tax havens.
-There wasn't a specific answer on that, but that does raise a broader discussion about who exactly will be eligible.
+There wasn't a specific answer on that, but that does raise a broader discussion about WHO exactly will be eligible.
 If this follows in the pattern of other aid packages, the scopewill be broad.
- who can do that.
-That does present later on a number I think of complication or questions that will arise about who was able to avail themselves or what kind of company was able to avail themselves of this kind of financial relief or financial aid.
+ WHO can do that.
+That does present later on a number I think of complication or questions that will arise about WHO was able to avail themselves or what kind of company was able to avail themselves of this kind of financial relief or financial aid.
 I don't think the government hastime at this  Especially when everybody is saying we need this money fast to go through and look at every thing a company has done, but I think that will factor into the discussion later on.
 
 
@@ -93,7 +93,7 @@ When is he going to bring in guncontrol?something that has been delayed because 
 One of the restrictions is rightnow the agreement struck to havethe house  sit one day in  and then virtual sittingsafter.
 The legislation can only be about  pandemic.
 So they can't bring it right nowwhile they're operating under this deal.
-They  to wait until the end of may when there is a hope theycan go back to the normal rules,  they would need consent and agreement, including from the conservatives, who have been on the opposite side of this debatefrom the federal liberals.
+They  to wait until the end of may when there is a hope theycan go back to the normal rules,  they would need consent and agreement, including from the conservatives, WHO have been on the opposite side of this debatefrom the federal liberals.
 Quickly, you can't.
 
 
@@ -228,13 +228,13 @@ The Canada revenue agency is committed to helping workers andbusinesses.[end of 
 The page includes a calculator that will help employers to determine quickly the subsidy amount they can expect to claim based on the information that they enter into the calculator.
 The government is grateful for the input we have received from many stakeholders during our consultations in the last few weeks.
 These consultations have led to the efficient and quick launch of the website to date.[speaking french][voice of interpreter] I am happy to announce to Canadians that todaythe Canada revenue agency is launching a calculator  its website to help employers prepare for their application to the wage subsidy which will helptheir employees.
-We thank business representatives and all  who have helped in preparing this web page.[end of translation] Canada wagesubsidy as of april 27. It is expected that 90% of  applications will  been processed by the 5th of may withdirect deposits and cheques madeand sent  after.
+We thank business representatives and all  WHO have helped in preparing this web page.[end of translation] Canada wagesubsidy as of april 27. It is expected that 90% of  applications will  been processed by the 5th of may withdirect deposits and cheques madeand sent  after.
 Until  businesses are invited  update their businessaccount on the Canada revenue agency's website.
 Technical debriefing  will also be offered this afternoon to the media.[speaking french][voice of interpreter] businesses will be able to file their applications for the Canada emergency wage subsidy as of april 27th.
 We expect that 90% of applications will have been processed   5th and this will quickly be followed by direct deposits and  being sent out.
 Until then, businesses are invited to update their profileson the Canada revenue agency website.
 This afternoon, there will be a technical briefing for media.
-Our government is committed to continue to support businesses and workers who are facing unprecedented challenges in the context of the pandemic.
+Our government is committed to continue to support businesses and workers WHO are facing unprecedented challenges in the context of the pandemic.
 Thank you.
 Now we're ready to take questions.
 
@@ -305,13 +305,13 @@ So as we've always said modelling is for planning purposes and not there to accu
 and every single day we relook at those projections, they will change depending on the actual cases reported.
 So as I said several days ago, the 24 hours following that, those projections will already have changed.
 So I think that is some of the difficulty if you're trying to communicate where we're at. It is in a similar range of the severity.
-and it is a reflection of the population that is most impacted right now in many areas of the country and those are the seniors and those who are in long-term care homes.
+and it is a reflection of the population that is most impacted right now in many areas of the country and those are the seniors and those WHO are in long-term care homes.
 So absolutely this is a reflection I think of the actualepidemiology  this illness in Canada.
 So I think every jurisdiction must do the utmost to enhance infection prevention control in all of those settings, so that'sabsolutely critical.
 I think any model is going to tell you that -- what we're doing right now is going to change the trajectory.
 Those models are very sensitive to what we do today in terms of projecting into the short or further down the road.
 So, you know, I think everythingmust  done to change the course.
-and it is up to everyone who is responding to help do that.
+and it is up to everyone WHO is responding to help do that.
 
 
 
@@ -403,7 +403,7 @@ So contact-tracing is pretty much an everyday job for local and provincial publi
 So they are thinking this through.
 One area we stressed we need to make sure that enough capacity to contact-tracing.
 and we have offered that support.
-There is a number of volunteers and people who signed through a portal in terms of people who can help.
+There is a number of volunteers and people WHO signed through a portal in terms of people WHO can help.
 So provinces can draw on those rosters in terms of support for contact-tracing.
 But the numbers are up to individual, even the health authority at the local level, tofigure out how  they need and to let US know if they need anything else, but I know that the whole public health system knows that contact-tracing is going to be very important as welook towards that next 
 
@@ -439,7 +439,7 @@ I'm not sure if it's for patty hajdu.
  not sure.
 We know the union sounded the alarm a week ago when there was 38 cases, now there is 484.
 Somebody dropped the ball.
-Who is going to make sure these places are safe to work in?and who can tell US if the meat packed in these COVID-19-filled plants is safe to eat?
+WHO is going to make sure these places are safe to work in?and WHO can tell US if the meat packed in these COVID-19-filled plants is safe to eat?
 
 
 

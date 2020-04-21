@@ -3,21 +3,21 @@
 **Prime Minister Trudeau**:
 [speaking french].hello, everyone.
 I want to begin by noting the innocent men, women and children systematically murder by the nazis.
- also pay tribute to the brave itself and resiliency of survivors and all those who risked their lives to save others during the holocaust.[speaking french].
+ also pay tribute to the brave itself and resiliency of survivors and all those WHO risked their lives to save others during the holocaust.[speaking french].
 
 
 
 **Interpreter**:
 First of all, I'd like to say that this is holocaust remembrance day.
-Today we remember the six million men and women who were systematically murdered by the Nazis paying frill to the courage and resilience of the survivors and all those who risked their lives to save others during the holocaust.
+Today we remember the six million men and women WHO were systematically murdered by the Nazis paying frill to the courage and resilience of the survivors and all those WHO risked their lives to save others during the holocaust.
 
 
 
 **Prime Minister Trudeau**:
 This morning, I want to again extend My most sincere condolences to the friends and families of the victims of terrible Nova Scotia attacks.
-Since yesterday, I've had a chance to speak with constable chad  the RCMP officer who was wounded as well as constable Heidi stevenson's family.
+Since yesterday, I've had a chance to speak with constable chad  the RCMP officer WHO was wounded as well as constable Heidi stevenson's family.
 On behalf of all Canadians, I thanked them for their service and their sacrifice.
-Yesterday, when I offered My sympathies to the RCMP officers who support me, I was amazed to see how many of them knew Heidi and had incredibly fond memories of her and worked with her on the musical ride.
+Yesterday, when I offered My sympathies to the RCMP officers WHO support me, I was amazed to see how many of them knew Heidi and had incredibly fond memories of her and worked with her on the musical ride.
 They remembered her as an extraordinary person and it really goes to show just how tightly knit not just the RCMP is as a force, but how close we are as a country.[speaking french].
 
 
@@ -42,7 +42,7 @@ It's now been a number of weeks that we've been asking everyone to follow expert
 The lock down t social and physical distancing are an adjustment for most of US But for some, the consequences of the pandemic are far more profound than a simple adjustment.
 The virus has had the effect of worsening the inequalities that already exist in our society.
 The most vulnerable, seniors and young homeless or people without jobs or single-parent families.
-Many are all particularly affected by Covid  the same time, the total number of people who need help to get through this difficult period has also gone up. Woel  the pandemic upset our lives, charities were there for our communities.
+Many are all particularly affected by Covid  the same time, the total number of people WHO need help to get through this difficult period has also gone up. Woel  the pandemic upset our lives, charities were there for our communities.
 I'm thinking of PEI Royal in park extension that helps young people at risk or an organization in st. Michele.
 In papineau,  across the country, community organisations are an essential resource for the most vulnerable and their mission in this pandemic does not change.
 But they need more support in order to help a large number of people.
@@ -75,7 +75,7 @@ With this fund, we're giving more resources to charities and nonprofits so they 
 
 
 **Interpreter**:
-Our government has introduce add three-point plan to protect jobs and help people who have lost their jobs as well as support small businesses that are having cash flow problems.
+Our government has introduce add three-point plan to protect jobs and help people WHO have lost their jobs as well as support small businesses that are having cash flow problems.
 and today, I have other news with respect to the emergency wage subsidy that gives eligible employers up to $847 per week per employee to allow them to keep them on the payroll.
 We are launching a calculator on the CRA  that will allow businesses to determine exactly what the wage subsidy will cover.
 Companies will be able to apply starting next monday,  27.  today, the president of the treasury board will provide additional details with respect to the deployment of this programme.
@@ -91,7 +91,7 @@ I want to turn now to some encouraging news on the innovation front.
 Our super cluster initiative brings together small, medium-sized and large companies, academic institutions and not-for-profit organizations to generate bold ideas and innovate.
 So a few weeks ago, the digital technology supercluster challenged its  of over 500 firms to come up with solutions to help Canadians get through this pandemic.
 They received over 300 submissions and they are now moving forward on a number of key projects.
-Toronto's DNA Stack is developing a new cloud-based network that allows researchers who are looking to improve our ability to diagnose and treat COVID-19 to share their  Another company, foodex, is working with  partners to develop an e-grocery management system to make sure our health care workers, seniors and others have access to fresh food dhurg crisis.-- during this crisis.
+Toronto's DNA Stack is developing a new cloud-based network that allows researchers WHO are looking to improve our ability to diagnose and treat COVID-19 to share their  Another company, foodex, is working with  partners to develop an e-grocery management system to make sure our health care workers, seniors and others have access to fresh food dhurg crisis.-- during this crisis.
  innovators are among the best in the world and it is great to see so many of them use their talents to help our communities.
 This is yet another example of what we can achieve when we work together as team Canada.[speaking french].
 

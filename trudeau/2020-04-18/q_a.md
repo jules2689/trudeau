@@ -99,17 +99,17 @@ and we really hope that the other parties will agree with these proposals becaus
 ---
 
 **Question**:
-Many people on social distance programs are surviving on less than people who are getting the CERB.
+Many people on social distance programs are surviving on less than people WHO are getting the CERB.
 Many marginalized Canadians will simply never be able to access the CERB as it is structured.
 Rather than continue to tweak it, why not just make the CERB universal?
 
 
 
 **Answer**:
-We moved very quickly on replacing income for people who lost a paycheque because of COVID-19. These are families who were relying on that next paycheque to be able to pay for rent, to be able to pay for groceries, to be able to support their children and their parents.
+We moved very quickly on replacing income for people WHO lost a paycheque because of COVID-19. These are families WHO were relying on that next paycheque to be able to pay for rent, to be able to pay for groceries, to be able to support their children and their parents.
 This was the absolute priority that we needed to move forward quickly on. With the moves that we were able to make, over 7.5 million payments have been made already and there are obviously many more to come.
 At the same time, we recognize the particular vulnerability of marginalized communities of particular groups.
-That's why we have put forward significant measures to try to help them, whether it's through shelters and support for charities and charitable organizations, or extending measures so people who work a very small amount of hours a month can still receive the CERB.
+That's why we have put forward significant measures to try to help them, whether it's through shelters and support for charities and charitable organizations, or extending measures so people WHO work a very small amount of hours a month can still receive the CERB.
 These are kinds of things we're looking at, and we're continuing to move forward to get the help out to people we need to.
 
 
@@ -151,7 +151,7 @@ So do you now think that looping in the leaders could save valuable time and get
 
 **Answer**:
 We have been looping in leaders and opposition leaders from the very beginning.
-Indeed, the proposals on expanding, on filling gaps have come from MP's of all parties, including many, many liberal MP's who have been passing the message through.
+Indeed, the proposals on expanding, on filling gaps have come from MP's of all parties, including many, many liberal MP's WHO have been passing the message through.
 We know that Canadians are working together in unprecedented ways to fill gaps and to respond to these challenges.
 It is wonderful, quite frankly, to see so many suggestions coming forward.
 Many of them that make it into tweaks and improvements and changes to programs that are designed to help as many Canadians as possible.
@@ -253,7 +253,7 @@ When the government closed so many of its warehouses across the country.
 
 
 **Answer**:
-Over the past weeks we've been focused on  To the provinces, on delivering the necessary equipment to ensure that our front line workers who are putting their lives forward to keep Canadians safe are  The efforts continue.
+Over the past weeks we've been focused on  To the provinces, on delivering the necessary equipment to ensure that our front line workers WHO are putting their lives forward to keep Canadians safe are  The efforts continue.
 I mentioned two plane loads coming in over this weekend.
 More coming in over the coming days.
 We are confident that we are in a good place around  and we'll only get more as more and more Canadian producers and suppliers come online.
