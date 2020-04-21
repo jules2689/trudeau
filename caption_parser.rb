@@ -184,6 +184,7 @@ class CaptionParser
       "b. D.c" => "BDC",
       "m. L.a." => "MLA",
       "b. C." => "BC",
+      "w. H.o" => "WHO",
     }
     acronyms.each { |a, b| text.gsub!(a, b) }
     
