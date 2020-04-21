@@ -165,7 +165,9 @@ class CaptionParser
     text.gsub!(/\binlight\b/, "in light")
     text.gsub!(/\baswell\b/, "as well")
     text.gsub!(/\bit'sunday\b/, "it's Sunday")
-    text.gsub!(/p\. P\.e\./, "PPE")
+
+    # Fix acronyms
+    text.gsub!(/(\w)\. ((\w\.)+)+/) { "#{Regexp.last_match[1]}#{Regexp.last_match[2].tr('.', '')}".upcase }
     
     (PROVINCES + VALID_WORDS).each do |prov|
       text.gsub!(/\b#{prov}\b/i, prov)
