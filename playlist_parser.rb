@@ -19,6 +19,9 @@ class PlaylistParser
     end
 
     parsed_resp = JSON.parse(response.body)
+    if parsed_resp["items"].nil?
+      raise parsed_resp
+    end
     parsed_resp["items"].each_with_object({}) do |item, acc|
       acc[item["snippet"]["resourceId"]["videoId"]] = {
         date: DateTime.parse(item["snippet"]["publishedAt"]).strftime('%Y-%m-%d'),
