@@ -307,7 +307,7 @@ So are you suggesting, iguess, that china may withholdP.P.E., is that why you're
 **Prime Minister JustinTrudeau**:
 
 We've looked at the need for many more tests.
-We see that testing has been Key part of controlling thespread, not just knowing who has -- who has developed Ovid and can pass it on, but actually being able to control the spread through contact tracing and through isolation and quarantinemeasures, testing is a key part of it. We need to continue to ramp up our testing capacities and we need to do a better job of coordinating on testing methodology and approaches across the provinces, so that we can have a better vision of what is exactly happening.
+We see that testing has been Key part of controlling thespread, not just knowing who has -- who has developed COVID-19 and can pass it on, but actually being able to control the spread through contact tracing and through isolation and quarantinemeasures, testing is a key part of it. We need to continue to ramp up our testing capacities and we need to do a better job of coordinating on testing methodology and approaches across the provinces, so that we can have a better vision of what is exactly happening.
 But testing certainly needs to increase as we move forward.
 Fortunately, it is increasing as we move forward.
 

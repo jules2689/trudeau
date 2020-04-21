@@ -83,7 +83,7 @@ You can reduce the number of M.P.s, but you need staff, broadcasters, political 
 and when you head back, there's too many support staff for people to safely social distance.
 These are the behind the scenes conversations in ottawa.
 What is the compromise?four of the parties have largely found an agreement that functions.
-The conservatives are not on board with that yet and we'll hear from andrew Scheer a little bit later this afternoon to see what he has to say on this.
+The conservatives are not on board with that yet and we'll hear from Andrew Scheer a little bit later this afternoon to see what he has to say on this.
 
 
 

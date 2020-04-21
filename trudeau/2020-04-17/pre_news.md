@@ -266,7 +266,7 @@ and we heard earlier from conservative leader and doctor sheer and that is the r
 It, too, was on a deadline.
 All parties had agreed that it would be suspended until monday unless they could reach another agreement to continue that suspension.
 As of now, there is no deal on, that either.
-and andrew Scheer has been pushing very hard to see in-person sitings.
+and Andrew Scheer has been pushing very hard to see in-person sitings.
 He is asking for four times a week.
 Doesn't sound like that is acceptable to the government.
 and it doesn't even sound like other partis are interested in coming in and having M.P.s here in a reduced capacity for that many days of week.

@@ -19,7 +19,7 @@ She was engaging with candace bergen who said she essentially agrees everyone ha
 It was implicit and not explicit, she was putting the responsibility on the liberals.
 We need a deal to make this happen.
 She said parliament isn't ready for a virtual parliament.
-That's something we hear from andrew Scheer time and time again.
+That's something we hear from Andrew Scheer time and time again.
 They have asked the speaker to look into this process, but it would take some time.
 There are some technical difficulties that make accountability challenging.
 At the same time the public health concern is a big one.
