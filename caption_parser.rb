@@ -43,10 +43,9 @@ class CaptionParser
     @dialog
   end
 
-  def write_output
-    output_path = File.expand_path("../trudeau/#{DateTime.now.strftime('%Y-%m-%d')}", __FILE__)
+  def write_output(output_path)
     FileUtils.mkdir_p(output_path)
-    
+
     @dialog.each do |key, entries|
       path = File.join(output_path, "#{key}.md")
       puts "Writing to #{path}"

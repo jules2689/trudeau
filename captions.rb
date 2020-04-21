@@ -6,9 +6,16 @@ gemfile do
   source 'https://rubygems.org'
   gem "nokogiri"
   gem "activesupport"
+  gem "cli-ui"
 end
 
 require_relative 'caption_parser'
+require_relative 'playlist_parser'
+
+CLI::UI::StdoutRouter.enable
+TOKEN = ARGV[0]
+OUTPUT_PATH = File.expand_path("../trudeau/", __FILE__)
+FileUtils.mkdir_p(OUTPUT_PATH)
 
 def caption_download(id)
   uri = URI.parse("https://www.youtube.com/api/timedtext?v=#{id}&lang=en&name=CC1")
@@ -23,9 +30,31 @@ def request(uri)
   response.body
 end
 
-video_id = ARGV[0] || "yKCkZ10-FBo"
-captions = caption_download(video_id)
+videos = {}
+CLI::UI::Frame.open("Finding videos") do
+  parser = PlaylistParser.new(TOKEN)
+  videos = parser.parse
+  videos.each do |_, video|
+    puts "#{video[:date]} - #{video[:title]}"
+  end
+end
 
-parser = CaptionParser.new(captions)
-parser.parse
-parser.write_output
+videos.each do |id, video|
+  CLI::UI::Frame.open("#{video[:date]} - #{video[:title]}") do
+    video_output_path = File.join(OUTPUT_PATH, video[:date])
+
+    if Dir.exist?(video_output_path)
+      puts "Video downloaded already"
+      next
+    end
+
+    captions = caption_download(id)
+    puts id
+    parser = CaptionParser.new(captions)
+    parser.parse
+    parser.write_output(video_output_path)
+  end
+end
+
+
+
