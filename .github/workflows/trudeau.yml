@@ -1,4 +1,4 @@
-name: Create PR for First Reponder
+name: Download Trudeau Dialog
 on:
   schedule:
     # 5pm UTC is 1pm eastern, which should be adequate time for the videos to become available
