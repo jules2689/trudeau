@@ -165,6 +165,7 @@ class CaptionParser
     text.gsub!(/\binlight\b/, "in light")
     text.gsub!(/\baswell\b/, "as well")
     text.gsub!(/\bit'sunday\b/, "it's Sunday")
+    text.gsub!(/\bwhatno\b/, "whatnot")
 
     # Fix acronyms
     text.gsub!(/(\w)\. ((\w\.)+)+/) { "#{Regexp.last_match[1]}#{Regexp.last_match[2].tr('.', '')}".upcase }
