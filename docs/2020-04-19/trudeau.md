@@ -83,7 +83,7 @@ and we will get through this together.[speaking french].
 From the beginning of the crisis, we have been announcing historic measures with the emergency benefit, the wage subsidy and the loans to small businesses.
 We are helping millions of families and workers and entrepreneurs.
 But there are still people we need to help.
-This week, we extended support through the benefit.
+This week, we ex tented support through the benefit.
 We put in place new measures for energy sector workers, a sector particularly hard hit by the epidemic.
 and we also want to help people doing an extraordinary job in the arts and culture and sports communities.
 At the same time, we're working with the territories to increase the wages of essential workers who need more support.

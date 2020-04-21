@@ -41,7 +41,7 @@ We do hope that the opposition parties will agree to that proposal because other
 **Caller**:
 
 Prime Minister, the premier of Saskatchewan has asked for [inaudible] interest rates.
-Governor Polo says they have not asked to help with the provincial debt market.
+Governor pol oz says they have not asked to help with the provincial debt market.
 He says no one has asked us to do anything on the provincial front t. Premier has also asked to put public servants on e. I. today's job announcement differentser affect the provincial debt market.
 My question is, when will the provinces learn what you're doing for their debt and what is already off the table?
 
@@ -225,7 +225,7 @@ It is putting money in the pockets of more than seven million Canadians, includi
 On top of that, the wage subsidy allows Canadians -- Canadian workers to continue to receive their salaries and continue to stay connected to their work in the oil and gas sector, which are significant helps for a major industry across this country.
 On top of that, we've been working with the government of Alberta and with industry to look at other things that could be necessary.
 We heard very clearly that the methane regulations that we are bringing in would be a challenge for industry to meet and industry and others can SK that we, therefore, back off on the methane regulations.
-We decided, instead, to lend them money to help them keep them working and so we can continue to fleeting climate change and reduce emissions while keeping people at work.
+We decided, instead, to lend them money to help them keep them working and so we can continue to fee ting climate change and reduce emissions while keeping people at work.
 We've also heard very clearly, and not just from industry, but from municipalities, particularly rural municipalities, landowners across Alberta, that the issue of persistent orphan or inactive wells is a real challenge.
 and this is an opportunity for us to make sure that Albertan are getting to work in cleaning up their province at the same time as we've gotten commitments by the government of Alberta to strengthen the regulations so we see fewer orphan and inactive wells in the future.
 We've also made credit available for medium-sized oil and gas companies who are facing particular challenges in terms of liquidity right now.
@@ -272,7 +272,7 @@ How do you respond to the letter and are some of the 30 requests -- requests sti
 
 Just because we are in one crisis right now doesn't mean we can forget about the other Cree sister, the climate crisis, that we're also facing as a world, as a country.
 But we recognize that, for example, moving ahead with the methane regulations something very difficult for companies right now in the oil and gas sector who are strained because of the multiple challenges they're facing both on the global stage and on the lower demand.
-That is whale we are making investments in supporting those companies directly so they can meet those methane reduction targets, you know, with funds that we're giving them so that we can stay on track to protect future generations and to reduce emissions from our industry.
+That is whale we are making en vestments in supporting those companies directly so they can meet those methane reduction targets, you know, with funds that we're giving them so that we can stay on track to protect future generations and to reduce emissions from our industry.
 This is something that Canadians understand, that we need to continue to move forward.
 But we need to help people in different ways as we move forward.
 That will be the lens that we take.
@@ -307,7 +307,7 @@ So are you suggesting, iguess, that china may withholdP.P.E., is that why you're
 **Prime Minister JustinTrudeau**:
 
 We've looked at the need for many more tests.
-We see that testing has been Key part of controlling thespread, not just knowing who has -- who has developed COVID-19 and can pass it on, but actually being able to control the spread through contact tracing and through isolation and quarantinemeasures, testing is a key part of it. We need to continue to ramp pour testing capacities and we need to do a better job of coordinating on testing methodology and approaches across the provinces, so that we can have a better vision of whats exactly happening.
+We see that testing has been Key part of controlling thespread, not just knowing who has -- who has developed COVID-19 and can pass it on, but actually being able to control the spread through contact tracing and through isolation and quarantinemeasures, testing is a key part of it. We need to continue to ramp up our testing capacities and we need to do a better job of coordinating on testing methodology and approaches across the provinces, so that we can have a better vision of what is exactly happening.
 But testing certainly needs to increase as we move forward.
 Fortunately, it is increasing as we move forward.
 
@@ -338,7 +338,7 @@ I.f., how many physicians andhow many nurses are in thatnumber?are we taking peo
 
 **Prime Minister JustinTrudeau**:
 
-(voice oftranslator): well, I want to say that the ministers will beat a press conference very soon to answer those questions as nohow we're going to be helping our artists.
+(voice oftranslator): well, I want to say that the ministers will beat a press conference very soon to answer those questions as to how we're going to be helping our artists.
 We know this is a situation where many artists are in a real difficulty and we need ourartists.
 We need them to continue to make us dream, particularly in darktimes.
 That's why we're going to be there to help them.

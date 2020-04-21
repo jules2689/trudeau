@@ -27,7 +27,7 @@ How are you doing?how are the people around you doing today?
 
 
 
-I think everyone is just getting notionally drained.
+I think everyone is just getting motion ally drained.
 This is just a horrific situation.
 and trying to respond to it. In a variety of ways that is out of our normal.
 It's making it more and more difficult.
@@ -205,7 +205,7 @@ My understanding is that what is announced today won't necessarily be that much.
 I'm not sure of the exact figure.
 But that will be sort of a chunk of change for charities, specifically aimed at supplementing the money that they have lost due to a lack of fundraising.
 The second aspect, the second facet of what I'm expecting from the Prime Minister has to do with that other huge government relief package for businesses around wage six dids.-- subsidies.
-The government has passed legislation with opposition parties a few weeks acing to provide a wage subsidy for businesses of any size, of 75% of the first I think is nearly $58, 000 of an employee's salary.
+The government has passed legislation with opposition part is a few weeks acing to provide a wage subsidy for businesses of any size, of 75% of the first I think is nearly $58, 000 of an employee's salary.
 That is in the -- the application process is starting.
 It will be starting in a few weeks is My understanding.
 Although that is always a moving target as well.

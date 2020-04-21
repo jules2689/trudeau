@@ -69,7 +69,7 @@ and maybe give us some details if he has any, David What else are we expecting f
 **Reporter**:
 
 I'm not sure we'll get much in the way of a significant news announcement today.
-But the news that is happening here in Ottawa is the negotiations happening behind the scenes with all the parties to figure out what to do about the house of commons which is due to come back in full force with all 388 M.P.s scheduled to come back and take their seats in the middle of a pandemic, an thao*uk no one is super keen to have at all.
+But the news that is happening here in Ottawa is the negotiations happening behind the scenes with all the part is to figure out what to do about the house of commons which is due to come back in full force with all 388 M.P.s scheduled to come back and take their seats in the middle of a pandemic, an thao*uk no one is super keen to have at all.
 There are talks of reduced sittings with reduced numbers, but they are not all the way down yet.
 The liberals and new democrats have reached an agreement in the last 20 minutes as far as I can tell, that they would get the support of liberal n. D.p. To have one sitting this week with a lot of time dedicated to question period, the equivalents of a week of question period happening in one city and then move into one virtual sitting next week and the week after that, one in person and two virtual sitings and that would become the template for the house of commons on how it would function going forward.
 This is a move from the liberals who wanted one sitting and one virtual sitting as the baseline each week.
@@ -146,9 +146,9 @@ When did this start for you?was it last night and what were you told?
 
 It was around 10:30 or 11:00 last night.
 We noticed police cars and then the house fire and two more fires after that.
-We're assuming warehouses as well.
+We're assuming warehouse st as well.
 and with not much information we were a little concerned until this morning when we heard stay inside.
-So, we pretty much hunkered in for the time being.
+So, we pretty much bunker ed in for the time being.
 
 
 
@@ -176,7 +176,7 @@ and do you know the residents of the homes?I don't know how much you could see i
 
 **Caller**:
 
-We know a couple for sure that were kind of viable from our yard.
+We know a couple for sure that were kind of viz able from our yard.
 But the third we don't know for sure.
 But scary, I guess.
 

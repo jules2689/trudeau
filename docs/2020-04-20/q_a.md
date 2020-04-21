@@ -180,7 +180,7 @@ Given what we know about the shooting in Nova Scotia, could that have prevented 
 
 As we know, this is very much an ongoing investigation that is in its early stages in Nova Scotia right now.
 So I don't want to jump to conclusions or make characterizations about what happens until we get a full accounting from the authorities.
-But in regards to gun control, we took very serious commitments in the election campaign and removing forward on them to make sure we're strengthening gun control in this country.
+But in regards to gun control, we took very serious commitments in the election campaign and are moving forward on them to make sure we're strengthening gun control in this country.
 I can say we were on the verge of introducing legislation to ban assault-style weapons acrossthe country.
 It was interrupted when the pandemic caused parliament to besuspended.
 We have ever intention of movingforward on that measure and potentially other measures when the parliament returns.
@@ -209,7 +209,7 @@ We need to do everything we can to keep people safe and healthy, even in the mid
 
 **Question**:
 
-Prime Minister, waste Nova Scotia shooter on the federal government's radar?were any federal agencies watching him?
+Prime Minister, was the Nova Scotia shooter on the federal government's radar?were any federal agencies watching him?
 
 
 
@@ -295,7 +295,7 @@ Now, will you be participating in that ceremony and could you introduce your gun
 
 **Answer**:
 
-Yes, I intend to participate in the virtual vigils much as possible.
+Yes, I intend to participate in the virtual vigil as much as possible.
 We will most certainly be listening very carefully to whatcanadians are saying with respect to more gun control.
 So we will look at what the options are when it comes to introduce that bill when the appropriate time is with us.[end of translation] I have every intention of participatingin the vigils.
 I know that many Canadians will want to express their solidaritywith those in Nova Scotia who are grieving.

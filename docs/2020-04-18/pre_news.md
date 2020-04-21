@@ -35,7 +35,7 @@ There was a move last night that came late in the day by the federal government 
 **Catherine**:
 
 That's right.
-Anyone now who enters an airport, anyone who is doing any airline travel will need to wears non-medical mask, a cloth facecovering.
+Anyone now who enters an airport, anyone who is doing any airline travel will need to weary non-medical mask, a cloth facecovering.
 When we're talking about membersof the general public, they do not want people using those medical masks, but more and morepeople who have gone out of their house see people with those masks.
 If you're in an airport or anywhere you cannot maintain that physical distancing, you will have to wear a face covering.
 That would be going through security or an I. D. check, border checks, getting on the plane itself.

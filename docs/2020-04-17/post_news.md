@@ -15,7 +15,7 @@ Oil and gas is probably what youwant to talk about.
 **Reporter**:
 
 I will, if you don't mind, Rosie zero in on oil and gas.
-Because as we had discussed prior to this, there's heightened need for help in thissector, especially for workers who have been laid off with the double whammy of COVID-19 bandits consequences and then also Price war that emerged between Saudi Arabia and Russia The announcement from the Prime Minister today somewhat anticipated and geared towards cleaning up what are known as orphan wells in both Alberta andsaskatchewan.
+Because as we had discussed prior to this, there's heightened need for help in thissector, especially for workers who have been laid off with the double whammy of COVID-19 and its consequences and then also Price war that emerged between Saudi Arabia and Russia The announcement from the Prime Minister today somewhat anticipated and geared towards cleaning up what are known as orphan wells in both Alberta andsaskatchewan.
 I think that British Columbia as well.$1.7 billion directed towardsthat, that the government saysthat will help to maintain 5, 200 jobs.
 and they have an emissionreduction fund and combiningthat and that will gospecifically towardsnewfoundland and labrador, butcombining that with the wellsannouncement, that saves ormaintains is the word that theyused about 10, 000 jobs.
 On the orphan wells just toexplain -- basically this is a big problem in Alberta.
@@ -29,7 +29,7 @@ I would highlight one finalthing and that is on the secondpart of what was being
 The Prime Minister said thatthey're going to be working withthe bbc, the development banksand the EDC, to offer morecredit to small and medium-sizedoil companies.
 But he did not offer any specifics about how much money they would be using and if it would be, in fact, to backstop those loans.
 I think that the hint they could take from that is not for big oil companies.
-So that addresses some of the criticism that the government inbound to receive that they rein a way subsidizing industry.
+So that addresses some of the criticism that the government is bound to receive that they are in a way subsidizing industry.
 Obviously, with environmental concerns that is sort of vulnerability for them.
 I think that is aimed at addressing that possiblecriticism.
 I just don't know what that backstop means, what that liquidity looks like and there were no details offered today.
@@ -49,7 +49,7 @@ This is the deputy Prime Minister.
 **The Hon.
 ChyrstiaFREELAND**:
 
-(voice oftranslator): navdeep Bains WHO's joining us remotely as well.
+(voice oftranslator): navdeep Bains who is joining us remotely as well.
 Also with us is the deputy chief public health officer,[speaking french](voice of translator):dr. Howard njoo is with us andready to answer your questions.[end of translation]dr. Tam, please.
 
 
@@ -57,7 +57,7 @@ Also with us is the deputy chief public health officer,[speaking french](voice o
 **HELLO, EVERYONE.I'LL BEGIN WITH OUR USUAL UPDATEON THE NUMBER OF COVID-19 CASESIN CANADA.THERE ARE NOW 31,407 CASES,INCLUDING 1,250 DEATHS.FOR THE LAB TESTING WE'VECOMPLETED TESTS FOR OVER 503,000PEOPLE WITH 6% CONFIRMEDPOSITIVE.WITH THE RECENT SLOWDOWN IN THEEPIDEMIC GROWTH, CASE COUNTS ARENOT CLIMBING AS RAPIDLY, HOWEVER, DUE TO THE DISEASE,DEATHS HAVE CLIMBED AS COVID-19TAKES A DEVASTATING TOLL.IT CREATES A BIT OF A PARADOX.WHERE EARLY IN AN EPIDEMIC WESEE A RAPID GROWTH OF INFECTIONSAND NOT SO WITH DEATH.AS THE INFECTIONS SLOW, THEDEATHS GO TO A FASTER PACE.THAT'S WHY THE DEATHS CAN BEUNDERESTIMATED.BUT THERE'S OTHER REASONS SUCHAS WHEN COVID-19 EPIDEMIC ISINTRODUCED INTO SETTINGS WHERETHERE'S MANY OLDER ANDVULNERABLE PEOPLE.I CANNOT STRESS ENOUGH HOWIMPORTANT IT IS TO PROTECT THESEVULNERABLE SETTINGS AND PEOPLE.THIS IS A LONG-STANDING PROBLEM,BUT IT IS NOW INCUMBENT UPON USTO SOLVE IT BY ADDRESSING ALLWEAK POINTS IN OUR SYSTEM.[Speaking French](Voice of Translator)**:
 
 To measure our progress we must take into account the evolution of COVID-19 in Canada.
-The nature and the intensity of spread depends on where you rein the country.
+The nature and the intensity of spread depends on where you are in the country.
 Although our four largest provinces continue to report the bulk of cases in Canada, the highest case numbers have been coming out of quÉbec and ontariorecently.
 That is an important juncture in the intense public health efforts that are needed to stamp out the existing outbreaks, prevent new outbreaks, and trace and manage chains of transmission in the community.
 To get this done without slipping backwards, allcanadians need to continue to stay home and to practise physical distancing.[end of translation]the COVID-19 outbreak in canadato be aware of as we measure ourprogress is a differentcharacter and intensity ofspread, depending where you arein the country.
@@ -106,7 +106,7 @@ Let's go back to finance minister bill morneau.
 **The Hon.
 Bill Morneau**:
 
-That would go through heritage canadathat My colleague will betaking about.
+That would go through heritage canadathat My colleague will be talking about.
 and we know that there are manystart-up companies, companiesthat are just getting going, that might not be able to haveaccess to the Canada emergencywage subsidy or the emergencybusiness account so we'reputting money in that regard as well towards those firms.
 I know that My colleague navdeepbains will be talking aboutthat.
 We also recognize that there's areal importance to supportingjobs in parts of our countrythat have been particularly hardhit.
@@ -147,7 +147,7 @@ Chyrstia Freeland:perfect, we can hear you now.
 
 Every time, every time.
 Thank you.
-So every day over the past few weeks I have been listening coworkers and business owners and the industry leaders in the energy sector and living here innewfoundland and Labrador I know firsthand how hard Canada'spetroleum industry has been hit.
+So every day over the past few weeks I have been listening to workers and business owners and the industry leaders in the energy sector and living here innewfoundland and Labrador I know firsthand how hard Canada'spetroleum industry has been hit.
 Canada is the fourth largest producer of oil in the world.
 It is an industry that employs over 576, 000 Canadians from right across the country, including 11, 000 indigenousworkers.
 It is an industry made up of more than 4, 500 businesses, the vast majority of which are small and medium-sized.
@@ -202,7 +202,7 @@ They've shared their concerns with me, their realities, theiranxiety, and we hav
 Our objective today in conjunction with the Minister offinance, is to protect ourstreets, our small communities.
 We are doubling the budget of our economic development agencies across the country, so essentially $1 billion in additional funding will go to these development agencies across the country.
 Be it in the east, the middle ofcanada, the west or the north.
-What we've heard is that access to financial institutions is oftentimes more difficult, so our objective is this -- we want to prevent entrepreneurs from falling through the cracks when they have critical roles to playing their communities.
+What we've heard is that access to financial institutions is oftentimes more difficult, so our objective is this -- we want to prevent entrepreneurs from falling through the cracks when they have critical roles to play in their communities.
 Through our development and community futures orginisations, which do excellent work on theground, we will be in a position to help companies to have access to various government measures to help them to make it through the crisis.
 The development agencies incanada work locally and bring the government into the communities and defend the economic reality there.
 It's also responsible for helping during crises.
@@ -330,7 +330,7 @@ and if anyone is working on any such guidelines?
 
 
 Yes, so this allocation of the supplies has a different framework and that's in collaboration with the province sand the territories in terms of the supplies of ventilators that we have.
-Now on the ground, physician sand other health workers have to make some very difficult decisions sometimes if there wasn't enough ventilators or I. C.u. Beds.
+Now on the ground, physician sand other health workers have to make some very difficult decisions sometimes if there was not enough ventilators or I. C.u. Beds.
 So those guidances have been putin place at the provincial andthe territorial level.
 and, certainly, that flows downto the hospital level.
 So that you have these andthey're drafted by a broad rangeof experts, including ethicistsand clinical and I. C.u. Andother experts and health systemexperts, so that those difficultdecisions can be facilitated atthe time that they're needed.
@@ -386,14 +386,14 @@ is there some way to make an exception so that more than --these particular sold
 ChyrstiaFREELAND**:
 
 (voice oftranslator): Minister Freeland, answer.
-The decision to respond toquÉbec's request that went to the Prime Minister is unimportant one.
-It's a decision that was made enclose cooperation with quÉbec, the Canadian forces, the minister of public safety, the minister of health, the minister of defence.
+The decision to respond toquÉbec's request that went to the Prime Minister is an important one.
+It's a decision that was made in close cooperation with quÉbec, the Canadian forces, the minister of public safety, the minister of health, the minister of defence.
 We worked hard to identify the necessary people with the language skills, the trainingrequired, to help in quÉbec.
 We identified 125 people and decision was made in conjunction with quÉbec.
 and these people will make adifference.
 With respect to providing additional assistance, we continue to hold ongoing discussions with quÉbec.
 We are working with quÉbec to support the province.
-I'd also like to add that the prime Minister has stated that we will be working with the recross and we'll also help inquÉbec.
+I'd also like to add that the prime Minister has stated that we will be working with the red cross and we'll also help inquÉbec.
 and then there are the volunteers who have registered, so we'll also be working with that list of people to identify those who can help.
 Thank you.
 
@@ -408,7 +408,7 @@ What about the volunteers?can you give us an idea of howmany more people could b
 ChyrstiaFREELAND**:
 
 (voice oftranslator): answer, ministerfreeland.
-At this point, no. What I do want to underscore is that it is essential to work enclose cooperation with theprovince.
+At this point, no. What I do want to underscore is that it is essential to work in close cooperation with theprovince.
 We are doing this work together and I'd also like to assurequÉbecers that we fully understand the urgency of thesituation.
 and we are working very hard to find the resources to helpquÉbecers.
 
@@ -445,7 +445,7 @@ You need to turn your mike backon.
 
 a lot of what bill has already put in place has a very positive effect with the cerband with the wage subsidyparticularly.
 I mean, what we're announcing today are very particularinitiatives.
-Firstly, what I've heard fro mall sides, whether it be --whether it be labour or whether it be industry, everybody stalked about liquidity.
+Firstly, what I've heard fro mall sides, whether it be --whether it be labour or whether it be industry, everybody is talked about liquidity.
 I remember My first meeting after the lock down with the petroleum producers and saying that their top five priorities were liquidity, liquidity, liquidity, liquidity.
 We heard the same from workers.
 So this is, you know, really important for small tomedium-sized businesses.
@@ -508,7 +508,7 @@ How would you charactericize the country and what are the differences between qu
 
 
 I think that the majority of the cases as I said are in the four biggest jurisdictions, perhaps not surprisingly.
-and that different variations interns of the actualepidemiology.
+and that different variations in terms of the actualepidemiology.
 However, I would have to say that the long-term care homes orseniors' residences outbreaksare in quite a number of themand that's what is driving someof the unfortunate increase indeaths.
 So the bigger jurisdictions, particularly right now inontario and quÉbec.
 But, yeah, I think that themarch break as I said might havehad some different -- adifference in timing of some ofthe epidemic trajectories.
@@ -627,13 +627,13 @@ Chyrstia Freeland:seamus, if you want to start andremember to unmute yourself.
 
 
 
-It's open and I have learnedly lesson twice over.
+It's open and I have learned my lesson twice over.
 Thank you, deputy Prime Minister.
 The focus today was on workers.
 I think that if you look at our initiatives in any sector or anybenefit, that we have -- we have changed over time.
 I mean, bill has been making, you know, tweaks and changes to almost everything that we haveintroduced.
 So nothing quite looks the same, because we're listening tocanadians and we're listening to stakeholders and making changes where it's needed.
-Today was focused on workers into fashions.
+Today was focused on workers in two fashions.
 First of all, liquidity, to make sure that the companies that hire those workers remain intact so they can keep those workers.
 and, secondly, with orphaned and inactive wells, this is, youknow, technical work, highly-skilled work.
 We think that --

@@ -3,7 +3,7 @@
 I'm rosemary Barton Thank you for joining us on CBC CBC news network, or streaming around the world.
 We are, as we do at this time of day, standing by to hear from Prime Minister Justin Trudeau He is expected today to respond to some of the urgent appeals to support various industries across Canada.
 For weeks, as his government has been rolling out emergency aid for Canadian businesses and workers.
-The Prime Minister has also been promising second -- pectoral help by certain industries that have been hit particularly hard by the COVID-19 shutdown.
+The Prime Minister has also been promising second -- sect oral help by certain industries that have been hit particularly hard by the COVID-19 shutdown.
 Let me bring in My colleagues as we stand by and wait for the Prime Minister.
 The host of "power & politics", Vassy kapelos and shalima shivji.
 I don't think this is an oil and gas announcement from what I'm hearing.
@@ -51,7 +51,7 @@ That was three long weeks ago.
 Whenever the government has been talking about this, they have been framing it as help for multiple vulnerable industries.
 As you mentioned, tourismt culture sector as well and the focus has been on workers.
 So, getting people back working on this.
-We are hearing regional developments will play a part in this, in terms of, as Vassy was mentioning, what certain areas are really feeling more particularly -- you know, certain tourism -- the focus on tourism, people aren't going on tour buses and people aren't, you know, signing up to go into museums and whatnot.
+We are hearing regional developments will play a part in this, in terms of, as Vassy Was mentioning, what certain areas are really feeling more particularly -- you know, certain tourism -- the focus on tourism, people aren't going on tour buses and people aren't, you know, signing up to go into museums and whatnot.
 So, it is really the focus on workers and that in particular across a broad spectrum of sectors that are really hard hit by this.
 
 
@@ -65,7 +65,7 @@ I'm going to -- I'll come back to both of you.
 While we wait to hear more from the Prime Minister about these details of various industries, Vassy talked a little bit there about what could happen in doing to help Alberta a. Let us go to Alberta to talk about what they are asking for because we know that the economy has been hit very hard.
 Not only by oil prices, but also the pandemic.
 a double whammy in that part of the country.
-and Jason Kennedy has said that it's possible that employment there -- the unemployment rate hits 25%, which would be just astounding.
+and Jason Kenny has said that it's possible that employment there -- the unemployment rate hits 25%, which would be just astounding.
 The cbc's Carolyn Dunn joins me from Calgary All right, Carolyn I know you talked to people in the industry regularly and there have been a lot of asks.
 It doesn't sound like this is the big, big package that they maybe were looking for.
 But there will be something here.
