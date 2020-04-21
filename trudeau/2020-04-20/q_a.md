@@ -4,7 +4,7 @@ First question Laura  "the Canadian press."line open.
 ---
 
 **Question**:
-Mr. Prime Minister. Conservative leader Andrew scheer accused you of being inflexible about the number of sittings in parliament. I wonder if there's any room fora compromise, two sittings per week, given that moving forward may be preferable to no deal at all?
+Mr. Prime Minister. Conservative leader Andrew schemer accused you of being inflexible about the number of sittings in parliament. I wonder if there's any room fora compromise, two sittings per week, given that moving forward may be preferable to no deal at all?
 
 **Answer**:
 Look, I don't want to get into arguments with anyone today. We are working together amongst all parties to try to figure outta way to both protect and uphold our democracy to ensure that there is proper accountability, while at the same time doing that responsibly. I'm hopeful we will be able to come to an appropriate arrangement.
@@ -65,7 +65,7 @@ I do not want to get involved in any partisan bickering today. I don't think tha
 Yes, good morning,  Trudeau. Will your government be introducing legislation to tighten up gun control, given what has just happened in Nova Scotia?
 
 **Answer**:
-Well, obviously there are many, many questions now and there is an investigation to be conducted as to what exactly happened in Nova Scotia. I don't want to draw any conclusions yet, but there will be a commitment in terms of tightening up gun control. We were to the point where we would have introduced legislation to ban assault weapons in this country. We will bring forward those measures again as soon as we have an opportunity to do so once we have come through COVID-19-19.
+Well, obviously there are many, many questions now and there is an investigation to be conducted as to what exactly happened in Nova Scotia. I don't want to draw any conclusions yet, but there will be a commitment in terms of tightening up gun control. We were to the point where we would have introduced legislation to ban assault weapons in this country. We will bring forward those measures again as soon as we have an opportunity to do so once we have come through 
 
 FOLLOW UP.
 
@@ -75,7 +75,7 @@ FOLLOW UP.
 Yes. In quÉbec this morning, construction workers have gone back to their construction sites. Now, is your government in support of this measure being taken in quÉbec and across the country potentially?
 
 **Answer**:
-Well, I think that the various jurisdictions are making their own decisions within their field of jurisdiction. I think it's up to each region and province to determine what can be done at what time. We are trying to coordinate these actions right across the country, but of course the decisions will be different from one place to the other. and of course it is absolutely critical that whatever decisions are made, the health and safety of workers and all Canadians to avoid the further spread of COVID-19-19 must be the top priority if we're talking about any type of work starting up again.[end of translation].
+Well, I think that the various jurisdictions are making their own decisions within their field of jurisdiction. I think it's up to each region and province to determine what can be done at what time. We are trying to coordinate these actions right across the country, but of course the decisions will be different from one place to the other. and of course it is absolutely critical that whatever decisions are made, the health and safety of workers and all Canadians to avoid the further spread of COVID-19 must be the top priority if we're talking about any type of work starting up again.[end of translation].
 
 ---
 
@@ -83,7 +83,7 @@ Well, I think that the various jurisdictions are making their own decisions with
 You promised a ban on assault-style weapons. Given what we know about the shooting in Nova Scotia, could that have prevented these crimes?if not, would you consider even tighter gun-control measures?
 
 **Answer**:
-As we know, this is very much an ongoing investigation that is in its early stages in Nova Scotia right now. So I don't want to jump to conclusions or make characterizations about what happens until we get a full accounting from the authorities. But in regards to gun control, we took very serious commitments in the election campaign and removing forward on them to make sure we're strengthening gun control in this country. I can say we were on the verge of introducing legislation to ban assault-style weapons acrossthe  It was interrupted when the pandemic caused parliament to besuspended.  have ever intention of movingforward  that measure and potentially other measures when the parliament returns.
+As we know, this is very much an ongoing investigation that is in its early stages in Nova Scotia right now. So I don't want to jump to conclusions or make characterizations about what happens until we get a full accounting from the authorities. But in regards to gun control, we took very serious commitments in the election campaign and are moving forward on them to make sure we're strengthening gun control in this country. I can say we were on the verge of introducing legislation to ban assault-style weapons acrossthe  It was interrupted when the pandemic caused parliament to besuspended.  have ever intention of movingforward  that measure and potentially other measures when the parliament returns.
 
 ---
 
@@ -91,12 +91,12 @@ As we know, this is very much an ongoing investigation that is in its early stag
 Would you return of relaxing some physical distancing measures to allow the people in Nova Scotia to bury their loved ones properly?
 
 **Answer**:
-I think that's a reflection that communities, that the province, and that all of us are going to have to have. We understand how incredibly painful it is for families who've lost loved ones in Nova Scotia this past day to imagine that they're not going to be able to see them off together as a community. But at the same time, there are thousands and thousands of Canadians across the country who've lost loved ones to COVID-19-19 over the past days and others who lost family members to cancer and to other causes who haven't been able to gather. To mourn, to grieve, to attend funerals. This is something that we are dealing with right now that is heart break on top of other heart breaks. and I know that everyone will be looking for ways to demonstrate their solidarity without putting further at risk communities, first  our health professionals, and our seniors.[speaking french] [voice of interpreter] I recognize that there are people who have lost loved ones in this past day or so in Nova Scotia. There are also people who have lost family members and friends or parents in the recent weeks because of COVID-19-19. They have been unable to come together for funerals or to mourn together. This is a difficult situation made even worse in times of lossand  But we must continue to try to be there for each other in thesetragic  and ensure that we are not creating greater risk for our loved ones, our neighbours, our first responders,  healthcare workers. We need to do everything we can to keep people safe and healthy. Even in the midst of this tragedy and pandemic.[end of translation].
+I think that's a reflection that communities, that the province, and that all of us are going to have to have. We understand how incredibly painful it is for families who've lost loved ones in Nova Scotia this past day to imagine that they're not going to be able to see them off together as a community. But at the same time, there are thousands and thousands of Canadians across the country who've lost loved ones to COVID-19 over the past days and others who lost family members to cancer and to other causes who haven't been able to gather. To mourn, to grieve, to attend funerals. This is something that we are dealing with right now that is heart break on top of other heart breaks. and I know that everyone will be looking for ways to demonstrate their solidarity without putting further at risk communities, first  our health professionals, and our seniors.[speaking french] [voice of interpreter] I recognize that there are people who have lost loved ones in this past day or so in Nova Scotia. There are also people who have lost family members and friends or parents in the recent weeks because of COVID-19.  have been unable to come together for funerals or to mourn together. This is a difficult situation made even worse in times of lossand  But we must continue to try to be there for each other in thesetragic  and ensure that we are not creating greater risk for our loved ones, our neighbours, our first responders,  healthcare workers. We need to do everything we can to keep people safe and healthy. Even in the midst of this tragedy and pandemic.[end of translation].
 
 ---
 
 **Question**:
-Prime Minister, waste Nova Scotia shooter on the federal government's radar?were any federal agencies watching him?
+Prime Minister, was the Nova Scotia shooter on the federal government's radar?were any federal agencies watching him?
 
 **Answer**:
 There are many questions people are asking about what happened and that investigation and the RCMP will be sharing details as they can and choose in the coming days. There will be many opportunities to talk about this once we have a clearer idea of the facts.
@@ -139,4 +139,4 @@ Well, this is a tragic situation that reminds us that unfortunately there is sti
 Now, will you be participating in that ceremony and could you introduce your gun control bill in the coming weeks?parliament will be sitting, so you could introduce it as early as this week.
 
 **Answer**:
-Yes, I intend to participate in the virtual vigils much as possible. We will most certainly be listening very carefully to  are saying with respect to more gun control. So we will look at what the options are when it comes to introduce that bill when the appropriate time is with us.[end of translation] I have every intention of participatingin  vigils. I know that many Canadians will want to express their solidaritywith  in Nova Scotia who are grieving. I am very much open to moving forward with our gun control legislation. I think there is always going to be questions of when is the right moment to do that. We are in the middle of a different crisis right now, but with parliament returning in some fashion over the coming weeks, I think we will look at opportunities to do just that.[end of translation].
+Yes, I intend to participate in the virtual vigil as much as possible. We will most certainly be listening very carefully to  are saying with respect to more gun control. So we will look at what the options are when it comes to introduce that bill when the appropriate time is with us.[end of translation] I have every intention of participatingin  vigils. I know that many Canadians will want to express their solidaritywith  in Nova Scotia who are grieving. I am very much open to moving forward with our gun control legislation. I think there is always going to be questions of when is the right moment to do that. We are in the middle of a different crisis right now, but with parliament returning in some fashion over the coming weeks, I think we will look at opportunities to do just that.[end of translation].
