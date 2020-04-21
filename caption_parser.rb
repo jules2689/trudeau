@@ -103,7 +103,7 @@ class CaptionParser
     if line[:speaker] && line[:speaker].downcase.strip == "question"
       "---\n\n#{line[:speaker]}:\n#{line[:msg]}\n"
     elsif line[:speaker] && line[:msg]
-      "#{line[:speaker]}:\n#{line[:msg]}\n"
+      "**#{line[:speaker]}**:\n#{line[:msg]}\n"
     elsif line[:msg]
       "#{line[:msg]}\n"
     else
