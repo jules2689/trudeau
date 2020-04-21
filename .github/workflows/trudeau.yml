@@ -18,11 +18,9 @@ jobs:
         ruby captions.rb "${{ secrets.GOOGLE_TOKEN }}"
     - name: Commit Dialog
       run: |
-        if [ -z "$(git status --porcelain)" ]; then
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add --all .
-          git commit -m "Add new dialog from Trudeau" || true
-          remote_repo="https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git"
-          git push "${remote_repo}" HEAD:${{ github.ref }} --follow-tags
-        fi
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add --all .
+        git commit -m "Add new dialog from Trudeau" || true
+        remote_repo="https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git"
+        git push "${remote_repo}" HEAD:${{ github.ref }} --follow-tags

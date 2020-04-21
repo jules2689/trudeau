@@ -13,6 +13,7 @@ class CaptionParser
     dialog_buffer = ""
     texts = Nokogiri::XML.parse(@raw_captions).css('text').map(&:text)
     puts "Found #{texts.size} lines of text"
+    return false if texts.size == 0
     
     texts.each do |line|
       # Changing a person speaking, commit to the dialog
@@ -40,7 +41,8 @@ class CaptionParser
     
       dialog_buffer += line
     end
-    @dialog
+
+    true
   end
 
   def write_output(output_path)

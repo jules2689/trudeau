@@ -49,10 +49,10 @@ videos.each do |id, video|
     end
 
     captions = caption_download(id)
-    puts id
     parser = CaptionParser.new(captions)
-    parser.parse
-    parser.write_output(video_output_path)
+    if parser.parse
+      parser.write_output(video_output_path)
+    end
   end
 end
 
