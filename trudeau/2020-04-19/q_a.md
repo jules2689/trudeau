@@ -85,7 +85,7 @@ We know that people want to know when this is going to end and when we can relax
 
 
 **Reporter**:
-There are reports of 12 people sickened in alberta and other places of the country from that. Should measures be in place to make sure that returning workers isolate whether or not they have symptoms.
+There are reports of 12 people sickened in Alberta and other places of the country from that. Should measures be in place to make sure that returning workers isolate whether or not they have symptoms.
 
 **Prime Minister Trudeau**:
 We all understand how important it is to keep workers in essential businesses, workers who continue to work as safe as possible. Safety of workers, of their families as well needs to be the primary consideration of any government and I certainly expect that to be that one as well.
