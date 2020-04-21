@@ -17,8 +17,8 @@ Or taking the kids to the park.
 But these aren't normal times.
 We're living through an unprecedented public health emergency and we need to keep responding accordingly.
 Even as the weather gets nicer and we start to see hopeful news, we can't let up. Because if we do, we could lose the progress that we've made.
-Later today you may see some newads with  you know like hayley wickenheiser   Tam.
- they are urging people to stay at home.
+Later today you may see some newads with  you know like hayley wickenheiser and Dr. Tam.
+and they are urging people to stay at home.
 Limit your trips to the grocery store to once a week.
 If you do go out, keep 2 metres of distance between yourselves.
 As you do your part, know that we are here to support you.
@@ -50,7 +50,7 @@ We'll have more to say soon on the help for indigenous businesses and the people
 Small business owners are at theheart of so many communities, and this is a  time, whether you own a store, restaurant, or are part of the hospitality sector.
 We're going to be there for you and with investments like the Canada emergency response benefit and the wage subsidy, we're focused on helping you.
 It will get easier, but until itdoes, we need to be prepared to persevere.
-That  ensuring that our frontline workers have the equipment and tools they need  their jobs and stay safe.
+That  ensuring that our frontline workers have the equipment and tools they need todo their jobs and stay safe.
 Yesterday two planes  of n95masks and coveralls arrived in Canada.
 More shipments will be coming this week and into this weekend with additional medical supplies.
 I can announce we will begin receiving face shields from toronto stamp very soon.
@@ -59,9 +59,9 @@ They've shifted from their usualproduction of  stamps and I. D. badges and will 
 [speaking french] 
 
 [voice of interpreter] Canada continues tocontinue to receive shipments ofindividual protective equipment.
-Yesterday two planes arrived  of n95 masks  coveralls and more will arrive over the weekend or next week.
+Yesterday two planes arrived  of n95 masks and coveralls and more will arrive over the weekend or next week.
 We are all very anxious to see when this will be over.
-We are all to see a saturday when we can meet with friends ortake our children to  birthday party.
+We are all to see a saturday when we can meet with friends ortake our children to a birthday party.
 That time will come,  only ifeveryone continues to do their part.
 So this weekend, please stay  Continue to follow the experts' guidelines.
 Together, we will get through this.

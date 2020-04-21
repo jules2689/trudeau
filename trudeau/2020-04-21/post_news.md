@@ -3,8 +3,8 @@
 **Rosemary**:
 All right.
 That is the Prime Minister of Canada with his daily update on how his government is tackling the pandemic.
-I'm going to bring back Gassy and David and each 30 seconds because we're close to the top of the clock.
- you can have the first 30.
+I'm going to bring back Vassy and David and each 30 seconds because we're close to the top of the clock.
+Vassy, you can have the first 30.
 
 
 
@@ -30,22 +30,22 @@ But prices may very well go up.
 
 
 **Rosemary**:
- Thank you both very much.
+Ok. Thank you both very much.
 So succinct.
-I should make you do that all the time.[laughter]Vassy kapelos   cochrane.$350   Vassy talked  there does not include the option for charities for wage subsidies.
+I should make you do that all the time.[laughter]Vassy kapelos and  cochrane.$350   Vassy talked about there does not include the option for charities for wage subsidies.
 While their ask was substantive at $10 billion, they get $350 million to help them and they can also start using the wage subsidy, which we'll get more details about at noon eastern at the next federal briefing coming up and we'll bring you up to date on any new information we have about the shooting rampage in Nova Scotia which has killed as many as 20 people now.
 We are not necessarily expecting to get a briefing from the local RCMP today.
 But we will get some details probably via press release in terms of how their investigation over those 16 different crime scenes is going and we'll talk about that at the top of the clock as well and bring you all details in terms of the stories that we're learning about the people that were killed over the course of weekend in Nova Scotia as that community and that whole province continues to strugle with  during the time of the pandemic.
 Also incountried ble   them on so many fronts.
-Ok. I  I'm going to wrap it up. We'll hear shortly from our federal cabinet ministers who will give us a short briefing more about the wage subsidy that opens up on monday and  public health update to give us a sense of how we're doing in fighting the pandemic.
+Ok. I  I'm going to wrap it up. We'll hear shortly from our federal cabinet ministers who will give US a short briefing more about the wage subsidy that opens up on monday and a public health update to give US a sense of how we're doing in fighting the pandemic.
 Some encouraging signs.
 But we still have to keep doing what we're doing.
 The sky is looking better in ottawa.
-We'll  right back on cbc news  after this.[please stand by] they said yesterday one of the reasons that the death toll, thenumber of casualties  fatalities is going up is because officers are only now getting access to a few of the numerous sites across the province.
+We'll  right back on cbc news  after this.[please stand by] they said yesterday one of the reasons that the death toll, thenumber of casualties and fatalities is going up is because officers are only now getting access to a few of the numerous sites across the province.
 and so they will be combing through the that the application process will open up in a week's time.
 That is significant to business owners.
 There has been some information provided to a committee on the length of time.
-Your producer helped us with that.
+Your producer helped US with that.
 The time to get money into the pockets of business owners.
 That is something we'll be looking for more details on fromminister duclos.
 I   time line, the issueof time for  is huge.
@@ -148,7 +148,7 @@ I think they said after the consultation they wanted to campaign on it to get a 
 You're right, there will be questions.
 Thank you, both.
 I'll take the viewers to the federal briefing.
-Deputy Prime Minister  Free land is speaking about what happened in Nova Scotia.
+Deputy Prime Minister Chrystia Freeland is speaking about what happened in Nova Scotia.
 
 
 
@@ -156,10 +156,10 @@ Deputy Prime Minister  Free land is speaking about what happened in Nova Scotia.
 It is to difficult to process it when they are lost.
 At the events in Nova Scotia over the weekend.
 This would be a tragedy at any time.
-But for this to happen now as nova Scotia's are all making great personal sacrifices to preserve life is a particular horror and particular sorrow.
+But for this to happen now as nova Scotians are all making great personal sacrifices to preserve life is a particular horror and particular sorrow.
 To the people of Nova Scotia, all Canadians with are you in your grief.
 So today we will hear from Canada's chief public health officer, Theresa Tam.
-The deputy chief public, dry Howard 
+The deputy chief public, Dr. Howard 
 
 
 
@@ -172,13 +172,13 @@ Canadians are continuing to practise social distancing, physical distancing, and
  health authorities are closely monitoring for continuedand  slowing of the epidemic, while carefully considering approaches to ease public health restrictions when and where there is possible.
 But there are hard truths that haven't changed.
 This is a marathon and we're going to have to plan, pace ourselves and not take sharp turns.
-The second truth, there is stilla  of unknowns and no 100% proven path before us. To get this right, there will bea  to learn as we go, evaluate and adjust as we take cautious steps.
-These next steps may sound challenging, but there are things we learned and things we know will keep us safe as we carefully navigate this path forward together.
+The second truth, there is stilla  of unknowns and no 100% proven path before US To get this right, there will bea  to learn as we go, evaluate and adjust as we take cautious steps.
+These next steps may sound challenging, but there are things we learned and things we know will keep US safe as we carefully navigate this path forward together.
 We know that the epidemiology ineach  is different, so the approaches won't all be the same.
 We know the timing, types and range of public health measures will be tailored to address the unique challenges and context ofthe  in each province andterritory.
  additional measures may need be to adopted and maintained to protect vulnerablepopulations  high-risk settings within jurisdictions.
-Most importantly, we know that Canadians have demonstrated whathas worked  slow the spread ofthis disease  what has kept our health system from being overwhelmed.
-There is no doubt that our sacrifices and everyday inconveniences over the past weeks have prevented an explosive outbreak in Canada like the ones that overwhelm health care systems in places like italy, spain   york.
+Most importantly, we know that Canadians have demonstrated whathas worked  slow the spread ofthis disease and what has kept our health system from being overwhelmed.
+There is no doubt that our sacrifices and everyday inconveniences over the past weeks have prevented an explosive outbreak in Canada like the ones that overwhelm health care systems in places like italy, spain and  york.
 What  this tells us, we can'tbe too confident.
 We can't let our guard down.
 and we can't afford to have any weak points in our system.
@@ -189,7 +189,7 @@ Thank you.
 
 
 **Chrystia Freeland (Deputy Prime Minister)**:
-Thank you.[speaking french]we will now hear from dr. Njoo.
+Thank you.[speaking french]we will now hear from Dr. Njoo.
 
 
 
@@ -198,7 +198,7 @@ HELLO.THERE ARE NOW 37,374 CONFIRMED CASES INCLUDING 1, 728 DEATHS.WE HAVE TESTE
 
 
 **Chrystia Freeland (Deputy Prime Minister)**:
-Thank you, dry  Now we'll hear from the minister of families.
+Thank you, Dr.  Now we'll hear from the minister of families.
 
 
 
@@ -215,16 +215,16 @@ Now we will hear from the president of the treasury board, jean-yves
 **Hon.
 Jean-Yves Duclos**:
 Thank you.
-The spread of  has brought about unprecedented circumstances for Canadian businesses and workers.
+The spread of COVID-19 has brought about unprecedented circumstances for Canadian businesses and workers.
 Our government is committed to helping Canadian employers support their employees during these very tough times.
-That is why the Prime Minister again this morning has reiterated and announced the introduction of the Canada emergency wage subsidy in order to help businesses support their employees in these very difficult times.[speaking french][voice of interpreter] our government is committed to helping canadian businesses  their employees during these difficult times.
-That is why this morning the Prime Minister announced new information about the Canada emergency wage subsidy which will help employers pay their employees' salaries during the COVID-19 crisis.[end  translation] designed tohelp employers keep  rehire workers amidst the challenges possessed by the COVID-19 epidemic.
-Having  ability to retain staff and rehire people will putemployers in the  possible position to resume normal circumstances once circumstancesdo allow it.  health and wellness of Canadians is almost -- is also that much better when people have the ability to pay their bills, their rent and buy food for their families.
+That is why the Prime Minister again this morning has reiterated and announced the introduction of the Canada emergency wage subsidy in order to help businesses support their employees in these very difficult times.[speaking french][voice of interpreter] our government is committed to helping canadian businesses and their employees during these difficult times.
+That is why this morning the Prime Minister announced new information about the Canada emergency wage subsidy which will help employers pay their employees' salaries during the COVID-19 crisis.[end of translation] designed tohelp employers keep and rehire workers amidst the challenges possessed by the COVID-19 epidemic.
+Having the ability to retain staff and rehire people will putemployers in the  possible position to resume normal circumstances once circumstancesdo allow it.  health and wellness of Canadians is almost -- is also that much better when people have the ability to pay their bills, their rent and buy food for their families.
 It is a government's intent to keep as many Canadians working as possible and the implementation of the Canada emergency wage subsidy is one ofthe measures in  to supportthis goal.[speaking french][voice  interpreter] the Canada emergency wage subsidy covers upto 75% of employees' salaries.
 This  be up to $847 per worker per week for up to a maximum of 12 weeks.
 The subsidy is back dated to march 15 and businesses will be able to apply as of next monday, april 27. The Canada revenue   administer the wage subsidy programme on behalf of the  of Canada.
 This programme will send funds to  of canadian businesses each week.
-The Canada revenue agency is committed to helping workers andbusinesses.[end of translation] announcing a  emergency wage subsidy web page.
+The Canada revenue agency is committed to helping workers andbusinesses.[end of translation] announcing a Canada emergency wage subsidy web page.
 The page includes a calculator that will help employers to determine quickly the subsidy amount they can expect to claim based on the information that they enter into the calculator.
 The government is grateful for the input we have received from many stakeholders during our consultations in the last few weeks.
 These consultations have led to the efficient and quick launch of the website to date.[speaking french][voice of interpreter] I am happy to announce to Canadians that todaythe Canada revenue agency is launching a calculator  its website to help employers prepare for their application to the wage subsidy which will helptheir employees.
@@ -233,7 +233,7 @@ Until  businesses are invited  update their businessaccount on the Canada revenu
 Technical debriefing  will also be offered this afternoon to the media.[speaking french][voice of interpreter] businesses will be able to file their applications for the Canada emergency wage subsidy as of april 27th.
 We expect that 90% of applications will have been processed   5th and this will quickly be followed by direct deposits and  being sent out.
 Until then, businesses are invited to update their profileson the Canada revenue agency website.
-This afternoon, there will be  technical briefing for media.
+This afternoon, there will be a technical briefing for media.
 Our government is committed to continue to support businesses and workers who are facing unprecedented challenges in the context of the pandemic.
 Thank you.
 Now we're ready to take questions.
@@ -258,9 +258,9 @@ MY QUESTION IS FOR DR. TAM.DR. TAM, YOUR COUNTERPART IN THEU.S., DR. FAUCI, TALK
 
 **Dr. Theresa Tam**:
 So right now together with all the chief medical officers of health, we're looking at the next phase, if you like, again stressing extreme caution in how we have to keep going right now with the measures that we have.
-We know that population immunity is not going to be high.
+We know that population immunity's not going to be high.
 So we have to move extremely carefully.
-I think we will be looking at all different kinds of  activities and providing what -- there has to be a risk-based approach, a riskassessment,  that will include this area.
+I think we will be looking at all different kinds of  activities and providing what -- there has to be a risk-based approach, a riskassessment, and that will include this area.
 So -- but I think as some of these innovative thinking is coming together, these are some of the ideas, but again that two-metre distance and ensuring that we don't spread the illnessis extremely  which ever solution people are going to think of. So absolutely, I think every sector should begin some thinking about how innovative they can be in maintaining social distance.
 Because we don't have other specific measures to treat or vaccines, so any sort of -- the new normal must take into account stopping the spread of the virus like we have now.
 But I think -- the other perspective I have is just engaging the communities and thesectors that  looking at their own specific situations, because public health can't possibly assess every setting.
@@ -302,7 +302,7 @@ My question is should we still trust them?and more specifically when you're look
 
 **Dr. Theresa Tam**:
 So as we've always said modelling is for planning purposes and not there to accurately tell you what the numbers are every single day.
-and every single day we re look at those projections, they will change depending on the actual cases reported.
+and every single day we relook at those projections, they will change depending on the actual cases reported.
 So as I said several days ago, the 24 hours following that, those projections will already have changed.
 So I think that is some of the difficulty if you're trying to communicate where we're at. It is in a similar range of the severity.
 and it is a reflection of the population that is most impacted right now in many areas of the country and those are the seniors and those who are in long-term care homes.
@@ -359,7 +359,7 @@ I think as work with all the chief medical officers of health, so any recommenda
 Sure, I think having facial covering if you're not in the health care setting -- we've said you need to preserve actual personal protective equipment for that circumstance.
 and masks do not replace all the other important measures that we do know work in terms of physical distancing, hand-washing, hygienic measures, but it does form another layer of protection, which can be applied when you can't maintain that two-metre distance.
 So that is -- depending on what setting you're talking about, that is something that definitely can be considered.
-In the transportation on a plane, as one can imagine, social distancing would be quitechallenging, which  why that policy was added as well as in our quarantine act when we have now mandatory orders for symptomatic and asymptomatic travellers, isolation and quarantining for the 14 days.
+In the transportation on a plane, as one can imagine, social distancing would be quitechallenging, which is why that policy was added as well as in our quarantine act when we have now mandatory orders for symptomatic and asymptomatic travellers, isolation and quarantining for the 14 days.
 We also now provide a requirement for the wearing of amask as  are transferring to their place of quarantine as well.
 
 
@@ -405,16 +405,16 @@ One area we stressed we need to make sure that enough capacity to contact-tracin
 and we have offered that support.
 There is a number of volunteers and people who signed through a portal in terms of people who can help.
 So provinces can draw on those rosters in terms of support for contact-tracing.
-But the numbers are up to individual, even the health authority at the local level, tofigure out how  they need and to let us know if they need anything else, but I know that the whole public health system knows that contact-tracing is going to be very important as welook towards that next 
+But the numbers are up to individual, even the health authority at the local level, tofigure out how  they need and to let US know if they need anything else, but I know that the whole public health system knows that contact-tracing is going to be very important as welook towards that next 
 
 
 
 **Patty Hajdu (Minister of Health)**:
-I'll add, it is extremely important we understand the investments we make in public health, both fro ma prevention perspective and a public health perspective are critical to the next steps of whether you call it reopening the economy or moving forward in terms of recovering from the pandemic.
+I'll add, it is extremely important we understand the investments we make in public health, both from prevention perspective and a public health perspective are critical to the next steps of whether you call it reopening the economy or moving forward interns of recovering from the pandemic.
 That if we don't have local health capacity we'll be hindered in our abilities.
 We have that conversation with provinces and territories at the health Minister table.
 It is very important we continue to redouble our efforts to support public health.
-and I think dry Tam is completely accurate when she says that public health is local.
+and I think Dr. Tam is completely accurate when she says that public health is local.
 That this is something that happens at the municipal level.
 That is often funded provincially, but facilitated at the local level in partnership with municipalities.
 
@@ -439,17 +439,17 @@ I'm not sure if it's for patty hajdu.
  not sure.
 We know the union sounded the alarm a week ago when there was 38 cases, now there is 484.
 Somebody dropped the ball.
-Who is going to make sure these places are safe to work in?and who can tell us if the meat packed in these COVID-19-filled plants  safe to eat?
+Who is going to make sure these places are safe to work in?and who can tell US if the meat packed in these COVID-19-filled plants is safe to eat?
 
 
 
 **Patty Hajdu (Minister of Health)**:
-I'll start with the overview and then turn to dry Tam because she's been involved in the meat packing plant outbreaks and other fa facilities.
+I'll start with the overview and then turn to Dr. Tam because she's been involved in the meat packing plant outbreaks and other fa facilities.
 It's critical important that every sector realize and back to earlier comments, that every sector realize they are going to have to extremely thoughtful about the measures they take and put into place to protect their employees because it's not just a matter of a nice thing to do, it's an essential component to ensuring their industry remains strong and able to continue to provide the services or the goods that they -- that they provide.
 We obviously support industry as well as public sectors in responses and public health agency of Canada is and has been working on guidance for a variety of different essential workers and we're very concerned about outbreaks in the food supply chain.
 Obviously, this has a critical importance, not just to the industry, but to the many Canadians along that chain, but also the Canadians that ultimately end up being consumers of the products that farmers are producing.
 So we have our eye on this very closely right now.
-I'll turn to dry Tam to talk about the details of that particular plant.
+I'll turn to Dr. Tam to talk about the details of that particular plant.
 
 
 
@@ -469,13 +469,13 @@ Of course, we provide the guidance that I think the implementation is never as e
 **Rosemary**:
 We're going to pull away from the federal briefing.
 If you want to continue watching, go to our website.
-I'll bring in David  to help us wrap that up. I will say, I take little glimmers of optimism where I can get them and dry Tam did say  prevented an explosive outbreak in Canada as we've seen in other parts of the world".as we get to maybe the second phase of this, whatever that might bring, that is encouragingnews.
+I'll bring in David  to help US wrap that up. I will say, I take little glimmers of optimism where I can get them and Dr. Tam did say  prevented an explosive outbreak in Canada as we've seen in other parts of the world".as we get to maybe the second phase of this, whatever that might bring, that is encouragingnews.
  to you on what you wanted to talk about.
 
 
 
 **Reporter**:
-I think we're getting more clarity on the questions that were ran by Andrew  the conservative leader, but planes coming back from china empty.
+I think we're getting more clarity on the questions that were ran by Andrew scheer, the conservative leader, but planes coming back from china empty.
 and gotten a statement from the Minister of public services and procurement on what happened.
 Two planes did come back from shanghai without their lead of PPE.
 Gear they were sent to get.

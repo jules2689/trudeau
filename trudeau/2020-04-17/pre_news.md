@@ -1,11 +1,11 @@
 
 
-I'm rosemary  Thank you for joining us on  CBC news network, or streaming around the world.
+I'm rosemary  Thank you for joining US on  CBC news network, or streaming around the world.
 We are, as we do at this time of day, standing by to hear from Prime Minister Justin  He is expected today to respond to some of the urgent appeals to support various industries across Canada.
 For weeks, as his government has been rolling out emergency aid for Canadian businesses and workers.
-The Prime Minister has also been promising second -- sect oral help by certain industries that have been hit particularly hard by the  shutdown.
+The Prime Minister has also been promising second -- pectoral help by certain industries that have been hit particularly hard by the COVID-19 shutdown.
 Let me bring in My colleagues as we stand by and wait for the Prime Minister.
-The host of "power & politics", Gassy  and   I don't think this is an oil and gas announcement from what I'm hearing.
+The host of "power & politics", Vassy  and   I don't think this is an oil and gas announcement from what I'm hearing.
 But there will be components that will help Alberta and other places.
 
 
@@ -15,7 +15,7 @@ Yeah, and I'll tell you why I think we've all been asking various people in gove
 Back at the end of march, I think it was the  or  bill  said help for the oil patch would be coming in hours or days.
 That didn't materialize.
 There is sort of a double whammy when it comes to the oil patch right now.
-Not just because of  and decreased demand for oil, much decreased demand, but also this price war that emerged between Russia and Saudi Arabia that kind of got resold last week, but didn't really end up buoying oil prices.
+Not just because of COVID-19 and decreased demand for oil, much decreased demand, but also this price war that emerged between Russia and Saudi Arabia that kind of got resold last week, but didn't really end up buoying oil prices.
 They're at all-time lows.
 a barrel of canadian  was selling for less than $5. The idea was -- or the question raised to the government is going to be is there specific help for the sector?and what might that help look like?there's been two specific asks for it. The first is orphan wells.
 These are sites that the company ended up going broke and didn't clean up. It's estimated the cleanup of those sites could cost billions of dollars, upwards of $8 billion, one assessment put out there.
@@ -42,12 +42,12 @@ Are we expecting that -- it should be fairly substantive, I would guess, too, ta
 
 **Reporter**:
 Yeah.
-We're hearing it is across multiple sectors and that has been the focus from the government from the git-go. As Vassy  bill more know did talk about help for the oil and gas sector coming within hours.
+We're hearing it is across multiple sectors and that has been the focus from the government from the git-go. As Vassy mentioned, bill more know did talk about help for the oil and gas sector coming within hours.
 That was three long weeks ago.
 Whenever the government has been talking about this, they have been framing it as help for multiple vulnerable industries.
 As you mentioned, tourismt  sector as well and the focus has been on workers.
 So, getting people back working on this.
-We are hearing regional developments will play a part in this, in terms of, as Vassy Was mentioning, what certain areas are really feeling more particularly -- you know, certain tourism -- the focus on tourism, people aren't going on tour buses and people aren't, you know, signing up to go into museums and whatnot.
+We are hearing regional developments will play a part in this, in terms of, as Vassy was mentioning, what certain areas are really feeling more particularly -- you know, certain tourism -- the focus on tourism, people aren't going on tour buses and people aren't, you know, signing up to go into museums and whatnot.
 So, it is really the focus on workers and that in particular across a broad spectrum of sectors that are really hard hit by this.
 
 
@@ -57,7 +57,7 @@ and one of the things that the government has said is that the first priority wa
 Ab don't know if that includes even the airline industry, which, as we know, is what's happening to the wage subsidy benefit, which is not working yet, up and running yet.
 But maybe they also are looking for some substantive money.
 I'm going to -- I'll come back to both of you.
-While we wait to hear more from the Prime Minister about these details of various industries, Gassy talked a little bit there about what could happen in doing to help Alberta a. Let us go to Alberta to talk about what they are asking for because we know that the economy has been hit very hard.
+While we wait to hear more from the Prime Minister about these details of various industries, Vassy talked a little bit there about what could happen in doing to help Alberta a. Let US go to Alberta to talk about what they are asking for because we know that the economy has been hit very hard.
 Not only by oil prices, but also the pandemic.
 a double whammy in that part of the country.
 and Jason kenned has said that it's possible that employment there -- the unemployment rate hits 25%, which would be just astounding.
@@ -80,7 +80,8 @@ But what's really interesting is that orphan well package and I expect that we h
 There are more than 150, 000 orphaned wells in Alberta.
 Those are wells that have been abandon and they're not being serviced.
 So just sitting, wrecking farmer's fields, really.
-and a it would be, you know, billions of dollars, perhaps $8 billion to remediate  What it might mean at this time is sort of a double whammy that would put oil workers back to work cleaning those up and get them cleaned up. Normally it would come under a lot of criticism that taxpayers will be paying to clean up the mess that oil companies left.
+and a it would be, you know, billions of dollars, perhaps $8 billion to remediate those.
+What it might mean at this time is sort of a double whammy that would put oil workers back to work cleaning those up and get them cleaned up. Normally it would come under a lot of criticism that taxpayers will be paying to clean up the mess that oil companies left.
 But these are not normal times as you know.
 So if there is some help for orphan wells, it could actually help the industry by keeping people working and deal with a real environmental problem here in Alberta.
 
@@ -109,7 +110,7 @@ How are things there?obviously your industry, what you're doing isn't happening 
 
 **Caller**:
 Absolutely.
-The impact of  on our tourism here in Newfoundland and Labrador has really been devastating.
+The impact of COVID-19 on our tourism here in Newfoundland and Labrador has really been devastating.
 The tourism industry is really important to the province.
 We have maybe 20, 000 people working in the industry and maybe 2500 small businesses.
 The organization that I work for, destination st. John's, represents st. John's region.
@@ -163,19 +164,19 @@ THANK YOU.
 
 
 **Rosemary**:
- Cathy duke, c. E.o. Of destination st. John's, agency of tourism for that province which, of course, is another sector that has been hit hard.
-Just to give you a sense of how bad things are, and then I'll bring in Vassy,  accommodation and food services sector in this country has shrunk by a quarter.
+Ok. Cathy duke, c. E.o. Of destination st. John's, agency of tourism for that province which, of course, is another sector that has been hit hard.
+Just to give you a sense of how bad things are, and then I'll bring in Vassy, the accommodation and food services sector in this country has shrunk by a quarter.
 I.t. Arts and culture lost 13% of all its jobs.
 Education, 9%.wholesale and retail trade lost 7%.the only place that continues to add some jobs, other than grocery stores and essential services work would be agriculture.
 Nearly 7, 000 jobs there created as obviously the reliance on the domestic food chain becomes more and more important.
-I'll bring in My colleagues again and turn to you, Vassy, about  guess the ways in which the government has tried to shore up support.
+I'll bring in My colleagues again and turn to you, Vassy, about it guess the ways in which the government has tried to shore up support.
 and how this might be different given that there are particular areas, of course, that are basically not functioning anymore.
 
 
 
 **Vassy**:
 Yeah.
-I think we've seen the unveiling and rolling out of two giant financial aid packages, right?the first being directed at individuals who have to stay home because of COVID-19,  can't work, and who have lost most, if not all of their income.
+I think we've seen the unveiling and rolling out of two giant financial aid packages, right?the first being directed at individuals who have to stay home because of COVID-19, who can't work, and who have lost most, if not all of their income.
 They're getting right now $2, 000 and, as you reminded our viewers yesterday, they should be re-applying for the second month, which they might need that money.
 That was the first step.
 The second step was aimed at businesses.
@@ -186,7 +187,7 @@ I I think they had 220, 000 applications approved so far.$8.8 billion worth of c
 So, the need is clear and it's evidents.
 However,  you've been discussing with carolyn and  last guest, there are certain sectors and the Prime Minister always -- I've noticed names in tandem.
 Airlines, tourism and the I'll patch.-- oil patch.
-Those are clearly what the government has indicated and what we can discern from what we see in front of us as sectors, industries that are particularly hard hit.
+Those are clearly what the government has indicated and what we can discern from what we see in front of US as sectors, industries that are particularly hard hit.
 They're sort of suffering from double or triple whammies.
 So, you know, what we're looking towards here from the Prime Minister is beyond an acknowledgment that that is the case.
 Some specifics about how the government plans to address the more acute needs in those industries.
@@ -231,7 +232,7 @@ and we heard earlier from conservative leader and doctor sheer and that is the r
 It, too, was on a deadline.
 All parties had agreed that it would be suspended until monday unless they  reach another agreement to continue that suspension.
 As of now, there is no deal on, that either.
-and andrew scheer has   very hard to see in-person sitings.
+and andrew scheer has  pushing very hard to see in-person sitings.
 He is asking  four times a week.
 Doesn't sound like that is acceptable to the government.
 and it doesn't even sound like other partis are interested in  in and having MPs here in a  capacity for that many days of week.
@@ -239,7 +240,7 @@ But it is something that conservatives continue to push.
 and for now, there is no deal.
 and if they don't get a deal by monday, which I imagine  will, we would be in a place where the house of commons would have to resume.
 Which obviously would fly in the face of public health directives.
-Another issue to keep your eye on. and I will bring in Vassy because there is  two-minute warning.
+Another issue to keep your eye on. and I will bring in Vassy because there is another two-minute warning.
 I don't know if I can do that much on My own.[laughter]maybe we'll just pick up on that issue that the conservatives are pushing very hard for increased accountability and increased questions to the government, which, you know, I totally get.
 But I'm not sure that we are -- it doesn't sound like we're anywhere near close on a deal in terms of everyone agreeing that one or two or three times a week will actually happen.
 

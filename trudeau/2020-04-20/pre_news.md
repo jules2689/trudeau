@@ -1,20 +1,20 @@
 
 
 Ottawa.
-Thanks for being with us on CBC news, CBC news network, live streaming around the world on the CBC app and on CBC News.
+Thanks for being with US on CBC news, CBC news network, live streaming around the world on the CBC app and on CBC News.
 Ca. We are standing by to bring you the Prime Minister's briefing.
 This is not like another briefing.
-Nova Scotia's are trying to come to terms with a mass shooting, gunman killing at least 16 people.
+Nova Scotians are trying to come to terms with a mass shooting, gunman killing at least 16 people.
 We're hearing more about the victims, their names, their stories.
 a RCMP constable, a grade schoolteacher, a volunteer firefighter, and a nurse among the dead.
 We are expecting an update from Nova Scotia at 2:00 local time.
 We are expecting the Prime Minister to address this today as well, but because of the nature of this story and how important it is, we will start in Nova Scotia.
-Brett Ruskin and tom Murphy  Brett is in  where this all began, but we'll start with tom in Halifax for the latest on what we know.
+Brett Ruskin and tom Murphy  Brett is in Portapique where this all began, but we'll start with tom in Halifax for the latest on what we know.
 
 
 
 **TOM**:
-We're expecting an rcmpbriefing in a couple of hours now to shed more light on what happened.
+We're expecting an  in a couple of hours now to shed more light on what happened.
 We're hearing of more victims.
 The count is up to 17 including the killer.
 You mentioned the occupations of some of those people.
@@ -38,7 +38,7 @@ What more do we know about him or his interactions or connections to the communi
 
 **TOM**:
 He's a mystery.
-People in his community of  where he lived and  where he had a  people liked him.
+People in his community of Portapique where he lived and  where he had a  people liked him.
 They felt he was a good community person.
 There is the other side of him that is being exposed.
 This is a guy who had a penchant for old police cars.
@@ -62,9 +62,9 @@ She would do interviews for the RCMP.
 I know some people from the media know her and there has been some reaction coming in about how important she was in people's lives in this part of the province.
 We know three of the people who died in the fire in  one of those was a corrections officer.
 That's a loss that that professional community is feeling as well.
-Two Victoria order nurses staff members, who were busy helping in the  fight.
+Two Victoria order nurses staff members, who were busy helping in the COVID-19 fight.
 They died as well.
-and Lisa  who died and left behind a family.
+and Lisa McCully who died and left behind a family.
 
 
 
@@ -94,22 +94,22 @@ This is taking this community byshock.
 
 
 **Rosemary**:
-Brett Ruskin in  and tom  in  As Brett mentioned, the investigation is spanning over at least 50 kilometres.
+Brett Ruskin in Portapique and tom  in  As Brett mentioned, the investigation is spanning over at least 50 kilometres.
 There is an RCMP briefing we are expecting that will be an important one.
-The Prime Minister is expected to give his daily briefing outside  cottage in about eight minutes or so. We do expect him to spend a lot of time talking about what happened in Nova Scotia, given the magnitude of the tragedy.
+The Prime Minister is expected to give his daily briefing outside Rideau cottage in about eight minutes or so. We do expect him to spend a lot of time talking about what happened in Nova Scotia, given the magnitude of the tragedy.
 I want to show viewers the inside of the house of commons.
-That's where I'll bring in My colleagues the host of "power & politics," Gassy  and David  In the midst of this it seems the house of commons has returned because there was no agreement between four of the parties and the conservatives to do something different.
+That's where I'll bring in My colleagues the host of "power & politics," Vassy  and David  In the midst of this it seems the house of commons has returned because there was no agreement between four of the parties and the conservatives todo something different.
 This is also something that is preoccupying Ottawa right now.
- what is the latest we know?
+Vassy, what is the latest we know?
 
 
 
 **Vassy**:
-The latest I'm hearing is there will be a motion introduced by the liberals.
+The latest I'm hearings there will be a motion introduced by the liberals.
 and the nature of the tension I should just say is over how many times they should be meeting.
 The liberals are offering once a week in person and then some virtual, supplemental sessions.
 The n. D.p. and the bloc quÉbÉcois are supportive of thatin  forms.
-The conservatives are arguing for more in-person sessions withreduced MPs  MP understanding is the liberalswill introduce  motion with that plan in plan, one that the rest of the parties agree to. It might take up most of the dayand then  will be some kindof vote  it. All of that is subject to change.
+The conservatives are arguing for more in-person sessions withreduced MPs  My understanding is the liberalswill introduce a motion with that plan in plan, one that the rest of the parties agree to. It might take up most of the dayand then  will be some kindof vote  it. All of that is subject to change.
 As you've been reporting, rosie, it's  minute to minuteand hour  hour, and also set against the backdrop of everything you've been talking about.
 Difficult to I guess see the sort of benefits of all this arguing right now.
 I think that -- expect some sortof agreement  most of theparties.
@@ -130,15 +130,15 @@ David, your perspective.
 
 **David**:
 It's interesting.
-Andrew schemer has been like an auctioneer going in reverse.
+Andrew scheer has been like an auctioneer going in reverse.
 He wanted five days a week and now he's down to three days a week.
 That has been the compromise that the other parties have agreed to. The greens don't want any session unless there is a vote.
 The bloc is content to have rules of engagement so they don't have to go through this every time they have to come back.
 Yves-franÇois blanchet  the conservatives of holding them hostage.
-While there's an obsession here about the numbers of sittings and the numbers of hours of question period, I think the country might be worried about other numbers, 35, 000 cases of COVID-19,  16 deaths in Nova Scotia due to a shooting.
+While there's an obsession here about the numbers of sittings and the numbers of hours of question period, I think the country might be worried about other numbers, 35, 000 cases of COVID-19, and 16 deaths in Nova Scotia due to a shooting.
 In the times we're in, no funerals or wakes.
 This is a time when the Prime Minister and other dignitaries would travel to Nova Scotia to offer comfort in a time like this, and none of that is happening because of what's going on. It makes it difficult to argue that politics as much as you canneeds  continue in parliament with as many as three sittings a week.
-Andrew scheer  if MPs  go to a grocery store, they can come here.
+Andrew scheer said if MPs  go to a grocery store, they can come here.
 But what are we told about that, go once a week.
 and you don't need to get on a plane from vancouver  ottawa  buy your grocery.
 It looks like the majority is going to get its way with the motion that is going to be presented and voted on.
@@ -152,12 +152,12 @@ I don't think all the parties believe that parliament should have some role to p
 That is a vital part of our democracy.
 It's just like on a day like today quibbling about the hours and the times, it becomes a little bit difficult to talk about the importance of that.
 There is an importance to it, it becomes a legitimate concern.
- I'll get you to weigh in as we continue to wait for the Prime Minister.
+Vassy, I'll get you to weigh in as we continue to wait for the Prime Minister.
 
 
 
 **Vassy**:
-At the heart of all of this is like you and David point out a desire for accountability.
+At the heart of all of this is like you and David printout a desire for accountability.
 There's evidence that that accountability has worked over the past month, right.
 There's lots of legislation that the government has introduced that has some holes that the opposition parties pointed out.
 They went back and got agreement.
@@ -172,7 +172,7 @@ There would be a few hours of accountability.
 There is a question mark over how this virtual thing would go, if it would be effective.
 We've seen examples of things right across the country of things not working.
 You would have thought much of this would have occurred in negotiations behind the scenes.
-Instead, we'll see this play out in the house of commons today.
+Instead, we'll see this play outing the house of commons today.
 Maybe there will be an agreement and they will vote on it. Certainly not the first thing onpeople's minds right now.
 
 
@@ -182,7 +182,7 @@ I think that's fair to say.
 I agree with all of your points.
 We will see if the Prime Minister is asked about it and whether there is any sign from him if we are closer to a deal.
 There is a necessity for politics and politicians to be playing their important roles right now.
-But how that looks and what that looks like is still being  As we stand by to wait for the Prime Minister and his daily briefing which is usual his government's response to the  pandemic.
+But how that looks and what that looks like is still being  As we stand by to wait for the Prime Minister and his daily briefing which is usual his government's response to the COVID-19 pandemic.
 Today we are told it will be about around what happened in Nova Scotia.
 Not surprisingly.
 He did address it yesterday  just offering his thanks to first res ponders and people for following instructions, but at that time the scale of what had happened was not well understood.

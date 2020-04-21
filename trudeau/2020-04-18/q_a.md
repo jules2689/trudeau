@@ -83,7 +83,7 @@ What's wrong with that?
 
 **Answer**:
 First of all, it's extremely important and has been important that every single day the Canadian public gets informed of measures we are putting forward.
-We are putting forward new measures almost every single day, and I think it is essential that the media continues to have access to asking questions to better inform and to ensure Canada is functioning the way it needs to be. Part of that job in our democracy is ensuring that there is accountability through our parliamentary systems.
+We are putting forward new measures almost every single day, and I think it is essential that the media continues to have access to asking questions to better inform and to ensure Canada is functioning the way it needs to be. Part of that job in our democracy is ensuring that there's accountability through our parliamentary systems.
 That is something that we are also very much focused on. We have proposed that the house of commons return in some fashion every single week, to permit engagement on accountability and also pass further measures to help Canadians.
 Right now we're in a situation where MP's across the country and their staff are wondering ifthey're going to have to get on planes tomorrow and fly to  Obviously that is not something from a public health standpoint we should want to see happening.
 Right now on the books the rule is parliament needs to re-open fully on monday.
@@ -100,13 +100,13 @@ and we really hope that the other parties will agree with these proposals becaus
 
 **Question**:
 Many people on social distance programs are surviving on less than people who are getting the CERB.
-Many marginalized Canadians will simply never be able to access the CE RB as it is structured.
-Rather than continue to tweak it, why not just make the CE RB universal?
+Many marginalized Canadians will simply never be able to access the CERB as it is structured.
+Rather than continue to tweak it, why not just make the CERB universal?
 
 
 
 **Answer**:
-We moved very quickly on replacing income for people who lost a pay cheque because of COVID-19. These are families who were relying on that next pay cheque to be able to pay for rent, to be able to pay for groceries, to be able to support their children and their parents.
+We moved very quickly on replacing income for people who lost a paycheque because of COVID-19. These are families who were relying on that next paycheque to be able to pay for rent, to be able to pay for groceries, to be able to support their children and their parents.
 This was the absolute priority that we needed to move forward quickly on. With the moves that we were able to make, over 7.5 million payments have been made already and there are obviously many more to come.
 At the same time, we recognize the particular vulnerability of marginalized communities of particular groups.
 That's why we have put forward significant measures to try to help them, whether it's through shelters and support for charities and charitable organizations, or extending measures so people who work a very small amount of hours a month can still receive the CERB.
@@ -171,15 +171,15 @@ We have discussed the issue of commercial rent with the provinces.
 I had a good conversation with them on Thursday evening where this came up. We are looking at it very, very closely.
 We have a number of proposals that are working their way through the system, talking to various industry groups and renters' associations, as well as looking at the provinces.
 The provinces have jurisdictions over rents and the relationship between landlords and tenants.
-We need to work with them, which is what we are doing.
-We recognize there are very different realities and systems right across the country, but we also have heard very, very clearly from small business owners that the wage subsidy is helpful, but fixed costs are a real concern.
+We need to work with them, chichis what we are doing.
+We recognize there are very different realities and systems right across the country, but weals have heard very, very clearly from small business owners that the wage subsidy is helpful, but fixed costs are a real concern.
 That is something that we're going to have more to say on soon.
 
 ---
 
 **Question**:
-Ian wood CATV news.
-Prime Minister, b. C. has seen some success flattening the curve and has indicated it may look at loosening restrictions.
+Ian wood CTV news.
+Prime Minister, BC has seen some success flattening the curve and has indicated it may look at loosening restrictions.
 You've said it is too soon and provinces like Ontario and quÉbec are still in the thick  Are you concerned the difference in messaging will enable people to disregard what is in place now?are you going to allow the provinces make the decision on re-opening or will the federal government need to give the green light?
 
 
@@ -193,7 +193,7 @@ I have spoken extensively with the premiers about this issue, and everyone recog
 But of course the situation is very different right across the country from one region to the next.
 The measures they will be able to move forward with at different moments will vary as well.
 That's going to be an important part of the recovery here.
-We need to make sure we are working together, as we have been in an unprecedented way between premiers and the federalgovernment  municipalities and various other communities, to make sure that we're doing the right kinds of things and that we're sending the right messages to Canadians every stepof  way.
+We need to make sure we are working together, as we have been in an unprecedented way between premiers and the federalgovernment and municipalities and various other communities, to make sure that we're doing the right kinds of things and that we're sending the right messages to Canadians every stepof  way.
 The message remains we have to be extremely careful to do this the right way in a coordinated and collaborative way.
 
 ---
@@ -205,7 +205,7 @@ The Canadian meat industry is saying it is facing a crisis as processing plants 
 
 **Answer**:
 I think ensuring the continued flow of groceries and our food supply chains is a priority, but so is arresting the spread of COVID-19. So is ensuring that workers in all industries across the country can remain safe.
-Getting that balance right requires us all to step up very carefully because we need to make sure that, yes, we are continuing the flow of great Canadian food to people.
+Getting that balance right requires US all to step up very carefully because we need to make sure that, yes, we are continuing the flow of great Canadian food to people.
 Indeed, we need to ensure that we have as much domestic food security and stability as we possibly can.
 That means taking advantage of the summer months coming up and the growing and the planting season now.
 At the same time, we have to make sure we are doing things that are keeping farmers, agricultural workers, producers, and transformers safe.
@@ -247,7 +247,7 @@ At every step of the way, we will do what is necessary to protect Canadians and 
 ---
 
 **Question**:
-Prime Minister, I'mwondering if you can tell us what the impact on Canada's stockpiles has been for PPE.
+Prime Minister, I'mwondering if you can tell US what the impact on Canada's stockpiles has been for PPE.
 When the government closed so many of its warehouses across the country.
 
 
@@ -273,11 +273,11 @@ Why are we extending the closureof  border with the United States?is it because 
 **Answer**:
 Well, we closed our borders to international travellers many weeks ago.
 That included people from every country in the world.
-We took a few days more to do that with the United States because we needed to ensure that this could be done in a coordinated manner that would allow us to keep our supply chains open.
+We took a few days more to do that with the United States because we needed to ensure that this could be done in a coordinated manner that would allow US to keep our supply chains open.
 We wanted to do it in cooperation with our closest partner and ally.
 So these measures were absolutely critical in order to protect Canadians and limit the spread of the virus.
-We will keep them in place in relation to the United States and all the other countries around the globe for many, many weeks to come.[end of translation] we made thedecision  number of weeks ago to close our borders to international travellers.
-We recognized that this was a significant measure but was an important one in order to prevent further spread of COVID-19  coming in from overseas.
+We will keep them in place in relation to the United States and all the other countries around the globe for many, many weeks to come.[end of translation] we made thedecision a number of weeks ago to close our borders to international travellers.
+We recognized that this was a significant measure but was an important one in order to prevent further spread of COVID-19 from coming in from overseas.
 It has contributed to why we arenow  many parts of the countrytalking  seeing a flattening of the curve, which is good news.
 We agreed with the united states in those measures because these are measures we put in place around the world.
 We did take a couple more days to ensure that we were properly coordinated with our closest neighbour and most-important trading partner.

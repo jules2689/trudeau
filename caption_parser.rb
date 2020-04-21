@@ -165,6 +165,10 @@ class CaptionParser
     text.gsub!(/\bit'sunday\b/, "it's Sunday")
     text.gsub!(/\bwhatno\b/, "whatnot")
     text.gsub!(/\bworl\b/, "world")
+    text.gsub!(/\byoudon't\b/, "you don't")
+    text.gsub!(/\bleekly\b/, "likely")
+    text.gsub!(/\bstricker\b/, "stricter")
+    text.gsub!(/\baboutthe\b/, "about the")
 
     # Fix acronyms
     acronyms = {
@@ -178,6 +182,7 @@ class CaptionParser
       "e. D.c" => "EDC",
       "b. D.c" => "BDC",
       "m. L.a." => "MLA",
+      "b. C." => "BC",
     }
     acronyms.each { |a, b| text.gsub!(a, b) }
     
@@ -189,8 +194,13 @@ class CaptionParser
 
     checked_text = Spellchecker.check(text, dictionary='en')
     checked_text.each_with_object([]) do |entry, acc|
-      if word = (PROVINCES + VALID_WORDS + acronyms.values).detect { |w| entry[:original].downcase =~ /\A#{w.downcase}[\.\?\!"']\z/ }
-        acc << entry[:original]
+      if word = (PROVINCES + VALID_WORDS + acronyms.values).detect { |w| entry[:original].downcase =~ /\A#{w.downcase}[\.\?\!"']?\z/ }
+        if word.downcase == entry[:original].downcase
+          acc << word
+        else
+          punctuation = entry[:original].match(/#{word}([\.\?\!"']?)/)
+          acc << word + (punctuation ? punctuation[1] : "")
+        end
       elsif entry[:correct]
         acc << entry[:original]
       else

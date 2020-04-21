@@ -25,12 +25,12 @@ They remembered her as an extraordinary person and it really goes to show just h
 **Interpreter**:
 Yesterday, I had a chance to mention to the RCMP officers with me that I wanted to extend My condolences to them and I was very happy to hear about their stories about her.
 They served on the musical ride with her and told me what an extraordinary person she was.
-and that made me realise that it is not only about the RCMP being family and connected can, but all of us as Canadians being connected.
+and that made me realise that it is not only about the RCMP being family and connected can, but all of US as Canadians being connected.
 
 
 
 **Prime Minister Trudeau**:
-The Canadian police and peace officers memorial on parliament hill to pay tribute to constable Stevenson and recognize the contributions of all law enforcement members to keep us safe.
+The Canadian police and peace officers memorial on parliament hill to pay tribute to constable Stevenson and recognize the contributions of all law enforcement members to keep US safe.
 I also spoke to a number of colleagues from Nova Scotia, both past and present, and sought Senator Sam kutcher's advice.
 These calls all reinforce what had we know about Nova Scotia -- that it's a special place where people stick together and look out for each other.
 This week, we are all nova  The families and friends can count on the unwavering support of their neighbours and of every single  french].
@@ -39,10 +39,10 @@ This week, we are all nova  The families and friends can count on the unwavering
 
 **Interpreter**:
 It's now been a number of weeks that we've been asking everyone to follow experts' destroys protect your health and the health of others.
-The lock down t social and physical distancing are an adjustment for most of us. But for some, the consequences of the pandemic are far more profound than a simple adjustment.
+The lock down t social and physical distancing are an adjustment for most of US But for some, the consequences of the pandemic are far more profound than a simple adjustment.
 The virus has had the effect of worsening the inequalities that already exist in our society.
 The most vulnerable, seniors and young homeless or people without jobs or single-parent families.
-Many are all particularly affected by Covid  the same time, the total number of people who need help to get through this difficult period has also gone up. Woel  the pandemic upset our lives, charities were there for our communities.
+Many are all particularly affected by Covid at the same time, the total number of people who need help to get through this difficult period has also gone up. Woel  the pandemic upset our lives, charities were there for our communities.
 I'm thinking of PEI Royal in park extension that helps young people at risk or an organization in st. Michele.
 In papineau,  across the country, community organisations are an essential resource for the most vulnerable and their mission in this pandemic does not change.
 But they need more support in order to help a large number of people.
@@ -58,13 +58,13 @@ With this fund, we are giving organisations more resources to adjust to the curr
 **Prime Minister Trudeau**:
 Charities and nonprofit organisations were doing crucial work to help our communities.
 Their mission has always been to support people in their time of need and that hasn't changed.
-But  is putting a tremendous amount of pressure on those organisations because more people need help.
-Back in march, one united way partner in Winnipeg made and district ed 1475 emergency kits for families, seniors and homeless people in just five days.
+But COVID-19 is putting a tremendous amount of pressure on those organisations because more people need help.
+Back in march, one united way partner in Winnipeg made and distracted 1475 emergency kits for families, seniors and homeless people in just five days.
 They had to change services because of the rules that everyone has to follow to keep each other safe.
 Here in  there are a number of organisations focused on serving isolated seniors.
-Usually they have day program me where seniors can socialize, participate in activities, eat well and maintain a connection to their community.
-That is no longer possible because of  so organisations are now delivering meals and providing support via phone.
-In  Tropicana community services is now helping vulnerable youth access their  benefits.
+Usually they have day programme where seniors can socialize, participate in activities, eat well and maintain a connection to their community.
+That is no longer possible because of COVID-19 so organisations are now delivering meals and providing support via phone.
+In  Tropicana community services is now helping vulnerable youth access their COVID-19 benefits.
 It takes resources to make these adjust.
 S, resources these groups don't have because they're spread so thin trying to help as many people as possible.
 So to support charities and nonprofits in their important work, our government is setting up a $350 million emergency community support fund.
@@ -85,20 +85,21 @@ Companies will be able to apply starting next monday,  27.  today, the president
 **Prime Minister Trudeau**:
 is also helping business owners and entrepreneurs adapt to a new reality with the Canada emergency wage subsidy.
 This new measure gives qualifying employers up to $847 per employee each week so they can keep people on the payroll.
-Today we're launching a new calculator on the CARA Website so businesses can determine the amount they can expect to claim through the wage subsidy.
+Today we're launching a new calculator on the CRA Website so businesses can determine the amount they can expect to claim through the wage subsidy.
 Employers will be able to apply, as of this  April 27. Later today, the Minister will be providing more details regarding the roll out of this programme.
 I want to turn now to some encouraging news on the innovation front.
 Our super cluster initiative brings together small, medium-sized and large companies, academic institutions and not-for-profit organizations to generate bold ideas and innovate.
 So a few weeks ago, the digital technology supercluster challenged its  of over 500 firms to come up with solutions to help Canadians get through this pandemic.
 They received over 300 submissions and they are now moving forward on a number of key projects.
-Toronto's DNA Stack is developing a new cloud-based network that allows researchers who are looking to improve our ability to diagnose and treat COVID-19 to share their  Another company, foodex, is working with  partners to develop an e-grocery management system to make sure our health care workers, seniors and others have access to fresh food dhurg crisis.-- during this crisis.
+Toronto's DNA Stack is developing a new cloud-based network that allows researchers who are looking to improve our ability to diagnose and treat COVID-19 to share their findings.
+Another company, foodex, is working with  partners to develop an e-grocery management system to make sure our health care workers, seniors and others have access to fresh food dhurg crisis.-- during this crisis.
  innovators are among the best in the world and it is great to see so many of them use their talents to help our communities.
 This is yet another example of what we can achieve when we work together as team Canada.[speaking french].
 
 
 
 **Interpreter**:
-This week, and in the coming weeks, you can count on us to continue to find other ways to help you.
+This week, and in the coming weeks, you can count on US to continue to find other ways to help you.
 We will continue to do our part just like you continue to do yours.
 It's been almost six weeks that you've been at home, that you've been regularly washing your hands and that you've been keeping a two-metre distance from others.
 a month and a half is a long time.

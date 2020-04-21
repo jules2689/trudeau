@@ -2,7 +2,8 @@
 
 **THANK YOU, PRIME MINISTER.WE'LL GO TO THE PHONE LINES FOR QUESTIONS.ONE QUESTION AND ONE FOLLOW-UP.OVER TO YOU, OPERATOR.OPERATOR**:
 Thank you.
-Mercia First question, Kristy  the "globe and mail".line.
+Merci.
+First question, Kristy  the "globe and mail".line.
 Open.
 
 
@@ -29,7 +30,7 @@ But we also recognize that there are other people who need more help and that is
 
 
 **Reporter**:
-Millions of Canadians are finding themselves without medical benefits because they have been laid off and dry Eric Ho skins says that Ottawa could cover the cost of the provinces and territories, bringing Canadians into their  as an interim step to help.
+Millions of Canadians are finding themselves without medical benefits because they have been laid off and Dr. Eric Hoskins says that Ottawa could cover the cost of the provinces and territories, bringing Canadians into their  as an interim step to help.
 is this something your government is willing to do?
 
 
@@ -61,7 +62,7 @@ With respect to the wage subsidy, I gather that it will be fob apply starting  b
 Almost immediately.
 and we need to be able to deliver that help as quickly as possible.
 We realised that the wage subsidy was going to take a bit of time to be delivered and we're still working on that.
-As you say, people will start to be able to apply on monday  we do hope that we can get the money to them quickly after that.
+As you say, people will start to be able to apply on monday and we do hope that we can get the money to them quickly after that.
 It will take a number of days at the very least.
 That is why we wanded  make sure that businesses, small businesses and corporations, would have access to credit in order to get through these times.
 The money is coming.
@@ -74,7 +75,7 @@ We recognize the need for support as quickly as possible and that is why we're w
 We started with the Canada emergency response benefit, which is now helped over $8 million people across this country and made a significant difference.
 But we also want people to get the -- we want other people to get the emergency wage subsidy, which means working with businesses to keep people on the payroll through this so that they cannot only retain a job, but have a job to get back quickly to as soon as the economy picks up again.
 We have announced that on  people will be able to register for this online.
-As of today, however, they can see what the amount they're sleekly to be able to get through this and be confident in their ability to access credit from banks, from agencies like BDC.
+As of today, however, they can see what the amount they're likely to be able to get through this and be confident in their ability to access credit from banks, from agencies like BDC.
 and  to be able to support people right now in this time of need.
 We're moving as quickly as we can.
 We move very quickly on the Canada emergency response benefit.
@@ -110,21 +111,21 @@ Next question, charlie   Line open.
 
 **Reporter**:
 Good morning, Prime Minister.
-Bill Blair said he intends to introduce striker gun laws as soon as possible and you said your government was on the verge of. Passing a ban.
+Bill Blair said he intends to introduce stricter gun laws as soon as possible and you said your government was on the verge of. Passing a ban.
 Will a gun control bill be introduced in the restricted version of parliament that we see during the pandemic or will have it to wait until parliament returns to normal sits?
 
 
 
-ING >> Prime Minister  obviously, we're all reeling from the tragedy in Nova Scotia and our focus right now is on supporting those families as quickly as possible and, as well as we possibly can.
+Ing >> Prime Minister  obviously, we're all reeling from the tragedy in Nova Scotia and our focus right now is on supporting those families as quickly as possible and, as well as we possibly can.
 On gun control legislation, we made strong commitments to move forward with that rapidly.
-As you mentioned, we were on the verge of bringing it in before parliament was suspended through  and we're now looking at the right way and the right moment to bring it forward.
-The tragedy in Nova Scotia simply reinforces an underlines how important it is for us to continue to move forward on strengthening gun control in this country and we will do that at the appropriate time.[speaking french].
+As you mentioned, we were on the verge of bringing it in before parliament was suspended through COVID-19 and we're now looking at the right way and the right moment to bring it forward.
+The tragedy in Nova Scotia simply reinforces an underlines how important it is for US to continue to move forward on strengthening gun control in this country and we will do that at the appropriate time.[speaking french].
 
 
 
 **Interpreter**:
 The tragedy in Nova Scotia makes it clear just how important it is to continue to move forward with gun control.
-We made commitments to move quickly on this and we were on the verge of. Introducing new measures to restrict assault-type weapons in Canada before parliament was suspended because of COVID-19  now we are looking at what the right time will be to reintroduce that bill.
+We made commitments to move quickly on this and we were on the verge of. Introducing new measures to restrict assault-type weapons in Canada before parliament was suspended because of COVID-19 and now we are looking at what the right time will be to reintroduce that bill.
 But we will take necessary time to ensure we do things properly.
 
 
@@ -159,7 +160,7 @@ Thank you.
 **Interpreter**:
 I'd like to come back to a question you were asked yesterday during the question per in the house about three planes that were to come back to Canada full of medical equipment from  china.
 and that came back empty.
-Can you tell us more about that?I received more information about that.
+Can you tell US more about that?I received more information about that.
 There was one plane that was supposed to be bringing in equipment for Canada.
 Another was bringing in equipment for a specific province that hay had ordered and there are very strict limits on how much these chinese  are allowed to stay in Canada and there are huge delays when it comes to bringing in the equipment from the airport.
 Unfortunately the planes haed  take off without having received their cargo.
@@ -207,7 +208,7 @@ With respect to the province, I will let the province share that information wit
 
 
 **Reporter**:
-I want to ask you a question on behalf of nick Beat on who lost his wife Kristen in the senseless violence in Nova Scotia this weekend.
+I want to ask you a question on behalf of nick Beaton who lost his wife Kristen in the senseless violence in Nova Scotia this weekend.
 He just spoke with our chief anchor.
 His wife Kristen died.
 She was a front line worker, a dedicated nurse and was also pregnant and she was forced to reuse her personal protective equipment because there was not enough.
@@ -247,7 +248,7 @@ You've been able to deliver personal protective equipment to provinces that need
 **Prime Minister Trudeau**:
 These are decisions that are taken by provinces and how they extend and how they require the use of PPE.
 Different provinces have different burn rates in terms of use of PPE.
-We have worked as a federal government to ensure that when provinces have made requests of us for more personal protective equipment, we've been able to deliver what was needed.
+We have worked as a federal government to ensure that when provinces have made requests of US for more personal protective equipment, we've been able to deliver what was needed.
 These are things we're fighting for every single day and want everyone to have the equipment they need.
 
 
@@ -282,7 +283,7 @@ With regards to the gun control, why are you joining the two?
 We have gun control legislation ready to move forward on. We were ready -- almost ready to move forward on it a number of weeks ago.
 We continue to see it as a priority.
 We had every intention and have every intention of continuing to move forward on it when things restore to order.
-It did not need or take this tragedy for us to be committed to gun control.
+It did not need or take this tragedy for US to be committed to gun control.
 We've long been committed to it. This is just another tragic reminder of the fact that we need to do more to keep Canadians safe.
 
 
@@ -334,7 +335,7 @@ The reality is that a meat processing plant has prioritized deliveries to the Ca
 There may be lower exports in that case, but we want to ensure that our supply chain for beef products is functioning.
 The reality is that there may be higher prices but we'll be monitoring that closely.
 But the important thing in all of this is to ensure that we're protecting workers in essential and other industries.
-Protecting them from  and we must take the necessary measures to keep them safe.
+Protecting them from COVID-19 and we must take the necessary measures to keep them safe.
 
 
 
@@ -345,7 +346,7 @@ and on oil prices, is there going to be further support for the oil industry and
 
 **Prime Minister Trudeau**:
 Our focus from the beginning has been on helping Canadians, families, workers across this country and we have put in place a significant measure that has an impact on all industries, including the oil industry with the Canadian emergency response benefit and wage subsidies that have helped thousands of workers across Alberta and the oil sector in this country.
-We moved forward on other measures as well to help out that sector specifically and we're always open to working more on helping particular industries or areas that need support to get through this  crisis.
+We moved forward on other measures as well to help out that sector specifically and we're always open to working more on helping particular industries or areas that need support to get through this COVID-19 crisis.
 We'll continue those discussions.
 On the supporting provinces, we recognize that various provinces are facing real challenges in terms of cash crunches and liquidity and our department of finance are engaged closely with different provinces on challenges that they're facing specifically.
 
@@ -358,11 +359,11 @@ On the supporting provinces, we recognize that various provinces are facing real
 
 **Interpreter**:
 Now earlier in your speech, you said there was some positive science and I won't Earp what those positive signs are in your opinion.
-and on the wage subsidy, can you assure us that not $1 of taxpayer money will go to companies that have money in tax havens?well, in terms of encouraging signs, when we look at the pandemic curves and the numbers in terms of spread of COVID-19,  can see that there has been a the decline in the numbers.
+and on the wage subsidy, can you assure US that not $1 of taxpayer money will go to companies that have money in tax havens?well, in terms of encouraging signs, when we look at the pandemic curves and the numbers in terms of spread of COVID-19, we can see that there has been a the decline in the numbers.
 Now we see the numbers going up in certain parts of the country.
 But there are fewer and fewer cases each day and we hope that what this means is that the measures we've been taking are now helping.
 and are now helping the expected outcome.
-At the same time, we need to keep those measures in place because if we relax them too soon, we could end up in a situation where COVID-19  ramp up again and this is not something we would want to see happen.
+At the same time, we need to keep those measures in place because if we relax them too soon, we could end up in a situation where COVID-19 would ramp up again and this is not something we would want to see happen.
 In terms of our approach in helping businesses, we have always been focused on help for workers.
 We did not want to judge whether someone working for a small halifax  or for a large internation  chain would be treated differently.
 We wanted to ensure that workers and families that depend on that income would have the necessary help and that is why we moved forward with the wage six did and moving forward with the emergency response benefit.
@@ -377,7 +378,7 @@ We're hearing that from mode cal officers across the country.
 Noting that the increase in cases is getting smaller every day in many places.
 That we are still seeing more cases every day, but fewer than in previous days, which is a sign that our efforts are working.
 We are continuing to do the right things as a country, that is getting this virus under control.
-However, we need to continue to do those things because as soon as we loosen up, if we loosen up too quickly or if we're not careful, we could see a return spike of  that would be problematic for citizens and for the economic recovery.
+However, we need to continue to do those things because as soon as we loosen up, if we loosen up too quickly or if we're not careful, we could see a return spike of COVID-19 that would be problematic for citizens and for the economic recovery.
 We'll focus on making sure that we're doing things very, very carefully.
 But it is encouraging to see the things that Canadians are doing from coast to coast to coast, to help each other out and stay safe are working and that is why we need to continue them.
 
@@ -390,11 +391,11 @@ But it is encouraging to see the things that Canadians are doing from coast to c
 
 **Interpreter**:
 Now just to understand with respect to tax havens, you didn't really answer My question.
-Can you tell Canadians today that the money that you paid in taxes will not go to companies that have accounts in tax havens?can you assure us of that today or can you not assure us of that today?we are helping workers right across this country.
+Can you tell Canadians today that the money that you paid in taxes will not go to companies that have accounts in tax havens?can you assure US of that today or can you not assure US of that today?we are helping workers right across this country.
 Someone who works for a company whose family depends on that job and has lost that job needs help.
 Needs to be able to pay for groceries or pay rent.
 It is that reason that we decided to help people, whether it is a small company or big company.
 We are helping workers who need that support.
 Now with respect to tax avieed answer,  will continue to fight that sort of action.
 and choices made by some companis who  to pay their fair share of taxes.
-We have invested more than $1 billion in the Canada revenue agency so that we have more tools available to us to target those companies.
+We have invested more than $1 billion in the Canada revenue agency so that we have more tools available to US to target those companies.

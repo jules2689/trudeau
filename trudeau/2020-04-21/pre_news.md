@@ -1,18 +1,18 @@
 
 
-We are expecting the focus today to be on government response and initiatives to support vulnerable Canadians through the  pandemic.
-We will also, though, of course take you to Nova Scotia this hour and throughout the day for some of what you might call the careful and safe tributes in this time of  to those who were killed in that violent rampage over the weekend.
+We are expecting the focus today to be on government response and initiatives to support vulnerable Canadians through the COVID-19 pandemic.
+We will also, though, of course take you to Nova Scotia this hour and throughout the day for some of what you might call the careful and safe tributes in this time of COVID-19 to those who were killed in that violent rampage over the weekend.
 We know now of at least 20 victims, 18 of them have been confirmed.
 Two more presumed to be dead by their son and we'll also bring you the latest on the investigation today.
 Those numbers, of course, could vary because police are still looking at some 16 crime scenes.
 I will tell you that is the actual sky behind me in Ottawa right now.
 So a fairly grim and bleak day here in the nation's capital.
-But let me show you where we are waiting to hear from the Prime Minister, of course, outside of his home here at  cottage.
+But let me show you where we are waiting to hear from the Prime Minister, of course, outside of his home here at Rideau cottage.
 The regular backdrop for his address.
 Before we get there, though, I do want to turn this story back to Nova Scotia where so many people are still reeling from events that unfolded over the weekend.
 and as police, the RCMP, continue their extensive investigation there today.
-Larry Harrison is the member of the provincial legislature for the riding of   he joins me now.
-Good to see you, larry,  My condolences to your community and all of Nova Scotia.
+Larry Harrison is the member of the provincial legislature for the riding of  and he joins me now.
+Good to see you, larry, and My condolences to your community and all of Nova Scotia.
 
 
 
@@ -81,7 +81,7 @@ WELL, I'M -- I'M SURE THAT IF SOMETHING DIFFERENT COULD HAVE BEEN DONE, WE'RE GO
 
 
 **Rosemary**:
-I get that t. How long have you been an ML For the region?
+I get that t. How long have you been an MLA For the region?
 
 
 
@@ -109,7 +109,7 @@ WELL, I'M TRYING TO PUT AS MUCH -- AS MUCH COMPASSION AND UNDERSTANDING AS I POS
 
 
 **Rosemary**:
- Larry --
+Ok. Larry --
 
 
 
@@ -131,18 +131,18 @@ I KNOW YOU WILL.AND THANK YOU VERY MUCH.
 
 
 **Rosemary**:
-Appreciate it. That is Larry  a member of Nova Scotia's legislature and he joins us us from shortt's lake.
- We'll turn back to what we have come to the usual part of our day.
+Appreciate it. That is Larry  a member of Nova Scotia's legislature and he joins US US from shortt's lake.
+Ok. We'll turn back to what we have come to the usual part of our day.
 If anything is usual these days.
 But it is the regular update from the Prime Minister that we do expect at this time.
 Some sort of normalcy and routine, I guess, is provided by that.
-and also by the help of My colleagues here in  the cbc's David  and the host of "power & politics", Gassy  We'll talk about what to expect from the Prime Minister today because while yesterday was very much focused on Nova Scotia, and I imagine he'll have a little more to say on that today, potentially, he is also in the midst, of course, of putting together a government response to fight the pandemic and we do expect him to talk about places and things that might have gotten left out.
+and also by the help of My colleagues here in  the cbc's David  and the host of "power & politics", Vassy  We'll talk about what to expect from the Prime Minister today because while yesterday was very much focused on Nova Scotia, and I imagine he'll have a little more to say on that today, potentially, he is also in the midst, of course, of putting together a government response to fight the pandemic and we do expect him to talk about places and things that might have gotten left out.
 and I'll start with Vassy.
 
 
 
 **Vassy**:
-Yeah,  As you mentioned, yesterday the focus was squarely on Nova Scotia in the Prime Minister's response, in his remarks yesterday, just offering condolences and some more details today will pivot back to the government's response to the spread of  and primarily the economic response of the government on two facets.
+Yeah,  As you mentioned, yesterday the focus was squarely on Nova Scotia in the Prime Minister's response, in his remarks yesterday, just offering condolences and some more details today will pivot back to the government's response to the spread of COVID-19 and primarily the economic response of the government on two facets.
 The first, charities.
 We have seen a number of charitable organisations come forward and say they are really finding things to be difficult right now because of their inability to fund raise.
 Obviously with so many people at home and unable to work and relying on government relief at this point, they don't have a lot to give to charities.
@@ -151,7 +151,7 @@ My understanding is that what is announced today won't necessarily be that much.
 I'm not sure of the exact figure.
 But that will be sort of a chunk of change for charities, specifically aimed at supplementing the money that they have lost due to a lack of fundraising.
 The second aspect, the second facet of what I'm expecting from the Prime Minister has to do with that other huge government relief package for businesses around wage six  subsidies.
-The government has passed legislation with opposition part is a few weeks acing to provide a wage subsidy for businesses of any size, of 75% of the first I think is nearly $58, 000 of an employee's salary.
+The government has passed legislation with opposition parties a few weeks acing to provide a wage subsidy for businesses of any size, of 75% of the first I think is nearly $58, 000 of an employee's salary.
 That is in the -- the application process is starting.
 It will be starting in a few weeks is My understanding.
 Although that is always a moving target as well.
@@ -164,7 +164,7 @@ They needed it yesterday kind of thing and how much they might be entitled to. M
 
 **Rosemary**:
 The finance Minister says that they will provide information around applications.
-and correct me if I'm wrong, but I think charities can also tap into the wage subsidy program me so that might be part of the aid, but obviously there is more coming.
+and correct me if I'm wrong, but I think charities can also tap into the wage subsidy programme so that might be part of the aid, but obviously there is more coming.
 
 
 
@@ -176,7 +176,7 @@ The Prime Minister, in particular on  I believe, it was, referenced the disabled
 and the charitable sector could very well be a vehicle to provide that aid.
 and, you know, there's a couple of other things that we're hoping to hear from the Prime Minister today.
 There is a growing problem in Canada's food supply sector in terms of meat plants, for example.
-Where there are outbreaks of  amongst the workforce.
+Where there are outbreaks of COVID-19 amongst the workforce.
 It doesn't necessarily make the food unsafe, just makes the workplace unsafe for people.
 Which makes it hard to process the meat and backs up the food supply chain and creates all kinds of economic ripple effects and supply problems coming into the grocery stores and also the last I checked the price of oil, it was up $7 to -$7. So, this is a massive problem for three provinces in particular -- being Alberta, Saskatchewan and Newfoundland and Labrador.
 and just on top of everything else that everybody is suffering with the slowdown in the economy, there is that double whammy of oil.
@@ -187,7 +187,7 @@ It could be something that the Prime Minister is asked about, given the total sh
 
 
 **Rosemary**:
-I'll get Gassy to weigh in on that, too.
+I'll get Vassy to weigh in on that, too.
 I will say that the meat packing plant you are talking about is the car gill plant in Alberta.
 and there are 484 cases now linked to that plant.
 
@@ -203,7 +203,7 @@ and another example of that occurring, too, in the United States.
 So, that is a real concern, as you say, for supply.
 and I imagine, you know, some being that people have to think about.
 Because those are close working quarters and obviously that is a large part of the people working there that had been affected.
- maybe I'll goat you as we wait for the Prime Minister to weigh in on the oil piece of this.
+Vassy, maybe I'll goat you as we wait for the Prime Minister to weigh in on the oil piece of this.
 Because it is, you know, shocking to see numbers in the negatives like that.
 and to try to understand how any industry could rebound from those numbers and the pandemic.
 
@@ -238,5 +238,5 @@ Their revenues are hurting and the federal government's revenues, I should say, 
 **Rosemary**:
 The difference is they have more capacity and take on debt than we've seen obviously in  certainly.
 All right.
-Here is the Prime Minister of Canada emerging from his home to speak with us yet again about his government's response to the  pandemic.
+Here is the Prime Minister of Canada emerging from his home to speak with US yet again about his government's response to the COVID-19 pandemic.
 Let's listen in.
