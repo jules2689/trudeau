@@ -1,0 +1,28 @@
+name: Create PR for First Reponder
+on:
+  schedule:
+    # 5pm UTC is 1pm eastern, which should be adequate time for the videos to become available
+    - cron:  '10 17 * * *'
+  push: {}
+
+jobs:
+  trudeau:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - uses: actions/setup-ruby@v1
+      with:
+        ruby-version: '2.6'
+    - name: Generate Dialog
+      run: |
+        ruby captions.rb
+    - name: Commit Dialog
+      run: |
+        if ! git diff --no-ext-diff --quiet --exit-code; then
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add --all .
+          git commit -m "Add new dialog from Trudeau" || true
+          remote_repo="https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git"
+          git push "${remote_repo}" HEAD:${{ github.ref }} --follow-tags
+        fi
