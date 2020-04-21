@@ -1,6 +1,7 @@
 require "cgi"
 require "date"
 require "active_support/core_ext/string/inflections"
+require 'tempfile'
 
 class CaptionParser
   def initialize(raw_captions)
@@ -14,20 +15,21 @@ class CaptionParser
     texts = Nokogiri::XML.parse(@raw_captions).css('text').map(&:text)
     puts "Found #{texts.size} lines of text"
     return false if texts.size == 0
-    
+    CLI::UI::Frame.divider("Starting with Pre-News")
+
     texts.each do |line|
       # Changing a person speaking, commit to the dialog
       if line.include?("&gt;")
         fmt_line = format_line(dialog_buffer)
     
         if current_dialog == :pre_news && fmt_line[:speaker]&.include?("Trudeau")
-          puts "Found Trudeau Speech"
+          CLI::UI::Frame.divider("Found Trudeau Speech")
           current_dialog = :trudeau
         elsif current_dialog == :trudeau && (fmt_line[:msg].downcase.include?("first question") || fmt_line[:msg].downcase.include?("phone lines for some questions"))
-          puts "Found Q & A"
+          CLI::UI::Frame.divider("Found Q & A")
           current_dialog = :q_a
         elsif fmt_line[:speaker] == "Rosemary" && current_dialog == :q_a
-          puts "Found Post News"
+          CLI::UI::Frame.divider("Found Post News")
           current_dialog = :post_news
         end
     
@@ -35,7 +37,7 @@ class CaptionParser
     
         # Change current dialog if we need to
         if fmt_line[:prime_minister]
-          puts "Found Trudeau Speech"
+          CLI::UI::Frame.divider("Found Trudeau Speech")
           current_dialog = :trudeau
         end
     
@@ -76,22 +78,132 @@ class CaptionParser
     "Newfoundland and Labrador",
     "New Brunswick",
     "Nova Scotia",
-    "Prince Edward Island"
+    "Prince Edward Island",
+    "Canada",
   ]
+
+  VALID_WORDS = File.readlines(File.expand_path("../valid_words.txt", __FILE__)).map(&:chomp)
 
   def humanize(msg)
     return msg if msg.nil?
     msg = msg.strip.humanize
-    msg = msg.gsub(/ i /, " I ")
-            .gsub(/(\w)\.(\w)/, '\1. \2')
-            .gsub(/(\w)\. ([a-z])/) { "#{Regexp.last_match[1]}. #{Regexp.last_match[2].upcase}".strip }
-            .gsub('m. p.', 'MP')
-            .gsub('u. S.', 'United States')
-            .gsub(/prime\s?minister/, "Prime Minister")
-    PROVINCES.each do |prov|
-      msg.gsub!(/#{prov}/i, prov)
+    auto_correct(msg)
+  end
+
+  def auto_correct(text)
+    text.gsub!(/ i /, " I ")
+    text.gsub!(/i'm/, "I'm")
+    text.gsub!(/i'll/, "I'll")
+    text.gsub!(/i've/, "I've")
+    text.gsub!(/(\w)[\.,](\w)/, '\1. \2')
+    text.gsub!(/(\w)\. ([a-z])/) { "#{Regexp.last_match[1]}. #{Regexp.last_match[2].upcase}".strip }
+    text.gsub!(/m\. p\./i, 'MP')
+    text.gsub!(/u\. S\./i, 'United States')
+    text.gsub!(/prime\s?minister/, "Prime Minister")
+    text.gsub!(/oneof/, "one of")
+    text.gsub!(/cbcnews/, "CBC News")
+    text.gsub!(/businesss/, "businesses")
+    text.gsub!(/itin/, "it in")
+    text.gsub!(/wedo/, "we do")
+    text.gsub!(/tohave/, "to have")
+    text.gsub!(/doto/, "do to")
+    text.gsub!(/asa/, "as a")
+    text.gsub!(/bythe/, "by the")
+    text.gsub!(/rosie\./, "Rosie")
+    text.gsub!(/allof/, "all of")
+    text.gsub!(/hewas/, "he was")
+    text.gsub!(/gabriel/i, 'gunman')
+    text.gsub!(/wortman\s/i, '')
+    text.gsub!(/(\w+)united/, '\1 United')
+    text.gsub!(/united\s?states/, "United States")
+    text.gsub!(/haveto/, "have to")
+    text.gsub!(/theresa tam/, "Theresa Tam")
+    text.gsub!(/(\w+s)in/, '\1 in') # sectorsin => sector in
+    text.gsub!(/beable/, "be able")
+    text.gsub!(/whenwe/, "when we")
+    text.gsub!(/tobe/, "to be")
+    text.gsub!(/dueto/, "due to")
+    text.gsub!(/covid\s/, "Covid-19")
+    text.gsub!(/andtime/, "and time")
+    text.gsub!(/Wewill/i, "we will")
+    text.gsub!(/toensure/, "to ensure")
+    text.gsub!(/toget/, "to get")
+    text.gsub!(/soonto/, "soon to")
+    text.gsub!(/tosay/, "to say")
+    text.gsub!(/makeus/, "make us")
+    text.gsub!(/(\w)saudi/, '\1 Saudi')
+    text.gsub!(/abig/, "a big")
+    text.gsub!(/goto/, "go to")
+    text.gsub!(/Inrecent/, "In recent")
+    text.gsub!(/ofour/, "of our")
+    text.gsub!(/soour/, "so our")
+    text.gsub!(/beused/, "be used")
+    text.gsub!(/tothe/, "to the")
+    text.gsub!(/oiland/, "oil and")
+    text.gsub!(/aperiod/, "a period")
+    text.gsub!(/weget/, "we get")
+    text.gsub!(/cous ins/, "cousins")
+    text.gsub!(/fored/, "forced")
+    text.gsub!(/Nay/, "Many")
+    text.gsub!(/koi\. D/, "Covid")
+    text.gsub!(/to gether/, "together")
+    text.gsub!(/\bgether\b/, "gather")
+    text.gsub!(/bus inesses/, "businesses")
+    text.gsub!(/Saul/i, "assault")
+    text.gsub!(/Earp/, 'hear')
+    text.gsub!(/isless/, "is less")
+    text.gsub!(/nowto/, "now to")
+    text.gsub!(/cometo/, "come to")
+    text.gsub!(/aweek/, "a week")
+    text.gsub!(/inlight/, "in light")
+    text.gsub!(/aswell/, "as well")
+
+    (PROVINCES + VALID_WORDS).each do |prov|
+      text.gsub!(/\b#{prov}\b/i, prov)
     end
-    msg
+
+    checked_text = Spellchecker.check(text, dictionary='en')
+    checked_text.each_with_object([]) do |entry, acc|
+      if word = VALID_WORDS.detect { |w| w.downcase == entry[:original].downcase }
+        acc << word
+      elsif entry[:correct]
+        acc << entry[:original]
+      else
+        replacement = entry[:suggestions].detect { |e| valid_suggestion?(e, entry[:original]) }
+        puts entry[:original] + " ====> " + replacement if replacement && replacement.strip != entry[:original].strip
+        acc << replacement || entry[:original]
+      end
+    end.join(' ')
+  end
+
+  def valid_suggestion?(suggestion, original)
+    return true if suggestion.downcase == original.downcase # Just capitalized
+    return true if levenshtein_distance(suggestion, original) == 1
+    false
+  end
+
+  def levenshtein_distance(s, t)
+    m = s.length
+    n = t.length
+    return m if n == 0
+    return n if m == 0
+    d = Array.new(m+1) {Array.new(n+1)}
+  
+    (0..m).each {|i| d[i][0] = i}
+    (0..n).each {|j| d[0][j] = j}
+    (1..n).each do |j|
+      (1..m).each do |i|
+        d[i][j] = if s[i-1] == t[j-1]  # adjust index into string
+                    d[i-1][j-1]       # no operation required
+                  else
+                    [ d[i-1][j]+1,    # deletion
+                      d[i][j-1]+1,    # insertion
+                      d[i-1][j-1]+1,  # substitution
+                    ].min
+                  end
+      end
+    end
+    d[m][n]
   end
   
   def format_line(line)

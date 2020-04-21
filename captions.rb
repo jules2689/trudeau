@@ -7,6 +7,8 @@ gemfile do
   gem "nokogiri"
   gem "activesupport"
   gem "cli-ui"
+  gem "spellchecker"
+  gem "byebug"
 end
 
 require_relative 'caption_parser'
