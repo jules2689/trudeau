@@ -173,18 +173,18 @@ class CaptionParser
 
     # Fix acronyms
     acronyms = {
-      "p. P.e" => "PPE",
-      "u. S." => "US",
-      "u. K." => "UK",
-      "m. P." => "MP",
+      "p. P.e" => "P.P.E.",
+      "u. S." => "United States",
+      "u. K." => "United Kingdom",
+      "m. P." => "M.P.",
       "d. N.a." => "DNA",
-      "c. R.a." => "CRA",
-      "p. E.I." => "PEI",
+      "c. R.a." => "C.R.A.",
+      "p. E.I." => "P.E.I.",
       "e. D.c" => "EDC",
       "b. D.c" => "BDC",
       "m. L.a." => "MLA",
-      "b. C." => "BC",
-      "w. H.o" => "WHO",
+      "b. C." => "British Columbia",
+      "w. H.o" => "W.H.O.",
     }
     acronyms.each { |a, b| text.gsub!(a, b) }
     
