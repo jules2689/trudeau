@@ -1,6 +1,7 @@
 
 
 **Prime Minister Justin Trudeau**:
+
 I want to start by confirming that Canada and the United States have agreed to extend by another 30 days the border measures that are in place.
 This is an important decision and one that will keep people on both sides of the border safe.
 It's another example of the excellent collaboration between our two countries, and I want to thank Minister bill Blair for leading the discussions with the United states.

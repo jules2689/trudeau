@@ -1,13 +1,15 @@
 
 
 **Rosemary**:
+
 That is the Prime Minister of Canada on this Saturday morning, briefing Canadians on his government's actions to fight COVID-19. Let's bring in the cbc's Catharine Cullen Catharine, I'll pick up where the Prime Minister left off.
-It is of interest in Ottawa bu tit should be of interest to everyone.
+It is of interest in Ottawa but it should be of interest to everyone.
 If no agreement is reached, 338 people have to get back here formonday for parliament to sit.
 
 
 
 **Catherine**:
+
 We know when we look at the two extraordinary sittings we've had is when a deal has been reached, it's an 11th hour thing.
 We're going to see people engaged in this issue people biting their nails.
 There is something of a face-offbetween his party and the conservative party.
@@ -17,7 +19,7 @@ She was engaging with candace bergen who said she essentially agrees everyone ha
 It was implicit and not explicit, she was putting the responsibility on the liberals.
 We need a deal to make this happen.
 She said parliament isn't ready for a virtual parliament.
-That's something we hear from andrew scheer time and time again.
+That's something we hear from andrew Scheer time and time again.
 They have asked the speaker to look into this process, but it would take some time.
 There are some technical difficulties that make accountability challenging.
 At the same time the public health concern is a big one.
@@ -32,12 +34,14 @@ I think we'll have to keep watching our e-mail.
 
 
 **Rosemary**:
+
 I think you're right.
 The other by the of big news, this concerns everyone, the Canada-United States border.
 
 
 
 **Catherine**:
+
 a lot of canadiansmay say, status quo, this is just another 30-day extension.
 But it's interesting to watch what has been happening day in and day out with the questions by the media.
 Repeatedly reporters ask him to acknowledge what is in many ways think obvious to a lot of Canadians, particularly if you look at new York state right you, they say, sir, is it not apparent that the United States poses an enormous risk to us?and the Prime Minister does not want to acknowledge that, however self-evident that may be. I don't want to speculate on what's going on in the Prime Minister's mind, but there is a question whether he will provokethe United States.
@@ -54,6 +58,7 @@ The liberals have pushed that issue back for another 30 days.
 
 
 **Rosemary**:
+
 Catharine, that's great.
 We'll come back to you.
 You'll be on standby.
@@ -68,16 +73,19 @@ Tabatha bull joins me from toronto.
 
 
 **Interview**:
+
 Thanks for having me.
 
 
 
 **Rosemary**:
+
 How needed was this going to be?was there a real desire for additional money for specifically indigenous businesses?
 
 
 
 **Interview**:
+
 Absolutely.
 There are actually over 50, 000 indigenous businesses across thecountry, and 95% of those are small- and medium-sized businesses.
 In march we sent a letter to theprime Minister and the COVID-19 cabinet along with a number of our friends including the national aboriginal capital commission, which the Prime Minister mentioned today.
@@ -87,12 +95,14 @@ This is a much-needed and welcome announcement.
 
 
 **Rosemary**:
+
 This is because a lot of indigenous companies use indigenous institutions, bankinginstitutions, primarily.
 So this will go directly to those, instead of to a traditional bank, as you say?
 
 
 
 **Interview**:
+
 That's right.
 a number of indigenous businesses are also -- about 65%of them are financed through their own personal savings or loans.
 They're not an existing client and Cebu is for existing clients.
@@ -101,6 +111,7 @@ So we needed another route to access the capital and liquidity.
 
 
 **Rosemary**:
+
 Another thing that struck me from what the Prime Minister said, and this is something we're seeing through various sectors, is that many of these businesses are owned and employ indigenous women.
 Can you give us a picture of that and how important it is. I know it's hit a lot of sectors in the service industry.
 Give us a picture of that in terms of indigenous businesses.
@@ -108,6 +119,7 @@ Give us a picture of that in terms of indigenous businesses.
 
 
 **Interview**:
+
 So we definitely see women more -- double the amount of women are innovating and coming into the indigenous entrepreneur.
 a lot of that helps for them to have a flexible schedule, not unlike women across the country.
 a lot of the sectors hit initially were sectors where you would have a personal interaction, such as tourism.
@@ -117,6 +129,7 @@ We've seen a higher impact on indigenous women.
 
 
 **Rosemary**:
+
 Are there other things needed?the Prime Minister said this is the first step.
 These policy decisions being pushed out the door quickly are sometimes not the final version.
 is there anything else you're looking for?
@@ -124,6 +137,7 @@ is there anything else you're looking for?
 
 
 **Interview**:
+
 Definitely.
 We've been working closely with the government on a number of the programs that have already been established.
 I don't think it's intentional, but I think there's a number of factors in those programs that excludes indigenous businesses.
@@ -136,11 +150,13 @@ I would like to see some type ofincentives that we can ensure that those indigen
 
 
 **Rosemary**:
+
 You're talking about companies switching their supply chains to create things like masks?
 
 
 
 **Interview**:
+
 Definitely.
 We have seen a couple of our indigenous members who have pivoted to ethanol and producing hand sanitize and a number of businesses too who have been able to access masks.
 Another great business abroflex has been able to pivot to makinggowns.
@@ -149,16 +165,19 @@ We want to make sure those businesses have an opportunity to be part of the the 
 
 
 **Rosemary**:
+
 Tabatha, thanks for making time for us.
 
 
 
 **Interview**:
+
 Thanks so much.
 
 
 
 **Rosemary**:
+
 That is the Prime Minister's substantial announcement of aid today, $306 million of loans or non-repayable funds to go to indigenous businesses, of which there are many across the country.
 
 
@@ -172,6 +191,7 @@ I do know the premier was asked yesterday and he had some frank comments about t
 
 
 **Reporter**:
+
 Really what we heard yesterday from quÉbec's premier, franÇois legault, was am ea culpa, about how the government of quÉbec has handled the situation of long-term care facilities during the COVID-19 pandemic, so much so that the government actually asked for assistance from the federal government to get canadian armedforces members to come into the province and help out in some ofthese facilities.
 That's going to start today.
 There are going to be 125 armed forces members deployed in quÉbec to help in these facilities.
@@ -186,12 +206,14 @@ He said before this pandemic thegovernment should have acted quicker on trying t
 
 
 **Rosemary**:
+
 Matt, I'm sorry, I've got to let you go because I'm going to end the special on the main network.
 You can watch us on CBC news network.[♪♪♪] [ please stand by ]
 
 
 
 **Rosemary**:
+
 The city of Toronto today is holding some talks about laying out potential timeline for itsreopening, even though it is still many week away from allowing that to happen.
 This is all in the planningstages.
 The Prime Minister, of course, has said that it will be weeks, still, before Canadians will be able to go back to some sort of sense of normal life, even if that includes going to the park, for instance.
@@ -330,11 +352,13 @@ Over to you, operator.
 
 
 **Operator**:
+
 The first question is from radio-Canada.
 
 ---
 
 **Question**:
+
 Hello, I have question for Minister duclos.
 Minister, we have extended the border measures with the United States.
 Have we obtained any guarantees that we will be able to receive essential medical supplies from the United States without any hiccups at the border or without any issues with the trumpadministration?
@@ -342,6 +366,7 @@ Have we obtained any guarantees that we will be able to receive essential medica
 
 
 **Answer**:
+
 Minister duclassociation.
 Os. Thank you for the question.
 As you have mentioned., our relationship with the United States is very important in this context and all contexts.
@@ -363,12 +388,14 @@ Because goods go south, northand those goods, medical, foodand other things are 
 ---
 
 **Question**:
+
 I have a very specific question about personal protective equipment at theborder.
 Have you received a guarantees from the American government that 3m and other americancompanies will be able to export medical supplies and protective equipment to Canada?will we be able to import thesesupplies from americancompanies?have you received a guaranteefrom that effect from theamerican government?will we be able to receivemedical supplies and especiallypersonal protective equipment?
 
 
 
 **Answer**:
+
 Minister duclous.
 S.the word word is vigilant.
 These past few weeks, we haveobserved that essential goodsincluding medicine have beenable to flow across the bordervery well, but the motto isvigilance.
@@ -386,12 +413,14 @@ Next question.
 
 
 **Operator**:
+
 Our next question is from Teresa wright.
 Please go ahead.
 
 ---
 
 **Question**:
+
 Good morning, Minister ducal association.
 Os. You said that the numbers are giving us cause for cause anxious optimism and canadiansare starting to see numbers in their provinces improving andthey're going to question when we can get to the new normal.
 So what can we tell them?
@@ -408,6 +437,7 @@ So we really want to keep maintaining our efforts because if we didn't do that, 
 ---
 
 **Question**:
+
 Thank you.
 Minister miller, you mentioned the regulatory changes that you made with regards to first nation elections allowing the leaders to continue in their roles for up to six months, but there are some indigenous leaders saying this should have come sooner.
 Manitoba first nation is going ahead with an election, believe today.
@@ -436,11 +466,13 @@ Next question.
 ---
 
 **Question**:
+
 Our next question.
 
 ---
 
 **Question**:
+
 Mellow.
 I have questions for Minister duclos.
 For a question about military medics being sent into long-termcare facilities in Quebec as oftoday.
@@ -450,6 +482,7 @@ Could you tell us where thesemilitary medics are sent todayand how many are sent
 
 
 **Answer**:
+
 Minister duclassociation.
 Os. Thank you for your question.
 I would like to thank actors in both governments who have worked hard to make this happen very, very quickly.
@@ -463,11 +496,13 @@ The government of Quebec is satisfied and that said, the federal government must
 
 
 **Operator**:
+
 Now a followupquestion.
 
 ---
 
 **Question**:
+
 I'm getting the impression you don't know where the needs are dire and maybe you can answer on Minister Freeland.
 There was a Minister's call with the provisional and territorial premiers and remuneration of essential workers was discussed.
 Had a deal been reached with provinces regarding salarypop-ups for essential workexperts what decisions have beentaken and which workers willreceive these top-ups.
@@ -475,6 +510,7 @@ Had a deal been reached with provinces regarding salarypop-ups for essential wor
 
 
 **Answer**:
+
 We are starting to realize in Quebec and every wherein Canada that many essential workers are not sufficientlyremixer n e. R.a. T derick.
 Remunerated.
 Another element you mentioned isthat the government of quebecwants to help provinces andterritories and everyone wantsto help essential workers.
@@ -486,6 +522,7 @@ There are jurisdictional issuesand the government of Canada, ofcourse, wants to 
 ---
 
 **Question**:
+
 B. C.'s success iscredited with good tracing andontario seems to be laggingbehind.
 Will the federal government stepin and mandate provinces toincrease testing and are youconcerned that provinces thatare lagging behind will pulldown those that have come ahead?
 
@@ -499,6 +536,7 @@ So we want to do this as much as is needed and that's what we will continue to d
 ---
 
 **Question**:
+
 With regard to those that are on old-agesecurity or disability benefits, those that have a fixed income, what's being done for thosepeople who might be facingmounting costs with regard togroceries or transportation orcost of living on a fixed incomeand is there any talk with theprovinces about making sure thatcerb doesn't affect theirreceiving federal benefits?
 
 
@@ -510,6 +548,7 @@ So we are going to continue as the Prime Minister again said, continue being min
 ---
 
 **Question**:
+
 I'm with CBC news.
 B.c. is talking about, perhaps, easing up some of therestrictions next month is thenumber of hospitalizations andcases go down.
 At a federal level, what is thebar that we have to meet inorder to relax some of theamericas?cases?
@@ -533,6 +572,7 @@ Thank you.
 ---
 
 **Question**:
+
 I'm alsowondering, how many blue med medical tents does the department have ready to send to communities and when exactly what that happen.
 
 
@@ -564,12 +604,14 @@ Turning back to the phone, operator.
 
 
 **Operator**:
+
 Thank you.
 Our next question, please goahead.
 
 ---
 
 **Question**:
+
 My question is for minister duclos.
 You spoke about how thecanada-United States relationship will betested in the upcoming weeks.
 When trump expresses impatienceand a strong desire to reopenthe american economy, does thatworry you?
@@ -577,6 +619,7 @@ When trump expresses impatienceand a strong desire to reopenthe american economy
 
 
 **Answer**:
+
 As an economist, given the current circumstances, if we want to reopen theeconomy, then we must be very, very cautious, especially when it comes to public health.
 We have made major sacrifices these past few weeks.
 We have been isolated and we have felt anxious and we have also made economic sacrifices.
@@ -591,6 +634,7 @@ Followup question.
 ---
 
 **Question**:
+
 All right.
 So that was your economist'spoint of view.
 Now what's your point of view as a Canadian as a canadiancitizen?president trump wants peoplemoving around freely as soon aspossible.
@@ -599,6 +643,7 @@ How do you feel about that?could that compromise publichealth and safety in Cana
 
 
 **Answer**:
+
 Minister duclassociation.
 Os. No, I'm not worried.
 Our public health experts are very trustworthy and moreover, our municipalities, province sand territories are doing such an excellent job when it comes to public health and spreading public health messages.
@@ -612,6 +657,7 @@ That concludes today's pressconference.
 
 
 **Rosemary**:
+
 The federal cabinet Minister's briefing and public health official'spreving.
 Briefing.
 Let me give you some information in the Canada relief benefit, the CERB that many of you have tapped into because you have lost work or lost your jobs due to COVID-19 and he says there have been 7.9 millionapplications.
@@ -622,6 +668,7 @@ We did get new numbers on covidoutbreaks in different indigenous communities.
 
 
 **Reporter**:
+
 Let's talk about what Minister duclos said when he was asked about the protective equipment across thecanada-United States border.
 I thought it was interesting hesaid they'll have to remainvigilant on this particularissue and did note while thecanada-United States relationship is agood one, it's one that has beentested and he said it wouldcontinue to be tested over thecourse of the next few weeks, and that goes back to the pointwe were talking about beforethis news conference started.
 That the government officials donot want to politician italy sata great source this is, as wesee the picture across theproblems and territories and thepicture seems to change fromstate to state, too, and a lotof attention being paid to newyork city state.
@@ -636,6 +683,7 @@ It's a significant contribution, I guess, we can say, to thenumber of deaths we'
 
 
 **Rosemary**:
+
 Probably it will look not only different region to region, but probably it will look different in terms ofsociety.
 Vulnerable people, seniors, older Canadians will probably be living under different restrictions than other people for some time because they are the ones most susceptible.
 So you can see a ramping down of measures and maybe parks will open to kick around a soccerball.
@@ -648,6 +696,7 @@ But again, I think everyone is saying we can't let go now because then everythin
 
 
 **Reporter**:
+
 That raises couple of points.
 One about testing and if I could echo Dr. Tam for a minute and weknow, perhaps, what she mightsay, something we've heard repeatedly is this question of the curve.
 Yes, perhaps, you've reached the peak but that's only 50% of the cases and you have to be certainwe've heard her say time and time again, be mindful of what happens on the way back down, because that is 50% of thecases.
@@ -664,6 +713,7 @@ So it's really a very dynamicconversation, but one that think people are hungry 
 
 
 **Rosemary**:
+
 Thank you for your help today.
 
 

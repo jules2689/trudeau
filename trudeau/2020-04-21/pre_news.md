@@ -22,6 +22,7 @@ We appreciate that.
 
 
 **Rosemary**:
+
 How are you doing?how are the people around you doing today?
 
 
@@ -36,6 +37,7 @@ Go ahead.
 
 
 **Rosemary**:
+
 No, you go ahead, Larry Your normal is you all get together and help one another.
 
 
@@ -47,6 +49,7 @@ and in a few days' time, we get together as friends and family to honour the per
 
 
 **Rosemary**:
+
 Yeah.
 It does make it so much more difficult, the fact that everyone has to be apart during this.
 How are people, the families, the people that you've spoken to, how are they dealing with it given that they have sort of this double, you know, pressure now of not being able to be together?
@@ -67,6 +70,7 @@ They're just heartbreaking.
 
 
 **Rosemary**:
+
 The fact that it happened over such a large territory, right?a number of different villages were hit and a number of different families.
 How much more difficult is that?the fact that it really seems to have touched so many people in the region?
 
@@ -82,6 +86,7 @@ It's only been two days and most of us cannot, cannot, get our heads and heart a
 
 
 **Rosemary**:
+
 We now know, I think 18 of the victims, Larry did you know any of them or their families?
 
 
@@ -99,6 +104,7 @@ Really tragic.
 
 
 **Rosemary**:
+
 Larry, I want to ask you a more serious question about some of the response and it is really around the emergency alert notice.
 I ask you that because the RCMP decided to send out tweets instead of issuing the alert that would have gone off on everyone's phones.
 There is one person who says that that would have made a difference, they think, to one of their friends.
@@ -114,6 +120,7 @@ Because they're going to need so much time and so much care and I think that is 
 
 
 **Rosemary**:
+
 I get that t. How long have you been an MLA For the region?
 
 
@@ -123,6 +130,7 @@ In My eighth year now.
 
 
 **Rosemary**:
+
 and have you ever had to try and comfort or lead people through anything like this?
 
 
@@ -134,6 +142,7 @@ Hopefully never again.
 
 
 **Rosemary**:
+
 I agree.
 How is your previous job as a clergyman helping you now?
 
@@ -146,6 +155,7 @@ and that is all any of us can do.
 
 
 **Rosemary**:
+
 Ok. Larry --
 
 
@@ -156,6 +166,7 @@ Because they know that the outside world really cares about what's happening her
 
 
 **Rosemary**:
+
 Well, y you're right.
 We do. We do. and we're all thinking of all of you and I do appreciate you making the time, Larry These are difficult days.
 Yeah.
@@ -170,6 +181,7 @@ and thank you very much.
 
 
 **Rosemary**:
+
 Appreciate it. That is Larry Harrison a member of Nova Scotia's legislature and he joins us us from shortt's lake.
 Ok. We'll turn back to what we have come to the usual part of our day.
 If anything is usual these days.
@@ -182,6 +194,7 @@ and I'll start with Vassy.
 
 
 **Vassy**:
+
 Yeah, rosey.
 As you mentioned, yesterday the focus was squarely on Nova Scotia in the Prime Minister's response, in his remarks yesterday, just offering condolences and some more details today will pivot back to the government's response to the spread of COVID-19 and primarily the economic response of the government on two facets.
 The first, charities.
@@ -204,12 +217,14 @@ They needed it yesterday kind of thing and how much they might be entitled to. M
 
 
 **Rosemary**:
+
 The finance Minister says that they will provide information around applications.
 and correct me if I'm wrong, but I think charities can also tap into the wage subsidy programme so that might be part of the aid, but obviously there is more coming.
 
 
 
 **Reporter**:
+
 Yeah.
 They can tap into the wage subsidy and they can include and exclude the government grants they were getting and make it as accessible in popular.
 In particular, what we'll see today with the aid for charities is we were told what would be to support vulnerable populations.
@@ -228,6 +243,7 @@ It could be something that the Prime Minister is asked about, given the total sh
 
 
 **Rosemary**:
+
 I'll get Vassy to weigh in on that, too.
 I will say that the meat packing plant you are talking about is the car gill plant in Alberta.
 and there are 484 cases now linked to that plant.
@@ -235,11 +251,13 @@ and there are 484 cases now linked to that plant.
 
 
 **Reporter**:
+
 and that is one-third of the country's capacity, just that one plant is one-third of the processing capacity in the country.
 
 
 
 **Rosemary**:
+
 and another example of that occurring, too, in the United States.
 So, that is a real concern, as you say, for supply.
 and I imagine, you know, some being that people have to think about.
@@ -251,6 +269,7 @@ and to try to understand how any industry could rebound from those numbers and t
 
 
 **Vassy**:
+
 Yeah.
 and it is crazy, rosey, that less than a week ago we were sitting here talk about the aid package that the federal government was announcing for the sector based on numbers that already looked terrible and just in the last 24 hours as David and you both point out got a whole lot worse.
 Specifically that benchmark price for United States oil, at least the contracts for may is concerned.
@@ -277,6 +296,7 @@ Their revenues are hurting and the federal government's revenues, I should say, 
 
 
 **Rosemary**:
+
 The difference is they have more capacity and take on debt than we've seen obviously in Newfoundland certainly.
 All right.
 Here is the Prime Minister of Canada emerging from his home to speak with us yet again about his government's response to the COVID-19 pandemic.

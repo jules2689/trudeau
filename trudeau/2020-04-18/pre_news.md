@@ -14,16 +14,18 @@ The Prime Minister has been asked those questions virtually every day this week.
 
 
 **Catherine**:
+
 That's right.
 He says it's key to moving forward.
 Any attempt to reopen the economy will depend on testing.
-The world health organization, an organization that we should say is under added scrutiny, bu tit put forward this week six criteria for any jurisdiction that's looking at moving forward and widespread testing would be a part of that.
+The world health organization, an organization that we should say is under added scrutiny, but it put forward this week six criteria for any jurisdiction that's looking at moving forward and widespread testing would be a part of that.
 Canada, according to many experts, is not at a point to reopen the economy.
 Even beyond that there is a debate of larger jurisdictions, notably Ontario, they are still trying to ramp up to a level that everyone is happy with to deal with the situation as it is, let alone allow people to return to people's lives not as normal, not to some sense of normalcy.
 
 
 
 **Rosemary**:
+
 B. C. is already having that conversation.
 Of course they were testing at much higher rate than other provinces and according to their public health officer, Bonnie Henry have flattened out the curve.
 There was a move last night that came late in the day by the federal government to start I guess putting different measures in place as things ease up.
@@ -31,6 +33,7 @@ There was a move last night that came late in the day by the federal government 
 
 
 **Catherine**:
+
 That's right.
 Anyone now who enters an airport, anyone who is doing any airline travel will need to weary non-medical mask, a cloth facecovering.
 When we're talking about membersof the general public, they do not want people using those medical masks, but more and morepeople who have gone out of their house see people with those masks.
@@ -50,6 +53,7 @@ and now Dr. Njoo says the science is evolving.
 
 
 **Rosemary**:
+
 Now new York state is saying you have to wear a mask on things like public transit.
 As restrictions are eased, other measures have to come into play.
 Catharine, I'll come back to you shortly as we stand by and wait for the Prime Minister in Ottawa Obviously the coronavirus continues to claim lives in long-term care facilities.
@@ -61,16 +65,19 @@ Good to see you.
 
 
 **Interview**:
+
 Thank you.
 
 
 
 **Rosemary**:
+
 How is your mother doing, Ilene
 
 
 
 **Interview**:
+
 Mom's doing very well.
 She's obviously happy to be home with family.
 It's a challenge.
@@ -82,6 +89,7 @@ So between both of us, we're managing pretty well.
 
 
 **Rosemary**:
+
 Good morning.
 I'm glad to hear that.
 Explain to people how you came to this decision, where your mom, who you mentioned has dementia, that your mother needed to come live with you fora period of time.
@@ -89,6 +97,7 @@ Explain to people how you came to this decision, where your mom, who you mention
 
 
 **Interview**:
+
 Well, about the third week in march I was reading the news and listening to what was happening in long-term care and it became very scary.
 I mean, a lot of people were dying.
 There was no help.
@@ -105,22 +114,26 @@ In the end I made the decision that after doing some calls to the government and
 
 
 **Rosemary**:
+
 Were there cases ofcovid-19 at the time in her residence or have there been since?
 
 
 
 **Interview**:
+
 No, there were no proven cases of COVID-19, which gave me a good in to get My mother out.
 Because I'm not sure what the situation would be had there been one contracted there.
 
 
 
 **Rosemary**:
+
 and I believe you're a part-time nurse or you were working as a part-time nurse, so that gives you an advantage that other people might not have because it is a lot to take on. How much of a factor is that?
 
 
 
 **Interview**:
+
 Yes, well I still work in a doctor's office in Barrie and I do relief, but right now the count is way down.
 So I had this opportunity to be home.
 As well -- and My husband as well.
@@ -131,11 +144,13 @@ Yes, so that made it possible for me. I had had My mother prior to her going and
 
 
 **Rosemary**:
+
 Does it worry you about having to send her back?because, if anything, this pandemic has exposed, eileen, that long-term care homes are obviously struggling during thispandemic, but may be we are not doing enough for older canadiansacross the board.
 
 
 
 **Interview**:
+
 Well, the government could be a little more lenient to families who want to take their loved ones home.
 It was a real dilemma for me because when I called the actionline, the ministry of health, the lady told me that My mother would lose her bed, that she would go on the waiting list as a pre-admit, and not sure when she would get back in. My question to her was is the pre-admit over or below the crises list?because I know the crises list is probably in a couple thousand.
 She couldn't answer that, but she did leave the phone and scamback with an answer and said it was below the crises list.
@@ -150,6 +165,7 @@ Now, if I go past the 90 days --as you said, this may go on -- then what am I go
 
 
 **Rosemary**:
+
 All right, Eileen I know many people are struggling with these same issues and it was a difficult decision for you to make.
 I can tell your mom is still very much full of life and is happy to be there.
 I wish you good health and take care.
@@ -157,11 +173,13 @@ I wish you good health and take care.
 
 
 **Interview**:
+
 Thank you very much.
 
 
 
 **Rosemary**:
+
 Eileen Smyth in Barrie Ontario.
 In Ontario there are more than 100 long-term care homes who have outbreaks of COVID-19. So we're talking about almost one in six homes.
 That has been the picture, not only in Ontario but definitely in quÉbec and to some extent in British Columbia as well.
@@ -170,6 +188,7 @@ Let's go to the cbc's megan batchelor in vancouver because British Columbia is a
 
 
 **Megan**:
+
 Yeah, Rosie we're seeing data coming out of British Columbia and Dr. Bonnie Henry being cautiously optimistic that some restrictions are being lifted.
 We're seeing a slow down in the increase in cases across the country in particular in ontarioand in quÉbec.
 B.c. is also changing the way that it's doing its modelling.
@@ -183,6 +202,7 @@ The officials here are preparingfor that and adjusting their modelling there.
 
 
 **Rosemary**:
+
 Megan bachelor in Vancouver a different picture on the west coast.
 That is the issue with COVID-19 is that the chief public health officer, Dr. Theresa tam, has talked about regional epidemics.
 Every province looks a little bit different.
@@ -197,6 +217,7 @@ The premier was also very welcoming to it, as were is many many environmentalist
 
 
 **Catherine**:
+
 Indeed.
 They put together $1.7 billion to deal with orphaned wells as well as another chunk of money -- and I am watching the doorway as you are -- to help those in the oil and gas industry embrace I guess I could say new methane emissions.
 This is something industry expressed concern about, whether or not they could do it. The government is putting forward this money to assist with that.
@@ -208,5 +229,6 @@ I can see the Prime Minister.
 
 
 **Rosemary**:
+
 Let's go to him.
 Here is the Prime Minister of Canada speaking.

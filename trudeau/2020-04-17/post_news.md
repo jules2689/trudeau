@@ -1,6 +1,7 @@
 
 
 **Rosemary**:
+
 That is the Prime Minister of Canada speaking tocanadians on a daily update in the government's fight againstcovid-19. Another huge amount of money to help different Canadians in different sectors in this country.
 and I'll bring in Vassy kapelosand salimah shivji to muddle through what we heard there, because there's a lot of it, andwe're waiting for a federal briefing as well.
 Let me just say this part thatquÉbec did ask for additional help from the federal government and that has now been negotiated and confirms that 125 canadianforces members are on their way to help at long-term carecentres, presumably, to do someof the additional work thatdoctors and the nurses and aideworkers can't do. and they could be there as earlyas this afternoon.
@@ -12,6 +13,7 @@ Oil and gas is probably what youwant to talk about.
 
 
 **Reporter**:
+
 I will, if you don't mind, Rosie zero in on oil and gas.
 Because as we had discussed prior to this, there's heightened need for help in thissector, especially for workers who have been laid off with the double whammy of COVID-19 and its consequences and then also Price war that emerged between Saudi Arabia and Russia The announcement from the Prime Minister today somewhat anticipated and geared towards cleaning up what are known as orphan wells in both Alberta andsaskatchewan.
 I think that British Columbia as well.$1.7 billion directed towardsthat, that the government saysthat will help to maintain 5, 200 jobs.
@@ -35,6 +37,7 @@ I just don't know what that backstop means, what that liquidity looks like and t
 
 
 **Rosemary**:
+
 I would say that both of those measures sound interesting and we'll have to go to the press conference -- both of the measures, while they were helping the gas and oilindustry, they also have environmental components to try to move the government's agenda forward on those components.
 Salimah, I'll have you talk to that if this press conference wraps up because it might never.
 Thank you both.
@@ -45,12 +48,14 @@ This is the deputy Prime Minister.
 
 **The Hon.
 ChyrstiaFREELAND**:
+
 (voice oftranslator): navdeep Bains who is joining us remotely as well.
 Also with us is the deputy chief public health officer,[speaking french](voice of translator):dr. Howard njoo is with us andready to answer your questions.[end of translation]dr. Tam, please.
 
 
 
 **HELLO, EVERYONE.I'LL BEGIN WITH OUR USUAL UPDATEON THE NUMBER OF COVID-19 CASESIN CANADA.THERE ARE NOW 31,407 CASES,INCLUDING 1,250 DEATHS.FOR THE LAB TESTING WE'VECOMPLETED TESTS FOR OVER 503,000PEOPLE WITH 6% CONFIRMEDPOSITIVE.WITH THE RECENT SLOWDOWN IN THEEPIDEMIC GROWTH, CASE COUNTS ARENOT CLIMBING AS RAPIDLY, HOWEVER, DUE TO THE DISEASE,DEATHS HAVE CLIMBED AS COVID-19TAKES A DEVASTATING TOLL.IT CREATES A BIT OF A PARADOX.WHERE EARLY IN AN EPIDEMIC WESEE A RAPID GROWTH OF INFECTIONSAND NOT SO WITH DEATH.AS THE INFECTIONS SLOW, THEDEATHS GO TO A FASTER PACE.THAT'S WHY THE DEATHS CAN BEUNDERESTIMATED.BUT THERE'S OTHER REASONS SUCHAS WHEN COVID-19 EPIDEMIC ISINTRODUCED INTO SETTINGS WHERETHERE'S MANY OLDER ANDVULNERABLE PEOPLE.I CANNOT STRESS ENOUGH HOWIMPORTANT IT IS TO PROTECT THESEVULNERABLE SETTINGS AND PEOPLE.THIS IS A LONG-STANDING PROBLEM,BUT IT IS NOW INCUMBENT UPON USTO SOLVE IT BY ADDRESSING ALLWEAK POINTS IN OUR SYSTEM.[Speaking French](Voice of Translator)**:
+
 To measure our progress we must take into account the evolution of COVID-19 in Canada.
 The nature and the intensity of spread depends on where you are in the country.
 Although our four largest provinces continue to report the bulk of cases in Canada, the highest case numbers have been coming out of quÉbec and ontariorecently.
@@ -84,6 +89,7 @@ We also know that among theplaces hardest hit in ourcountry are the cultural sec
 
 
 **Rosemary**:
+
 That is our daily briefing here on CBC If you want to continue watching go to CBC Ca or continue watching us on CBC news network.
 We will be back here most likelytomorrow.
 I'm rosemary Barton Thank you for watching.(♪♪♪)
@@ -91,6 +97,7 @@ I'm rosemary Barton Thank you for watching.(♪♪♪)
 
 
 **Rosemary**:
+
 I'm rosemarybarton and you're watching CBC News network or CBC Ca streaming around the world.
 Let's go back to finance minister bill morneau.
 
@@ -98,6 +105,7 @@ Let's go back to finance minister bill morneau.
 
 **The Hon.
 Bill Morneau**:
+
 That would go through heritage canadathat My colleague will be talking about.
 and we know that there are manystart-up companies, companiesthat are just getting going, that might not be able to haveaccess to the Canada emergencywage subsidy or the emergencybusiness account so we'reputting money in that regard as well towards those firms.
 I know that My colleague navdeepbains will be talking aboutthat.
@@ -162,11 +170,13 @@ Back to you, Chrystia.
 
 **The Hon.
 Chyrstia Freeland:THANK YOU, SEAMUS.[Speaking French](Voice of Translator)**:
+
 We'llnow go to Stephen guilbeault.
 
 
 
 **(Voice of Translator)**:
+
 I'dlike to ask you what are you doing during physicaldistancing?watching the news, watching amovie, tv?reading a good book?looking at a virtual exhibit?[end of translation]our favourite athletes whoinspire us to get involved insports.[speaking french](voice of translator): thegovernment is very proud toprovide assistance to thesectors.
 We stand behind those who areusing their passion and theirwork to liven our lives.[end of translation]$100 million to establish acovid-19 emergency support fundfor cultural, heritage andsports orginisations.[speaking french](voice of translator): thegovernment will provide$500 million for orginisations in culture, heritage andsupport.[end of translation]the targeted measure willprovide financial support thatis consistent with the existingcovid-19 support members forwage and fixed costs fororginisations.
 It will be administered bycanadian heritage with thesupport of many partners such asthe Canada council for the arts.[speaking french](voice of translator):Minister guilbeault.
@@ -186,6 +196,7 @@ Minister joly?
 
 
 **(Voice of Translator)**:
+
 In recent weeks I had an opportunity to have discussions with a number of heads of chambers of commerce across thecountry, to montrÉal, quÉbec, moncton and Edmonton What they've all said is that this crisis is hitting themhard.
 They've shared their concerns with me, their realities, theiranxiety, and we have heard themessage.
 Our objective today in conjunction with the Minister offinance, is to protect ourstreets, our small communities.
@@ -246,11 +257,12 @@ and we're now ready to take yourquestions.
 
 
 Thank you, deputy Prime Minister.
-So we'll start with three questions on the phone and turn to the one, and one question an done follow-up.[speaking french]
+So we'll start with three questions on the phone and turn to the one, and one question and one follow-up.[speaking french]
 
 ---
 
 **Question**:
+
 Thank you.
 Merci.
 Our first question... fromradio-Canada.
@@ -259,6 +271,7 @@ Please go ahead.
 ---
 
 **Question**:
+
 (voice oftranslator): journalist.
 Mr. Guilbeault, can you give us more details on the assistance that you'll provide to the cultural and the sportsindustries, who will the money go to?how will it assist?go to the sports associations?to the athletes morespecifically?
 
@@ -280,6 +293,7 @@ and the programmes that we havealready announced weren'ttailored for them and di
 ---
 
 **Question**:
+
 (voice oftranslator): follow-upquestion.
 Minister joly, can you tell us alittle bit more about theannouncement that you've made.
 You have talked aboutmunicipalities in various townsand villages across the country.
@@ -308,6 +322,7 @@ Please go ahead.[speaking french]
 ---
 
 **Question**:
+
 Good morning.
 Dr. Tam, I'm wondering if you could tell us if there's any guidance for health workers and doctors on how ventilators should be rationed, if it comes to that.
 and if anyone is working on any such guidelines?
@@ -327,6 +342,7 @@ Follow-up?
 ---
 
 **Question**:
+
 Yes, and myfollow-up question is forminister morneau.
 mane people on social assistanceprogrammes are surviving on lessthan people getting the CERB.
 and many marginalized canadiansjust can't access it. So rather than continue to tweakit as you have been doing, whynot just make the cerbuniversal?
@@ -358,6 +374,7 @@ Our next question, [speakingfrench]please go ahead.
 ---
 
 **Question**:
+
 (voice oftranslator): journalist.
 I'm not sure who to put my question to, but anyone can answer it. It deals with soldiers being sent in to help out in quÉbec.
 In the "maclean's" article, Doctor who served in the force stalked about some 2, 500 soldiers who are trained that could be available but there's a problem with respect to their qualifications in quÉbec and inontario.
@@ -367,6 +384,7 @@ is there some way to make an exception so that more than --these particular sold
 
 **The Hon.
 ChyrstiaFREELAND**:
+
 (voice oftranslator): Minister Freeland, answer.
 The decision to respond toquÉbec's request that went to the Prime Minister is an important one.
 It's a decision that was made in close cooperation with quÉbec, the Canadian forces, the minister of public safety, the minister of health, the minister of defence.
@@ -388,6 +406,7 @@ What about the volunteers?can you give us an idea of howmany more people could b
 
 **The Hon.
 ChyrstiaFREELAND**:
+
 (voice oftranslator): answer, ministerfreeland.
 At this point, no. What I do want to underscore is that it is essential to work in close cooperation with theprovince.
 We are doing this work together and I'd also like to assurequÉbecers that we fully understand the urgency of thesituation.
@@ -401,6 +420,7 @@ Starting with David thurton, CBC
 ---
 
 **Question**:
+
 The woes in the oil and gas sector isn't going away anytime soon, so some people are probably wondering if there'sgoing to be anymore help on theway?and can you maybe walk usthrough the range of things thatyou're thinking of, ministermorneau, Minister regan?
 
 
@@ -412,6 +432,7 @@ So I'm going to turn to seamusfirst, is that okay, david?
 ---
 
 **Question**:
+
 That's fine.
 
 
@@ -452,6 +473,7 @@ and there's more for us to talkabout in that regard in comingdays.
 ---
 
 **Question**:
+
 Okay, thank you.
 and this question is from one of my colleagues.
 She's asking, we know that contact tracing is important in the fight against the spread ofcovid-19. Minister Bains, what discussions are you having at the federal level about using technology to facilitate that?and are there any conversationsabout using cellphone data?
@@ -472,12 +494,14 @@ But we have some credibleinnovative companies across thecountry that are steppin
 ---
 
 **Question**:
+
 Thank you, ministerbains.
 Mike?
 
 ---
 
 **Question**:
+
 Good morning, Dr. Tam.
 How would you charactericize the country and what are the differences between quÉbec and the prairies and the maritimes?
 
@@ -495,6 +519,7 @@ So they're actually quitedifferent.
 ---
 
 **Question**:
+
 and this is for --well, I'll ask and see who wants to answer.
 Does this suggest that there's different approach that we could take to re-starting the country, depending what province we'redealing with?
 
@@ -520,6 +545,7 @@ Above all, let's remember thatwe've paid a really high pricealready and let's be
 ---
 
 **Question**:
+
 Good afternoon, this question is directed to deputy Prime Minister freelandand Dr. Tam.
 With concerns about the lack of transparency from china in the start of this outbreak, the death toll in Wuhan has increased by 50% in a recent revision from the chineseauthorities.
 How has the inaccuracy of the data and the suppression of the information about the outbreak in china affected Canada'sresponse to this crisis?
@@ -556,6 +582,7 @@ The five eyes and nato and noradand the advice is informed by the information sh
 ---
 
 **Question**:
+
 As a follow-up. Just how is it best to moveforward with all of these thingsbeing, what you said off thecourse, the data that you'relooking at from other countries, including china, thatrelationship that you had withother countries when you'retrying to combat a globalpandemic.
 Are there any concerns that thechinese cooperation and the lackof access of the informationcoming out of china, you know, could have in any ways affectcanadian researchers that arecooperating with the lab inwuhan, for example?is there any concern about thatin terms of combating the spreadof this pandemic?and devising ways to stop it.
 
@@ -587,6 +614,7 @@ Your line is now open.
 ---
 
 **Question**:
+
 (voice oftranslator): Marie kastelle.
 I have a question for ministerregan and morneau.[end of translation]mr. Regan, I'm worried whatfurther help could come for theoil industry?and many were asking and maybeeven expecting that thegovernment do more -- forexample, by taking equity sharesinto oil companies as thegovernment did in 2008 withautomobile companies.
 I'm wondering if the governmentis considering that?and, if not, why not?and Minister morneau, I don'tknow if this was related tothat, but you sort of alluded to the credit for medium-sizedbusinesses.
@@ -636,6 +664,7 @@ and maybe now, bill, would youlike to answer the part of thequestion directed at
 
 **The Hon.
 Bill Morneau**:
+
 The key -- the key thing that we'veheard from businesses across the country really is that they need access to credit.
 We've got a particular challenge where businesses are either not operating or operating with significantly less revenue for a period of time.
 and they need credit to get through that time.
@@ -654,6 +683,7 @@ It's credit, it's on commercial basis and it would allow businesses -- and busin
 ---
 
 **Question**:
+
 It sort of sounds like you weren't quite in agreement in your questions.
 So I guess that I'll ask itagain.
 In terms of the possibility of the government buying equity shares in oil companies, it sort of sounds, Minister o'regan, like you were saying maybe?am I correct in understandingwhat you were saying?
@@ -701,11 +731,13 @@ So, focus on them is a focus on workers and ensuring that these companies remain
 
 
 **Reporter**:
+
 Ok. As a follow-up, did you put a number on the --
 
 
 
 **Rosemary**:
+
 Ok. We'll pull away from the federal briefing today and leave you with the notion that the Prime Minister announced earlier, $1.7 billion to help clean up orphan wells in Alberta.
 More possible credit to come for oil and gas companies that have been hit by a double want my of COVID-19 and significant drop in oil prices.
 I'll leave it there for you today.

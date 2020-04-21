@@ -15,6 +15,7 @@ What can you tell us about how it's played out?
 
 
 **Reporter**:
+
 Well, as you said, the suspect -- we know from RCMP that gunman is now in custody and we know that he has been on the run for approximately 12 hours.
 The RCMP tell us that he was tracked down between here and Halifax We last know that he was seen traveling on highway 102.
 That is the highway, the major highway that runs between here and the city.
@@ -32,6 +33,7 @@ Rosey?
 
 
 **Rosemary**:
+
 So many unusual parts to this story.
 He is in custody now as you say.
 But the fact he did seem to be impersonating or pretending to be RCMP officer, the RCMP ga*ef a lot of information about that as well.
@@ -47,6 +49,7 @@ CBC has been able to confirm that he is a venturist.
 
 
 **Rosemary**:
+
 Ok. Appreciate that.
 The cbc's Shaina luck reporting from great village, Nova Scotia.
 To remind you a little bit about how that unfolded, starting at 11:30 last night.
@@ -64,6 +67,7 @@ and maybe give us some details if he has any, David What else are we expecting f
 
 
 **Reporter**:
+
 I'm not sure we'll get much in the way of a significant news announcement today.
 But the news that is happening here in Ottawa is the negotiations happening behind the scenes with all the part is to figure out what to do about the house of commons which is due to come back in full force with all 388 M.P.s scheduled to come back and take their seats in the middle of a pandemic, an thao*uk no one is super keen to have at all.
 There are talks of reduced sittings with reduced numbers, but they are not all the way down yet.
@@ -71,7 +75,7 @@ The liberals and new democrats have reached an agreement in the last 20 minutes 
 This is a move from the liberals who wanted one sitting and one virtual sitting as the baseline each week.
 They decided to go up to two to satisfy the new democrats.
 The greens and bloc quÉbÉcois, would go along with this.
-Andrew scheer is keen to have parliament come back and resume its normal function in what are abnormal times with a reduced sitting.
+Andrew Scheer is keen to have parliament come back and resume its normal function in what are abnormal times with a reduced sitting.
 Something like we saw before and theys paed legislation of 30 to 40M.P.s from around the Ottawa area.
 The conservatives started with a request or demand for four in-person sitings as the negotiations have gone on, they have countered with three in-person sitings.
 The liberals, the greens, the bloc, they don't want to go to that.
@@ -79,11 +83,12 @@ You can reduce the number of M.P.s, but you need staff, broadcasters, political 
 and when you head back, there's too many support staff for people to safely social distance.
 These are the behind the scenes conversations in ottawa.
 What is the compromise?four of the parties have largely found an agreement that functions.
-The conservatives are not on board with that yet and we'll hear from andrew scheer a little bit later this afternoon to see what he has to say on this.
+The conservatives are not on board with that yet and we'll hear from andrew Scheer a little bit later this afternoon to see what he has to say on this.
 
 
 
 **Rosemary**:
+
 I realise for people that that is a lot of days and a lot of information about what's trying to go on here.
 But essentially they're trying to find a way for parliamentarians to do their work in some capacity inside the house of commons and for the government to answer questions and be held to account for decisions that it's making.
 It is vitally important.
@@ -92,6 +97,7 @@ I don't think anyone disagrees with that.
 
 
 **Reporter**:
+
 Everything is suspended and put on hold.
 But democracy hasn't been abandoned in Canada.
 The house normally sits five days a week with people flying in from all over the country, there's no way for that to happen safely and practically.
@@ -103,13 +109,14 @@ You know, a full year's budget is normally about $350 billion.
 So, they have done almost a year of spending in a matter of four or five weeks.
 As the urgent needs caused by COVID-19 keep expanding and growing and more and more people are.
 Captured by these programmes.
-We've seen Andrew schemer come back to Ottawa with his family and holding daily press conferences.
+We've seen Andrew Scheer come back to Ottawa with his family and holding daily press conferences.
 and his argument is that this is necessary to hold the government to account by answering clear and specific questions about whether they were slow to resfonld the pandemic or close the borders or buy equipment.
 This is what he wants to do. The other parties, though, do not agree with the conservative leader's demand for the sheer volume for in-person sitings that he is looking for.
 
 
 
 **Rosemary**:
+
 Ok. David, I will come back to you shortly.
 I'm going to go back to our top story at this hour.
 a suspect is in custody after an active shooter's investigation.
@@ -122,18 +129,21 @@ How are you doing?
 
 
 **Caller**:
+
 Doing good.
 a little tired.
 
 
 
 **Rosemary**:
+
 I bet.
 When did this start for you?was it last night and what were you told?
 
 
 
 **Caller**:
+
 It was around 10:30 or 11:00 last night.
 We noticed police cars and then the house fire and two more fires after that.
 We're assuming warehouse st as well.
@@ -143,11 +153,13 @@ So, we pretty much bunker ed in for the time being.
 
 
 **Rosemary**:
+
 Did they appear to be large house fires?what can you tell me?
 
 
 
 **Caller**:
+
 Pretty large house fires, yes.
 and some explosions.
 Gas tank and propane tanks and what have you.
@@ -157,11 +169,13 @@ So -- [sirens]
 
 
 **Rosemary**:
+
 and do you know the residents of the homes?I don't know how much you could see in terms of what house was affected.
 
 
 
 **Caller**:
+
 We know a couple for sure that were kind of viz able from our yard.
 But the third we don't know for sure.
 But scary, I guess.
@@ -169,6 +183,7 @@ But scary, I guess.
 
 
 **Rosemary**:
+
 Yeah.
 I can't imagine.
 and when you woke up this morning and found out that it was an active shooter investigation --
@@ -176,50 +191,59 @@ and when you woke up this morning and found out that it was an active shooter in
 
 
 **Caller**:
+
 We didn't wake up this morning.
 We were up all night.
 
 
 
 **Rosemary**:
+
 Fair enough.
 When you got word that that's what was actually happening and they told you to stay in your basement, I can't imagine what that must have been like.
 
 
 
 **Caller**:
+
 Well, we don't have a basement so we're still on the main floor and concerned, again, not knowing for sure what or who to be looking out for.
 So we didn't get a lot of information until this morning.
 
 
 
 **Rosemary**:
+
 Do you know the suspect?does his name --
 
 
 
 **Caller**:
+
 No.
 
 
 
 **Rosemary**:
+
 You said you knew the other houses.
 Had you been in contact with anyone in the other homes to see if they're Ok.
 
 
 
 **Caller**:
+
 No. Just seeing from where we're at, just seeing -- knowing where things are.
 
 
 
 **Rosemary**:
+
 and what is the presence like in Portapique, now that the suspect is in custody?
 
 
 
 **Caller**:
+
 We're -- it's still pretty quiet here.
 Haven't seen much traffic on the road or anything.
 But we have to wait and see, I guess.
@@ -227,17 +251,20 @@ But we have to wait and see, I guess.
 
 
 **Rosemary**:
+
 Have police left or still there securing areas?
 
 
 
 **Caller**:
+
 From what we know, they're still here.
 I'm sure there will be investigations after this.
 
 
 
 **Rosemary**:
+
 I'm sure.
 I don't myself know much about Portapique, mike.
 Give us a sense of how big or small or rural it is.
@@ -245,6 +272,7 @@ Give us a sense of how big or small or rural it is.
 
 
 **Caller**:
+
 Very rural.
 Very small community.
 On the water.
@@ -258,6 +286,7 @@ So you can be in the blind a little bit.
 
 
 **Rosemary**:
+
 Yeah.
 We also have heard, and I'm sure you have now, too, that the suspect was wearing -- may be wearing an RCMP uniform and may have had some sort of car that looks like an RCMP car.
 How worrying is that?
@@ -265,18 +294,21 @@ How worrying is that?
 
 
 **Caller**:
+
 Well, that is pretty scary for, you know, people not knowing and he could have showed up on a doorstep and people thinking that he was police.
 That's scary.
 
 
 
 **Rosemary**:
+
 Totally.
 How many people are in Portapique?
 
 
 
 **Caller**:
+
 a few hundred.
 I'm not 100% sure.
 It's not a huge population.
@@ -284,48 +316,57 @@ It's not a huge population.
 
 
 **Rosemary**:
+
 and the people you know in town, they are all safe and Ok.
 
 
 
 **Caller**:
+
 As far as we know, yes.
 
 
 
 **Rosemary**:
+
 Strange time, too.
 You're obviously staying at home because of pandemic and now this happens.
 
 
 
 **Caller**:
+
 We're just locked in a little longer.
 
 
 
 **Rosemary**:
+
 I know.
 I gather you're relieved?
 
 
 
 **Caller**:
+
 Yes.
 
 
 
 **Rosemary**:
+
 Yeah.
 
 
 
 **Caller**:
+
 As well as a lot of people will be, I'm sure.
 
 
 
 **Rosemary**:
+
 Thank you for talking to us. We hope you get a nap at some point and hope everybody there is safe.
 Appreciate it very much.
 That's mike McKay from Portapique, Nova Scotia.
@@ -354,6 +395,7 @@ You brought us up to date on the parliamentary negotiations.
 
 
 **Reporter**:
+
 I have a slight update because I've been in contact with Elizabeth may and to clarify the green's position, they are only in favour of sitting in person if there is a compelling reason, such as passing legislation.
 They don't want to sit just to have a question period.
 These can be done virtually and over zoom and to bring everybody together to have a question period sends the weening message to Canadians and that the government is telling everybody to stay home exempt Be's us, us being members of parliament says she.
@@ -364,6 +406,7 @@ The greens don't want any in person unless it's required to vote and pass legisl
 
 
 **Marcy**:
+
 If they've done it before, sort of curious that they wouldn't find a way to do it again.
 and we're expecting tier that from the speaker about where they are at in terms of virtual sitings.
 But we know from press conferences, some cabinet ministers forget to unmute their microphones.

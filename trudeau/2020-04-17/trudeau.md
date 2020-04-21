@@ -1,6 +1,7 @@
 
 
 **Prime Minister Trudeau**:
+
 Over the past few weeks, the pandemic has created anxiety and uncertainty for all Canadians but some are going through an especially tough time.
 COVID-19 has brought many industries to a halt and workers across the country are struggling as a result.
 From the start, our goal as a government has been clear -- to help all Canadians get through these challenging times.
@@ -32,6 +33,7 @@ We're also working with b. D.c. and EDC To expand credit support for at-risk med
 
 
 **Interpreter**:
+
 Our government will be investing $1.7 billion to clean up orphaned and abandoned wells in Alberta, Saskatchewan and British Columbia.
 The goal is to create jobs for workers in the energy sector to avoid companies going bankrupt and support our environmental targets.
 These wells, which are no longer used to produce oil may present a risk not only for our environment, but also for our health.
@@ -97,4 +99,5 @@ Merci.[speaking french].
 
 
 **Interpreter**:
+
 I'm now ready to take your questions.

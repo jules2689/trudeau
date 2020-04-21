@@ -12,6 +12,7 @@ But there will be components that will help Alberta and other places.
 
 
 **Vassy**:
+
 Yeah, and I'll tell you why I think we've all been asking various people in government, is this going to be targeted, rosey, to oil and gas.
 Back at the end of march, I think it was the 25th or 26th, bill morneau said help for the oil patch would be coming in hours or days.
 That didn't materialize.
@@ -33,6 +34,7 @@ I'm going to be looking to see what announcement that involves but there are peo
 
 
 **Rosemary**:
+
 Yeah.
 It does not sound like a, quote-unquote, bailout for oil and gas today.
 There will be some sort of measures there as you suggested to help them along.
@@ -42,6 +44,7 @@ Are we expecting that -- it should be fairly substantive, I would guess, too, ta
 
 
 **Reporter**:
+
 Yeah.
 We're hearing it is across multiple sectors and that has been the focus from the government from the git-go. As Vassy mentioned, bill more know did talk about help for the oil and gas sector coming within hours.
 That was three long weeks ago.
@@ -54,6 +57,7 @@ So, it is really the focus on workers and that in particular across a broad spec
 
 
 **Rosemary**:
+
 and one of the things that the government has said is that the first priority was to get money to individuals and the second was to get help to businesses and now we're broadening out to larger industries.
 AB don't know if that includes even the airline industry, which, as we know, is what's happening to the wage subsidy benefit, which is not working yet, up and running yet.
 But maybe they also are looking for some substantive money.
@@ -69,6 +73,7 @@ But there will be something here.
 
 
 **Reporter**:
+
 I think that is what I'm watching for.
 Are we going -- is this going to be parceled out of the giant industry package or are we going to start out smaller today and kind of [inaudible] with those big announcements with airlines, etc.
 What Alberta is asking for is very clear.$20 to $30 billion package.
@@ -89,6 +94,7 @@ So if there is some help for orphan wells, it could actually help the industry b
 
 
 **Rosemary**:
+
 Yeah.
 It would do a couple of things all at once, that's for sure.
 Thank you for that.
@@ -104,12 +110,14 @@ Thank you for having me.
 
 
 **Rosemary**:
+
 a pleasure.
 How are things there?obviously your industry, what you're doing isn't happening right now.
 
 
 
 **Caller**:
+
 Absolutely.
 The impact of COVID-19 on our tourism here in Newfoundland and Labrador has really been devastating.
 The tourism industry is really important to the province.
@@ -124,6 +132,7 @@ Restaurants and pubs, retails and businesses on water street are closed and they
 
 
 **Rosemary**:
+
 I imagine you do pretty well in normal times.
 
 
@@ -136,6 +145,7 @@ For example, in meetings and conventions, we may do 100 conventions a year and t
 
 
 **Rosemary**:
+
 So what could the government do or what have you been asking the government to do that would be of help for this particular industry and obviously you're just one example, but this is happening across the country.
 
 
@@ -151,6 +161,7 @@ Things like that that are unique, if you will, to the tourism industry that we n
 
 
 **Rosemary**:
+
 The Prime Minister is talking about weeks still of having to live under these very strict public health restrictions.
 Can this happen still for weeks or is there any pressure coming from any of your members to get the economy up and running again?
 
@@ -168,6 +179,7 @@ So I think all of our tourism operators who have to rethink who the traveler is.
 
 
 **Rosemary**:
+
 All right.
 Cathy daoufj I will happily come back to water street anytime I can get there.
 Sending your province all the best.
@@ -181,6 +193,7 @@ Thank you.
 
 
 **Rosemary**:
+
 Ok. Cathy duke, c. E.o. Of destination st. John's, agency of tourism for that province which, of course, is another sector that has been hit hard.
 Just to give you a sense of how bad things are, and then I'll bring in Vassy, the accommodation and food services sector in this country has shrunk by a quarter.
 I.t. Arts and culture lost 13% of all its jobs.
@@ -192,6 +205,7 @@ and how this might be different given that there are particular areas, of course
 
 
 **Vassy**:
+
 Yeah.
 I think we've seen the unveiling and rolling out of two giant financial aid packages, right?the first being directed at individuals who have to stay home because of COVID-19, who can't work, and who have lost most, if not all of their income.
 They're getting right now $2, 000 and, as you reminded our viewers yesterday, they should be re-applying for the second month, which they might need that money.
@@ -216,6 +230,7 @@ So I think it is something to keep our eye on. But as I said, I think what we re
 
 
 **Rosemary**:
+
 and I think shalima mentioned this, too, there are government agencies like the co-op or the atlantic provinces where federal money can be sort of distributed in a very quick way.
 If there are particularly hard-hit areas, it is probably easier and faster for those agencies to be able to get it to people that need it rather than the federal government doing it centrally from ottawa.
 So we would expect some of that to be addressed here today as well.
@@ -227,6 +242,7 @@ We know that that suspension, the prevention to travel across the border except 
 
 
 **Reporter**:
+
 That's right.
 and there are discussions whether that would be extended or not.
 Those discussions are still ongoing, that obviously this situation, we're still in the midst of it in terms of this crisis and the health effects of this.
@@ -236,6 +252,7 @@ We're hearing that is still an ongoing discussion and working on that with offic
 
 
 **Rosemary**:
+
 and there had been concern after the president said earlier this week that the Canada-United States border would be one of fastest to re-open and some interpretation that it was about to re-open.
 That is not the case from the deputy Prime Minister that there will likely be an extension but they haven't actually reached that deal yet.
 That would be important, you're right.
@@ -249,7 +266,7 @@ and we heard earlier from conservative leader and doctor sheer and that is the r
 It, too, was on a deadline.
 All parties had agreed that it would be suspended until monday unless they could reach another agreement to continue that suspension.
 As of now, there is no deal on, that either.
-and andrew scheer has been pushing very hard to see in-person sitings.
+and andrew Scheer has been pushing very hard to see in-person sitings.
 He is asking for four times a week.
 Doesn't sound like that is acceptable to the government.
 and it doesn't even sound like other partis are interested in coming in and having M.P.s here in a reduced capacity for that many days of week.
@@ -264,6 +281,7 @@ But I'm not sure that we are -- it doesn't sound like we're anywhere near close 
 
 
 **Vassy**:
+
 This is an interesting Ottawa scenario here.
 In the midst of all of this, that is understandable, I think, from both points of view.
 The nexus of the disagreement seems to be how much in-person parliament should politicians be engaging in. As you mentioned, the conservatives want sitings in-person, four times a week.
@@ -280,6 +298,7 @@ The government has put forward the idea that that virtual idea might work going 
 
 
 **Rosemary**:
+
 Here's the Prime Minister of Canada.
 Thank you for that.
 
@@ -290,6 +309,7 @@ Prime Minister Trudeau's [speaking french].
 
 
 **Interpreter**:
+
 This morning, I want to begin by talking about the request for assistance we received from Quebec on Wednesday and give you the most recent news about medical equipment supplies.
 The Minister of public health has been working with Quebec and the Minister of national defence and I can now confirm that approximately 125 members of the Canadian armed forces, with health care training, will be providing support to workers in long-term care facilities.
 We continue to work with the government of Quebec to find other ways to support them, including with the red cross and specialized volunteers registered with health Canada.
