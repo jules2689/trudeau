@@ -15,7 +15,7 @@ jobs:
         ruby-version: '2.6'
     - name: Generate Dialog
       run: |
-        ruby captions.rb "${{ secrets.GITHUB_TOKEN }}"
+        ruby captions.rb "${{ secrets.GOOGLE_TOKEN }}"
     - name: Commit Dialog
       run: |
         if [ -z "$(git status --porcelain)" ]; then
