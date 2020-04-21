@@ -38,12 +38,12 @@ module Trudeau
         # Output for a "question"
         # Add a divider, then bold the Question "speaker"
         # Then output the message
-        "---\n\n**#{@speaker}**:\n#{@msg}\n"
+        "---\n\n**#{@speaker}**:\n\n#{@msg}\n"
       elsif @speaker && @msg
         # Output for a speaker
         # Add a divider, then bold the Question "speaker"
         # Then output the message
-        "\n\n**#{@speaker}**:\n#{@msg}\n"
+        "\n\n**#{@speaker}**:\n\n#{@msg}\n"
       elsif @msg
         # Otherwise just output the message
         "\n\n#{@msg}\n"
