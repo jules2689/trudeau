@@ -332,7 +332,7 @@ I'm just wondering, do you think similar thing could happen in Canada?and could 
 **Dr. Theresa Tam**:
 
 So right now together with all the chief medical officers of health, we're looking at the next phase, if you like, again stressing extreme caution in how we have to keep going right now with the measures that we have.
-We know that population immunity is not going to be high.
+We know that population immunity's not going to be high.
 So we have to move extremely carefully.
 I think we will be looking at all different kinds of communitysettings, activities and providing what -- there has to be a risk-based approach, a riskassessment, and that will include this area.
 So -- but I think as some of these innovative thinking is coming together, these are some of the ideas, but again that two-metre distance and ensuring that we don't spread the illnessis extremely important which ever solution people are going to think of. So absolutely, I think every sector should begin some thinking about how innovative they can be in maintaining social distance.
@@ -476,7 +476,7 @@ The question for the health Minister, but perhaps Minister Freeland or Dr. Tam.
 Kristen Beaton was one of the victims in the Nova Scotia shooting and was a front line health care worker providing continuing care.
 Her husband told news this morning before the tragedy struck the family, they were already living under quite a great deal of stress.
 She was coming home and very terrified she would pass on something to her children and family because she was reusing protective equipment because there was a shortage in Nova Scotia.
-There was not enough for her and her colleagues.
+There was not enough for her anther colleagues.
 What do you say to the Beaton family and other front line health care workers when you hear stories like that, that there is not enough P.P.E. To goaround?
 
 
@@ -487,7 +487,7 @@ On the issue of personal protective equipment, I will tell you that the federal 
 We've managed to work very well with provinces and territories to fulfill their requests for support around personal protective equipment and other medical devices.
 As you have heard us say many times, it's been a very challenging thing to do in the time of the global pandemic where supply chains are disrupted, where all countries are scrambling to boost their capacity to produce P.P.E., including Canada.
 I will also say that I know the provinces have been working to ensure they're distributing P.P.E. To the hospitals and carefacilities.
-and I will say to Mr. Beaton, we all have to redouble our efforts so there aren't stories of people who have to reuse masks.
+and I will say to Mr. Beaton, Wall have to redouble our efforts so there aren't stories of people who have to reuse masks.
 There are a number of creative ideas that have come from partners around the sterilization of masks.
 We have approved companies in Canada that can do that.
 There will be more domestic production and capacity.
@@ -544,7 +544,7 @@ But the numbers are up to individual, even the health authority at the local lev
 
 **Patty Hajdu (Minister of Health)**:
 
-I'll add, it is extremely important we understand the investments we make in public health, both from a prevention perspective and a public health perspective are critical to the next steps of whether you call it reopening the economy or moving forward in terms of recovering from the pandemic.
+I'll add, it is extremely important we understand the investments we make in public health, both from a prevention perspective and a public health perspective are critical to the next steps of whether you call it reopening the economy or moving forward interns of recovering from the pandemic.
 That if we don't have local health capacity we'll be hindered in our abilities.
 We have that conversation with provinces and territories at the health Minister table.
 It is very important we continue to redouble our efforts to support public health.

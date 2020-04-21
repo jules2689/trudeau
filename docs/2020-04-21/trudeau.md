@@ -67,7 +67,7 @@ With this fund, we are giving organisations more resources to adjust to the curr
 Charities and nonprofit organisations were doing crucial work to help our communities.
 Their mission has always been to support people in their time of need and that hasn't changed.
 But COVID-19 is putting a tremendous amount of pressure on those organisations because more people need help.
-Back in march, one united way partner in Winnipeg made and district ed 1475 emergency kits for families, seniors and homeless people in just five days.
+Back in march, one united way partner in Winnipeg made and distracted 1475 emergency kits for families, seniors and homeless people in just five days.
 They had to change services because of the rules that everyone has to follow to keep each other safe.
 Here in Ottawa there are a number of organisations focused on serving isolated seniors.
 Usually they have day programme where seniors can socialize, participate in activities, eat well and maintain a connection to their community.

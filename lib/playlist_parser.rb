@@ -26,6 +26,7 @@ module Trudeau
       parsed_resp["items"].each_with_object({}) do |item, acc|
         acc[item["snippet"]["resourceId"]["videoId"]] = {
           date: DateTime.parse(item["snippet"]["publishedAt"]).strftime('%Y-%m-%d'),
+          description: item["snippet"]["description"].lines.first,
           title: item["snippet"]["title"],
         }
       end

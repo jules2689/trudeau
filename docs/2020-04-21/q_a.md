@@ -405,7 +405,7 @@ and on the wage subsidy, can you assure us that not $1 of taxpayer money will go
 Now we see the numbers going up in certain parts of the country.
 But there are fewer and fewer cases each day and we hope that what this means is that the measures we've been taking are now helping.
 and are now helping the expected outcome.
-At the same time, we need to keep those measures in place because if we relax them too soon, we could end up in a situation where COVID-19 COULD ramp up again and this is not something we would want to see happen.
+At the same time, we need to keep those measures in place because if we relax them too soon, we could end up in a situation where COVID-19 would ramp up again and this is not something we would want to see happen.
 In terms of our approach in helping businesses, we have always been focused on help for workers.
 We did not want to judge whether someone working for a small halifax store or for a large internation hardware chain would be treated differently.
 We wanted to ensure that workers and families that depend on that income would have the necessary help and that is why we moved forward with the wage six did and moving forward with the emergency response benefit.

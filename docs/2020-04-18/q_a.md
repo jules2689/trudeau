@@ -100,12 +100,12 @@ What's wrong with that?
 **Answer**:
 
 First of all, it's extremely important and has been important that every single day the Canadian public gets informed of measures we are putting forward.
-We are putting forward new measures almost every single day, and I think it is essential that the media continues to have access to asking questions to better inform and to ensure Canada is functioning the way it needs to be. Part of that job in our democracy is ensuring that there is accountability through our parliamentary systems.
+We are putting forward new measures almost every single day, and I think it is essential that the media continues to have access to asking questions to better inform and to ensure Canada is functioning the way it needs to be. Part of that job in our democracy is ensuring that there's accountability through our parliamentary systems.
 That is something that we are also very much focused on. We have proposed that the house of commons return in some fashion every single week, to permit engagement on accountability and also pass further measures to help Canadians.
 Right now we're in a situation where M.P.s across the country and their staff are wondering ifthey're going to have to get on planes tomorrow and fly to ottawa.
 Obviously that is not something from a public health standpoint we should want to see happening.
 Right now on the books the rule is parliament needs to re-open fully on Monday That is obviously not a good idea, which is why we've proposed measures going forward that we're discussing with the other parties.
-We certainly hope we can come to an agreement so we all don't have to convene in the house of commons on Monday morning.[speaking french] [voice of interpreter] we are still in discussions with the other parties.
+We certainly hope we can come roan agreement so we all don't have to convene in the house of commons on Monday morning.[speaking french] [voice of interpreter] we are still in discussions with the other parties.
 We have proposed that the house of commons sit every week to ensure that there is an opportunity to ask questions of the government and also to be able to pass other measures thatwill help Canadians.
 The reality is that monday morning 338 members of parliament and the teams are supposed to be in ottawa.
 They are expected to be in ottawa then so that parliament can reconvene.
@@ -198,8 +198,8 @@ We have discussed the issue of commercial rent with the provinces.
 I had a good conversation with them on Thursday evening where this came up. We are looking at it very, very closely.
 We have a number of proposals that are working their way through the system, talking to various industry groups and renters' associations, as well as looking at the provinces.
 The provinces have jurisdictions over rents and the relationship between landlords and tenants.
-We need to work with them, which is what we are doing.
-We recognize there are very different realities and systems right across the country, but we also have heard very, very clearly from small business owners that the wage subsidy is helpful, but fixed costs are a real concern.
+We need to work with them, chichis what we are doing.
+We recognize there are very different realities and systems right across the country, but weals have heard very, very clearly from small business owners that the wage subsidy is helpful, but fixed costs are a real concern.
 That is something that we're going to have more to say on soon.
 
 ---
@@ -341,4 +341,4 @@ Well, we are dealing with a situation where a number of members of the various p
 I don't think that's the right thing to do. It's not the right balance.
 We are pursuing those discussions now.[end of translation] many parties, opposition parties, arein agreement that limited sittings every week are a good measure to both ensure accountability and continue the work that we're needing to do topass legislation for Canadians.
 We are of course looking forwardto being able to see more virtual parliamentary sittings that will allow M.P.s from all around the country, not just the national capital region, being able to party.
-There is still one party that wants more than I think is wise at this point in time in terms of a public safety approach and in ensuring we are getting that balance right in moving forward for protecting our institutions, but we're hopeful we will get TA good place soon.
+There is still one party that wants more than I think is wise at this point in time in terms of a public safety approach and in ensuring we are getting that balance right in moving forward for protecting our institutions, but we're hopeful we will get toad good place soon.

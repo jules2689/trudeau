@@ -56,7 +56,9 @@ videos.each do |id, video|
     parser = Trudeau::CaptionParser.new(captions)
     if parser.parse
       parser.write_output(video_output_path, id)
-      readme << "- #{video[:date]}"
+      readme << "\n### #{video[:date]} - #{video[:title]}"
+      readme << video[:description]
+      readme << "  - [Video](https://www.youtube.com/watch?v=#{id})"
       readme << "  - [Trudeau](./#{video[:date]}/trudeau.md)"
       readme << "  - [Q & A](./#{video[:date]}/q_a.md)"
       readme << "  - [News before Trudeau](./#{video[:date]}/pre_news.md)"
