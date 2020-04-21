@@ -86,6 +86,7 @@ class CaptionParser
             .gsub(/(\w)\.(\w)/, '\1. \2')
             .gsub(/(\w)\. ([a-z])/) { "#{Regexp.last_match[1]}. #{Regexp.last_match[2].upcase}".strip }
             .gsub('m. p.', 'MP')
+            .gsub('u. S.', 'United States')
             .gsub(/prime\s?minister/, "Prime Minister")
     PROVINCES.each do |prov|
       msg.gsub!(/#{prov}/i, prov)
