@@ -1,119 +1,296 @@
+
+
 **[SPEAKING FRENCH].OPERATOR**:
-Merci. Thank you. The first question, Dylan  Winnipeg free press. Your line is open.
+Merc
+Thank yo
+The first question, Dylan  Winnipeg free pres
+Your line is ope
+
 
 **Caller**:
-Prime Minister. You've expressed a preference for virtual parliament. Many regions of Canada have terrible internet connection and they tend to be the ones that feel the most ignored by  Are you comfortable with having virtual sittings if MP's can't participate in real time from their home?
+Prime Ministe
+You've expressed a preference for virtual parliamen
+Many regions of Canada have terrible internet connection and they tend to be the ones that feel the most ignored by  Are you comfortable with having virtual sittings if MP's can't participate in real time from their home?
+
+
 
 **Prime Minister Trudeau**:
-Obviously the point of virtual sittings would be to ensure that Canadians not within driving distance of Ottawa continue to have their views represented and their concerns heard. That is a technological challenge that we'll work very, very hard on to ensure that, as we move forward on virtual parliament solutions as the speaker in the house of commons work on that, that we make sure that every voice can be heard of the 338 Canadians. At the same time, we have proposed to the opposition parties that parliament could come back every single week to discuss legislation and to ensure that there is accountability. We immediate to make sure that our democracy continues to function and this is something that we're very serious about. Right now, on the books, there is a rule that says  need to get on flights Sunday evening to come back to Ottawa on Monday morning as parliament is supposed to resume. That is obviously not a good idea. We're not in normal circumstances. So we're negotiating with all opposition parties to try and make sure we can find a way to keep the important work of our democracy going while at the same time respecting public health advice.[speaking french].
+Obviously the point of virtual sittings would be to ensure that Canadians not within driving distance of Ottawa continue to have their views represented and their concerns hear
+That is a technological challenge that we'll work very, very hard on to ensure that, as we move forward on virtual parliament solutions as the speaker in the house of commons work on that, that we make sure that every voice can be heard of the 338 Canadian
+At the same time, we have proposed to the opposition parties that parliament could come back every single week to discuss legislation and to ensure that there is accountabilit
+We immediate to make sure that our democracy continues to function and this is something that we're very serious abou
+Right now, on the books, there is a rule that says  need to get on flights Sunday evening to come back to Ottawa on Monday morning as parliament is supposed to resum
+That is obviously not a good ide
+We're not in normal circumstance
+So we're negotiating with all opposition parties to try and make sure we can find a way to keep the important work of our democracy going while at the same time respecting public health advice.[speaking french].
+
+
 
 **Interpreter**:
-First of all, in terms of a virtual parliament, I think it will be important to ensure that members from every part of the country can  their preoccupations and those of their constituents and that is why we're working with the house of commons to ensure that we have the technology to do that. At the same time, we know that it is important for our democracy to continue to work and, therefore, we have proposed that parliament resume its work every week to pass legislation and ensure that there is accountability and the questions can be asked of the government. We do hope that the opposition parties will agree to that proposal because otherwise parliament is supposed to sit with 338 members of parliament starting on Monday morning and I think we all realise that that would not be a good idea.
+First of all, in terms of a virtual parliament, I think it will be important to ensure that members from every part of the country can  their preoccupations and those of their constituents and that is why we're working with the house of commons to ensure that we have the technology to do tha
+At the same time, we know that it is important for our democracy to continue to work and, therefore, we have proposed that parliament resume its work every week to pass legislation and ensure that there is accountability and the questions can be asked of the governmen
+We do hope that the opposition parties will agree to that proposal because otherwise parliament is supposed to sit with 338 members of parliament starting on Monday morning and I think we all realise that that would not be a good ide
+
 
 **Caller**:
-Prime Minister, the premier of Saskatchewan has asked for [inaudible] interest rates. Governor pol oz says they have not asked to help with the provincial debt market. He says no one has asked us to do anything on the provincial front t. Premier has also asked to put public servants on EU today's job announcement  affect the provincial debt market. My question is, when will the provinces learn what you're doing for their debt and what is already off the table?
+Prime Minister, the premier of Saskatchewan has asked for [inaudible] interest rate
+Governor pol oz says they have not asked to help with the provincial debt marke
+He says no one has asked us to do anything on the provincial front 
+Premier has also asked to put public servants on EU today's job announcement  affect the provincial debt marke
+My question is, when will the provinces learn what you're doing for their debt and what is already off the table?
+
+
 
 **Prime Minister Trudeau**:
-I had an excellent conversation last night with the premiers of all the provinces and territories. This issue was brought up. We recognize that different provinces carry different debt loads and challenges on access to credit. The bank of Canada has taken steps to impact the provincial coffers and at the same time, we'll ensure that provinces across the country are able to get the support they need to give to their citizens.
+I had an excellent conversation last night with the premiers of all the provinces and territorie
+This issue was brought u
+We recognize that different provinces carry different debt loads and challenges on access to credi
+The bank of Canada has taken steps to impact the provincial coffers and at the same time, we'll ensure that provinces across the country are able to get the support they need to give to their citizen
+
 
 **THANK YOU.NEXT QUESTION.OPERATOR**:
-Thank you, Merci. Your line is open.
+Thank you, Merc
+Your line is ope
+
 
 **Reporter**:
-Good morning, Prime Minister.[inaudible] lowered the threshold for owners to apply for interest-free loans. But still a number of people I've spoken with this week are not impacted by any of these changes. What should people in these positions, people who are left out and who have a hard time making ends meet do?should they apply for the CRB Or wait  your government to come up with another fix?
+Good morning, Prime Minister.[inaudible] lowered the threshold for owners to apply for interest-free loan
+But still a number of people I've spoken with this week are not impacted by any of these change
+What should people in these positions, people who are left out and who have a hard time making ends meet do?should they apply for the CRB Or wait  your government to come up with another fix?
 
-Prime Minister Trudeau:s FROM THE VERY BEGINNING, WE KNEW WE HAD TO HELP AS MANY PEOPLE AS WE POSSIBLY COULD WHO NEEDED THE HELP AS QUICKLY AS POSSIBLE.THAT IS WHY WE MOVED FORWARD WITH TWO BIG, VERY STRONG PROGRAMMES WITH BOTH THE CANADA EMERGENCY RESPONSE BENEFIT THAT HAS SENT OUT OVER 7.5 MILLION PAYMENTS ALREADY AND THE WAGE SUBSIDY THAT WILL KICK IN IN A FEW WEEKS ALLOWING EMPLOYERS TO REHIRE THEIR EMPLOYEES SO THAT WHEN THE ECONOMY BOUNCES BACK, PEOPLE WILL HAVE LINKS TO THEIR JOBS WHILE THEY ARE SUPPORTED IN THIS TIME OF DEFLTTY.BUT FROM THE BEGINNING, WE RECOGNIZE THAT MOVING QUICKLY AND BROADLY WOULD LEAVE GAPS AND THAT IS WHY OVER THE PAST WEEKS, WE HAVE BEEN ANNOUNCING, ALMOST EVERY SINGLE DAY, NEW MEASURES THAT TWEAK THE PROPOSALS WE MADE, THAT EXPAND OTHER PROPOSALS, THAT CREATE NEW INITIATIVES TO TRY AND MAKE SURE WE'RE GETTING HELP TO EVERYONE WHO NEEDS THEM.THE ANNOUNCEMENTS WE MADE FOR ARTS AND CULTURE SECTOR, SPORTING ORGANISATIONS AND SMALL BUSINESSES LIKE STARTUPS FOR SMALL BUSINESSES IN RURAL AREAS, FOR THE RANGE OF WORKERS IN THE ENERGY SECTOR WHO ARE FACING LAYERS OF CALAMITY RIGHT NOW ARE THE KINDS OF THINGS WE'RE MAKING SURE IS GETTING THE HELP THEY NEED.WE'RE CONTINUING TO LISTEN TO CANADIANS WHO ARE EXPRESSING THAT THEY ARE NOT GETTING THE HELP THEY NEED AND WE'RE CONSTANTLY LOOKING FOR WAYS TO HELP THEM.
+
+
+Prime Minister Trudeau:s FROM THE VERY BEGINNING, WE KNEW WE HAD TO HELP AS MANY PEOPLE AS WE POSSIBLY COULD WHO NEEDED THE HELP AS QUICKLY AS POSSIBLE.THAT IS WHY WE MOVED FORWARD WITH TWO BIG, VERY STRONG PROGRAMMES WITH BOTH THE CANADA EMERGENCY RESPONSE BENEFIT THAT HAS SENT OUT OVER 7.5 MILLION PAYMENTS ALREADY AND THE WAGE SUBSIDY THAT WILL KICK IN IN A FEW WEEKS ALLOWING EMPLOYERS TO REHIRE THEIR EMPLOYEES SO THAT WHEN THE ECONOMY BOUNCES BACK, PEOPLE WILL HAVE LINKS TO THEIR JOBS WHILE THEY ARE SUPPORTED IN THIS TIME OF DEFLTTY.BUT FROM THE BEGINNING, WE RECOGNIZE THAT MOVING QUICKLY AND BROADLY WOULD LEAVE GAPS AND THAT IS WHY OVER THE PAST WEEKS, WE HAVE BEEN ANNOUNCING, ALMOST EVERY SINGLE DAY, NEW MEASURES THAT TWEAK THE PROPOSALS WE MADE, THAT EXPAND OTHER PROPOSALS, THAT CREATE NEW INITIATIVES TO TRY AND MAKE SURE WE'RE GETTING HELP TO EVERYONE WHO NEEDS THEM.THE ANNOUNCEMENTS WE MADE FOR ARTS AND CULTURE SECTOR, SPORTING ORGANISATIONS AND SMALL BUSINESSES LIKE STARTUPS FOR SMALL BUSINESSES IN RURAL AREAS, FOR THE RANGE OF WORKERS IN THE ENERGY SECTOR WHO ARE FACING LAYERS OF CALAMITY RIGHT NOW ARE THE KINDS OF THINGS WE'RE MAKING SURE IS GETTING THE HELP THEY NEED.WE'RE CONTINUING TO LISTEN TO CANADIANS WHO ARE EXPRESSING THAT THEY ARE NOT GETTING THE HELP THEY NEED AND WE'RE CONSTANTLY LOOKING FOR WAYS TO HELP THE
+
 
 FOLLOW-UP QUESTION?
 
+
+
 **Reporter**:
-Yeah, thank you. Are you basically saying wait until the government comes up with another fix?as you know on saturday,   to support a motion that basically said if you need help, the government is going to ensure that if you applied for the CERB and you weren't supposed to be eligible you would be unjustly penalized. is the government saying the worst thing that happens for you if you apply for CERB and don't qualify that you will have to pay the money back in full next year. is that the worst thing that will happen to people who apply for CERB  they feel they need it?
+Yeah, thank yo
+Are you basically saying wait until the government comes up with another fix?as you know on saturday,   to support a motion that basically said if you need help, the government is going to ensure that if you applied for the CERB and you weren't supposed to be eligible you would be unjustly penalize
+is the government saying the worst thing that happens for you if you apply for CERB and don't qualify that you will have to pay the money back in full next yea
+is that the worst thing that will happen to people who apply for CERB  they feel they need it?
+
+
 
 **Prime Minister Trudeau**:
-We expect people to apply for the program mes for which they qualify. and, therefore, we are working to make sure we're expanding the qualifications so that people who need the help will get them. We'll continue to announce measures that will include more and more people, help more and more people as we move forward because, for all the millions of people and businesses and employers that we're helping across this country, we know there is more to do and that is what we're continually announcing almost every day. New measures to fix people and fix support for people in particular situations.[speaking french].
+We expect people to apply for the program mes for which they qualif
+and, therefore, we are working to make sure we're expanding the qualifications so that people who need the help will get the
+We'll continue to announce measures that will include more and more people, help more and more people as we move forward because, for all the millions of people and businesses and employers that we're helping across this country, we know there is more to do and that is what we're continually announcing almost every da
+New measures to fix people and fix support for people in particular situations.[speaking french].
+
+
 
 **Interpreter**:
-We recognize the program mes that we created to help as many people as possible are not enough. Because some people have special circumstances. Almost on a daily basis, we have been announcing changes or extensions of the program mes to allow people to receive more help based on the program mes we put in place. Operator: thank you.  french].
+We recognize the program mes that we created to help as many people as possible are not enoug
+Because some people have special circumstance
+Almost on a daily basis, we have been announcing changes or extensions of the program mes to allow people to receive more help based on the program mes we put in plac
+Operator: thank yo
+ french].
+
+
 
 **Reporter**:
 [speaking french].
 
+
+
 **Interpreter**:
-Good morning,  Trudeau. I'd like to come back to your aid plan that you have just unveiled. a lot of people were expecting you to do more. Some people were suggesting that there needed to be an equity contribution from the government. Are you prepared to do that and, if not, why not?why did you not choose that avenue?our emphasis from the outset was to help Canadians in difficultty, to  families that are suffering, to help people who need help. and that is why the wage subsidy and the Canada emergency response benefit are there to assist millions of Canadians in industries right across the country. and we clearly saw that the oil industry has special issues because of what is happening on international markets with the oil price decline and also because of COVID-19. So  of these issues mean that we have to do a bit more and that is exactly what we're doing now. We will continue to look at other possibilities if there is a need. But we pry marely want  ensure that we're helping canadian families and canadian workers  need help during these difficult times.
+Good morning,  Trudea
+I'd like to come back to your aid plan that you have just unveile
+a lot of people were expecting you to do mor
+Some people were suggesting that there needed to be an equity contribution from the governmen
+Are you prepared to do that and, if not, why not?why did you not choose that avenue?our emphasis from the outset was to help Canadians in difficultty, to  families that are suffering, to help people who need hel
+and that is why the wage subsidy and the Canada emergency response benefit are there to assist millions of Canadians in industries right across the countr
+and we clearly saw that the oil industry has special issues because of what is happening on international markets with the oil price decline and also because of COVID-1
+So  of these issues mean that we have to do a bit more and that is exactly what we're doing no
+We will continue to look at other possibilities if there is a nee
+But we pry marely want  ensure that we're helping canadian families and canadian workers  need help during these difficult time
+
 
 **Prime Minister Trudeau**:
-We took, as an approach from the very beginning, that we need to help Canadians. Woe need to help workers and families who are hit by this COVID-19 slowdown and shutdown. That is why we moved forward with the Canada emergency response benefit that has helped millions upon millions of Canadians and the wage subsidy which has allowed companies to rehire workers and will ensure that families across the country get much more support and that is across all industries, across the country. We recognize that certain industries are facing more difficult times. The oil and gas sector, because of the global price war, because of the lower demand related to COVID-19 and because of the measures brought in to counter COVID-19 itself, those families are particularly hard hit and that is where this initiative, which will create or preserve 5200 jobs in Alberta and the other initiatives that lead to perhaps 10. 000 jobs across the energy sector are the kinds of things that we can do right now of course, we will continue to work with partners and concerned sectors across the country as we move forward to see if there is a need to do more.
+We took, as an approach from the very beginning, that we need to help Canadian
+Woe need to help workers and families who are hit by this COVID-19 slowdown and shutdow
+That is why we moved forward with the Canada emergency response benefit that has helped millions upon millions of Canadians and the wage subsidy which has allowed companies to rehire workers and will ensure that families across the country get much more support and that is across all industries, across the countr
+We recognize that certain industries are facing more difficult time
+The oil and gas sector, because of the global price war, because of the lower demand related to COVID-19 and because of the measures brought in to counter COVID-19 itself, those families are particularly hard hit and that is where this initiative, which will create or preserve 5200 jobs in Alberta and the other initiatives that lead to perhaps 1
+000 jobs across the energy sector are the kinds of things that we can do right now of course, we will continue to work with partners and concerned sectors across the country as we move forward to see if there is a need to do mor
+
 
 **Reporter**:
 [speaking french].
 
+
+
 **Interpreter**:
-Some people were concerned that your assistance would be influenced by some members of your cabinet. The views of some members of the cabinet. Today you are providing support to clean up orphaned wells and to reduce emissions. So, what do you say to those people who will be disappointed by the extent of the assistance that's available and also other people who said that you may have been tainted by the views of other members of your cabinet.
+Some people were concerned that your assistance would be influenced by some members of your cabine
+The views of some members of the cabine
+Today you are providing support to clean up orphaned wells and to reduce emission
+So, what do you say to those people who will be disappointed by the extent of the assistance that's available and also other people who said that you may have been tainted by the views of other members of your cabine
+
 
 **Prime Minister Trudeau**:
 [speaking french].
 
+
+
 **Interpreter**:
-I can tell you that personal convictions of cabinet members have always been that we need to help Canadians who need help and to fight the COVID-19 crisis. It is to  we get through this and continue to be an extraordinary country in the years to come. That is our priority and that is why the help that we've been giving workers with two main measures, the emergency response benefit and wage subsidy are available to everyone. At the same time, we're doing other things that the government of Alberta has been asking us to do for some time, which is to clean up orphaned wells so that the companies that now are reducing or required to reduce their emissions are able to do that. Particularly when it comes to methane. That is the choice we've been making to help Canadians answer we hope that all Canadians will have a better employment as a result. Operator: thank you.  french].
+I can tell you that personal convictions of cabinet members have always been that we need to help Canadians who need help and to fight the COVID-19 crisi
+It is to  we get through this and continue to be an extraordinary country in the years to com
+That is our priority and that is why the help that we've been giving workers with two main measures, the emergency response benefit and wage subsidy are available to everyon
+At the same time, we're doing other things that the government of Alberta has been asking us to do for some time, which is to clean up orphaned wells so that the companies that now are reducing or required to reduce their emissions are able to do tha
+Particularly when it comes to methan
+That is the choice we've been making to help Canadians answer we hope that all Canadians will have a better employment as a resul
+Operator: thank yo
+ french].
+
+
 
 **Reporter**:
  french].
 
-**Interpreter**:
-Good morning,  Trudeau. With respect to the deployment of Canadian armed forces members, can you tell us where those military members are coming from and why such a limited number of reinforcements for Quebec?because, as we know, the -- these facilitis  in a dire situation. We have been working with Quebec and we were speaking to Quebec yesterday to see exactly how we could support them. We're talking about 125 military members who will be providing significant support to these institutions in Quebec and we know that we can do more with the red cross and the bank of volunteers that we have. Quebec also has a group of volunteers it can access. We will continue to seek ways to provide that help as best we can and will always want to do more. But the situation with the CAF  is that we are always limited in our medical resources within any organization. Including in the armed forces. Do you have a follow-up?yes. Just to get a clarify casing. I realise that medical employees are limited in number. But there is information circulating, mr. Trudeau, that  agreement has been reached with the US on the closure of the border. Could you comment on that?well, as I said before, we are in constant conversation with the United States, which is our ally and our friend to ensure that we can both protect our citizens and My priority will alwayss be to protect Canadians and we continue to work with the americans to ensure that  borders remain secure. As I've often said, I do not expect those borders to be re-opened in a short period of time. We will continue to listen to science and to closely monitor the evolution of this virus in Canada and around the world before we make any decision on that. But I can tell you that our discussions with the americans continue and they are  positive.
 
-**Prime Minister Trudeau**:
-As I said many times, conversations are constant and ongoing with the American administration on issues of mutual concern, including the border. As I've said, we do not file that re-opening the border anytime soon is likely. My responsibility is to ensure the protection and safety of Canadians. That is what we'll continue to do and the conversations with the americans  been extremely aligned and extremely productive.
-
-**Reporter**:
-Prime Minister, for weeks now, you have been promising relief and aid for the energy sector. What you announced today will help a comparatively small number of workers, isn't going to do anything for the sector overall to help deal with devastating impact of this virus and the downturn in the world oil markets. My question is, is this it?is this the package you were promising?if so, what do you say to people in western Canada, particularly who were expecting more substantial relief?
-
-**Prime Minister Trudeau**:
-The first things we dead was move forward with the Canada emergency response benefit. It is putting money in the pockets of more than seven million Canadians, including many people in the oil and gas sector who have lost their pay cheques because of this COVID-19 crisis. On top of that, the wage subsidy allows Canadians -- Canadian workers to continue to receive their salaries and continue to stay connected to their work in the oil and gas sector, which are significant helps for a major industry across this country. On top of that, we've been working with the government of Alberta and with industry to look at other things that could be necessary. We heard very clearly that the methane regulations that we are bringing in would be a challenge for industry to meet and industry and others can ska that we, therefore, back off on the methane regulations. We decided, instead, to lend them money to help them keep them working and so we can continue to fee ting climate change and reduce emissions while keeping people at work. We've also heard very clearly, and not just from industry, but from municipalities, particularly rural municipalities, landowners across Alberta, that the issue of persistent orphan or inactive wells is a real challenge. and this is an opportunity for us to make sure that  are getting to work in cleaning up their province at the same time as we've gotten commitments by the government of Alberta to strengthen the regulations so we see fewer orphan and inactive wells in the future. We've also made credit available for medium-sized oil and gas companies who are facing particular challenges in terms of liquidity right now. We'll continue to look at ways we can support important industris  this country, including the oil and gas sector. We look forward to doing that while at the same time, keeping our focus squarely on families and workers who need our help.
-
-**Reporter**:
-Prime Minister, Julie van  CBC news. You spoke to the premiers last night so I'm hoping you can update us on this. Blaine Higgs said he is hoping to get his economy going by the summer. John Horgan on CBC said he and his Washington state counterpart could decide when the border opens. I'm wondering, who decides all this?is it you?is it them?if it is you, will there be international standards to guide them?
-
-**Prime Minister Trudeau**:
-We talked last night about how important it is to be coordinated and agreed on the principles and the approaches that we take. At the same time, recognizing that the situation in PEI is very different from the situation in Ontario, very different from the situation in BC there will be regional approaches, as there have been all along to the next steps. But we all agreed that we need to continue to remain very, very vigilant as we carefully look at re-opening the economy, about relaunching certain sectors in the future. We will continue that in the principles and the steps that need to be taken. Of course, this is Canada, which means that there are very different needs and very different approaches that will be in place across the country. What we'll be working on to co-ordinate and collaborate on is that the messages that get out and the lens that we take and the data that we collect and the way we do this is aligned and coordinated so that we can maximize our chances of getting through this without having to fall back into self-isolation the way we have been these past few weeks.[speaking french].
 
 **Interpreter**:
-One of the principles we agreed on with the premiers is the importance of coordinating and working together to  you are that any steps that we take with respect to re-opening the economy or relaxing the current rules with respect to self-isolation and physical distancing are done in proper coordination. Now obviously certain provinces and regions will have their own reality and we respect that, of course. But if we can ensure that there is proper coordination so that Canadians understand that the same principles are applied across the board, that data has been collected in the same way and that we're analyzing the reality vigilantly and consistently and in a similar manner, then that will maximize our chance of getting through this crisis without finding ourselves in more self-isolation and economic slowdowns.
+Good morning,  Trudea
+With respect to the deployment of Canadian armed forces members, can you tell us where those military members are coming from and why such a limited number of reinforcements for Quebec?because, as we know, the -- these facilitis  in a dire situatio
+We have been working with Quebec and we were speaking to Quebec yesterday to see exactly how we could support the
+We're talking about 125 military members who will be providing significant support to these institutions in Quebec and we know that we can do more with the red cross and the bank of volunteers that we hav
+Quebec also has a group of volunteers it can acces
+We will continue to seek ways to provide that help as best we can and will always want to do mor
+But the situation with the CAF  is that we are always limited in our medical resources within any organizatio
+Including in the armed force
+Do you have a follow-up?ye
+Just to get a clarify casin
+I realise that medical employees are limited in numbe
+But there is information circulating, m
+Trudeau, that  agreement has been reached with the US on the closure of the borde
+Could you comment on that?well, as I said before, we are in constant conversation with the United States, which is our ally and our friend to ensure that we can both protect our citizens and My priority will alwayss be to protect Canadians and we continue to work with the americans to ensure that  borders remain secur
+As I've often said, I do not expect those borders to be re-opened in a short period of tim
+We will continue to listen to science and to closely monitor the evolution of this virus in Canada and around the world before we make any decision on tha
+But I can tell you that our discussions with the americans continue and they are  positiv
+
+
+**Prime Minister Trudeau**:
+As I said many times, conversations are constant and ongoing with the American administration on issues of mutual concern, including the borde
+As I've said, we do not file that re-opening the border anytime soon is likel
+My responsibility is to ensure the protection and safety of Canadian
+That is what we'll continue to do and the conversations with the americans  been extremely aligned and extremely productiv
+
+
+**Reporter**:
+Prime Minister, for weeks now, you have been promising relief and aid for the energy secto
+What you announced today will help a comparatively small number of workers, isn't going to do anything for the sector overall to help deal with devastating impact of this virus and the downturn in the world oil market
+My question is, is this it?is this the package you were promising?if so, what do you say to people in western Canada, particularly who were expecting more substantial relief?
+
+
+
+**Prime Minister Trudeau**:
+The first things we dead was move forward with the Canada emergency response benefi
+It is putting money in the pockets of more than seven million Canadians, including many people in the oil and gas sector who have lost their pay cheques because of this COVID-19 crisi
+On top of that, the wage subsidy allows Canadians -- Canadian workers to continue to receive their salaries and continue to stay connected to their work in the oil and gas sector, which are significant helps for a major industry across this countr
+On top of that, we've been working with the government of Alberta and with industry to look at other things that could be necessar
+We heard very clearly that the methane regulations that we are bringing in would be a challenge for industry to meet and industry and others can ska that we, therefore, back off on the methane regulation
+We decided, instead, to lend them money to help them keep them working and so we can continue to fee ting climate change and reduce emissions while keeping people at wor
+We've also heard very clearly, and not just from industry, but from municipalities, particularly rural municipalities, landowners across Alberta, that the issue of persistent orphan or inactive wells is a real challeng
+and this is an opportunity for us to make sure that  are getting to work in cleaning up their province at the same time as we've gotten commitments by the government of Alberta to strengthen the regulations so we see fewer orphan and inactive wells in the futur
+We've also made credit available for medium-sized oil and gas companies who are facing particular challenges in terms of liquidity right no
+We'll continue to look at ways we can support important industris  this country, including the oil and gas secto
+We look forward to doing that while at the same time, keeping our focus squarely on families and workers who need our hel
+
+
+**Reporter**:
+Prime Minister, Julie van  CBC new
+You spoke to the premiers last night so I'm hoping you can update us on thi
+Blaine Higgs said he is hoping to get his economy going by the summe
+John Horgan on CBC said he and his Washington state counterpart could decide when the border open
+I'm wondering, who decides all this?is it you?is it them?if it is you, will there be international standards to guide them?
+
+
+
+**Prime Minister Trudeau**:
+We talked last night about how important it is to be coordinated and agreed on the principles and the approaches that we tak
+At the same time, recognizing that the situation in PEI is very different from the situation in Ontario, very different from the situation in BC there will be regional approaches, as there have been all along to the next step
+But we all agreed that we need to continue to remain very, very vigilant as we carefully look at re-opening the economy, about relaunching certain sectors in the futur
+We will continue that in the principles and the steps that need to be take
+Of course, this is Canada, which means that there are very different needs and very different approaches that will be in place across the countr
+What we'll be working on to co-ordinate and collaborate on is that the messages that get out and the lens that we take and the data that we collect and the way we do this is aligned and coordinated so that we can maximize our chances of getting through this without having to fall back into self-isolation the way we have been these past few weeks.[speaking french].
+
+
+
+**Interpreter**:
+One of the principles we agreed on with the premiers is the importance of coordinating and working together to  you are that any steps that we take with respect to re-opening the economy or relaxing the current rules with respect to self-isolation and physical distancing are done in proper coordinatio
+Now obviously certain provinces and regions will have their own reality and we respect that, of cours
+But if we can ensure that there is proper coordination so that Canadians understand that the same principles are applied across the board, that data has been collected in the same way and that we're analyzing the reality vigilantly and consistently and in a similar manner, then that will maximize our chance of getting through this crisis without finding ourselves in more self-isolation and economic slowdown
+
 
 Reporter:MENT , CANADA'S LARGEST AND OIL GAS LOBBY GROUP SAYS THE FEDERAL GOVERNMENT SHOULD CONSIDER SUSPENDING DOZENS OF ENVIRONMENTAL REGULATIONS, LAWS AND POLICIES DUE TO THE ECONOMIC AND HEALTH CRISIS TRIGGERED BECOVID-19.CRITICS CALL IT A CRASS ATTEMPT TO EXPLOIT THE PANDEMIC.HOW DO YOU RESPOND TO THE LETTER AND ARE SOME OF THE 30 REQUESTS -- REQUESTS STILL BEING CONSIDERED BY THE GOVERNMENT?
 
+
+
 **Prime Minister Trudeau**:
-Just because we are in one crisis right now doesn't mean we can forget about the other Cree sister, the climate crisis, that we're also facing as a world, as a country. But we recognize that, for example, moving ahead with the methane regulations something very difficult for companies right now in the oil and gas sector who are strained because of the multiple challenges they're facing both on the global stage and on the lower demand. That is whale we are making en vestments in supporting those companies directly so they can meet those methane reduction targets, you know, with funds that we're giving them so that we can stay on track to protect future generations and to reduce emissions from our industry. This is something that Canadians understand, that we need to continue to move forward. But we need to help people in different ways as we move forward. That will be the lens that we take.
+Just because we are in one crisis right now doesn't mean we can forget about the other Cree sister, the climate crisis, that we're also facing as a world, as a countr
+But we recognize that, for example, moving ahead with the methane regulations something very difficult for companies right now in the oil and gas sector who are strained because of the multiple challenges they're facing both on the global stage and on the lower deman
+That is whale we are making en vestments in supporting those companies directly so they can meet those methane reduction targets, you know, with funds that we're giving them so that we can stay on track to protect future generations and to reduce emissions from our industr
+This is something that Canadians understand, that we need to continue to move forwar
+But we need to help people in different ways as we move forwar
+That will be the lens that we tak
+
 
 **Reporter**:
 and on a separate matter, china has revised its numbers on the Wuhan deaths, increasing them by 50%.is this a statistical verification or proof that they
 
-Covered it suspended Senator >> Prime Minister  we all need to be very attentive to how data flows around the world and be very -- very thoughtful about how we process different information and how we apply the lessons learned from elsewhere around the world to what we do. We'll continue to work with partners and allies and international institutions and organisations. As we figure out how to get through today and tomorrow. But there will be many questions to ask once we're through this on how various countries behaved and what sort of principles we need to learn from and conclusions we need draw.[please stand by] -- holds responsibility for notcontaining  within its b.
+
+
+Covered it suspended Senator >> Prime Minister  we all need to be very attentive to how data flows around the world and be very -- very thoughtful about how we process different information and how we apply the lessons learned from elsewhere around the world to what we d
+We'll continue to work with partners and allies and international institutions and organisation
+As we figure out how to get through today and tomorro
+But there will be many questions to ask once we're through this on how various countries behaved and what sort of principles we need to learn from and conclusions we need draw.[please stand by] -- holds responsibility for notcontaining  within its 
+
 
 **(Voice of Translator)**:
-we will continue to work with different countries and international institutions to ensure that we're doing everything that is necessary to get through this. and after that, there's no doubt that there will be questions raised and further reflection. There may even be consequences for some countries, depending on how they behaved during this global crisis. But for the time being, I have to remain focused on what is important for Canadians.
+we will continue to work with different countries and international institutions to ensure that we're doing everything that is necessary to get through thi
+and after that, there's no doubt that there will be questions raised and further reflectio
+There may even be consequences for some countries, depending on how they behaved during this global crisi
+But for the time being, I have to remain focused on what is important for Canadian
+
 
 SO ARE YOU SUGGESTING, IGUESS, THAT CHINA MAY WITHHOLDP.P.E., IS THAT WHY YOU'RE NOTMENTIONING CHINA AS YOU CONTINUETO DO!AND ON JULIE'S QUESTION ABOUTTHE WAY OUT OF THIS, WHAT LEVELOF TESTING DO WE NEED TO SEEACROSS CANADA IN ORDER TO STARTREOPENING THE ECONOMY?
 
+
+
 **Prime Minister JustinTrudeau**:
-We've looked at the need for many more tests. We see that testing has been key part of controlling  not just knowing who has -- who has developed  can pass it on, but actually being able to control the spread through contact tracing and through isolation and  testing is a key part of it. We need to continue to ramp up our testing capacities and we need to do a better job of coordinating on testing methodology and approaches across the provinces, so that we can have a better vision of what is exactly happening. But testing certainly needs to increase as we move forward. Fortunately, it is increasing as we move forward.
+We've looked at the need for many more test
+We see that testing has been key part of controlling  not just knowing who has -- who has developed  can pass it on, but actually being able to control the spread through contact tracing and through isolation and  testing is a key part of i
+We need to continue to ramp up our testing capacities and we need to do a better job of coordinating on testing methodology and approaches across the provinces, so that we can have a better vision of what is exactly happenin
+But testing certainly needs to increase as we move forwar
+Fortunately, it is increasing as we move forwar
 
-[Speaking French](Voice of Translator):RADIO-CANADA.
 
+[Speaking French](Voice of Translator):RADIO-CANAD
 ---
 
 **Question**:
 (voice  about the 125medical personnel from  how many physicians an dhow many nurses are in  we taking people away fromcivilian  to do that?and when will they exactly beavailable to  into thelong-term care 
 
-**Prime Minister JustinTrudeau**:
-(voice  we'll share that information in the coming hours but as early as this afternoonthere's members of the armed forces that will be on the ground to assess the kind of approach that is needed and what their posture will be. and in the coming days, many of those 125 personnel will be arriving on the ground inquÉbec.
 
+
+**Prime Minister JustinTrudeau**:
+(voice  we'll share that information in the coming hours but as early as this afternoonthere's members of the armed forces that will be on the ground to assess the kind of approach that is needed and what their posture will b
+and in the coming days, many of those 125 personnel will be arriving on the ground inquÉbe
 ---
 
 **Question**:
-(voice  and with respect to the $500 million for artists. Who will be getting it, whyisn't it the association receiving it?
+(voice  and with respect to the $500 million for artist
+Who will be getting it, whyisn't it the association receiving it?
+
+
 
 **Prime Minister JustinTrudeau**:
-(voice  well, I want to say that the ministers will beat a press conference very soon to answer those questions as to how we're going to be helping our artists. We know this is a situation where many artists are in a real difficulty and we need  We need them to continue to make us dream, particularly in  That's why we're going to be there to help them.
+(voice  well, I want to say that the ministers will beat a press conference very soon to answer those questions as to how we're going to be helping our artist
+We know this is a situation where many artists are in a real difficulty and we need  We need them to continue to make us dream, particularly in  That's why we're going to be there to help the
 
-(Voice of Translator):THANK YOU, EVERYONE.
+
+(Voice of Translator):THANK YOU, EVERYON
