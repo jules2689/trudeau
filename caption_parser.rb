@@ -63,14 +63,34 @@ class CaptionParser
 
   private
 
+  PROVINCES = [
+    "Nunavut",
+    "Quebec",
+    "Northwest Territories",
+    "Ontario",
+    "British Columbia",
+    "Alberta",
+    "Saskatchewan",
+    "Manitoba",
+    "Yukon",
+    "Newfoundland and Labrador",
+    "New Brunswick",
+    "Nova Scotia",
+    "Prince Edward Island"
+  ]
+
   def humanize(msg)
     return msg if msg.nil?
     msg = msg.strip.humanize
-    msg.gsub(/ i /, " I ")
-      .gsub(/(\w)\.(\w)/, '\1. \2')
-      .gsub(/(\w)\. ([a-z])/) { "#{Regexp.last_match[1]}. #{Regexp.last_match[2].upcase}".strip }
-      .gsub('m. p.', 'MP')
-      .gsub(/prime\s?minister/, "Prime Minister")
+    msg = msg.gsub(/ i /, " I ")
+            .gsub(/(\w)\.(\w)/, '\1. \2')
+            .gsub(/(\w)\. ([a-z])/) { "#{Regexp.last_match[1]}. #{Regexp.last_match[2].upcase}".strip }
+            .gsub('m. p.', 'MP')
+            .gsub(/prime\s?minister/, "Prime Minister")
+    PROVINCES.each do |prov|
+      msg.gsub!(/#{prov}/i, prov)
+    end
+    msg
   end
   
   def format_line(line)
