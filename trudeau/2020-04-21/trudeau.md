@@ -49,7 +49,7 @@ But they need more support in order to help a large number of people.
 and expanding clientele.
 So, the government is putting in place the emergency fund for community support today.
 This will be an envelope of $350 million to support community organisations and nonprofit organisations.
-Part of the money will go droektly  small independent organisations and the rest will go through the national organization like the united way and the red cross.
+Part of the money will go directly to small independent organisations and the rest will go through the national organization like the united way and the red cross.
 This is money our community leaders will be able to use to train volunteers or increase deliveries at home for the seniors or provide transportation services for people with a disability.
 With this fund, we are giving organisations more resources to adjust to the current realities and difficulties associated with COVID-19.
 
