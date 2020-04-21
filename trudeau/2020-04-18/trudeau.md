@@ -1,217 +1,217 @@
-Prime Minister Justin Trudeau:
+**Prime Minister Justin Trudeau**:
 I want to start by confirming that canada and the united states have agreed to extend by another 30 days the border measures that are in place. This is an important decision and one that will keep people onboth sides of the border safe. It's another example of the excellent collaboration between our two countries, and I want tothank minister bill blair for leading the discussions with theunited states.[speaking french] [voice of interpreter] I want to begin by confirming that canada and the united states have agreed to extend by 30 days the current border measures. This is an important decision that will protect citizens on both sides of the border, and I want to thank minister blair forleading those discussions with the united states.[end of translation] we're all here today, but it is the weekend. Usually a saturday morning in april means getting outside to enjoy the sunshine. Having a friend over for coffee. Or taking the kids to the park. But these aren't normal times. We're living through an unprecedented public health emergency and we need to keep responding accordingly. Even as the weather gets nicer and we start to see hopeful news, we can't let up. Because if we do, we could lose the progress that we've made. Later today you may see some newads with people you know like hayley wickenheiser and dr. Tam. And they are urging people to stay at home. Limit your trips to the grocery store to once a week. If you do go out, keep 2 metres of distance between yourselves. As you do your part, know that we are here to support you.[speaking french] [voice of interpreter] later today you maysee ads showing people that you know. They will be reminding you that you can save lives by staying home. As i've often said, everyone must do their part. In recent weeks, we have announced historic measures to help you to get through this crisis, with the emergency benefit, the wage benefit, and the loans for small businesses, we are supporting millions of families and workers right across the country. However, there is still work to be done. There are still people we need to help. So today I am announcing furthermeasures to support canadians. Our government will allocate more than $306 million to help indigenous businesses. This funding will be provided through financial institutions and the national association of indigenous associations. This will allow them to get an interest-free short-term loan and non-refundable contributionsso that they can get through this crisis and rebound afterwards. The investments announced today will help thousands of businesses to hold the line until things get better, including many businesses that are led by indigenous women. These businesses recruit people in every sector right across thecountry. This is only a first step. Very soon we will be announcing other measures to support indigenous businesses and their employees.[end of translation] this morning I am very happy to announce that the government will allocate more than $306 million to give indigenous businesses the support they need. This funding will be provided through aboriginal financial institutions and administered bythe national aboriginal capital corporations association. It will allow indigenous businesses to access interest-free short-term loans so they are better able to make it through and rebound after this crisis. Today's investment will help thousands of businesses bridge to better times, including many that are owned and run by indigenous women. These businesses employ people right across the country in small communities and in big cities alike. They create good jobs in a wholerange of sectors, so when we support them, we're supporting families and workers too. This is just a first step. We'll have more to say soon on the help for indigenous businesses and the people that rely on them. Small business owners are at theheart of so many communities, and this is a tough time, whether you own a store, restaurant, or are part of the hospitality sector. We're going to be there for you and with investments like the canada emergency response benefit and the wage subsidy, we're focused on helping you. It will get easier, but until itdoes, we need to be prepared to persevere. That includes ensuring that our frontline workers have the equipment and tools they need todo their jobs and stay safe. Yesterday two planes full of n95masks and coveralls arrived in canada. More shipments will be coming this week and into this weekend with additional medical supplies. I can announce we will begin receiving face shields from toronto stamp very soon. They've shifted from their usualproduction of rubber stamps and i. D. badges and will be providing millions of face shields over the next few months.[speaking french] [voice of interpreter] canada continues tocontinue to receive shipments ofindividual protective equipment. Yesterday two planes arrived full of n95 masks and coveralls and more will arrive over the weekend or next week. We are all very anxious to see when this will be over. We are all to see a saturday when we can meet with friends ortake our children to a birthday party. That time will come, but only ifeveryone continues to do their part. So this weekend, please stay home. Continue to follow the experts' guidelines. Together, we will get through this. Thank you.[end of translation].
 
 THANK YOU, PRIME MINISTER.WE'LL NOW GO TO THE PHONE LINES FOR SOME QUESTIONS.JUST A REMINDER, IT'S ONE QUESTION, ONE FOLLOW UP.OPERATOR.
 
-Operator:
+**Operator**:
 Thank you.
 
 ---
 
-Question:
+**Question**:
 [speaking french] [voice of interpreter] good morning. I have a question about this agreement with respect to the closure of the u. S.-canadian border. We are concerned about not having enough medical equipment and medication. Do you believe that this agreement includes the same mechanisms in terms of timelinesor have you improved it?
 
-Answer:
+**Answer**:
 No, it's exactly the same mechanisms. We expect that essential goods and medical equipment and other items will continue to cross theborder between our two countries, and that's what we will continue to ensure.[end of translation] the agreement is the same terms, just extended for another 30 days. It will ensure that we continue to get essential goods and services back and forth across the border.
 
 [Speaking French] [Voice of Interpreter] FOLLOW UP.
 
 ---
 
-Question:
+**Question**:
 Yes. With respect to those masks thatwere supposed to be coming from 3m, we know that it was extremely complicated because ofthe directives announced by president trump. Did you not think it would be a good idea to get some additionalguarantees so that all those companies providing gowns and masks and so forth can continue to provide that equipment to canada, so that we don't have tocontinue to rely on china?
 
-Answer:
+**Answer**:
 Yes, it is very important that we continue to receive essential protective equipment from around the world,including the united states. We were very pleased to be able to ensure the continuity of 3m shipments, but we will continue to work closely with the u. S. administration so that we are sure to receive all the equipment we need.
 
 ---
 
-Question:
+**Question**:
 Thank you. Good morning, mr. Trudeau. Marc garneau announced that airline travellers will now haveto wear a mask that covers theirface. Now, is it possible that recommendation will be extended to other groups?
 
-Answer:
+**Answer**:
 Now, with respect to minister garneau's announcement,i should point out of course that we are currently prohibiting all non-essential travel. We do not want people to start travelling, whether they're wearing a mask or not. Of course it's better to wear a mask and -- but we still want people to stay home. We believe that this measure will help people in situations where physical distancing, like in a plane, is very difficult toachieve. Now, regarding the measures being put in place. Once we begin to relax the current restrictions, certainly that is still under discussion and we are having lengthy discussions with scientists as to what the best measures would be to ensure the protection of all canadians. We will have more to say about that as those discussions continue and that reality comes closer.
 
 ---
 
-Question:
+**Question**:
 Yes. As a follow-up, mr. Trudeau. With respect to the agreement between canada and the united states on the order, there was a problem with respectto an asylum seeker and that person was sent back. Now, has that condition been changed at all in the new agreement?
 
-Answer:
+**Answer**:
 No. It is the same agreement that has been renewed for the next 30days and we'll continue to ensure our values as a country are respected.[end of translation].
 
-Operator:
+**Operator**:
 Next question, theresa wright from the canadianpress, your line is open.
 
 ---
 
-Question:
+**Question**:
 The conservatives want increased sittings in the house of commons and they argue that the daily briefings done infront of the media could be donein the house of commons. What's wrong with that?
 
-Answer:
+**Answer**:
 First of all, it's extremely important and has beenimportant that every single day the canadian public gets informed of measures we are putting forward. We are putting forward new measures almost every single day, and I think it is essentialthat the media continues to haveaccess to asking questions to better inform and to ensure canada is functioning the way itneeds to be. Part of that job in our democracy is ensuring that thereis accountability through our parliamentary systems. That is something that we are also very much focused on. We have proposed that the house of commons return in some fashion every single week, to permit engagement on accountability and also pass further measures to help canadians. Right now we're in a situation where m. P.s across the country and their staff are wondering ifthey're going to have to get on planes tomorrow and fly to ottawa. Obviously that is not something from a public health standpoint we should want to see happening. Right now on the books the rule is parliament needs to re-open fully on monday. That is obviously not a good idea, which is why we've proposed measures going forward that we're discussing with the other parties. We certainly hope we can come toan agreement so we all don't have to convene in the house of commons on monday morning.[speaking french] [voice of interpreter] we are still in discussions with the other parties. We have proposed that the house of commons sit every week to ensure that there is an opportunity to ask questions of the government and also to be able to pass other measures thatwill help canadians. The reality is that monday morning 338 members of parliament and the teams are supposed to be in ottawa. They are expected to be in ottawa then so that parliament can reconvene. Obviously that would not be a good idea in the current context. Now we have made proposals to ensure that we can get work doneand keep our democracy working and healthy, while also keeping people safe. And we really hope that the other parties will agree with these proposals because I do think it would be a terrible problem if we all had to return to parliament on monday.[end of translation].
 
 ---
 
-Question:
+**Question**:
 Many people on social distance programs are surviving on less than people who are getting the cerb. Many marginalized canadians willsimply never be able to access the cerb as it is structured. Rather than continue to tweak it, why not just make the cerb universal?
 
-Answer:
+**Answer**:
 We moved very quicklyon replacing income for people who lost a paycheque because of covid-19. These are families who were relying on that next paycheque to be able to pay for rent, to be able to pay for groceries, tobe able to support their children and their parents. This was the absolute priority that we needed to move forward quickly on. With the moves that we were ableto make, over 7. 5 million payments have been made already and there are obviously many more to come. At the same time, we recognize the particular vulnerability of marginalized communities of particular groups. That's why we have put forward significant measures to try to help them, whether it's through shelters and support for charities and charitable organizations, or extending measures so people who work a very small amount of hours a month can still receive the cerb. These are kinds of things we're looking at, and we're continuingto move forward to get the help out to people we need to.
 
 THANK YOU.WE'LL TAKE ONE MORE QUESTION ON THE PHONE.
 
-Operator:
+**Operator**:
 Christopher guilly,your line is open.
 
 ---
 
-Question:
+**Question**:
 Good morning, Prime Minister. You've been holding regular calls with the ministers, but why have you not reached out to the opposition in a similar way particularly when you're governing in a minority government?
 
-Answer:
+**Answer**:
 We have been in closeand ongoing conversations with opposition leaders, both me directly and mostly through ministers and officials and regular briefings happen from health canada and officials to keep people apprised of these issues. You're absolutely right. We do need to keep our institutions and our parliamentary institutions strong, which is why we've proposed parliament could come back in a modified way every single way to ensure accountability, to ensure we canmove forward on legislation. That's what we're very much hoping we're going to get agreement on from all parties. The alternative would be returning to ottawa on monday morning with a full house of commons and all the staff associated with. I think we can all recognize that that would be a mistake at this point.
 
 A FOLLOW UP.
 
 ---
 
-Question:
+**Question**:
 Some of the changesyour government has made to the canada emergency response benefit for workers, the wage subsidy initiative for businesses, and the recent revisions regarding emergency loans and commercial rent assistance for small businesses were proposed by the opposition parties. So do you now think that loopingin the leaders could save valuable time and get programs and money out the door sooner?
 
-Answer:
+**Answer**:
 We have been looping in leaders and opposition leaders from the very beginning. Indeed, the proposals on expanding, on filling gaps have come from m. P.s of all parties, including many, many liberal m. P.s who have been passing the message through. We know that canadians are working together in unprecedented ways to fill gaps and to respond to these challenges. It is wonderful, quite frankly, to see so many suggestions coming forward. Many of them that make it into tweaks and improvements and changes to programs that are designed to help as many canadians as possible. It is a great sign of collaboration and of solidarity,of canadians working together onleaning on each other, on being there for each other, just like we're seeing outside the political world as well.
 
 ---
 
-Question:
+**Question**:
 Today you said small business owners are at theheart of so many communities, but small businesses are terrified at the possibility of getting out of this and having enormous debt piled on in the form of rent deferrals and loans. The fear is they will run out ofmoney a year down the road. Have you considered financial aid that would not have to be repaid or discuss rent forgiveness or control with the provinces?
 
-Answer:
+**Answer**:
 We have discussed theissue of commercial rent with the provinces. I had a good conversation with them on thursday evening where this came up. We are looking at it very, very closely. We have a number of proposals that are working their way through the system, talking to various industry groups and renters' associations, as well as looking at the provinces. The provinces have jurisdictionsover rents and the relationship between landlords and tenants. We need to work with them, whichis what we are doing. We recognize there are very different realities and systems right across the country, but wealso have heard very, very clearly from small business owners that the wage subsidy is helpful, but fixed costs are a real concern. That is something that we're going to have more to say on soon.
 
 ---
 
-Question:
+**Question**:
 Ian wood ctv news. Prime minister, b. C. has seen some success flattening the curve and has indicated it may look at loosening restrictions. You've said it is too soon and provinces like ontario and quÉbec are still in the thick ofit. Are you concerned the differencein messaging will enable people to disregard what is in place now?are you going to allow the provinces make the decision on re-opening or will the federal government need to give the green light?
 
-Answer:
+**Answer**:
 I think canadians understand what we are doing nowhas been tough but is essential in getting through this in the best-possible way. Canadians are really worried if we reopen too quickly or too soon or in the wrong way, we could find ourselves back in this situation a couple of months from now. Everything we will have sacrificed during these months will have been for naught. We are being very, very careful how we are moving forward as a country. I have spoken extensively with the premiers about this issue, and everyone recognizes how cautious and careful and vigilant we need to be. There is a real desire to ensurewe are coordinating our messages, our guidelines, the principles that will underline how we move forward. But of course the situation is very different right across the country from one region to the next. The measures they will be able to move forward with at different moments will vary as well. That's going to be an important part of the recovery here. We need to make sure we are working together, as we have been in an unprecedented way between premiers and the federalgovernment and municipalities and various other communities, to make sure that we're doing the right kinds of things and that we're sending the right messages to canadians every stepof the way. The message remains we have to be extremely careful to do this the right way in a coordinated and collaborative way.
 
 ---
 
-Question:
+**Question**:
 The canadian meat industry is saying it is facing a crisis as processing plants have to slow or slow production because of covid-19. The canadian federation of agriculture said that your government needs to prioritize food production so we don't haveshortages. We've heard the government is considering all options, but what are they so that canadians can feel confident that they'll be able to buy meat and food in the coming months?
 
-Answer:
+**Answer**:
 I think ensuring the continued flow of groceries and our food supply chains is a priority, but so is arresting the spread of covid-19. So is ensuring that workers in all industries across the country can remain safe. Getting that balance right requires us all to step up very carefully because we need to make sure that, yes, we are continuing the flow of great canadian food to people. Indeed, we need to ensure that we have as much domestic food security and stability as we possibly can. That means taking advantage of the summer months coming up and the growing and the planting season now. At the same time, we have to make sure we are doing things that are keeping farmers, agricultural workers, producers,and transformers safe. That is what we're very, very much attentive to now.
 
 ---
 
-Question:
+**Question**:
 Ashley burke, cbc news. Harvard researchers have suggested that there needs to beat least 500,000 tests being done a day in the u. S. in order to safely reopen the economy. What is the specific number of tests that canada needs to hit daily to safely ease up restrictions here?
 
-Answer:
+**Answer**:
 I think every day we are working on new technologies,on better coordination, on accelerating the pace of testing. It has been somewhat uneven across the country. There are places that have done very, very well. There are some places that have faced challenges that they are busy overcoming. We are confident we are going tosignificantly ramp up testing. All the premiers recognize that extensive testing is an essential part of any plan to loosen the controls on people and start reopening or restarting the economy. This is something that the federal government is very much engaged in with the provinces, ensuring there are enough tests,there are enough swabs, there are enough reagents. These are the kinds of things that we are all working on together. We know we have to do much more than we are now and we are tracking towards doing that.
 
 ---
 
-Question:
+**Question**:
 Many of the cases in canada have come from the u. S.you said the border agreement isgoing to stay in place. If the u. S. loosens restrictionsin the next few weeks, what kindof health threat does that pose to canadians?
 
-Answer:
+**Answer**:
 We have the border restrictions in place where non-essential travel across the border will not be permitted. We will take the measures necessary to keep canadians safewhile ensuring the flow of our essential supply chains on whichso many canadians depend.[speaking french] [voice of interpreter] we will continue tobe very vigilant about our borders and travelling coming from abroad and we will continueas well to work with the americans to ensure our own safety by maintaining the current measures at the border. At every step of the way, we will do what is necessary to protect canadians and ensure that our supply chains remain open.[end of translation].
 
 ---
 
-Question:
+**Question**:
 Prime minister, i'mwondering if you can tell us what the impact on canada's stockpiles has been for p. P.e. When the government closed so many of its warehouses across the country.
 
-Answer:
+**Answer**:
 Over the past weeks we've been focused on deliveringp. P.e. To the provinces, on delivering the necessary equipment to ensure that our frontline workers who are putting their lives forward to keep canadians safe are properlyprotected. The efforts continue. I mentioned two plane loads coming in over this weekend. More coming in over the coming days. We are confident that we are in a good place around p. P.e., and we'll only get more as more and more canadian producers and suppliers come online. It has been something extraordinary to see, the level to which canadian manufacturers have been stepping up to get involved. We are in a much better place than we were a number of weeks ago. Of course there is a need for continued vigilance and there will of course be many lessons learned on how canada can be better prepared for any future outbreaks than we were this time.
 
 ---
 
-Question:
+**Question**:
 [speaking french] [voice of interpreter] radio-canada. Good morning, mr. Trudeau. I have a rather simple question. Why are we extending the closureof the border with the united states?is it because you are concerned that president trump may want tolift the current measures or do you think that they're not able to properly manage the pandemic?what is the reason?
 
-Answer:
+**Answer**:
 Well, we closed our borders to international travellers many weeks ago. That included people from every country in the world. We took a few days more to do that with the united states because we needed to ensure thatthis could be done in a coordinated manner that would allow us to keep our supply chains open. We wanted to do it in cooperation with our closest partner and ally. So these measures were absolutely critical in order to protect canadians and limit the spread of the virus. We will keep them in place in relation to the united states and all the other countries around the globe for many, many weeks to come.[end of translation] we made thedecision a number of weeks ago to close our borders to international travellers. We recognized that this was a significant measure but was an important one in order to prevent further spread of covid-19 from coming in from overseas. It has contributed to why we arenow in many parts of the countrytalking about seeing a flattening of the curve, which is good news. We agreed with the united statesin those measures because these are measures we put in place around the world. We did take a couple more days to ensure that we were properly coordinated with our closest neighbour and most-important trading partner. That was effective in it being amutually agreed upon and coordinated measure. We will continue those measures,both with the united states and the world, for what is undoubtedly going to be many more weeks.
 
 ---
 
-Question:
+**Question**:
 [speaking french] [voice of interpreter] with respect to the negotiations withthe opposition about parliament,why has there not been any agreement yet?you're able to agree with the united states. What is blocking the agreement?can you not put some water in your wine?
 
-Answer:
+**Answer**:
 Well, we are dealing with a situation where a number of members of the various parties agree that we should move forward with measures that will require or lead to a limited parliament every week, but there are also others that want a parliament to be sitting four or five days a week. I don't think that's the right thing to do. It's not the right balance. We are pursuing those discussions now.[end of translation] many parties, opposition parties, arein agreement that limited sittings every week are a good measure to both ensure accountability and continue the work that we're needing to do topass legislation for canadians. We are of course looking forwardto being able to see more virtual parliamentary sittings that will allow m. P.s from all around the country, not just thenational capital region, being able to party. There is still one party that wants more than I think is wise at this point in time in terms of a public safety approach and in ensuring we are getting that balance right in moving forward for protecting our institutions,but we're hopeful we will get toa good place soon.
 
-Rosemary:
+**Rosemary**:
 That is the Prime Minister of canada on this saturday morning, briefing canadians on his government's actions to fight covid-19. Let's bring in the cbc's catharine cullen. Catharine, i'll pick up where the Prime Minister left off. It is of interest in ottawa, butit should be of interest to everyone. If no agreement is reached, 338 people have to get back here formonday for parliament to sit.
 
-Catherine:
+**Catherine**:
 We know when we look at the two extraordinary sittings we've had is when a deal has been reached, it's an 11th hour thing. We're going to see people engaged in this issue people biting their nails. There is something of a face-offbetween his party and the conservative party. They do have a deal with the bloc quÉbÉcois and they are close to a deal with the n. D.p. They are really at odds with theconservatives. Now let's throw another element into this, elizabeth may, the green party, was tweeting if there was some sort of agreementthat would require, as she put it, frequent return to the houseof commons, she wouldn't give unanimous consent to that or letthat happen because she thinks it is a public health issue. She was engaging with candace bergen who said she essentially agrees everyone having to come back on monday would be irresponsible, not a good idea. It was implicit and not explicit, she was putting the responsibility on the liberals. We need a deal to make this happen. She said parliament isn't ready for a virtual parliament. That's something we hear from andrew scheer time and time again. They have asked the speaker to look into this process, but it would take some time. There are some technical difficulties that make accountability challenging. At the same time the public health concern is a big one. Candace bergen -- you heard the Prime Minister saying some parties want four or five days aweek. Candace bergen tweeting what they would like is thee days a week, 90-minute sessions, with alimited number of m. P.s. I think that's important to flagthat nobody wants a situation where all 338 m. P.s are back. She asks why that would be too much. I think we heard some of that answer from the Prime Minister, as he suggested it is too much of a health risk. So the negotiations continue behind the scenes. Not sure whether the comments bythe Prime Minister are going to move the discussion along. I think we'll have to keep watching our e-mail.
 
-Rosemary:
+**Rosemary**:
 I think you're right. The other by the of big news, this concerns everyone, the canada-u. S. border.
 
-Catherine:
+**Catherine**:
 A lot of canadiansmay say, status quo, this is just another 30-day extension. But it's interesting to watch what has been happening day in and day out with the questions by the media. Repeatedly reporters ask him to acknowledge what is in many waysi think obvious to a lot of canadians, particularly if you look at new york state right you, they say, sir, is it not apparent that the united states poses an enormous risk to us?and the Prime Minister does not want to acknowledge that, however self-evident that may be. I don't want to speculate on what's going on in the Prime Minister's mind, but there is a question whether he will provokethe united states. We have seen the government lurching around during the course of this outbreak as they're dealing with unexpected news from the united states. First there was a report of the united states putting troops on the border. Then there was donald trump possibly preventing 3m from sending the much-needed n95 masks to canada. I think it was interesting towards the end of the conversation, rosemary, the Prime Minister said something tothe effect of the deal with the united states that it would be many more weeks. This deal extends for another 30days. It's not clear if he was suggesting an extension beyond that as well, whether that is something they will be seeking. So much changes in the course ofthe day. Who knows where we will be in 30days. The liberals have pushed that issue back for another 30 days.
 
-Rosemary:
+**Rosemary**:
 Catharine, that's great. We'll come back to you. You'll be on standby. The Prime Minister spoke of the requirement to wear a mask when you're getting on a plane. The Prime Minister making it clear that you shouldn't be travelling, that non-essential travel shouldn't be happen, but if you are required for some reason to get on a plane, you are required to wear a mask. The other substance of the announcement was the decision toallow $306 million in loans and some non-refundable payments to indigenous small- and medium-sized businesses. This is another sector obviouslythat's been hard hit by covid-19. We saw the government try to getmoney to particular sectors yesterday. A bit of a continuation of that today. If i'm not mistaken, there's something like 6,000 indigenous businesses across the country. Tabatha bull joins me from toronto.
 
-Interview:
+**Interview**:
 Thanks for having me.
 
-Rosemary:
+**Rosemary**:
 How needed was thisgoing to be?was there a real desire for additional money for specifically indigenous businesses?
 
-Interview:
+**Interview**:
 Absolutely. There are actually over 50,000 indigenous businesses across thecountry, and 95% of those are small- and medium-sized businesses. In march we sent a letter to thePrime Minister and the covid cabinet along with a number of our friends including the national aboriginal capital commission, which the Prime Minister mentioned today. We wanted to ensure there was a way that small- and medium-sizedenterprises could access the liquidity and capital that was going out through the community emergency business account. This is a much-needed and welcome announcement.
 
-Rosemary:
+**Rosemary**:
 This is because a lot of indigenous companies use indigenous institutions, bankinginstitutions, primarily. So this will go directly to those, instead of to a traditional bank, as you say?
 
-Interview:
+**Interview**:
 That's right. A number of indigenous businesses are also -- about 65%of them are financed through their own personal savings or loans. They're not an existing client and ceba is for existing clients. So we needed another route to access the capital and liquidity.
 
-Rosemary:
+**Rosemary**:
 Another thing that struck me from what the Prime Minister said, and this is something we're seeing through various sectors, is that many ofthese businesses are owned and employ indigenous women. Can you give us a picture of that and how important it is. I know it's hit a lot of sectorsin the service industry. Give us a picture of that in terms of indigenous businesses.
 
-Interview:
+**Interview**:
 So we definitely see women more -- double the amount of women are innovating and coming into the indigenous entrepreneur. A lot of that helps for them to have a flexible schedule, not unlike women across the country. A lot of the sectors hit initially were sectors where youwould have a personal interaction, such as tourism. Those are sectors where we see higher women-owned businesses. We've seen a higher impact on indigenous women.
 
-Rosemary:
+**Rosemary**:
 Are there other things needed?the Prime Minister said this is the first step. These policy decisions being pushed out the door quickly are sometimes not the final version. Is there anything else you're looking for?
 
-Interview:
+**Interview**:
 Definitely. We've been working closely with the government on a number of the programs that have already been established. I don't think it's intentional, but I think there's a number of factors in those programs that excludes indigenous businesses. The wage subsidy is an example, aboriginal economic development corporations, who are a limited partnership with their community, but employ up to 800 indigenous people and a number of those organizations are currently excluded from the wagesubsidy just by the way their limited partnership is set up. So we're working closely with the government to try to understand that. Some of those businesses have laid off over half of their employees, and those are businesses that put back programming into the community. We need to make sure they can access that wage subsidy. Additionally procurement, we have a number of indigenous business members who are able tosupply p. P.e. And able to pivot to ensure we can all fight covid-19 together. I would like to see some type ofincentives that we can ensure that those indigenous businesseshave an opportunity to be part of the fight against covid-19, particularly when they can support loss of life in indigenous communities that are at a higher risk of this pandemic.
 
-Rosemary:
+**Rosemary**:
 You're talking about companies switching their supply chains to create things like masks?
 
-Interview:
+**Interview**:
 Definitely. We have seen a couple of our indigenous members who have pivoted to ethanol and producinghand sanitizer and a number of businesses too who have been able to access masks. Another great business abroflex has been able to pivot to makinggowns. We want to make sure those businesses have an opportunity to be part of the the federal supply chain and also to providesupport to communities.
 
-Rosemary:
+**Rosemary**:
 Tabatha, thanks formaking time for us.
 
-Interview:
+**Interview**:
 Thanks so much.
 
-Rosemary:
+**Rosemary**:
 That is the Prime Minister's substantial announcement of aid today, $306 million of loans or non-repayable funds to go to indigenous businesses, of which there are many across the country.
 
 > I WANT TO GO TO QUÉBEC, TO GET A PICTURE OF HOW THINGS ARE UNFOLDING IN THAT PROVINCE, ONE OF THE HARDEST-HIT PLACES IN THIS COUNTRY.NOT ONLY IN LONG-TERM CARE HOMES, BUT ACROSS THE PROVINCE.WE HAVE SEEN THE OUTBREAKS IN THE CENTRES HARD HIT IN THAT PROVINCE AS WELL AS ONTARIO.LET'S GO TO THE CBC'S MATT DEMUR.I DO KNOW THE PREMIER WAS ASKED YESTERDAY AND HE HAD SOME FRANK COMMENTS ABOUT THE ASSESSMENT AND THE EVALUATION OF HIS OWN GOVERNMENT DEALING WITH IT.
 
-Reporter:
+**Reporter**:
 Really what we heard yesterday from quÉbec's premier, franÇois legault, was amea culpa, about how the government of quÉbec has handledthe situation of long-term care facilities during the covid-19 pandemic, so much so that the government actually asked for assistance from the federal government to get canadian armedforces members to come into the province and help out in some ofthese facilities. That's going to start today. There are going to be 125 armed forces members deployed in quÉbec to help in these facilities. We heard from the canadian armedforces that that is starting at a specific long-term care facility in montreal. In fact, by noon people should be in that facility. We're talking about nursing officers, technicians, and othersupport staff who are going to be going in there to try to helpout. Premier legault essentially saidthere is a deteriorating situation in these long-term care facilities. In fact, more than half of the deaths reported in quÉbec attributable to covid-19 have happened in these long-term carefacilities. Now, the premier said that his government should have tackled the situation in these long-termcare facilities sooner, especially the issue of chronic under staffing. He said before this pandemic thegovernment should have acted quicker on trying to get higher salaries in these places --
 
-Rosemary:
+**Rosemary**:
 Matt, i'm sorry, i've got to let you go because i'm going to end the special on the main network. You can watch us on cbc news network.[♪♪♪] [ please stand by ]
 
-Rosemary:
+**Rosemary**:
 The city oftoronto today is holding sometalks about laying out apotential timeline for itsreopening, even though it isstill many week away fromallowing that to happen. This is all in the planningstages. The Prime Minister, of course,has said that it will be weeks,still, before canadians will beable to go back to some sort ofsense of normal life, even ifthat includes going to the park,for instance. Covid-19 continues to killcanadians everyday, particularlyas we know in ontario andquebec's long-term care homes,about half of the deaths in thiscountry attributed to what ishappening in those places. The severe outbreaks and theinability to contain or movepeople from long-term carecentres. As we wait for this briefing toget started, i'll bring incatherine cullen. Anything else that stood out, interms of public health, giventhe fact we were talking aboutthe fact things were tough. I'll have to come back to youbecause I see the president ofthe treasury is speaking. So let's go now to that pressconference.
 
 WE HAVE COMPLETED TESTS FOROVER 507,000 PEOPLE WITH 6%CONFIRMED CASES.(SPEAKING FRENCH).
