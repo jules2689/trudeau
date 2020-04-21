@@ -51,9 +51,9 @@ Thank you.
 
 **Interpreter**:
 Good morning,  Trudeau.
-What can you tell US about the negotiations regarding the reconvening of parliament next week and if the 338 MP's have to be recalled tomorrow.
-Whose fault will it be?well, we're very concerned about the fact that we have not yet reached an agreement with all the opposition partis  not come back tomorrow morning.
-The current situation is that parliament is supposed to resume tomorrow on the 20th oh april  338 MPs  every corner of the country and their team, their staff, security guards and administrative personnel and, of course, we're not in a situation where that should be happening.
+What can you tell us about the negotiations regarding the reconvening of parliament next week and if the 338 M.P.s have to be recalled tomorrow.
+Whose fault will it be?well, we're very concerned about the fact that we have not yet reached an agreement with all the opposition part is to not come back tomorrow morning.
+The current situation is that parliament is supposed to resume tomorrow on the  of April with 338 M.P.s from every corner of the country and their team, their staff, security guards and administrative personnel and, of course, we're not in a situation where that should be happening.
 We need a parliament that works.
 We need to do that in a responsible way.
 That's why we've had some good conversations with most of the parties and we're close to an agreement to be able to come back every week to ensure that they can ask questions and we can move forward with legislation.
@@ -62,11 +62,11 @@ But we do hope that this can be resolved soon.
 Follow-up?yes.
 So you're saying that it's the conservatives.
 Now you were talking to children earlier because it's sunday.
-So, what  of image does this present if everyone is making sacrifices and does it really show that politicians are not able to agree at such a difficult time?well, that's a very good question, lena.
-and for me  is very frustrating.
+ what kind of image does this present if everyone is making sacrifices and does it really show that politicians are not able to agree at such a difficult time?well, that's a very good question, lena.
+and  me it is very frustrating.
 Because we're clearly hearing from our experts and public health authorities that we must continue to make the responsible choices and limit our movements and seems to me that it's fairly clear that parliament should not return in the same manner as before, starting tomorrow.
 I very much believe that I's extremely important to continue to support our democracy and keep our *ins using -- institutions working and I'm willing to answer questions.
-I take questions from the media every day and I think opposition MPs should have the  to also ask questions as well and that is why we made a proposal that seems very reasonable to all the other parties but the conservatives.
+I take questions from the media every day and I think opposition M.P.s should have the chance to also ask questions as well and that is why we made a proposal that seems very reasonable to all the other parties but the conservatives.
 I don't know.
 I think you'll have to ask him, ask them what their approach is. and why they're unreasonable in this situation.
 
@@ -84,7 +84,7 @@ Please go ahead.
 
 **Reporter**:
 Yes, Prime Minister.
-Thank you for talking to US The n. D.p. is asking for, in terms of parliamentary sitings,  in-person day and two virtual sitings.
+Thank you for talking to us. The n. D.p. is asking for, in terms of parliamentary sitings,  in-person day and two virtual sitings.
 You  only one virtual sitting.
 Can you explain why two is unaccepting?
 
@@ -92,7 +92,7 @@ Can you explain why two is unaccepting?
 
 **Prime Minister Trudeau**:
 I think it is important that we have in-person sitings and one a week seems about the right number in a reduced fashion.
-But we also have been clear from the very beginning that we think there should be virtual sittings to allow parliamentarians from across the country WHO aren't within driving distance of ottawa  continue to participate and that is why we have been pushing for virtual sittings.
+But we also have been clear from the very beginning that we think there should be virtual sittings to allow parliamentarians from across the country who aren't within driving distance of ottawa  continue to participate and that is why we have been pushing for virtual sittings.
 We heard that they are incapable of standing up virtual sittings for this coming week.
 But we are very open to increasing them over the subsequent weeks because it's important that we be able to hear from all parliamentarians.
 
@@ -116,26 +116,25 @@ Operator: [speaking french].
 **Interpreter**:
 Now the virtual  What would they look like in concrete terms,  Trudeau?well, there are various proposals that the house of commons is looking at now.
 The idea is for members of parliament across the country to make speeches and ask questions via video conferencing with the same rights and ability to speak as people current will I have inside the house of commons.
-There would be some in the house and other MPs  virtually.
+There would be some in the house and other M.P.s attending virtually.
 That is why the house of commons has asked for more time to get this ready.
-In your speech, you said that thousands of families are going through a terrible time and premier legault  yesterday that his government was not properly prepared for this pandemic.
+In your speech, you said that thousands of families are going through a terrible time and premier  said yesterday that his government was not properly prepared for this pandemic.
 You said in the past that there will be a time for a postmortem.
 After a month of this crisis, there are question asked across the country.
 Do you think that your government was adequately prepared for this pandemic?I think when we're in the middle of the crisis and witness the tragedies, we will never fully be prepared.
-At the same time, we know that canadian and  different levels of government and organisations and everyone have come together to try and put in place measures to protect people and slow the spread of this virus.
+At the same time, we know that canadian and the different levels of government and organisations and everyone have come together to try and put in place measures to protect people and slow the spread of this virus.
 In a positive way compared to other countries.
 But even if we end up having a better history than other countries, let's not forget this is a terrible tragedy for too many families out there and we all have a responsibility to do our very best to ensure that we come out of this tragedy and this crisis without too many additional tragedies.
-Could you tell me why three in-person sitings per week  reduced numbers is unreasonable?well, I think we know that all parliamentarians cannot return to the house of commons.
-There are people WHO live in provinces that are far away from ottawa and cannot return.
-and that is why we've been saying it's very important to have virtual sittings so that people can participate in order to represent their community during this crisis.
+Could you tell me why three in-person sitings per  with reduced numbers is unreasonable?well, I think we know that all parliamentarians cannot return to the house of commons.
+There are people who live in provinces that are far away from ottawa and cannot  and that is why we've been saying it's very important to have virtual sittings so that people can participate in order to represent their community during this crisis.
 At the same time, in being there to answer questions regularly, it is also important for democracy and our Canadians.
 It's fine to take media questions here.
 I do that about every day and parliamentarians have a role to play and the proposal we made for a session or a sitting every week was accepted by most of the parties as being a reasonable compromise during this crisis.
 It is important to remember that people are elected from all corners of this country to be their community's voice in parliament.
-Particularly in a crime of crisis, it is important to look at virtual ways that allow members from every corner of the country to engage in parliamentary debate and discussion and not just those WHO have the opportunity to proximity to be around the national capital region.
+Particularly in a crime of crisis, it is important to look at virtual ways that allow members from every corner of the country to engage in parliamentary debate and discussion and not just those who have the opportunity to proximity to be around the national capital region.
 That is why we've been pushing the virtual sittings.
 We know that accountability is important and taking questions every day from the media is a good thing.
-But it is also important that parliamentarians and opposition politicians go et to ask questions  the government which is why we proposed parliaments sit every fwhaoek reduced fashion and  is a proposal that was accepted by most parties.
+But it is also important that parliamentarians and opposition politicians go et to ask  of the government which is why we proposed parliaments sit every fwhaoek reduced fashion and that is a proposal that was accepted by most parties.
 The conservatives still need to work on it a little bit in terms of their own reflection.
 
 
@@ -146,7 +145,7 @@ and that is why they're unhappy.
 Would you be in favour of several virtual sittings?I can tell you that the proposals made by the opposition parties and the issues they are raising in terms of criticizing the government are, you know, hear in the media and we have adjusted our proposal and are trying to ensure that we're doing everything we can to respond to real needs across the country.
 We are coming to functioning parliament.
 It's extremely important that that be the case.
-That is why we're trying to find a solution and I can tell you that most opposition party dos agree, only the conservatives may force US to come back tomorrow morning with 338 members of parliament in the house of commons.
+That is why we're trying to find a solution and I can tell you that most opposition party dos agree, only the conservatives may force us to come back tomorrow morning with 338 members of parliament in the house of commons.
 
 
 
@@ -226,11 +225,11 @@ Given both provincial authorities and the reality that the shape of this pandemi
 What we are working on coordinating with the provinces is a set of principles and approaches that can be applied at different moments and in different ways across the country.
 We want to be there to ensure that there is a testing capacity, that we are supporting on contact tracing and we're remaining consistent in the messages that Canadians are hearing from different orders of government across the country, about how to be very, very careful to not allow for a resurge en ls of COVID-19 just as restrictions start being eased.
 These conversations are very much live with the provinces right now.
-We are listening very carefully to what experts and looking very carefully at what is working and has worked in other jurisdictions and how and if that can be adapted to US We recognized from the beginning that we have been slightly slower.
+We are listening very carefully to what experts and looking very carefully at what is working and has worked in other jurisdictions and how and if that can be adapted to us. We recognized from the beginning that we have been slightly slower.
 We were able to hold off the pace of the virus in Canada for a few more weeks and many other places and, therefore, we can take advantage of learning what works in different situations to adapt it to Canada.
 We have been extremely thoughtful about that'sing.
 Again, people need to know it 's not going to suddenly re-open in any part of the country overnight to what it was before.
-We are going to have to be very, very careful, very gradual, very progressive if we are to prevend  kind of resurgence that would send US all back into lockdown  we were before.
+We are going to have to be very, very careful, very gradual, very progressive if we are to prevend  kind of resurgence that would send us all back into lockdown  we were before.
 We want to make sure that what we're doing now is not for nothing.
 That we managed to get through this with the containment and control approaches that the proper measures will allow for.
 
@@ -256,7 +255,7 @@ Should measures be in place to make sure that returning workers isolate whether 
 
 
 **Prime Minister Trudeau**:
-We all understand how important it is to keep workers in essential businesses, workers WHO continue to work as safe as possible.
+We all understand how important it is to keep workers in essential businesses, workers who continue to work as safe as possible.
 Safety of workers, of their families as well needs to be the primary consideration of any government and I certainly expect that to be that one as well.
 
 

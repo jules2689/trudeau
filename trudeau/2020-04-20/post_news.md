@@ -8,7 +8,7 @@ Let me bring in My colleagues Vassy  and David   over to you first.
 
 **Vassy**:
 Hey, rosier On the comments of what happened in Nova Scotia, a number of different condolences offered by the Prime Minister.
-He was asked interestingly if he was willing to relax any of the social distancing rules for those WHO will find it tough to mourn all of this and grieve all of this from their homes rather than getting together.
+He was asked interestingly if he was willing to relax any of the social distancing rules for those who will find it tough to mourn all of this and grieve all of this from their homes rather than getting together.
 He talked about how difficult it would be from a public health standpoint.
 He said there is going to be a virtual vigil.
 Some things that stood out for me on this subject were questions, first of all, whether or not the subject was on the federal government's radar or  radar.
@@ -24,9 +24,9 @@ Again, it's difficult to know because there are so few details about motive and 
 My understanding the last conversation about it was that something was expected this spring.
 They had been promising it right through the election campaign.
 They did a consultation last  so about a year ago.
-There were calls for people WHO wanted more to bring that legislation in sooner.
+There were calls for people who wanted more to bring that legislation in sooner.
 I notice the Prime Minister said they still intend to, but once this pandemic thing is over.
-That gives US an indication when that might happen.
+That gives us an indication when that might happen.
 a number of policy-oriented questions and intelligence questions associated with what we've seen unfold in Nova Scotia.
 Not a lot of answers because there are so few details at thismoment.
 
@@ -43,7 +43,7 @@ Iran flight 752 was just over a hundred days ago.
 The stark difference between then and now is just how much COVID-19 is robbing people the ability to go to rituals and milestones and seeking cold front from their loved ones.
 and being asked if we can relax things to allow that to happen.
 There is an acute focus on these18 murders, because as the killer went door to door, the police today are going door to door and making terrible and horrible discoveries.
-He pivoted to the point that it's not just -- it's people who are dying of cancer, people WHO are dying of heart disease, people dying of the ordinary run-of-the-mill things we see each year and the total inability of families to find comfort and seek relief from their grief with loved ones and gatherings and how difficult that is. This is why when he's asking thepolitical questions, he  I don't want to be bickering or arguing with anyone on this.
+He pivoted to the point that it's not just -- it's people who are dying of cancer, people who are dying of heart disease, people dying of the ordinary run-of-the-mill things we see each year and the total inability of families to find comfort and seek relief from their grief with loved ones and gatherings and how difficult that is. This is why when he's asking thepolitical questions, he  I don't want to be bickering or arguing with anyone on this.
 It does seem there's going to bean agreement by the end of the day to sit in person once a weekand supplement that  virtualsittings.
 On fundamental  of life and death, nothing is working asit should because  this.
 Everything from parliament on down have to find ways to adapt.
@@ -53,7 +53,7 @@ Everything from parliament on down have to find ways to adapt.
 **Rosemary**:
 Thank you for this.
 I will come back to you if I have time.
-I wanted to go to  where we are speaking to Lenora the MP there.
+I wanted to go to  where we are speaking to Lenora the M.P. there.
 
 
 
@@ -77,7 +77,7 @@ Not quite the type of thing you would expect to wake up to on a Sunday morning i
 
 
 **Rosemary**:
-Tell US a little bit some of those communities.
+Tell us a little bit some of those communities.
 We were talking to Brett  Portapique is cottage country and these are small towns where people would know each other I would imagine?
 
 
@@ -86,7 +86,7 @@ We were talking to Brett  Portapique is cottage country and these are small town
 Oh, yes.
 As the Prime Minister said, we all know each other here.
 Where you live in Portapique or Debert or  we are all related, cousins, sisters, brothers, husbands, wives.
-So many, many, many of US know people WHO know people WHO are definitely involved and their family members have been affected.
+So many, many, many of us know people who know people who are definitely involved and their family members have been affected.
 Many people were looking for loved ones yesterday, putting up their pictures saying, have you seen them?they live in Portapique.
  can't get ahold  them.
 and Wentworth is another area.
@@ -133,7 +133,7 @@ Very kind and understanding.
 He wanted to know if there's anything that I need, understanding how difficult this is to go through.
 Making sure I knew if our community needs anything, the government will be there.
 Today he came on the phone with all of us, with the entire nova  liberal caucus and basically said the same thing.
-It's nice to have a leader WHO is kind and compassionate and understanding and takes the time to do this with his members and anyone else WHO has been affected.
+It's nice to have a leader who is kind and compassionate and understanding and takes the time to do this with his members and anyone else who has been affected.
 I know My community appreciates it and we appreciate the outpouring of love from across Canada to be honest.
 We're very moved by that.
 
@@ -145,15 +145,15 @@ We only have identified a number of the victims, so if there's some that we have
 
 
 **Interview**:
-I don't know all of the names myself yet, but I know WHO some of them are and I have friends WHO are friends of those people.
-I also have friends WHO knew the gunman WHO contacted me and saidthey're in a state of shock because they went to school  They've known him since he was 16. He was such a nice guy.
+I don't know all of the names myself yet, but I know who some of them are and I have friends who are friends of those people.
+I also have friends who knew the gunman who contacted me and saidthey're in a state of shock because they went to school  They've known him since he was 16. He was such a nice guy.
 They talked to him all the time.
 He seemed to be fine.
 Another friend said that the gentleman drove into his brother's yard in a car on Sunday and they had a few words and he seemed normal and drove off and said he was having a drive.
 So, you know, as the RCMP said, this is an ongoing investigation.
 Because there are so many places where the crimes took place, it's going to be very interesting.
 It's like a jig-saw puzzle and trying to pull those pieces together.
-It's going to be interesting, but it's heart breaking for US on the ground.
+It's going to be interesting, but it's heart breaking for us on the ground.
 
 
 
@@ -167,7 +167,7 @@ But I wonder if because of the violence and the magnitude of this incident, whet
 
 **Interview**:
 Well, I think for one thing that would be up to the premier of Nova Scotia I would imagine, but the thing is I wouldn't want to go to a funeral thinking that perhaps I might spread a disease to somebody else and have more deaths because of My involvement.
-I think we have to think of the bigger picture of all of US and protecting all nova Scotians and all Canadians.
+I think we have to think of the bigger picture of all of us and protecting all nova Scotians and all Canadians.
 That's why we are doing what we're doing and sacrificing our lives and jobs and everything by staying home.
 So there are going to be vigils.
 There are going to be online vigils.
@@ -184,7 +184,7 @@ Do you recognize how difficult this is because of the fact we're in the pandemic
 
 **Interview**:
 I definitely do. We're all on  We're not a Twitter-verse here in cumberland and colchester.
- of US are of an age where we prefer facebook.
+ of us are of an age where we prefer facebook.
  are actually reaching out andtalking  each other.
 a number of friends have posted things where they're broken-hearted because  their family members and they can't go and see them.
 
@@ -192,7 +192,7 @@ a number of friends have posted things where they're broken-hearted because  the
 
 **Rosemary**:
 Lenore  thank you for taking the time.
-Nova Scotia MP Lenore  We are all thinking about you and your riding.
+Nova Scotia M.P. lenore   are all thinking about you and your riding.
 
 
 

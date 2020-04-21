@@ -6,20 +6,20 @@ COVID-19 has brought many industries to a halt and workers across the country ar
 From the start, our goal as a government has been clear -- to help all Canadians get through these challenging times.
 As I've said many times before, we're here to support you, to lend you a helping hand when you need it most.
 Across the country, Canadians are standing shoulder to shoulder and we're all in this together.
-Today, our government is announcing more help for workers in Alberta, Saskatchewan, BC and Newfoundland and Labrador.
-We're also announcing more help for small businesses and more help for those WHO work in the arts, culture and sports sectors.
+Today, our government is announcing more help for workers in Alberta, Saskatchewan, British Columbia and Newfoundland and Labrador.
+We're also announcing more help for small businesses and more help for those who work in the arts, culture and sports sectors.
 I'll start with the energy sector.
 Right now, workers and families are struggling because of things beyond their control.
 Both the devastating effects of the pandemic and price war driven by foreign interests are a challenge.
 As a result, companies have had to slowdown or pause their operations, leaving too many people out of work.
-To help these worker, our government will invest $1.7 billion to clean up orphan and inactive wells in Alberta, Saskatchewan and BC.these wells, which are no longer in use, can be detrimental not only to our environment, but to people's health.
-Think of the farmer WHO can't go anything on his land because of an abandoned well a few steps away from his home.
+To help these worker, our government will invest $1.7 billion to clean up orphan and inactive wells in Alberta, Saskatchewan and British Columbia.these wells, which are no longer in use, can be detrimental not only to our environment, but to people's health.
+Think of the farmer who can't go anything on his land because of an abandoned well a few steps away from his home.
 Think of the small town or indigenous communities strugling  this issuthat  been festering for years or even decades.
-Cleaning them up will bring people back to work and help many landowners WHO have had these wells on their property for years but haven't been able to get them taken care of and the land restored.
+Cleaning them up will bring people back to work and help many landowners who have had these wells on their property for years but haven't been able to get them taken care of and the land restored.
 Our goal is to create immediate jobs in these provinces while helping companies avoid bankruptcy and supporting our environmental targets.
 In Alberta alone, these investments will maintain 5200 jobs.
-We listened to the concerns of landowners, municipalities and indigenous commuters WHO want to make sure that the pollute or pay principle is strengthened and their voices are heard.
-I want to thank government of Alberta for working with US and listening to their concerns.
+We listened to the concerns of landowners, municipalities and indigenous commuters who want to make sure that the pollute or pay principle is strengthened and their voices are heard.
+I want to thank government of Alberta for working with us and listening to their concerns.
 Our government will also establish a $750 million emission reduction fund with the focus on methane to create and maintain jobs through pollution reduction efforts.
 This includes $75 million to help the offshore industry cut emissions in Newfoundland and Labrador.
 This fund will primarily provide repayable contributions to firms to make them more competitive, reduce waste and pollution and most importantly protect jobs.
@@ -38,14 +38,14 @@ Our government will be investing $1.7 billion to clean up orphaned and abandoned
 The goal is to create jobs for workers in the energy sector to avoid companies going bankrupt and support our environmental targets.
 These wells, which are no longer used to produce oil may present a risk not only for our environment, but also for our health.
 By cleaning them up, we will create jobs for workers.
-We will also help people WHO have these abandoned wells on their land and we are predicting that these funds will maintain electoral college $5200 jobs in Alberta alone.
+We will also help people who have these abandoned wells on their land and we are predicting that these funds will maintain electoral college $5200 jobs in Alberta alone.
 We develop this policy with the government of Alberta and municipal partners and I want to thank them for their contributions.
 Our government will also be setting up a $750 million fund to reduce emissions that will focus on pollution caused by methane in order to create and maintain jobs.
-Of that sum, $75 million will be allocated to oil and gas companies WHO work offshore, Newfoundland and Labrador, to reduce their emissions.
+Of that sum, $75 million will be allocated to oil and gas companies who work offshore, Newfoundland and Labrador, to reduce their emissions.
 This fund will provide for repayable contributions to companies in order to protect jobs, increase their competitiveness and reduce pollution.
 Right now, energy sector companies have cash flow problems, which means that they don't have the necessary money to invest in technologies that help to reduce emissions or repair methane leaks.
 Today's announcement will allow these companies to carry out that work while, at the same time, creating jobs for workers during this difficult time.
-This public health crisis must not prevent US from taking action to fight the climate crisis.
+This public health crisis must not prevent us from taking action to fight the climate crisis.
 With this  to clean up the wells and the fund to reduce emissions, we believe that 10, 000 jobs will be maintained.
 At the same time, we're working with BDC.
 and EDC.

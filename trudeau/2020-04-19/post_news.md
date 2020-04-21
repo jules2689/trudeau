@@ -5,10 +5,10 @@ The Prime Minister of Canada with his daily briefing, daily update on his govern
 I'll bring in the cbc's David  a couple of points I would make,  from listening to the Prime Minister.
 There is no one, not any party that is asking for all m. Performs to return tomorrow.
 So, that just in case people got that impression.
-and there is nothing that would require all 338 MP's to come to Ottawa tomorrow.
-They could continue to do their parliamentary work in their ridings if they chose not to come.
-But further to that, as they were speaking, the n. D.p. Made clear that no matter what happens tomorrow there will only be three of the MPs  tomorrow.
-I don't want people to go away with the impression that they will suddenly, if there is no deal, be 338 MPs  the house of commons.
+and there is nothing that would require all 338 M.P.s to come  ottawa tomorrow.
+They could continue to do their parliamentary work in  ridings if they chose not to come.
+But further to that, as they were speaking, the n. D.p. Made clear that no matter what happens tomorrow there will only be three of the M.P.s here tomorrow.
+I don't want people to go away with the impression that they will suddenly, if there is no deal, be 338 M.P.s in the house of commons.
 That's the image that he left with people and that is the wrong impression.
 
 
@@ -37,7 +37,7 @@ Because the Prime Minister also talked about that.
 Saying that thanks people in the area and police for following instructions saying that the suspect in an active shooter investigation is in custody.
 We're told there are multiple victims.
 Shaina luck is live in great village, not far from where the events unfolded.
-What can you tell US
+What can you tell us?
 
 
 
@@ -57,7 +57,7 @@ We know that he is a denturist.
 We know that he is a denturist.
  know that he owns multiple properties around Nova Scotia.
 Including several properties in Portapique.
- has a business in dartmouth, a denturist  So, we can tell you that, you know, he is -- we've been speaking over the phone with people in the community WHO tell US that he was fairly well known within Portapique.
+ has a business in dartmouth, a denturist  So, we can tell you that, you know, he is -- we've been speaking over the phone with people in the community who tell us that he was fairly well known within Portapique.
  people are saying that he was well-liked.
 So this is certainly an unfolding incident and we expect to get more from the RCMP this afternoon.
 
@@ -70,7 +70,7 @@ Do we have a time for that yet?any sense when that might happen?
 
 **Reporter**:
 No, we don't know yet.
-The RCMP has been giving US information all morning.
+The RCMP has been giving us information all morning.
 They've been using Twitter to get that out there and there is a press conference coming but no timeline on that as of yet.
 
 
@@ -88,5 +88,5 @@ Can you just tell people what we know about that car?
 We know that the RCMP used Twitter, as I've been saying, they've been using that a lot.
 The suspect was traveling in an RCMP -- what looked like an RCMP vehicle and what looked like an RCMP uniform.
 We don't know too much about how he got those items or where exactly they came from, whether they were legitimate items or not.
-But he was traveling in an RCMP vehicle and then shortly after that, the RCMP told US that he had switched to a silver s. U.v. Chevy tracker.
+But he was traveling in an RCMP vehicle and then shortly after that, the RCMP told us that he had switched to a silver s. U.v. Chevy tracker.
 We believe that's how it played out.

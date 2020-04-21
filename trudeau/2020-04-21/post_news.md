@@ -37,7 +37,7 @@ While their ask was substantive at $10 billion, they get $350 million to help th
 We are not necessarily expecting to get a briefing from the local RCMP today.
 But we will get some details probably via press release in terms of how their investigation over those 16 different crime scenes is going and we'll talk about that at the top of the clock as well and bring you all details in terms of the stories that we're learning about the people that were killed over the course of weekend in Nova Scotia as that community and that whole province continues to strugle with  during the time of the pandemic.
 Also incountried ble   them on so many fronts.
-Ok. I  I'm going to wrap it up. We'll hear shortly from our federal cabinet ministers WHO will give US a short briefing more about the wage subsidy that opens up on monday and a public health update to give US a sense of how we're doing in fighting the pandemic.
+Ok. I  I'm going to wrap it up. We'll hear shortly from our federal cabinet ministers who will give us a short briefing more about the wage subsidy that opens up on monday and a public health update to give us a sense of how we're doing in fighting the pandemic.
 Some encouraging signs.
 But we still have to keep doing what we're doing.
 The sky is looking better in ottawa.
@@ -45,7 +45,7 @@ We'll  right back on cbc news  after this.[please stand by] they said yesterday 
 and so they will be combing through the that the application process will open up in a week's time.
 That is significant to business owners.
 There has been some information provided to a committee on the length of time.
-Your producer helped US with that.
+Your producer helped us with that.
 The time to get money into the pockets of business owners.
 That is something we'll be looking for more details on fromminister duclos.
 I   time line, the issueof time for  is huge.
@@ -54,10 +54,10 @@ I'm speaking specifically of businesses, for example, small businesses, but also
 Think about air Canada and westjet.
 They signalled  would take advantage of this programme but the  are going to be important.
 At the end of the Prime Minister's press conference he got a question, is this going to be available to companies that use tax havens.
-There wasn't a specific answer on that, but that does raise a broader discussion about WHO exactly will be eligible.
+There wasn't a specific answer on that, but that does raise a broader discussion about who exactly will be eligible.
 If this follows in the pattern of other aid packages, the scopewill be broad.
- WHO can do that.
-That does present later on a number I think of complication or questions that will arise about WHO was able to avail themselves or what kind of company was able to avail themselves of this kind of financial relief or financial aid.
+ who can do that.
+That does present later on a number I think of complication or questions that will arise about who was able to avail themselves or what kind of company was able to avail themselves of this kind of financial relief or financial aid.
 I don't think the government hastime at this  Especially when everybody is saying we need this money fast to go through and look at every thing a company has done, but I think that will factor into the discussion later on.
 
 
@@ -79,22 +79,20 @@ This is different.
 It's wage subsidy, which is equivalent to the maximum c. P.p. Amount and then it's a sliding scale of what the precise dollaramount would be. That will  a little more time.
 The application scrutiny will bedone after the fact.
 There  a post pandemic compliance thing, but how much money to send to a company?that's a little rougher to deal with than the CERB.
-The two other issues the  Minister spoke about, PPE., two planes came back from  nothing onboard.
-I'm told by the government official, all of the PPE.
-Equipment is under lock and  in the warehouse in shanghai.
+The two other issues the  Minister spoke about, P.P.E.., two planes came back from china, nothing onboard.
+I'm told by the government official, all of the P.P.E.. Equipment is under lock and key in the warehouse in shanghai.
 It was safely store and will be making its way back to Canada.
 There is another flight coming in today, but it speaks to the chaos there.
-The world is trying to get masksand gloves out of china and  funneling cargo planes into one or two airports.
-This is causing backlog of trucks, they need security, there is limited landing windows, tarmac time and if yourstuff haven't made it through and  on the plane, you're out of luck.
+The world is trying to get masksand gloves out of  and largely funneling cargo planes into one or two airports.
+This is causing backlog of trucks, they need security, there is limited landing windows, tarmac time and if yourstuff haven't made it  and you're on the plane, you're out of luck.
 You have to figure out how to get it another time.
 Those supplies have not been lost.
 The other thing the Prime Minister was asked about is gun legislation.
-When is he going to bring in guncontrol?something that has been delayed because  the change in everything.
-One of the restrictions is rightnow the agreement struck to havethe house  sit one day in  and then virtual sittingsafter.
-The legislation can only be about  pandemic.
-So they can't bring it right nowwhile they're operating under this deal.
-They  to wait until the end of may when there is a hope theycan go back to the normal rules,  they would need consent and agreement, including from the conservatives, WHO have been on the opposite side of this debatefrom the federal liberals.
-Quickly, you can't.
+When is he going to bring in guncontrol?something that has been  because of the change in everything.
+One of the restrictions is rightnow the agreement struck to  house only sit one  in person and then virtual sittingsafter.
+The legislation can only  about the pandemic.
+So they can't bring it right nowwhile they're operating under this  They have to wait until the end of may when there is a hope theycan go back to the  rules, or they would need consent and agreement, including from the conservatives, who have been on the opposite side of this debatefrom the federal liberals.
+Quickly,  can't.
 
 
 
@@ -111,9 +109,8 @@ BILL BLAIR SAID IT WAS GOING TO BE DONE IN THE SPRING SESSION.GOING BACK TO THE 
 
 **Rosemary**:
 Going back to the Chinese planes, the planes in china, because they were our planes in china.
-It does speak to, though, the lack of reliability on PPE.
-Coming, maybe particularly from china, but maybe from everywhere.
-and the fact that you're sending over government planes to get things and they're coming back empty and now, it's great if   it's still there, still in the warehouse.
+It does speak to, though, the lack of reliability on P.P.E.. Coming, maybe particularly from china, but maybe from everywhere.
+and the fact that  sendingover government planes to get things and they're coming back empty and now, it's great   david, it's still there, still in the warehouse.
 But now we're waiting more days for it to get here and we don't have a lot of time in terms of getting that stuff to people.
 
 
@@ -172,8 +169,8 @@ Canadians are continuing to practise social distancing, physical distancing, and
  health authorities are closely monitoring for continuedand  slowing of the epidemic, while carefully considering approaches to ease public health restrictions when and where there is possible.
 But there are hard truths that haven't changed.
 This is a marathon and we're going to have to plan, pace ourselves and not take sharp turns.
-The second truth, there is stilla  of unknowns and no 100% proven path before US To get this right, there will bea  to learn as we go, evaluate and adjust as we take cautious steps.
-These next steps may sound challenging, but there are things we learned and things we know will keep US safe as we carefully navigate this path forward together.
+The second truth, there is stilla  of unknowns and no 100% proven path before us. To get this right, there will bea  to learn as we go, evaluate and adjust as we take cautious steps.
+These next steps may sound challenging, but there are things we learned and things we know will keep us safe as we carefully navigate this path forward together.
 We know that the epidemiology ineach  is different, so the approaches won't all be the same.
 We know the timing, types and range of public health measures will be tailored to address the unique challenges and context ofthe  in each province andterritory.
  additional measures may need be to adopted and maintained to protect vulnerablepopulations  high-risk settings within jurisdictions.
@@ -228,13 +225,13 @@ The Canada revenue agency is committed to helping workers andbusinesses.[end of 
 The page includes a calculator that will help employers to determine quickly the subsidy amount they can expect to claim based on the information that they enter into the calculator.
 The government is grateful for the input we have received from many stakeholders during our consultations in the last few weeks.
 These consultations have led to the efficient and quick launch of the website to date.[speaking french][voice of interpreter] I am happy to announce to Canadians that todaythe Canada revenue agency is launching a calculator  its website to help employers prepare for their application to the wage subsidy which will helptheir employees.
-We thank business representatives and all  WHO have helped in preparing this web page.[end of translation] Canada wagesubsidy as of april 27. It is expected that 90% of  applications will  been processed by the 5th of may withdirect deposits and cheques madeand sent  after.
+We thank business representatives and all  who have helped in preparing this web page.[end of translation] Canada wagesubsidy as of april 27. It is expected that 90% of  applications will  been processed by the 5th of may withdirect deposits and cheques madeand sent  after.
 Until  businesses are invited  update their businessaccount on the Canada revenue agency's website.
 Technical debriefing  will also be offered this afternoon to the media.[speaking french][voice of interpreter] businesses will be able to file their applications for the Canada emergency wage subsidy as of april 27th.
 We expect that 90% of applications will have been processed   5th and this will quickly be followed by direct deposits and  being sent out.
 Until then, businesses are invited to update their profileson the Canada revenue agency website.
 This afternoon, there will be a technical briefing for media.
-Our government is committed to continue to support businesses and workers WHO are facing unprecedented challenges in the context of the pandemic.
+Our government is committed to continue to support businesses and workers who are facing unprecedented challenges in the context of the pandemic.
 Thank you.
 Now we're ready to take questions.
 
@@ -305,13 +302,13 @@ So as we've always said modelling is for planning purposes and not there to accu
 and every single day we relook at those projections, they will change depending on the actual cases reported.
 So as I said several days ago, the 24 hours following that, those projections will already have changed.
 So I think that is some of the difficulty if you're trying to communicate where we're at. It is in a similar range of the severity.
-and it is a reflection of the population that is most impacted right now in many areas of the country and those are the seniors and those WHO are in long-term care homes.
+and it is a reflection of the population that is most impacted right now in many areas of the country and those are the seniors and those who are in long-term care homes.
 So absolutely this is a reflection I think of the actualepidemiology  this illness in Canada.
 So I think every jurisdiction must do the utmost to enhance infection prevention control in all of those settings, so that'sabsolutely critical.
 I think any model is going to tell you that -- what we're doing right now is going to change the trajectory.
 Those models are very sensitive to what we do today in terms of projecting into the short or further down the road.
 So, you know, I think everythingmust  done to change the course.
-and it is up to everyone WHO is responding to help do that.
+and it is up to everyone who is responding to help do that.
 
 
 
@@ -381,8 +378,7 @@ FOLLOW-UP?
 
 
 **Reporter**:
-is there anything more that can be done in terms of providing greater supplies to personal protective equipment and also thinking about the federal government's role in testing as some provinces, namely Ontario, are having a difficult time meeting the goals they put out for testing and the importance that will come into play, so for PPE.
-and testing, the federal role?
+is there anything more that can be done in terms of providing greater supplies to personal protective equipment and also thinking about the federal government's role in testing as some provinces, namely Ontario, are having a difficult time meeting the goals they put out for testing and the importance that will come into play, so for P.P.E.. and testing, the federal role?
 
 
 
@@ -403,9 +399,9 @@ So contact-tracing is pretty much an everyday job for local and provincial publi
 So they are thinking this through.
 One area we stressed we need to make sure that enough capacity to contact-tracing.
 and we have offered that support.
-There is a number of volunteers and people WHO signed through a portal in terms of people WHO can help.
+There is a number of volunteers and people who signed through a portal in terms of people who can help.
 So provinces can draw on those rosters in terms of support for contact-tracing.
-But the numbers are up to individual, even the health authority at the local level, tofigure out how  they need and to let US know if they need anything else, but I know that the whole public health system knows that contact-tracing is going to be very important as welook towards that next 
+But the numbers are up to individual, even the health authority at the local level, tofigure out how  they need and to let us know if they need anything else, but I know that the whole public health system knows that contact-tracing is going to be very important as welook towards that next 
 
 
 
@@ -439,7 +435,7 @@ I'm not sure if it's for patty hajdu.
  not sure.
 We know the union sounded the alarm a week ago when there was 38 cases, now there is 484.
 Somebody dropped the ball.
-WHO is going to make sure these places are safe to work in?and WHO can tell US if the meat packed in these COVID-19-filled plants is safe to eat?
+Who is going to make sure these places are safe to work in?and who can tell us if the meat packed in these COVID-19-filled plants is safe to eat?
 
 
 
@@ -469,7 +465,7 @@ Of course, we provide the guidance that I think the implementation is never as e
 **Rosemary**:
 We're going to pull away from the federal briefing.
 If you want to continue watching, go to our website.
-I'll bring in David  to help US wrap that up. I will say, I take little glimmers of optimism where I can get them and Dr. Tam did say  prevented an explosive outbreak in Canada as we've seen in other parts of the world".as we get to maybe the second phase of this, whatever that might bring, that is encouragingnews.
+I'll bring in David  to help us wrap that up. I will say, I take little glimmers of optimism where I can get them and Dr. Tam did say  prevented an explosive outbreak in Canada as we've seen in other parts of the world".as we get to maybe the second phase of this, whatever that might bring, that is encouragingnews.
  to you on what you wanted to talk about.
 
 
@@ -477,14 +473,12 @@ I'll bring in David  to help US wrap that up. I will say, I take little glimmers
 **Reporter**:
 I think we're getting more clarity on the questions that were ran by Andrew  the conservative leader, but planes coming back from china empty.
 and gotten a statement from the Minister of public services and procurement on what happened.
-Two planes did come back from shanghai without their lead of PPE.
-Gear they were sent to get.
+Two planes did come back from shanghai without their lead of P.P.E.. Gear they were sent to get.
 One was a federal government run.
 One was undisclosed provincial government run.
 We don't know which provincial government this was.
 What happened they were caught up in congestion on the ground.
 The planes were able to get in, but the trucks carrying the supplies couldn't get from the warehouse to the tarmac to load things on in the landing and takeoff window given to these Canadians planes.
-I should point out that four planes did arrive over the weekend, carrying full loads of PPE.
-This is an ongoing problem at this airport because essentially every country in the world is looking for the same thing coming out of the same country.
+I should point out that four planes did arrive over the weekend, carrying full loads of P.P.E.. This is an ongoing problem at this  because essentiallyevery country in the world is looking for the same thing coming out of the same country.
 a lot relying on the same airport.
 I heard there was backlogs of trucks trying to get in the airport more than 20 hours long.

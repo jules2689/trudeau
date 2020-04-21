@@ -15,7 +15,7 @@ She was answering the call of duty, something she had done every day when she we
 This happened in small towns, Portapique,     people have deep roots, places where people know their neighbours and look out for everyone.
 There everyone knows a mountie  they're everything from social workers to teen counsellors.
 Now these communities are in mourning and Canada is in mourning with them.
-To the grandparents WHO lost a child, to the children WHO lost a parent, to the neighbour WHO lost a friend, we are so sorry for your loss.
+To the grandparents who lost a child, to the children who lost a parent, to the neighbour who lost a friend, we are so sorry for your loss.
 Such a tragedy should have neveroccurred.
  of any kind has no place in Canada.
 We stand with you and we grieve with you and you can count on our government's full support during this incredibly painful time.
@@ -31,9 +31,9 @@ We share in your mourning and westand with you and mourn with you as you go thro
 
 [end of  I want to wish a full and speedy recovery to all those injured, including another RCMP officer.
 Canada is a vast and sweeping country, filled with long stretches of lonely roads.
-With unwavering courage and compassion, our royal canadian mounted police patrol  roads to keep US safe, as they have for over 100 years.
-I know from coast to coast to coast, the women and men WHO wear the red surge in service tocanada are grieving deeply  loss of one of their own and one of our best.
-This tragedy is a painful reminder of the risks all of ourfirst responders take to   of the sacrifices  mayevery single day to  our communities, paramedics, doctors, nurses, firefighters, and police officers, they're always here for US They've been stepping up throughthe pandemic, and yesterday  Nova Scotia they showed that bravery.
+With unwavering courage and compassion, our royal canadian mounted police patrol  roads to keep us safe, as they have for over 100 years.
+I know from coast to coast to coast, the women and men who wear the red surge in service tocanada are grieving deeply  loss of one of their own and one of our best.
+This tragedy is a painful reminder of the risks all of ourfirst responders take to   of the sacrifices  mayevery single day to  our communities, paramedics, doctors, nurses, firefighters, and police officers, they're always here for us. They've been stepping up throughthe pandemic, and yesterday  Nova Scotia they showed that bravery.
 I want to take a moment to thankthem all for the  their courage.
 Many  you are already working overtime because of this pandemic.
 Our communities need you now more than ever.
@@ -53,21 +53,21 @@ On behalf of all Canadians, thank you for everything you're doing.
 [end of translation] this day ismade all the more difficult because  the precious lives lost and the senseless act of one person.
 Just how could this happen?we may never know why.
 But we do know this.
-Know one man's action can build a wall between US and a better day, no matter how evil, how thoughtless, or how destructive.
+Know one man's action can build a wall between us and a better day, no matter how evil, how thoughtless, or how destructive.
 Canadians are kind and generous.
 We are there for each other and we look out for one another.
-As families grieve the loss of aloved one, all Canadians are standing with  The pandemic will prevent US from mourning together in person, but a vigil will be heldvirtually to celebrate the livesof the victims  7:00 p. M. on  through the facebook group account -- "colchester  our community."it's  we come  to support our communities.
+As families grieve the loss of aloved one, all Canadians are standing with  The pandemic will prevent us from mourning together in person, but a vigil will be heldvirtually to celebrate the livesof the victims  7:00 p. M. on  through the facebook group account -- "colchester  our community."it's  we come  to support our communities.
 I've spoken with premier mcneil, RCMP commissioner lufti and manyother nova Scotians.
  know that  have  This is an ongoing investigation, but the RCMP and local authorities will keep you updated.
 I want to ask the media to avoidmentioning the name and showing the picture of  person involved.
 Do not give him the gift of infamy.
-Let US instead focus all our attention on the lives we lost and the families and friends whogrieve.
+Let us instead focus all our attention on the lives we lost and the families and friends whogrieve.
 
 [speaking french] 
 
-[voice of interpreter] while the pandemic  prevent US from gathering and mourning together, a virtualvigil will be held on friday at 7:00 p. M.  the facebook group colchester  our community.
+[voice of interpreter] while the pandemic  prevent us from gathering and mourning together, a virtualvigil will be held on friday at 7:00 p. M.  the facebook group colchester  our community.
 It will be  opportunity  support the lives of these victims and be there for their families and their loved ones.
-I hope many of you will join with US on this occasion.
+I hope many of you will join with us on this occasion.
 As we seek to understand what happened yesterday, we must be there for each other.
 Since this tragedy I've had discussions with premier mcneil, the RCMP commissioner brenda lucki, the Minister of  safety bill blair,   Scotia caucus, among other people.
 We  continue to work together on this issue.

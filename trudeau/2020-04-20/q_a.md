@@ -29,7 +29,7 @@ I was wondering if we could have an accounting of all of the ways that the oppos
 
 **Answer**:
 As I said, we have been engaged with all parties over the course of the pandemic.
-There have been many good ideas brought forward by business leaders, community groups, individual Canadians, but also by MP's from their communities about what is needed to help.
+There have been many good ideas brought forward by business leaders, community groups, individual Canadians, but also by M.P.s from their communities about what is needed to help.
 We are trying to make sure we are giving Canadians the help they need to get through this difficult time and we will continue to do that.
 
 
@@ -52,7 +52,7 @@ I think one of the things we've seen right across the country is how Canadians h
 We make sure we're there for each other when we encounter.
 We've seen Canadians step up for each other.
 The privilege of being able to serve Canadians through this difficult time is really quite something when you see just how Canadians are resolute in their desire to support each other through this.
-Obviously the capacity to work across all orders of government, work together as a country, is what is keeping US on a good path through this.
+Obviously the capacity to work across all orders of government, work together as a country, is what is keeping us on a good path through this.
 There are too many tragedies to name going on as people lose loved ones right across the country, but at the same time we know that what we are doing is helping prevent further tragedies.
 We're going to continue to do that.
 
@@ -63,13 +63,13 @@ ON A FOLLOW-UP, KATE.
 ---
 
 **Question**:
-How would you say -- how would you describe your strategy?what has it been in terms of inside the p. M.o. Office to getting US through these tough times and how would you say -- how would you assess your own performance on that?
+How would you say -- how would you describe your strategy?what has it been in terms of inside the p. M.o. Office to getting us through these tough times and how would you say -- how would you assess your own performance on that?
 
 
 
 **Answer**:
 Our focus every step of the way has been listening to the best advice from experts and scientists on what we need to do to keep Canadians safe in this and to ensure that everything we're doing is giving Canadians the comfort and confidence that we're all in this together and that we are going to be there for each.
-I think that is key to making sure people are able to self-isolate and are able to take the difficult measures necessary to get US through thispandemic,  know as a country, as systems, and as government, we're there for each other and making sure that Canadians have support and know that we will get through this together, that has been key in getting through this together.
+I think that is key to making sure people are able to self-isolate and are able to take the difficult measures necessary to get us through thispandemic,  know as a country, as systems, and as government, we're there for each other and making sure that Canadians have support and know that we will get through this together, that has been key in getting through this together.
 
 
 
@@ -169,12 +169,12 @@ Would you return of relaxing some physical distancing measures to allow the peop
 
 
 **Answer**:
-I think that's a reflection that communities, that the province, and that all of US are going to have to have.
+I think that's a reflection that communities, that the province, and that all of us are going to have to have.
 We understand how incredibly painful it is for families who've lost loved ones in Nova Scotia this past day to imagine that they're not going to be able to see them off together as a community.
-But at the same time, there are thousands and thousands of Canadians across the country who've lost loved ones to COVID-19 over the past days and others WHO lost family members to cancer and to other causes WHO haven't been able to gather, to mourn, to grieve, to attend funerals.
+But at the same time, there are thousands and thousands of Canadians across the country who've lost loved ones to COVID-19 over the past days and others who lost family members to cancer and to other causes who haven't been able to gather, to mourn, to grieve, to attend funerals.
 This is something that we are dealing with right now that is heart break on top of other heart breaks.
-and I know that everyone will be looking for ways to demonstrate their solidarity without putting further at risk communities, first  our health professionals, and our seniors.[speaking french] [voice of interpreter] I recognize that there are people WHO have lost loved ones in this past day or so in Nova Scotia.
-There are also people WHO have lost family members and friends or parents in the recent weeks because of COVID-19.  have been unable to come together for funerals or to mourn together.
+and I know that everyone will be looking for ways to demonstrate their solidarity without putting further at risk communities, first  our health professionals, and our seniors.[speaking french] [voice of interpreter] I recognize that there are people who have lost loved ones in this past day or so in Nova Scotia.
+There are also people who have lost family members and friends or parents in the recent weeks because of COVID-19.  have been unable to come together for funerals or to mourn together.
 This is a difficult situation made even worse in times of lossand  But we must continue to try to be there for each other in thesetragic  and ensure that we are not creating greater risk for our loved ones, our neighbours, our first responders,  healthcare workers.
 We need to do everything we can to keep people safe and healthy, even in the midst of this tragedy and pandemic.[end of translation].
 
@@ -198,7 +198,7 @@ What did you think when you learned about the degree of planning in this terribl
 
 **Answer**:
 I think as we learn more about this we'll have to ask ourselves many questions about how it happened and what we can do to keep communities safe in the future.
-My first thoughts when I heard of this tragedy yesterday and saw the numbers climb in terms of victims, My first thought was for nova  WHO for the most part know each other so much.
+My first thoughts when I heard of this tragedy yesterday and saw the numbers climb in terms of victims, My first thought was for nova  who for the most part know each other so much.
 They are such a connected group that I know the vast majority of nova Scotians will have a direct link with one or more of the many victims.
 The entire province and the entire country is grieving right now as we come to grips with something that is absolutely unimaginable.
 
@@ -258,7 +258,7 @@ Now, will you be participating in that ceremony and could you introduce your gun
 Yes, I intend to participate in the virtual vigil as much as possible.
 We will most certainly be listening very carefully to  are saying with respect to more gun control.
 So we will look at what the options are when it comes to introduce that bill when the appropriate time is with us.[end of translation] I have every intention of participatingin  vigils.
-I know that many Canadians will want to express their solidaritywith  in Nova Scotia WHO are grieving.
+I know that many Canadians will want to express their solidaritywith  in Nova Scotia who are grieving.
 I am very much open to moving forward with our gun control legislation.
 I think there is always going to be questions of when is the right moment to do that.
 We are in the middle of a different crisis right now, but with parliament returning in some fashion over the coming weeks, I think we will look at opportunities to do just that.[end of translation].

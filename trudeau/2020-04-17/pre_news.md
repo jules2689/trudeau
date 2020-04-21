@@ -1,6 +1,6 @@
 
 
-I'm rosemary  Thank you for joining US on  CBC news network, or streaming around the world.
+I'm rosemary  Thank you for joining us on  CBC news network, or streaming around the world.
 We are, as we do at this time of day, standing by to hear from Prime Minister Justin  He is expected today to respond to some of the urgent appeals to support various industries across Canada.
 For weeks, as his government has been rolling out emergency aid for Canadian businesses and workers.
 The Prime Minister has also been promising second -- sect oral help by certain industries that have been hit particularly hard by the COVID-19 shutdown.
@@ -24,7 +24,7 @@ I don't know to what degree.
 The second big ask, particularly from industry, is around liquidity for producers that have had to shelve capital projects, for example, or are trying to keep employees on the payroll.
 There is the wage subsidy that they can access, but they also asked for help with liquidity.
 It will be interesting to see that part of the announcement.
-There are indications so far that there this won't necessarily be, you know, a big package targeted specifically at the oil sector, that there is also an announcement coming from the Prime Minister that would be aimed at helping people WHO the CERB or the  business loan have missed and we have certainly heard from a lot of those people.
+There are indications so far that there this won't necessarily be, you know, a big package targeted specifically at the oil sector, that there is also an announcement coming from the Prime Minister that would be aimed at helping people who the CERB or the  business loan have missed and we have certainly heard from a lot of those people.
 Think of some musicians, for example, or others in the culture sector.
 That kind of thing.
 I'm going to be looking to see what announcement that involves but there are people looking for sector-specific help and to what degree will this announcement address that.
@@ -57,7 +57,7 @@ and one of the things that the government has said is that the first priority wa
 Ab don't know if that includes even the airline industry, which, as we know, is what's happening to the wage subsidy benefit, which is not working yet, up and running yet.
 But maybe they also are looking for some substantive money.
 I'm going to -- I'll come back to both of you.
-While we wait to hear more from the Prime Minister about these details of various industries, Vassy talked a little bit there about what could happen in doing to help Alberta a. Let US go to Alberta to talk about what they are asking for because we know that the economy has been hit very hard.
+While we wait to hear more from the Prime Minister about these details of various industries, Vassy talked a little bit there about what could happen in doing to help Alberta a. Let us go to Alberta to talk about what they are asking for because we know that the economy has been hit very hard.
 Not only by oil prices, but also the pandemic.
 a double whammy in that part of the country.
 and Jason kenned has said that it's possible that employment there -- the unemployment rate hits 25%, which would be just astounding.
@@ -175,18 +175,18 @@ and how this might be different given that there are particular areas, of course
 
 **Vassy**:
 Yeah.
-I think we've seen the unveiling and rolling out of two giant financial aid packages, right?the first being directed at individuals WHO have to stay home because of COVID-19, WHO can't work, and WHO have lost most, if not all of their income.
+I think we've seen the unveiling and rolling out of two giant financial aid packages, right?the first being directed at individuals who have to stay home because of COVID-19,  can't work, and who have lost most, if not all of their income.
 They're getting right now $2, 000 and, as you reminded our viewers yesterday, they should be re-applying for the second month, which they might need that money.
 That was the first step.
 The second step was aimed at businesses.
 and it involves wage subsidies as well as this loan, this canadian emergency  account.
 Basically a $40, 000 interest-free loan, a quarter of it can be forgiven.
-They expanded the parameters yesterday to WHO can qualify for that loan.
+They expanded the parameters yesterday to who can qualify for that loan.
 I I think they had 220, 000 applications approved so far.$8.8 billion worth of credit.
 So, the need is clear and it's evidents.
 However,  you've been discussing with carolyn and  last guest, there are certain sectors and the Prime Minister always -- I've noticed names in tandem.
 Airlines, tourism and the I'll patch.-- oil patch.
-Those are clearly what the government has indicated and what we can discern from what we see in front of US as sectors, industries that are particularly hard hit.
+Those are clearly what the government has indicated and what we can discern from what we see in front of us as sectors, industries that are particularly hard hit.
 They're sort of suffering from double or triple whammies.
 So, you know, what we're looking towards here from the Prime Minister is beyond an acknowledgment that that is the case.
 Some specifics about how the government plans to address the more acute needs in those industries.
@@ -203,7 +203,7 @@ If there are particularly hard-hit areas, it is probably easier and faster for t
 So  would expect some of that to be addressed here today as well.
 I'll turn to shalima shivji.
   Minister is running a few minutes late.
-There are ongoing conversation around the Canada-US border.
+There are ongoing conversation around the Canada-United States border.
 We know that that suspension, the prevention to travel across the border except for essential workers, is set to expire next week.
 
 
@@ -212,13 +212,13 @@ We know that that suspension, the prevention to travel across the border except 
 That's right.
 and there are discussions whether that would be extended or not.
 Those discussions are still ongoing, that obviously this situation, we're still in the midst of it in terms of this crisis and the health effects of this.
-So t limited movement, of course, limited to only essential supplies, essential businesses across the Canada-US border set to -- there was always a deadline for it as most of these things and, of course, we're hearing that there are talks to extend that as we're still going through this and as we're still seeing effects and cases rising.
+So t limited movement, of course, limited to only essential supplies, essential businesses across the Canada-United States border set to -- there was always a deadline for it as most of these things and, of course, we're hearing that there are talks to extend that as we're still going through this and as we're still seeing effects and cases rising.
 We're hearing that is still an ongoing discussion and working on that with officials down in the United States.
 
 
 
 **Rosemary**:
-and there had been concern after the president said earlier this week that the Canada-US border would be one of fastest to re-open and some interpretation that it was about to re-open.
+and there had been concern after the president said earlier this week that the Canada-United States border would be one of fastest to re-open and some interpretation that it was about to re-open.
 That is not the case from the deputy Prime Minister that there will likely be an extension but they haven't actually reached that deal yet.
 That would be important, you're right.
 Because the containment of the virus and seeing how Canada is doing at a time like this versus the United States, probably the last thing that anyone would want is open borders and start to see travel move again.
@@ -234,12 +234,12 @@ As of now, there is no deal on, that either.
 and andrew scheer has   very hard to see in-person sitings.
 He is asking  four times a week.
 Doesn't sound like that is acceptable to the government.
-and it doesn't even sound like other partis are interested in  in and having MPs here in a  capacity for that many days of week.
+and it doesn't even sound like other partis are interested in  in and having M.P.s here in a reduced capacity for that many days of week.
 But it is something that conservatives continue to push.
 and for now, there is no deal.
-and if they don't get a deal by monday, which I imagine  will, we would be in a place where the house of commons would have to resume.
+and if they don't get a deal by monday, which I  they will, we would be in a place where the house of commons would have to resume.
 Which obviously would fly in the face of public health directives.
-Another issue to keep your eye on. and I will bring in Vassy because there is  two-minute warning.
+Another issue to keep your eye on. and I will bring in Vassy because there is another two-minute warning.
 I don't know if I can do that much on My own.[laughter]maybe we'll just pick up on that issue that the conservatives are pushing very hard for increased accountability and increased questions to the government, which, you know, I totally get.
 But I'm not sure that we are -- it doesn't sound like we're anywhere near close on a deal in terms of everyone agreeing that one or two or three times a week will actually happen.
 

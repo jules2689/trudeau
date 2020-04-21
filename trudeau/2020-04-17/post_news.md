@@ -13,7 +13,7 @@ Oil and gas is probably what youwant  talk about.
 
 **Reporter**:
 I will, if you don't mind, rosier zero in on oil and gas.
-Because as we had discussed prior to this, there's heightened need for help in  especially for workers who have been laid off with the double whammy of COVID-19 and its consequences and then also price war that emerged between Saudi Arabia and  The announcement from the Prime Minister today somewhat anticipated and geared towards cleaning up what are known as orphan wells in both Alberta  I think that BC as well.$1.7 billion  towardsthat, that the  saysthat will help to maintain 5, 200 jobs.
+Because as we had discussed prior to this, there's heightened need for help in  especially for workers who have been laid off with the double whammy of COVID-19 and its consequences and then also price war that emerged between Saudi Arabia and  The announcement from the Prime Minister today somewhat anticipated and geared towards cleaning up what are known as orphan wells in both Alberta  I think that British Columbia as well.$1.7 billion  towardsthat, that the  saysthat will help to maintain 5, 200 jobs.
 and they have  emissionreduction fund and combiningthat and that  gospecifically towardsnewfoundland and  butcombining that with  wellsannouncement, that  ormaintains is the word  theyused about 10, 000 jobs.
 On the orphan wells  toexplain -- basically this is a big problem in Alberta.
 and it has actually  fordecades.
@@ -43,8 +43,8 @@ This is the deputy Prime Minister.
 
 **The Hon.
 ChyrstiaFREELAND**:
-(voice   Bains who is joining US remotely as well.
-Also with US is the deputy chief public health officer,[speaking french](voice of translator):dr. Howard njoo is with US andready to answer  questions.[end of translation]dr. Tam, please.
+(voice   Bains who is joining us remotely as well.
+Also with us is the deputy chief public health officer,[speaking french](voice of translator):dr. Howard njoo is with  andready to answer  questions.[end of translation]dr. Tam, please.
 
 
 
@@ -71,7 +71,7 @@ Bill Morneau:WELL, THANK YOU VERY MUCH,CHRYSTIA.IT'S GOOD TO BE HERE, EVENREMOTE
 
 
 **Rosemary**:
-That is our daily briefing here on  If you want to continue watching go to  Ca or continue watching US on CBC news network.
+That is our daily briefing here on  If you want to continue watching go to  Ca or continue watching us on CBC news network.
 We will be back here most  I'm rosemary  Thank you for watching.(♪♪♪)
 
 
@@ -94,7 +94,7 @@ We have importantly a programmewhere  going to providesupport  Alberta and insas
 and abandoned oil wells.
 So we'll be putting this fundingforth  the oil wellsassociation  Alberta andtogether  the government inalberta and Saskatchewan andbritish    so that we cancreate  and also dealwith  environmental problem.
 We're also moving forward onproviding $750  in loansto  -- Alberta andsaskatchewan and newfoundlandand  --  reduce theirmethane  So it's going to create jobs.
-At the same time it allows US toreduce  environmentalsituation.
+At the same time it allows us toreduce  environmentalsituation.
  we're trying to make surethat  putting moneysomewhere  it will have thebiggest  both today andover  long term.
 Finally, what we know is soimportant  -- especially tofirms  the energy sector -- isthey  access to credit.
 So we're very pleased today totalk  credit on acommercial  for mid-sizedfirms in  energy sector tohelp them  bridge through areally difficult  and to be able to support their business, but also to support theiremployees.
@@ -128,12 +128,12 @@ We'llnow go to Stephen
 
 
 **(Voice of Translator)**:
-I'dlike to ask you what are you doing during  the news, watching amovie,  a good book?looking at a virtual exhibit?[end of translation]our favourite athletes whoinspire US to get involved  french](voice of translator): thegovernment is very proud toprovide assistance to  We stand behind  WHO areusing  passion and theirwork to liven  lives.[end of translation]$100  to establish acovid-19 emergency support fundfor cultural, heritage andsports orginisations.[speaking  of translator):  will provide$500   orginisations in culture, heritage andsupport.[end  translation]the targeted measure willprovide  support thatis consistent  the existingcovid-19 support members forwage and  costs fororginisations.
+I'dlike to ask you what are you doing during  the news, watching amovie,  a good book?looking at a virtual exhibit?[end of translation]our favourite athletes whoinspire us to get involved  french](voice of translator): thegovernment is very proud toprovide assistance to  We stand behind  who areusing  passion and theirwork to liven  lives.[end of translation]$100  to establish acovid-19 emergency support fundfor cultural, heritage andsports orginisations.[speaking  of translator):  will provide$500   orginisations in culture, heritage andsupport.[end  translation]the targeted measure willprovide  support thatis consistent  the existingcovid-19 support members forwage and  costs fororginisations.
  will be administered  heritage with  of many partners  asthe Canada council for  arts.[speaking french](voice  translator):Minister guilbeault.
 We'll be  with the sectorto fine-tune this aid.
 We are doing our utmost  to your concerns, yourmost pressing  to ensure your survival, stability, and to let Canadians  to have access  cultural contentand sports, which are the bestin the world.[end of translation]Canada day this year will behosted virtually.[speaking  of translator):Minister guilbeault.
 Together  a virtualenvironment, we will celebrateour strength and resilience as well  our values at canadaday.
-Our creators and  areproviding US with a number ofexamples  inspiration andsolidarity.[end of translation]we are reminded each day howfortunate  are to have suchtalent  in Canada.
+Our creators and  areproviding us with a number ofexamples  inspiration andsolidarity.[end of translation]we are reminded each day howfortunate  are to have suchtalent  in Canada.
 Merci.
 
 
@@ -188,7 +188,7 @@ Our first question...  Please go ahead.
 
 **Question**:
 (voice  journalist.
-Mr.  can you give us more details on the assistance that you'll provide to the cultural and the  WHO will the money go to?how will it assist?go to the sports associations?to the athletes morespecifically?
+Mr.  can you give us more details on the assistance that you'll provide to the cultural and the  who will the money go to?how will it assist?go to the sports associations?to the athletes morespecifically?
 
 
 
@@ -202,7 +202,7 @@ Mr.  can you give us more details on the assistance that you'll provide to the c
 
 **Question**:
 (voice  follow-upquestion.
-Minister joly,  you tell US alittle  more about theannouncement  you've made.
+Minister joly,  you tell us alittle  more about theannouncement  you've made.
 You have talked aboutmunicipalities  various townsand  across the country.
 There are companies there, arethose  not eligible forthe   you'veannounced?and pwhat type  assistancewill you  offering.
 
@@ -222,7 +222,7 @@ OUR NEXT QUESTION [SpeakingFrench]TERESA WRIGHT WITH CANADIANPRESS.PLEASE GO AHE
 
 **Question**:
 Good morning.
-Dr. Tam, I'm wondering if you could tell US if there's any guidance for health workers and doctors on how ventilators should be rationed, if it comes to that.
+Dr. Tam, I'm wondering if you could tell us if there's any guidance for health workers and doctors on how ventilators should be rationed, if it comes to that.
 and if anyone is working on any such guidelines?
 
 
@@ -256,8 +256,8 @@ THANK YOU.MERCI.OUR NEXT QUESTION, [SpeakingFrench]PLEASE GO AHEAD.
 
 **Question**:
 (voice  journalist.
-I'm not sure WHO to put my question to, but anyone can answer it. It deals with soldiers being sent in to help out in quÉbec.
-In the "maclean's" article, doctor WHO served in the force stalked about some 2, 500 soldiers who are trained that could be available but there's a problem with respect to their qualifications in quÉbec and  is there some way to make an exception so that more than --these particular soldiers can be used to provide assistance?
+I'm not sure who to put my question to, but anyone can answer it. It deals with soldiers being sent in to help out in quÉbec.
+In the "maclean's" article, doctor who served in the force stalked about some 2, 500 soldiers who are trained that could be available but there's a problem with respect to their qualifications in quÉbec and  is there some way to make an exception so that more than --these particular soldiers can be used to provide assistance?
 
 
 
@@ -271,7 +271,7 @@ We identified 125 people and decision was made in conjunction with quÉbec.
 and these people will make  With respect to providing additional assistance, we continue to hold ongoing discussions with quÉbec.
 We are working with quÉbec to support the province.
 I'd also like to add that the prime Minister has stated that we will be working with the red cross and we'll also help inquÉbec.
-and then there are the volunteers WHO have registered, so we'll also be working with that list of people to identify those WHO can help.
+and then there are the volunteers who have registered, so we'll also be working with that list of people to identify those who can help.
 Thank you.
 
 
@@ -351,7 +351,7 @@ I THINK THAT THE MAJORITY OFTHE CASES AS I SAID ARE IN THEFOUR BIGGEST JURISDICT
 ---
 
 **Question**:
-and this is for --well, I'll ask and see WHO wants to answer.
+and this is for --well, I'll ask and see who wants to answer.
 Does this suggest that there's different approach that we could take to re-starting the country, depending what province we'redealing with?
 
 
@@ -481,4 +481,4 @@ Ok. As a follow-up, did you put a number on the --
 Ok. We'll pull away from the federal briefing today and leave you with the notion that the Prime Minister announced earlier, $1.7 billion to help clean up orphan wells in Alberta.
 More possible credit to come for oil and gas companies that have been hit by a double want my of COVID-19 and significant drop in oil prices.
 I'll leave it there for you today.
-Let US bring you now to Toronto where the premier of Ontario, Doug ford, is speaking.
+Let us bring you now to Toronto where the premier of Ontario, Doug ford, is speaking.

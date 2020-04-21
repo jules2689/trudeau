@@ -11,7 +11,7 @@ Thank you.
 
 **Question**:
 [speaking french] [voice of interpreter] good morning.
-I have a question about this agreement with respect to the closure of the US-canadian  We are concerned about not having enough medical equipment and medication.
+I have a question about this agreement with respect to the closure of the United States-canadian  We are concerned about not having enough medical equipment and medication.
 Do you believe that this agreement includes the same mechanisms in terms of timelinesor  you improved it?
 
 
@@ -36,7 +36,7 @@ Did you not think it would be a good idea to get some additional guarantees so t
 
 **Answer**:
 Yes, it is very important that we continue to receive essential protective equipment from around the world, including the United States.
-We were very pleased to be able to ensure the continuity of 3m shipments, but we will continue to work closely with the US administration so that we are sure to receive all the equipment we need.
+We were very pleased to be able to ensure the continuity of 3m shipments, but we will continue to work closely with the United States administration so that we are sure to receive all the equipment we need.
 
 ---
 
@@ -85,31 +85,31 @@ What's wrong with that?
 First of all, it's extremely important and has been important that every single day the Canadian public gets informed of measures we are putting forward.
 We are putting forward new measures almost every single day, and I think it is essential that the media continues to have access to asking questions to better inform and to ensure Canada is functioning the way it needs to be. Part of that job in our democracy is ensuring that there is accountability through our parliamentary systems.
 That is something that we are also very much focused on. We have proposed that the house of commons return in some fashion every single week, to permit engagement on accountability and also pass further measures to help Canadians.
-Right now we're in a situation where MP's across the country and their staff are wondering ifthey're going to have to get on planes tomorrow and fly to  Obviously that is not something from a public health standpoint we should want to see happening.
-Right now on the books the rule is parliament needs to re-open fully on monday.
- is obviously not a good idea, which is why we've proposed measures going forward that we're discussing with the other parties.
-We certainly hope we can come toan  so we all don't have to convene in the house of commons on monday  french] [voice of interpreter] we are still in discussions with the other parties.
-We have proposed that the house of commons sit every week to ensure that there is an opportunity to ask questions of the government and also to be able to pass other measures thatwill help Canadians.
-The reality is that monday morning 338  of parliament and the teams are supposed to be in ottawa.
-They  expected to be in ottawa then  that parliament can reconvene.
+Right now we're in a situation where M.P.s across the country and their staff are wondering ifthey're going to have to get on planes tomorrow and fly  ottawa.
+Obviously that is not something from a public health standpoint we should want to see happening.
+Right now on the books the rule is parliament needs to re-open fully on  That is obviously not a good idea, which is why we've proposed measures going forward that we're discussing with the other parties.
+We certainly hope we can come to an agreement so we all don't have to convene in the house of commons on Monday morning.[speaking french] [voice of interpreter] we are still in discussions with the other parties.
+We have proposed that the house of commons sit every week to ensure that there is an opportunity to ask questions of the government and also to be able to pass other measures thatwill  Canadians.
+The reality is that monday  338 members of parliament and the teams are supposed to be in ottawa.
+ are expected to be in ottawa  so that parliament can reconvene.
 Obviously that would not be a good idea in the current context.
-Now we have made proposals to ensure that we can get work doneand keep  democracy working and healthy, while also keeping people safe.
-and we really hope that the other parties will agree with these proposals because I do think it would be a terrible problem if we all had to return to parliament on monday.[end of 
+Now we have made proposals to ensure that we can get work doneand  our democracy working and healthy, while also keeping people safe.
+and we really hope that the other parties will agree with these proposals because I do think it would be a terrible problem if we all had to return to parliament on monday.[end  translation].
 
 ---
 
 **Question**:
-Many people on social distance programs are surviving on less than people WHO are getting the CERB.
+Many people on social distance programs are surviving on less than people who are getting the CERB.
 Many marginalized Canadians will simply never be able to access the CERB as it is structured.
 Rather than continue to tweak it, why not just make the CERB universal?
 
 
 
 **Answer**:
-We moved very quickly on replacing income for people WHO lost a paycheque because of COVID-19. These are families WHO were relying on that next paycheque to be able to pay for rent, to be able to pay for groceries, to be able to support their children and their parents.
+We moved very quickly on replacing income for people who lost a paycheque because of COVID-19. These are families who were relying on that next paycheque to be able to pay for rent, to be able to pay for groceries, to be able to support their children and their parents.
 This was the absolute priority that we needed to move forward quickly on. With the moves that we were able to make, over 7.5 million payments have been made already and there are obviously many more to come.
 At the same time, we recognize the particular vulnerability of marginalized communities of particular groups.
-That's why we have put forward significant measures to try to help them, whether it's through shelters and support for charities and charitable organizations, or extending measures so people WHO work a very small amount of hours a month can still receive the CERB.
+That's why we have put forward significant measures to try to help them, whether it's through shelters and support for charities and charitable organizations, or extending measures so people who work a very small amount of hours a month can still receive the CERB.
 These are kinds of things we're looking at, and we're continuing to move forward to get the help out to people we need to.
 
 
@@ -151,11 +151,11 @@ So do you now think that looping in the leaders could save valuable time and get
 
 **Answer**:
 We have been looping in leaders and opposition leaders from the very beginning.
-Indeed, the proposals on expanding, on filling gaps have come from MP's of all parties, including many, many liberal MP's WHO have been passing the message through.
+Indeed, the proposals on expanding, on filling gaps have come from M.P.s of all parties, including many, many liberal M.P.s who have been passing the message through.
 We know that Canadians are working together in unprecedented ways to fill gaps and to respond to these challenges.
 It is wonderful, quite frankly, to see so many suggestions coming forward.
 Many of them that make it into tweaks and improvements and changes to programs that are designed to help as many Canadians as possible.
-It is a great sign of collaboration and of solidarity, of Canadians working together on leaning on each other, on being there for each other, just like we're seeing outside the political world as well.
+It is a great sign of collaboration and of solidarity, of Canadians  together onleaning on each other, on being there for each other, just like we're seeing outside the political world as well.
 
 ---
 
@@ -179,7 +179,7 @@ That is something that we're going to have more to say on soon.
 
 **Question**:
 Ian wood CTV news.
-Prime Minister, BC has seen some success flattening the curve and has indicated it may look at loosening restrictions.
+Prime Minister, British Columbia has seen some success flattening the curve and has indicated it may look at loosening restrictions.
 You've said it is too soon and provinces like Ontario and quÉbec are still in the thick  Are you concerned the difference in messaging will enable people to disregard what is in place now?are you going to allow the provinces make the decision on re-opening or will the federal government need to give the green light?
 
 
@@ -205,7 +205,7 @@ The Canadian meat industry is saying it is facing a crisis as processing plants 
 
 **Answer**:
 I think ensuring the continued flow of groceries and our food supply chains is a priority, but so is arresting the spread of COVID-19. So is ensuring that workers in all industries across the country can remain safe.
-Getting that balance right requires US all to step up very carefully because we need to make sure that, yes, we are continuing the flow of great Canadian food to people.
+Getting that balance right requires us all to step up very carefully because we need to make sure that, yes, we are continuing the flow of great Canadian food to people.
 Indeed, we need to ensure that we have as much domestic food security and stability as we possibly can.
 That means taking advantage of the summer months coming up and the growing and the planting season now.
 At the same time, we have to make sure we are doing things that are keeping farmers, agricultural workers, producers, and transformers safe.
@@ -215,7 +215,7 @@ That is what we're very, very much attentive to now.
 
 **Question**:
 Ashley  CBC news.
-Harvard researchers have suggested that there needs to beat least 500, 000 tests being done a day in the US in order to safely reopen the economy.
+Harvard researchers have suggested that there needs to beat least 500, 000 tests being done a day in the United States in order to safely reopen the economy.
 What is the specific number of tests that Canada needs to hit daily to safely ease up restrictions here?
 
 
@@ -234,8 +234,8 @@ We know we have to do much more than we are now and we are tracking towards doin
 ---
 
 **Question**:
-Many of the cases in Canada have come from the US you said the border agreement is going to stay in place.
-If the US loosens restrictions in the next few weeks, what kind of health threat does that pose to Canadians?
+Many of the cases in Canada have come from the United States you said the border agreement is going to stay in place.
+If the United States loosens restrictions in the next few weeks, what kind of health threat does that pose to Canadians?
 
 
 
@@ -247,17 +247,17 @@ At every step of the way, we will do what is necessary to protect Canadians and 
 ---
 
 **Question**:
-Prime Minister, I'mwondering if you can tell US what the impact on Canada's stockpiles has been for PPE.
-When the government closed so many of its warehouses across the country.
+Prime Minister, I'mwondering if you can tell us what the impact on Canada's stockpiles has been for P.P.E.. When the government closed so many of its warehouses across the country.
 
 
 
 **Answer**:
-Over the past weeks we've been focused on  To the provinces, on delivering the necessary equipment to ensure that our front line workers WHO are putting their lives forward to keep Canadians safe are  The efforts continue.
+Over the past weeks we've been focused on deliveringP.P.E.. To the provinces, on delivering the necessary equipment to ensure that  frontline workers who are putting their lives forward to keep Canadians safe  properlyprotected.
+The efforts continue.
 I mentioned two plane loads coming in over this weekend.
 More coming in over the coming days.
-We are confident that we are in a good place around  and we'll only get more as more and more Canadian producers and suppliers come online.
-It has been something extraordinary to see, the level to which Canadian manufacturers have been stepping up to get involved.
+We are confident that we are in a good place around P.P.E.., and we'll only get more as more and more canadian producers and suppliers come online.
+It has been something extraordinary to see, the level  which canadian manufacturers have been stepping up to get involved.
 We are in a much better place than we were a number of weeks ago.
 Of course there is a need for continued vigilance and there will of course be many lessons learned on how Canada can be better prepared for any future outbreaks than we were this time.
 
@@ -273,7 +273,7 @@ Why are we extending the closureof  border with the United States?is it because 
 **Answer**:
 Well, we closed our borders to international travellers many weeks ago.
 That included people from every country in the world.
-We took a few days more to do that with the United States because we needed to ensure that this could be done in a coordinated manner that would allow US to keep our supply chains open.
+We took a few days more to do that with the United States because we needed to ensure that this could be done in a coordinated manner that would allow us to keep our supply chains open.
 We wanted to do it in cooperation with our closest partner and ally.
 So these measures were absolutely critical in order to protect Canadians and limit the spread of the virus.
 We will keep them in place in relation to the United States and all the other countries around the globe for many, many weeks to come.[end of translation] we made thedecision a number of weeks ago to close our borders to international travellers.
@@ -296,5 +296,5 @@ What is blocking the agreement?can you not put some water in your wine?
 Well, we are dealing with a situation where a number of members of the various parties agree that we should move forward with measures that will require or lead to a limited parliament every week, but there are also others that want a parliament to be sitting four or five days a week.
 I don't think that's the right thing to do. It's not the right balance.
 We are pursuing those discussions now.[end of translation] many parties, opposition parties, arein  that limited sittings every week are a good measure to both ensure accountability and continue the work that we're needing to do topass  for Canadians.
-We are of course looking forwardto  able to see more virtual parliamentary sittings that will allow MPs  all around the country, not just thenational  region, being able to party.
-There is still one party that wants more than I think is wise at this point in time in terms of a public safety approach and in ensuring we are getting that balance right in moving forward for protecting our institutions, but we're hopeful we will get toa  place soon.
+We are of course looking forwardto  able to see more virtual parliamentary sittings that will allow M.P.s from all around the country, not just the national capital region, being able to party.
+There is still one party that wants more than I think is wise at this point in time in terms of a public safety approach and in ensuring we are getting that balance right in moving forward for protecting our institutions, but we're hopeful we will get ta good place soon.

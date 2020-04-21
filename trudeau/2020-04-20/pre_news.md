@@ -1,7 +1,7 @@
 
 
 Ottawa.
-Thanks for being with US on CBC news, CBC news network, live streaming around the world on the CBC app and on CBC News.
+Thanks for being with us on CBC news, CBC news network, live streaming around the world on the CBC app and on CBC News.
 Ca. We are standing by to bring you the Prime Minister's briefing.
 This is not like another briefing.
 Nova Scotians are trying to come to terms with a mass shooting, gunman killing at least 16 people.
@@ -21,7 +21,7 @@ You mentioned the occupations of some of those people.
 Just devastating.
 People woke up in Nova Scotia wondered if this was a dream.
 is this going to be over.
-People are trying not to let this define them, saying they'regoing to help families WHO are feeling the pain and give them virtual hug.
+People are trying not to let this define them, saying they'regoing to help families who are feeling the pain and give them virtual hug.
 The RCMP have been scant with the details.
 They are still trying to piece together the crime scenes, and there are multiple crime scenes across Nova Scotia, which makes it complicated.
 There were house fires in  where Brett is, and we learned that three people died in that location.
@@ -31,7 +31,7 @@ We're learning more about the personalities and the people behind the deadly sta
 
 
 **Rosemary**:
-What do we know more about the second shooter, WHO is also dead.
+What do we know more about the second shooter, who is also dead.
 What more do we know about him or his interactions or connections to the community.
 
 
@@ -41,7 +41,7 @@ He's a mystery.
 People in his community of Portapique where he lived and  where he had a  people liked him.
 They felt he was a good community person.
 There is the other side of him that is being exposed.
-This is a guy WHO had a penchant for old police cars.
+This is a guy who had a penchant for old police cars.
 He used to buy them and fix  He had an RCMP car that was fake but he was driving it and he also had RCMP clothing.
 This all points to a premeditation.
 In terms of what motivated him and why he did this, that is unanswered.
@@ -60,17 +60,17 @@ Heidi Stevenson was a 23-year veteran of the RCMP.
 She was at one point the face of the RCMP in this province.
 She would do interviews for the RCMP.
 I know some people from the media know her and there has been some reaction coming in about how important she was in people's lives in this part of the province.
-We know three of the people WHO died in the fire in  one of those was a corrections officer.
+We know three of the people who died in the fire in  one of those was a corrections officer.
 That's a loss that that professional community is feeling as well.
-Two Victoria order nurses staff members, WHO were busy helping in the COVID-19 fight.
+Two Victoria order nurses staff members, who were busy helping in the COVID-19 fight.
 They died as well.
-and Lisa McCully WHO died and left behind a family.
+and Lisa McCully who died and left behind a family.
 
 
 
 **Rosemary**:
 Tom  thank you for that.
-Let me turn to Brett Ruskin WHO is in Portapique.
+Let me turn to Brett Ruskin who is in Portapique.
 It's a small community.
 How are people dealing with things today as they start to understand the magnitude of 
 
@@ -109,11 +109,11 @@ The latest I'm hearing is there will be a motion introduced by the liberals.
 and the nature of the tension I should just say is over how many times they should be meeting.
 The liberals are offering once a week in person and then some virtual, supplemental sessions.
 The n. D.p. and the bloc quÉbÉcois are supportive of thatin  forms.
-The conservatives are arguing for more in-person sessions withreduced MPs  My understanding is the liberalswill introduce a motion with that plan in plan, one that the rest of the parties agree to. It might take up most of the dayand then  will be some kindof vote  it. All of that is subject to change.
-As you've been reporting, rosie, it's  minute to minuteand hour  hour, and also set against the backdrop of everything you've been talking about.
+The conservatives are arguing for more in-person sessions withreduced M.P.s  My understanding is the liberalswill  a motion with that plan in plan, one that the rest of the parties agree to. It might take up most of the dayand  there will be some kindof  on it. All of that is subject to change.
+As you've been reporting, rosie,  fluctuated minute to minuteand  to hour, and also set against the backdrop of everything you've been talking about.
 Difficult to I guess see the sort of benefits of all this arguing right now.
-I think that -- expect some sortof agreement  most of theparties.
-I'm  sure this will continue much beyond that, but WHO knows.
+I think that -- expect some sortof  between most of theparties.
+ not sure this will continue much beyond that, but who knows.
 
 
 
@@ -138,9 +138,9 @@ Yves-franÇois blanchet  the conservatives of holding them hostage.
 While there's an obsession here about the numbers of sittings and the numbers of hours of question period, I think the country might be worried about other numbers, 35, 000 cases of COVID-19, and 16 deaths in Nova Scotia due to a shooting.
 In the times we're in, no funerals or wakes.
 This is a time when the Prime Minister and other dignitaries would travel to Nova Scotia to offer comfort in a time like this, and none of that is happening because of what's going on. It makes it difficult to argue that politics as much as you canneeds  continue in parliament with as many as three sittings a week.
-Andrew scheer  if MPs  go to a grocery store, they can come here.
+Andrew scheer  if M.P.s can go to a grocery store, they can come here.
 But what are we told about that, go once a week.
-and you don't need to get on a plane from vancouver  ottawa  buy your grocery.
+and you don't need to get on a plane from Vancouver to Ottawa to buy your grocery.
 It looks like the majority is going to get its way with the motion that is going to be presented and voted on.
 
 
@@ -162,8 +162,8 @@ There's evidence that that accountability has worked over the past month, right.
 There's lots of legislation that the government has introduced that has some holes that the opposition parties pointed out.
 They went back and got agreement.
 I think the disagreement is how that accountability should be  There are some saying they don'twant anything in person and they feel safe.
-Some are saying there should be more MP's than are there now.
-I think it's hard for people sitting at home watching the horror in Nova Scotia unfold, WHO are living the reality of COVID-19. There is a need for accountability.
+Some are saying there should be more M.P.s than are there now.
+I think it's hard for people sitting at home watching the horror in Nova Scotia unfold, who are living the reality  COVID-19. There is a need for accountability.
 I wouldn't disagree with that especially as a journalist.
 The contention from the conservatives is that the Prime Minister is answering questions every day, why isn't he in the house.
 He should be open to receiving those questions from the opposition.
@@ -172,8 +172,8 @@ There would be a few hours of accountability.
 There is a question mark over how this virtual thing would go, if it would be effective.
 We've seen examples of things right across the country of things not working.
 You would have thought much of this would have occurred in negotiations behind the scenes.
-Instead, we'll see this play out in the house of commons today.
-Maybe there will be an agreement and they will vote on it. Certainly not the first thing onpeople's minds right now.
+Instead, we'll see this  outin the house of commons today.
+Maybe there will be  agreementand they will vote on it. Certainly not the first thing onpeople's minds right now.
 
 
 
