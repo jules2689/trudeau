@@ -101,7 +101,7 @@ class CaptionParser
   
   def format_for_output(line)
     if line[:speaker] && line[:speaker].downcase.strip == "question"
-      "---\n\n#{line[:speaker]}:\n#{line[:msg]}\n"
+      "---\n\n**#{line[:speaker]}**:\n#{line[:msg]}\n"
     elsif line[:speaker] && line[:msg]
       "**#{line[:speaker]}**:\n#{line[:msg]}\n"
     elsif line[:msg]
