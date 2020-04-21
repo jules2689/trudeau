@@ -144,6 +144,11 @@ module Trudeau
       @text.gsub!(/\bchinaer\b/, "China")
       @text.gsub!(/\bhasso\b/, "has to")
       @text.gsub!(/\bandone\b/, "and one")
+      @text.gsub!(/\bcovidand\b/, "Covid and")
+      @text.gsub!(/\bbutit\b/, "but it")
+      @text.gsub!(/\btoad good\b/, "to a good")
+      @text.gsub!(/\bresurge ens\b/, "resurgence")
+      @text.gsub!(/\bnotionally\b/, "nationally")
     end
 
     def fix_acronyms_and_words
