@@ -13,8 +13,8 @@ require_relative 'caption_parser'
 require_relative 'playlist_parser'
 
 CLI::UI::StdoutRouter.enable
-TOKEN = ARGV[0]
-FORCE = ARGV[1] == "--force"
+TOKEN = File.exist?(File.expand_path("../.token", __FILE__)) ? File.read(File.expand_path("../.token", __FILE__)).strip : ARGV[0]
+FORCE = ARGV.any? { |a| a == "--force" }
 OUTPUT_PATH = File.expand_path("../trudeau/", __FILE__)
 FileUtils.mkdir_p(OUTPUT_PATH)
 

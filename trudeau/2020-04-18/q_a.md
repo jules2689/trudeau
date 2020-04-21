@@ -1,122 +1,144 @@
-**Operator**:
-The first questionis from radio-canada.
-
----
-
-**Question**:
-Hello, I have aquestion for minister duclos. Minister, we have extended theborder measures with the unitedstates. Have we obtained any guaranteesthat we will be able to receiveessential medical supplies fromthe united states without anyhiccups at the border or withoutany issues with the trumpadministration?
-
-**Answer**:
-Minister duclassociation. Os. Thank you for the question. As you have mentioned., ourrelationship with the unitedstates is very important in thiscontext and all contexts. In the current situation, ouru. S.-canada relations are veryimportant. We have conversations with ourpartners every single day. The border agreement that wereached a few weeks ago has beenextended for another 30 days. And we need to ensure thecontinued flow of essentialsupplies, food, medicines. Have we received a guarantee tothat effect?
-
-YES, AND WE ARECONFIDENT IN EXTENDING THIS DEALFOR ANOTHER 30 DAYS.AND, OF COURSE, WE HAVEDISCUSSIONS ABOUT OTHER TOPICSWITH A VIEW OF FLOWING SUPPLIESACROSS THE BORDER IN BOTHDIRECTIONS.OUR CANADA-U.S. RELATIONS AREVERY IMPORTANT AND ARE VERYPOSITIVE AND WE WORK VERY HARDTO MAINTAIN A GOOD, STRONGRELATIONSHIP.I WAS SAYING WHAT MOST CANADIANSUNDERSTAND IS THAT THERELATIONSHIP WITH OUR FRIEND ANDNEIGHBOUR IS NOT ONLY IMPORTANTIN ALL ASPECTS BUT ABSOLUTELYESSENTIAL IN THE CURRENTEMERGENCY CONTEXT.WE ARE PLEASED WITH THE FACTTHAT WE WERE ABLE TO RENEGOTIATETHE AGREEMENT THAT WE HADACHIEVED JUST A FEW WEEKS AGOFOR THE NEXT 30 DAYS, WHICHACHIEVES A NUMBER OF DIFFERENTOBJECTIVES, BUT ONE IS THEABSOLUTE NECESSITY TO KEEP THEMOVEMENT OF ESSENTIAL GOODS ANDSERVICES ACROSS THE FRONTEIRS INBOTH WAY.BECAUSE GOODS GO SOUTH, NORTHAND THOSE GOODS, MEDICAL, FOODAND OTHER THINGS ARE FOREIGNMAINTAIN THE SECURITY AND HEALTHOF CANADIANS.
-
----
-
-**Question**:
-I have a veryspecific question about personalprotective equipment at theborder. Have you received a guaranteesfrom the american governmentthat 3m and other americancompanies will be able to exportmedical supplies and protectiveequipment to canada?will we be able to import thesesupplies from americancompanies?have you received a guaranteefrom that effect from theamerican government?will we be able to receivemedical supplies and especiallypersonal protective equipment?
-
-**Answer**:
-Minister duclous. S.the word word is vigilant. These past few weeks, we haveobserved that essential goodsincluding medicine have beenable to flow across the bordervery well, but the motto isvigilance. Yes, we have a very goodrelationship with the americangovernment, but thisrelationship will continue to beput to the test over the nextfew weeks. We will remain vigilant toensure that our canada-u. S.relationship, which is currentlyvery strong, we will ensure thatit continues to remain strong inthe next few weeks. The essential discussion inaction that we have around thetransit of medical goods and ithink we first must admit thatthings are going quite well withefforts on both sides of thefrontier, meaning we havemedical goods in both directionsin the current crisis. This being said, we need to bevigilant because thatrelationship is going to betested for the rest of thecrisis. We have citizens on both sidesof the border that are anxious,that are in need of beingreassured and that's exactlywhat the responsibility of thefellow government is, is to notonly to provide the essentialflow of those medical goods butalso to reassure canadians thatwe will always be working in therelationship and movement ofthose goods.
-
-THANK YOU, MINISTER.NEXT QUESTION.
+THANK YOU, PRIME MINISTER.WE'LL NOW GO TO THE PHONE LINES FOR SOME QUESTIONS.JUST A REMINDER, IT'S ONE QUESTION, ONE FOLLOW UP.OPERATOR.
 
 **Operator**:
-Our next questionis from teresa wright. Please go ahead.
+Thank you.
 
 ---
 
 **Question**:
-Good morning,minister ducl association. Os. You said that the numbers aregiving us cause for causeanxious optimism and canadiansare starting to see numbers intheir provinces improving andthey're going to question whenwe can get to the new normal. So what can we tell them?
-
-FIRST TWO THINGS.AT THE BROAD LEVEL, YES, THEREIS CAUSE FOR CAUTIOUS OPTIMISMTHIS BEING SAID, WE NEED TO BEVERY MINDFUL THAT THESIGNIFICANT, CONSIDERABLE ANDDIFFICULT EFFORTS THAT CANADIANSHAVE BEEN MAKING OVER THE LASTFEW WEEKS NEED TO BE MAINTAINED.WE DON'T WANT TO LOSE WHAT WEHAVE GAINED.ALTHOUGH WE WANT TO BEOPTIMISTIC, WE NEED TO BECAUTIOUS AND MAINTAIN THE CLEARGUIDANCE OF HEALTH CANADA,PUBLIC HEALTH CANADA AND ALLPUBLIC HEALTH OFFICERS ACROSSCANADA.THE ABSOLUTELY GUIDANCE THAT WENEED TO MAINTAIN PHYSICALDISTANCING, WASH OUR HANDSREGULARLY, STAY AT HOME AS MUCHAS POSSIBLE AND AVOIDNONESSENTIAL TRAVEL.SO WE REALLY WANT TO KEEPMAINTAINING OUR EFFORTS BECAUSEIF WE DIDN'T DO THAT, WE WOULDEND UP LOSING ALL OF THE GAINTHAT WE HAVE ACQUIRED, THAT WEHAVE MADE OVER THE LAST FEWWEEKS.
-
----
-
-**Question**:
-Thank you. Minister miller, you mentionedthe regulatory changes that youmade with regards to firstnation elections allowing theleaders to continue in theirroles for up to six months, butthere are some indigenousleaders saying this should havecome sooner. Manitoba first nation is goingahead with an election, ibelieve today. How concerned are you abouttheir safety in this votingprocess and why didn't theseregulation changes happensooner?
-
-THANK YOU, TERESA AND INREGARD TO THE FIRST NATION THATIS GOING AHEAD WITH THISELECTION, WE'RE WORKING CLOSELYWITH THEM TO MAKE SURE THAT ITIS DONE OBSERVING THE STRICTESTHEALTH PROTOCOLS TO ENSURE THATEVERYONE STAYS SAFE.IT IS ULTIMATELY, AND IF YOURESPECT SELF-DETERMINATION, ISULTIMATELY THEIR DECISION TO GOAHEAD OR NOT.YOU CAN IMAGINE THE IMMENSESENSITIVITY AROUND ENACTING NEWREGULATIONS AROUND THE INDIANACT WHICH IS COLONIALISTINSTRUMENT AND AS WE MOVE BEYONDTHE INDIAN ACT, WE MUSTRECOGNISE THERE ARE CERTAINNATIONS THAT STILL OPERATE UNDERIT.IT GIVES THEM THE FLEXIBILITY TODO THAT.WHERE I, AS THE MINISTER OFINDIGENOUS SERVICES, DID NOTHAVE THAT ABILITY, IS ANIMMENSELY DELICATE OPERATION.IT MEANT SOME LEVEL OFCONSULTATION TO ENSURE THAT WEWERE GETTING IT RIGHT.WE MOVED AS QUICKLY AS WE CANAND KNOWING THE MACHINERY OFGOVERNMENT IN RESPECT OF ANENACTING REGULATIONS AND HOWSLOW THAT CAN BE, I'M PROUD ATHOW THEY MOVED AND THE RAPIDITYIN WHICH THEY WERE PUT IN PLACE.IT ALLOWS FOR DECISIONS TAKENPREVIOUSLY TO POSTPONE, TO BECONSIDERED VALID AND ENSURE THECONTINUITY OF GOVERNANCE.I WOULD NOT SAY THERE WAS AGOVERNANCE GAP CREATED UNDER THECURRENT CLAUSES OF THE INDIANACT.THERE WAS A GOVERNANCEINCONVENIENCE IN BAND MANAGERSTHAT MAY NOT WANT TO ASSUME THEPOWER AND THE UNCERTAINTY AROUNDWHAT LEADERSHIP TOOLS WOULD BEAVAILABLE TO ADDRESS COVID.THE FOCUS IS ON THE HEALTHRESPONSE AND THESE ARE OF ATEMPORARY RELATIONS.THEY EXPIRE AFTER A YEAR ANDSHOULD WE NEED TO REENACT THEM,WE WILL ASSESS AT THAT TIME, BUTTHEY HAVE NARROWLY TAILORED TOADDRESS A VERY IMPORTANT SET OFCIRCUMSTANCES, NAMELY TO ENSURETHAT THERE IS LEADERSHIP,CONTINUITY IN THE FACE OF AGLOBAL PANDEMIC ALLOWING FIRSTTWO NATIONS PURSUANT TO THEIRRIGHTS OF SELF-DETERMINATION.SO WE MUST RESPECT THOSECHOICES, BUT WE'LL BE WORKINGHAND IN HAND WITH COMMUNITIES TOENSURE THAT THOSE ELECTORALDECISIONS ARE TAKEN WITH THEMOST INFORMATION POSSIBLE AND INTHE STRICTEST OF RESPECT OF THECURRENT HEALTH PROTOCOLS.
-
-THANK YOU, MINISTER.NEXT QUESTION.
-
----
-
-**Question**:
-Our next question.
-
----
-
-**Question**:
-Mellow. I have questionsfor minister duclos. For a question about militarymedics being sent into long-termcare facilities in quebec as oftoday. The government hasn't given usmuch detail about where theywill go. They mentioned the st region. Could you tell us where thesemilitary medics are sent todayand how many are sent and towhich regions?
+[speaking french] [voice of interpreter] good morning. I have a question about this agreement with respect to the closure of the u. S.-canadian border. We are concerned about not having enough medical equipment and medication. Do you believe that this agreement includes the same mechanisms in terms of timelinesor have you improved it?
 
 **Answer**:
-Minister duclassociation. Os. Thank you for your question. I would like to thank actors inboth governments who have workedhard to make this happen very,very quickly. We all recognise the urgency ofthe situation the government ofquebec has a primaryresponsibility to handle thesituation, but the federalgovernment is also responsiblefor quickly stepping in to helpafter receiving the request thatwe received. 125 medically trained forceswill be deployed in quebec. The government of quebec willmanage their deployment. The government of quebec willidentify it's needs, where theneeds are on the ground and thegovernment of quebec will decidewhat responsibilities thesearmed force's members will have. We've heard it is satisfied withhow quickly we have stepped into make this happen. These individuals will be sentto facilities where needs arepressing. The government of quebec issatisfied and that said, thefederal government must continueto help in any way that it can,given the importance and urgencyof the situation.
+No, it's exactly the same mechanisms. We expect that essential goods and medical equipment and other items will continue to cross theborder between our two countries, and that's what we will continue to ensure.[end of translation] the agreement is the same terms, just extended for another 30 days. It will ensure that we continue to get essential goods and services back and forth across the border.
+
+[Speaking French] [Voice of Interpreter] FOLLOW UP.
+
+---
+
+**Question**:
+Yes. With respect to those masks thatwere supposed to be coming from 3m, we know that it was extremely complicated because ofthe directives announced by president trump. Did you not think it would be a good idea to get some additionalguarantees so that all those companies providing gowns and masks and so forth can continue to provide that equipment to canada, so that we don't have tocontinue to rely on china?
+
+**Answer**:
+Yes, it is very important that we continue to receive essential protective equipment from around the world,including the united states. We were very pleased to be able to ensure the continuity of 3m shipments, but we will continue to work closely with the u. S. administration so that we are sure to receive all the equipment we need.
+
+---
+
+**Question**:
+Thank you. Good morning, mr. Trudeau. Marc garneau announced that airline travellers will now haveto wear a mask that covers theirface. Now, is it possible that recommendation will be extended to other groups?
+
+**Answer**:
+Now, with respect to minister garneau's announcement,i should point out of course that we are currently prohibiting all non-essential travel. We do not want people to start travelling, whether they're wearing a mask or not. Of course it's better to wear a mask and -- but we still want people to stay home. We believe that this measure will help people in situations where physical distancing, like in a plane, is very difficult toachieve. Now, regarding the measures being put in place. Once we begin to relax the current restrictions, certainly that is still under discussion and we are having lengthy discussions with scientists as to what the best measures would be to ensure the protection of all canadians. We will have more to say about that as those discussions continue and that reality comes closer.
+
+---
+
+**Question**:
+Yes. As a follow-up, mr. Trudeau. With respect to the agreement between canada and the united states on the order, there was a problem with respectto an asylum seeker and that person was sent back. Now, has that condition been changed at all in the new agreement?
+
+**Answer**:
+No. It is the same agreement that has been renewed for the next 30days and we'll continue to ensure our values as a country are respected.[end of translation].
 
 **Operator**:
-Now a followupquestion.
+Next question, theresa wright from the canadianpress, your line is open.
 
 ---
 
 **Question**:
-I'm getting theimpression you don't know wherethe needs are dire and maybe youcan answer on minister freeland. There was a minister's call withthe provisional and territorialpremiers and remuneration ofessential workers was discussed. Had a deal been reached withprovinces regarding salarypop-ups for essential workexperts what decisions have beentaken and which workers willreceive these top-ups.
+The conservatives want increased sittings in the house of commons and they argue that the daily briefings done infront of the media could be donein the house of commons. What's wrong with that?
 
 **Answer**:
-We are starting torealize in quebec and everywherein canada that many essentialworkers are not sufficientlyremixer n e. R.a. T derick. Remunerated. Another element you mentioned isthat the government of quebecwants to help provinces andterritories and everyone wantsto help essential workers. As minister freeland said, thesetalks are going well. Everyone is on the same wavelength. Now it's a matter of finding theright ways to act, the rightways for the federal governmentto provide financial support andsalary pop-ups. There are jurisdictional issuesand the government of canada, ofcourse, wants to providesupport, but must do so in sucha way that they protect thejurisdictions.
+First of all, it's extremely important and has beenimportant that every single day the canadian public gets informed of measures we are putting forward. We are putting forward new measures almost every single day, and I think it is essentialthat the media continues to haveaccess to asking questions to better inform and to ensure canada is functioning the way itneeds to be. Part of that job in our democracy is ensuring that thereis accountability through our parliamentary systems. That is something that we are also very much focused on. We have proposed that the house of commons return in some fashion every single week, to permit engagement on accountability and also pass further measures to help canadians. Right now we're in a situation where m. P.s across the country and their staff are wondering ifthey're going to have to get on planes tomorrow and fly to ottawa. Obviously that is not something from a public health standpoint we should want to see happening. Right now on the books the rule is parliament needs to re-open fully on monday. That is obviously not a good idea, which is why we've proposed measures going forward that we're discussing with the other parties. We certainly hope we can come toan agreement so we all don't have to convene in the house of commons on monday morning.[speaking french] [voice of interpreter] we are still in discussions with the other parties. We have proposed that the house of commons sit every week to ensure that there is an opportunity to ask questions of the government and also to be able to pass other measures thatwill help canadians. The reality is that monday morning 338 members of parliament and the teams are supposed to be in ottawa. They are expected to be in ottawa then so that parliament can reconvene. Obviously that would not be a good idea in the current context. Now we have made proposals to ensure that we can get work doneand keep our democracy working and healthy, while also keeping people safe. And we really hope that the other parties will agree with these proposals because I do think it would be a terrible problem if we all had to return to parliament on monday.[end of translation].
 
 ---
 
 **Question**:
-B. C.'s success iscredited with good tracing andontario seems to be laggingbehind. Will the federal government stepin and mandate provinces toincrease testing and are youconcerned that provinces thatare lagging behind will pulldown those that have come ahead?
+Many people on social distance programs are surviving on less than people who are getting the cerb. Many marginalized canadians willsimply never be able to access the cerb as it is structured. Rather than continue to tweak it, why not just make the cerb universal?
 
-YOU ARE ABSOLUTELY CORRECT INDESCRIBING TESTING AND TRACINGAS BEING KEY AND ACTIONS IN THECOVID-19 PROCESS.WE ALSO UNDERSTAND THATDIFFERENT PROVINCES FACEDIFFERENT CIRCUMSTANCES.AND IN QUEBEC AND THE FEDERALGOVERNMENT IS ALWAYS NOT ONLYWILLING BUT MOST OFTEN ALWAYSABLE TO PROVIDE GUIDANCE THATMAY BE HELPFUL IN THE LOCALCIRCUMSTANCES AND PROVIDE ANYLOGISTICAL SUPPORT AND ANYPROCUREMENT SUPPORT WHEN ITCOMES TO MAKING EQUIPMENT ANDTESTING EQUIPMENT AVAILABLE TOPROVINCES AND TERRITORIES.SO WE WANT TO DO THIS AS MUCH ASIS NEEDED AND THAT'S WHAT WEWILL CONTINUE TO DO.
+**Answer**:
+We moved very quicklyon replacing income for people who lost a paycheque because of covid-19. These are families who were relying on that next paycheque to be able to pay for rent, to be able to pay for groceries, tobe able to support their children and their parents. This was the absolute priority that we needed to move forward quickly on. With the moves that we were ableto make, over 7. 5 million payments have been made already and there are obviously many more to come. At the same time, we recognize the particular vulnerability of marginalized communities of particular groups. That's why we have put forward significant measures to try to help them, whether it's through shelters and support for charities and charitable organizations, or extending measures so people who work a very small amount of hours a month can still receive the cerb. These are kinds of things we're looking at, and we're continuingto move forward to get the help out to people we need to.
 
----
-
-**Question**:
-With regard tothose that are on old-agesecurity or disability benefits,those that have a fixed income,what's being done for thosepeople who might be facingmounting costs with regard togroceries or transportation orcost of living on a fixed incomeand is there any talk with theprovinces about making sure thatcerb doesn't affect theirreceiving federal benefits?
-
-WELL, THAT'S MAKING ENDS NEATMEETIS A LARGE SOURCE OF ANXIETDPARTICULARLY LOWER INCOME ANDTHAT'S WHY WE ACTED VERY QUICKLYPUTTING INTO PLACE MEASURES THATTHE FEDERAL GOVERNMENT CERTAINLYNEVER IMPLEMENTED AND PROBABLYNEVER ENVISIONED, SUCH AS THECANADA EMERGENCY RESPONSEBENEFIT, BUT ALSO INCREASING THEGST TAX CREDIT, PROVIDINGSUPPORT TO FAMILIES WITHCHILDREN AND IN PARTICULAR,FAMILIES WITH LOWER NEXTSTHROUGH THE CHILD CANADABENEFIT.AS THE PRIME MINISTER KEEPSSAYING, WE ARE WORKING IN ANEMERGENCY SITUATION WHICHREQUIRES CONTINUING ACTIONS ANDCONTINUING FORMS OF SUPPORT.SO WE ARE GOING TO CONTINUE ASTHE PRIME MINISTER AGAIN SAID,CONTINUE BEING MINDFUL OF THEANXIETY AND THE DIFFICULTCIRCUMSTANCES WHICH THECANADIANS ARE GOING THROUGH, BUTALSO RENEWING AND DEVELOPING OURCONTINUING SUPPORT TO THOSECANADIANS.
-
----
-
-**Question**:
-I'm with cbc news. B.c. Is talking about, perhaps,easing up some of therestrictions next month is thenumber of hospitalizations andcases go down. At a federal level, what is thebar that we have to meet inorder to relax some of theamericas?cases?
-
-THANK YOU, THAT'S A VERY GOODQUESTION AND A VERY GOODQUESTION WHICH DR. TAM HADANSWERED REGULARLY OVER THE LASTFEW DAYS.AND I DON'T HAVE THE SAMEEXPERTISE AND, PERHAPS, THECREDIBILITY AS DR. TAM WOULDHAVE IN RESPONDING TO THATIMPORTANT QUESTION.BUT LET ME SUMMARIZE WHICH WOULDPROBABLY SAY, IT'S AROUND NOTONLY THE CURVE, BUT WHERE THECURVE MAY BE HEADING AND IT'SALSO AROUND THE CAPACITY OF THEHEALTH SYSTEM.IT'S ALSO ABOUT THE NUMBER OFDEATHS, THE NUMBER OF EMERGENCYINTENSIVE CARE UNITS THAT ARENEEDED AND IT'S ABOUT THEABILITY OF WORKERS TO BEPROTECTED IN THE ENVIRONMENTS INWHICH THEY WOULD HAVE TO WORK.IT'S ABOUT THE ABILITY OFSECURING ENOUGH EQUIPMENT UNDERDIFFERENT SCENARIOS.BUT SINCE WE HAVE DR. WONG ANDSINCE DR. WONG IS PROBABLY A LOTMORE CREDIBLE THAN I WOULD BE INTHAT AREA, PERHAPS DR. WONG, YOUWOULD LIKE TO ADD YOUR OWN VIEW?
-
-THANK YOU.A NUMBER OF FACTORS THAT WE ALLHAVE TO ACTUALLY LOOK AT, ASMINISTER DUCLOS HAD JUST SAID,WE HAVE TO LOOK AT NOT JUST THECURVE, WHERE IT'S GOING, BUTALSO WE HAVE TO LOOK AT THELOCAL AND THE COMMUNITY AND THEPROVISIONAL AND THE NATIONALPICTURE BECAUSE IT DEPENDS ONTHE INTERFACE BETWEEN DIFFERENTFACTORS.ALL OF THOSE REALLY DETERMINEHOW ONE, YOU WOULD CONSIDER,PERHAPS, EASING SOME MEASURES INONE SITUATION AND NOT EASINGSOME MEASURES IN OTHERSITUATIONS.THANK YOU.
-
----
-
-**Question**:
-I'm alsowondering, how many blue medmedical tents does thedepartment have ready to send tocommunities and when exactlywhat that happen.
-
-ARE YOU SPEAKING OF THEINDIGENOUS COMMUNITIES?
-
-EXACTLY.
-
-WE HAVE THAT NUMBER AND ITCAN BE USED FOR DIFFERENTSOLUTIONS, WHETHER ISOLATION ORTESTING.IT DEPENDS ON THE NEEDS OF THECOMMUNITY AND AS WE LOOK AT THEPANDEMIC PLAN AND POSSIBLEEXPANSION WHICH HASN'T OCCURREDIN COMMUNITIES, BUT WE HAVE TOEXAMINE AND CONSIDER THOSECOMMUNITIES, WE WILL RAMP UPRESOURCES.WE HAVE A NUMBER IN STOCKAVAILABLE IN THE PROCESS OFBEING DEPLOYED IN THECOMMUNITIES THAT HAVE ASKED FORTHIS AND HAVE IT AS A PART OFTHEIR PANDEMIC PLAN.I DON'T HAVE THOSE PRECISENUMBERS..IT'S A MOVING VARIABLE AS WERECOGNISE THERE MAY BE SURGES INCOMMUNITIES, BUT IT'S VERY MUCHSOMETHING THAT WE ARE ASSESSINGON THE FLY, BUT WE HAVE A NUMBERPREPARED TO BE DEPLOYED AND HAVEBEEN DEPLOYED IN SOMECIRCUMSTANCES.I'LL LET TOM ANSWER MOREPRECISELY.
-
-WITH THE MOBILE STRUCTURES,WE ARE LOOKING FORWARD TOSUPPORTING INDIGENOUSCOMMUNITIES IN ORDER TO EXPANDTHE CAPACITY, TO DEAL WITHOVERCROWDING ISSUESTEMPORARILILY, WHILE ADDRESSINGTHE LONGER-TERM HOUSINGCHALLENGES, AS WELL, TRYING TOCREATE A SAFE SPACE IN ORDER TOPROVIDE SERVICES SUCH ASTESTING, SUCH AS TAKING THESWABS, SUCH AS ISOLATION, ASWELL AS OVERFLOW, YOU KNOW, FORTEMPORARY MEDICAL HELP ORNURSING HELP IN THE COMMUNITY.ALL OF THOSE ARE A PART OF ACOMPREHENSIVE APPROACH THAT WETAKE.THANK YOU.
-
-TURNING BACK TO THE PHONE,OPERATOR.
+THANK YOU.WE'LL TAKE ONE MORE QUESTION ON THE PHONE.
 
 **Operator**:
-Thank you. Our next question, please goahead.
+Christopher guilly,your line is open.
 
 ---
 
 **Question**:
-My question is forminister duclos. You spoke about how thecanada-u. S. relationship will betested in the upcoming weeks. When trump expresses impatienceand a strong desire to reopenthe american economy, does thatworry you?
+Good morning, Prime Minister. You've been holding regular calls with the ministers, but why have you not reached out to the opposition in a similar way particularly when you're governing in a minority government?
 
 **Answer**:
-As an economist,given the current circumstances,if we want to reopen theeconomy, then we must be very,very cautious, especially whenit comes to public health. We have made major sacrificesthese past few weeks. We have been isolated and wehave felt anxious and we havealso made economic sacrifices. People have lost their jobs. People are having difficultymaking ends meet. So we always have to weighpublic health outcomes andeconomic outcomes..in the next few weeks andmonths, we will have to be very,very cautious. Of course, many of us areanxious to reopen the economy. That said, we must absolutelyfollow the recommendations ofour public health experts. We must take the necessarypublic health measures if wewant to reopen the economy. Followup question.
+We have been in closeand ongoing conversations with opposition leaders, both me directly and mostly through ministers and officials and regular briefings happen from health canada and officials to keep people apprised of these issues. You're absolutely right. We do need to keep our institutions and our parliamentary institutions strong, which is why we've proposed parliament could come back in a modified way every single way to ensure accountability, to ensure we canmove forward on legislation. That's what we're very much hoping we're going to get agreement on from all parties. The alternative would be returning to ottawa on monday morning with a full house of commons and all the staff associated with. I think we can all recognize that that would be a mistake at this point.
+
+A FOLLOW UP.
 
 ---
 
 **Question**:
-All right. So that was your economist'spoint of view. Now what's your point of view asa canadian, as a canadiancitizen?president trump wants peoplemoving around freely as soon aspossible. How do you feel about that?could that compromise publichealth and safety in canada?
+Some of the changesyour government has made to the canada emergency response benefit for workers, the wage subsidy initiative for businesses, and the recent revisions regarding emergency loans and commercial rent assistance for small businesses were proposed by the opposition parties. So do you now think that loopingin the leaders could save valuable time and get programs and money out the door sooner?
 
 **Answer**:
-Minister duclassociation. Os. No, i'm not worried. Our public health experts arevery trustworthy and moreover,our municipalities, provincesand territories are doing suchan excellent job when it comesto public health and spreadingpublic health messages. I think we can be very proud tobe canadian right now. Our healthcare system is robustand at some point, we willreopen the economy. The federal government has avery solid financial position,so we will be able to roar backat some point and when we wantto roar back, it will beessential that all levels ofgovernment cooperate and worktogether all while respectingpublic health measures. So when we're ready to roarback, all levels of governmentwill work together and we willreopen the economy. Thank you, minister. That concludes today's pressconference.
+We have been looping in leaders and opposition leaders from the very beginning. Indeed, the proposals on expanding, on filling gaps have come from m. P.s of all parties, including many, many liberal m. P.s who have been passing the message through. We know that canadians are working together in unprecedented ways to fill gaps and to respond to these challenges. It is wonderful, quite frankly, to see so many suggestions coming forward. Many of them that make it into tweaks and improvements and changes to programs that are designed to help as many canadians as possible. It is a great sign of collaboration and of solidarity,of canadians working together onleaning on each other, on being there for each other, just like we're seeing outside the political world as well.
+
+---
+
+**Question**:
+Today you said small business owners are at theheart of so many communities, but small businesses are terrified at the possibility of getting out of this and having enormous debt piled on in the form of rent deferrals and loans. The fear is they will run out ofmoney a year down the road. Have you considered financial aid that would not have to be repaid or discuss rent forgiveness or control with the provinces?
+
+**Answer**:
+We have discussed theissue of commercial rent with the provinces. I had a good conversation with them on thursday evening where this came up. We are looking at it very, very closely. We have a number of proposals that are working their way through the system, talking to various industry groups and renters' associations, as well as looking at the provinces. The provinces have jurisdictionsover rents and the relationship between landlords and tenants. We need to work with them, whichis what we are doing. We recognize there are very different realities and systems right across the country, but wealso have heard very, very clearly from small business owners that the wage subsidy is helpful, but fixed costs are a real concern. That is something that we're going to have more to say on soon.
+
+---
+
+**Question**:
+Ian wood ctv news. Prime minister, b. C. has seen some success flattening the curve and has indicated it may look at loosening restrictions. You've said it is too soon and provinces like ontario and quÉbec are still in the thick ofit. Are you concerned the differencein messaging will enable people to disregard what is in place now?are you going to allow the provinces make the decision on re-opening or will the federal government need to give the green light?
+
+**Answer**:
+I think canadians understand what we are doing nowhas been tough but is essential in getting through this in the best-possible way. Canadians are really worried if we reopen too quickly or too soon or in the wrong way, we could find ourselves back in this situation a couple of months from now. Everything we will have sacrificed during these months will have been for naught. We are being very, very careful how we are moving forward as a country. I have spoken extensively with the premiers about this issue, and everyone recognizes how cautious and careful and vigilant we need to be. There is a real desire to ensurewe are coordinating our messages, our guidelines, the principles that will underline how we move forward. But of course the situation is very different right across the country from one region to the next. The measures they will be able to move forward with at different moments will vary as well. That's going to be an important part of the recovery here. We need to make sure we are working together, as we have been in an unprecedented way between premiers and the federalgovernment and municipalities and various other communities, to make sure that we're doing the right kinds of things and that we're sending the right messages to canadians every stepof the way. The message remains we have to be extremely careful to do this the right way in a coordinated and collaborative way.
+
+---
+
+**Question**:
+The canadian meat industry is saying it is facing a crisis as processing plants have to slow or slow production because of covid-19. The canadian federation of agriculture said that your government needs to prioritize food production so we don't haveshortages. We've heard the government is considering all options, but what are they so that canadians can feel confident that they'll be able to buy meat and food in the coming months?
+
+**Answer**:
+I think ensuring the continued flow of groceries and our food supply chains is a priority, but so is arresting the spread of covid-19. So is ensuring that workers in all industries across the country can remain safe. Getting that balance right requires us all to step up very carefully because we need to make sure that, yes, we are continuing the flow of great canadian food to people. Indeed, we need to ensure that we have as much domestic food security and stability as we possibly can. That means taking advantage of the summer months coming up and the growing and the planting season now. At the same time, we have to make sure we are doing things that are keeping farmers, agricultural workers, producers,and transformers safe. That is what we're very, very much attentive to now.
+
+---
+
+**Question**:
+Ashley burke, cbc news. Harvard researchers have suggested that there needs to beat least 500,000 tests being done a day in the u. S. in order to safely reopen the economy. What is the specific number of tests that canada needs to hit daily to safely ease up restrictions here?
+
+**Answer**:
+I think every day we are working on new technologies,on better coordination, on accelerating the pace of testing. It has been somewhat uneven across the country. There are places that have done very, very well. There are some places that have faced challenges that they are busy overcoming. We are confident we are going tosignificantly ramp up testing. All the premiers recognize that extensive testing is an essential part of any plan to loosen the controls on people and start reopening or restarting the economy. This is something that the federal government is very much engaged in with the provinces, ensuring there are enough tests,there are enough swabs, there are enough reagents. These are the kinds of things that we are all working on together. We know we have to do much more than we are now and we are tracking towards doing that.
+
+---
+
+**Question**:
+Many of the cases in canada have come from the u. S.you said the border agreement isgoing to stay in place. If the u. S. loosens restrictionsin the next few weeks, what kindof health threat does that pose to canadians?
+
+**Answer**:
+We have the border restrictions in place where non-essential travel across the border will not be permitted. We will take the measures necessary to keep canadians safewhile ensuring the flow of our essential supply chains on whichso many canadians depend.[speaking french] [voice of interpreter] we will continue tobe very vigilant about our borders and travelling coming from abroad and we will continueas well to work with the americans to ensure our own safety by maintaining the current measures at the border. At every step of the way, we will do what is necessary to protect canadians and ensure that our supply chains remain open.[end of translation].
+
+---
+
+**Question**:
+Prime minister, i'mwondering if you can tell us what the impact on canada's stockpiles has been for p. P.e. When the government closed so many of its warehouses across the country.
+
+**Answer**:
+Over the past weeks we've been focused on deliveringp. P.e. To the provinces, on delivering the necessary equipment to ensure that our frontline workers who are putting their lives forward to keep canadians safe are properlyprotected. The efforts continue. I mentioned two plane loads coming in over this weekend. More coming in over the coming days. We are confident that we are in a good place around p. P.e., and we'll only get more as more and more canadian producers and suppliers come online. It has been something extraordinary to see, the level to which canadian manufacturers have been stepping up to get involved. We are in a much better place than we were a number of weeks ago. Of course there is a need for continued vigilance and there will of course be many lessons learned on how canada can be better prepared for any future outbreaks than we were this time.
+
+---
+
+**Question**:
+[speaking french] [voice of interpreter] radio-canada. Good morning, mr. Trudeau. I have a rather simple question. Why are we extending the closureof the border with the united states?is it because you are concerned that president trump may want tolift the current measures or do you think that they're not able to properly manage the pandemic?what is the reason?
+
+**Answer**:
+Well, we closed our borders to international travellers many weeks ago. That included people from every country in the world. We took a few days more to do that with the united states because we needed to ensure thatthis could be done in a coordinated manner that would allow us to keep our supply chains open. We wanted to do it in cooperation with our closest partner and ally. So these measures were absolutely critical in order to protect canadians and limit the spread of the virus. We will keep them in place in relation to the united states and all the other countries around the globe for many, many weeks to come.[end of translation] we made thedecision a number of weeks ago to close our borders to international travellers. We recognized that this was a significant measure but was an important one in order to prevent further spread of covid-19 from coming in from overseas. It has contributed to why we arenow in many parts of the countrytalking about seeing a flattening of the curve, which is good news. We agreed with the united statesin those measures because these are measures we put in place around the world. We did take a couple more days to ensure that we were properly coordinated with our closest neighbour and most-important trading partner. That was effective in it being amutually agreed upon and coordinated measure. We will continue those measures,both with the united states and the world, for what is undoubtedly going to be many more weeks.
+
+---
+
+**Question**:
+[speaking french] [voice of interpreter] with respect to the negotiations withthe opposition about parliament,why has there not been any agreement yet?you're able to agree with the united states. What is blocking the agreement?can you not put some water in your wine?
+
+**Answer**:
+Well, we are dealing with a situation where a number of members of the various parties agree that we should move forward with measures that will require or lead to a limited parliament every week, but there are also others that want a parliament to be sitting four or five days a week. I don't think that's the right thing to do. It's not the right balance. We are pursuing those discussions now.[end of translation] many parties, opposition parties, arein agreement that limited sittings every week are a good measure to both ensure accountability and continue the work that we're needing to do topass legislation for canadians. We are of course looking forwardto being able to see more virtual parliamentary sittings that will allow m. P.s from all around the country, not just thenational capital region, being able to party. There is still one party that wants more than I think is wise at this point in time in terms of a public safety approach and in ensuring we are getting that balance right in moving forward for protecting our institutions,but we're hopeful we will get toa good place soon.
