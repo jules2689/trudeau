@@ -56,7 +56,7 @@ class CaptionParser
     @dialog.each do |key, entries|
       path = File.join(output_path, "#{key}.md")
       puts "Writing to #{path}"
-      File.write(path, entries.map { |e| format_for_output(e) }.join("\n"))
+      File.write(path, entries.flat_map { |e| format_for_output(e).split(/\w\.\s/) }.join("\n"))
     end
 
     path = File.join(output_path, "video_id.txt")
@@ -252,9 +252,9 @@ class CaptionParser
     if line[:speaker] && line[:speaker].downcase.strip == "question"
       "---\n\n**#{line[:speaker]}**:\n#{line[:msg]}\n"
     elsif line[:speaker] && line[:msg]
-      "**#{line[:speaker]}**:\n#{line[:msg]}\n"
+      "\n\n**#{line[:speaker]}**:\n#{line[:msg]}\n"
     elsif line[:msg]
-      "#{line[:msg]}\n"
+      "\n\n#{line[:msg]}\n"
     else
       "ERROR #{line.inspect}\n"
     end
