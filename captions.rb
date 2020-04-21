@@ -17,7 +17,7 @@ require_relative 'lib/playlist_parser'
 CLI::UI::StdoutRouter.enable
 TOKEN = File.exist?(File.expand_path("../.token", __FILE__)) ? File.read(File.expand_path("../.token", __FILE__)).strip : ARGV[0]
 FORCE = ARGV.any? { |a| a == "--force" }
-OUTPUT_PATH = File.expand_path("../trudeau/", __FILE__)
+OUTPUT_PATH = File.expand_path("../docs/", __FILE__)
 FileUtils.mkdir_p(OUTPUT_PATH)
 
 def caption_download(id)

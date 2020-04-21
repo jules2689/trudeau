@@ -10,7 +10,7 @@ unless stat.success?
   puts "aspell must be installed"
 end
 
-base_path = File.expand_path("../trudeau/", __FILE__)
+base_path = File.expand_path("../docs/", __FILE__)
 
 day = CLI::UI.ask("Which day do you want to spellcheck?", options: Dir.glob(File.join(base_path, "*")).sort.reverse)
 Dir.glob(File.join(day, "*.md")).each do |file|

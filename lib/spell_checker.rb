@@ -149,6 +149,7 @@ module Trudeau
       @text.gsub!(/\btoad good\b/, "to a good")
       @text.gsub!(/\bresurge ens\b/, "resurgence")
       @text.gsub!(/\bnotionally\b/, "nationally")
+      @text.gsub!(/\bM. PERFORMs\b/i, "MPs")
     end
 
     def fix_acronyms_and_words
