@@ -56,7 +56,7 @@ class CaptionParser
     @dialog.each do |key, entries|
       path = File.join(output_path, "#{key}.md")
       puts "Writing to #{path}"
-      File.write(path, entries.flat_map { |e| format_for_output(e).split(/\w\.\s/) }.join("\n"))
+      File.write(path, entries.map { |e| format_for_output(e) }.join("\n"))
     end
 
     path = File.join(output_path, "video_id.txt")
@@ -96,8 +96,8 @@ class CaptionParser
     text.gsub!(/\bgether\b/, "gather")
 
     # Space after period / comma
-    text.gsub!(/(\w)[\.,](\w)/, '\1. \2')
-    text.gsub!(/(\w)\. ([a-z])/) { "#{Regexp.last_match[1]}. #{Regexp.last_match[2].upcase}".strip }
+    text.gsub!(/(\w),(\w)/, '\1, \2')
+    text.gsub!(/(\w)\.\s?([a-z])/i) { "#{Regexp.last_match[1]}. #{Regexp.last_match[2].upcase}".strip }
 
     # 2 Word Country fixes
     text.gsub!(/(\w)united/, '\1 United')
@@ -108,8 +108,6 @@ class CaptionParser
     text.gsub!(/\bi'm\b/, "I'm")
     text.gsub!(/\bi'll\b/, "I'll")
     text.gsub!(/\bi've\b/, "I've")
-    text.gsub!(/\bm\. p\.\b/i, 'MP')
-    text.gsub!(/\bu\. S\.\b/i, 'United States')
     text.gsub!(/\bprime\s?minister\b/, "Prime Minister")
     text.gsub!(/\boneof\b/, "one of")
     text.gsub!(/\bcbcnews\b/, "CBC News")
@@ -128,7 +126,7 @@ class CaptionParser
     text.gsub!(/\bunited\s?states\b/, "United States")
     text.gsub!(/\bhaveto\b/, "have to")
     text.gsub!(/\btheresa tam\b/, "Theresa Tam")
-    text.gsub!(/\b(\w+s)in\b/, '\1 in') # sectorsin => sector in (etc..)
+    text.gsub!(/\b([A-Za-z]+s)in\b/, '\1 in') # sectorsin => sector in (etc..)
     text.gsub!(/\bbeable\b/, "be able")
     text.gsub!(/\bwhenwe\b/, "when we")
     text.gsub!(/\btobe\b/, "to be")
@@ -166,19 +164,33 @@ class CaptionParser
     text.gsub!(/\baswell\b/, "as well")
     text.gsub!(/\bit'sunday\b/, "it's Sunday")
     text.gsub!(/\bwhatno\b/, "whatnot")
+    text.gsub!(/\bworl\b/, "world")
 
     # Fix acronyms
-    text.gsub!(/(\w)\. ((\w\.)+)+/) { "#{Regexp.last_match[1]}#{Regexp.last_match[2].tr('.', '')}".upcase }
+    acronyms = {
+      "p. P.e" => "PPE",
+      "u. S." => "US",
+      "u. K." => "UK",
+      "m. P." => "MP",
+      "d. N.a." => "DNA",
+      "c. R.a." => "CRA",
+      "p. E.I." => "PEI",
+      "e. D.c" => "EDC",
+      "b. D.c" => "BDC",
+      "m. L.a." => "MLA",
+    }
+    acronyms.each { |a, b| text.gsub!(a, b) }
     
-    (PROVINCES + VALID_WORDS).each do |prov|
-      text.gsub!(/\b#{prov}\b/i, prov)
+    # Known valid words
+    (PROVINCES + VALID_WORDS).each do |word|
+      text.gsub!(/\b#{word}\b/i, word)
     end
     text.gsub!(/COVID-19-19/i, "COVID-19")
 
     checked_text = Spellchecker.check(text, dictionary='en')
     checked_text.each_with_object([]) do |entry, acc|
-      if word = VALID_WORDS.detect { |w| w.downcase == entry[:original].downcase }
-        acc << word
+      if word = (PROVINCES + VALID_WORDS + acronyms.values).detect { |w| entry[:original].downcase =~ /\A#{w.downcase}[\.\?\!"']\z/ }
+        acc << entry[:original]
       elsif entry[:correct]
         acc << entry[:original]
       else
@@ -250,7 +262,7 @@ class CaptionParser
       line[:msg] = line[:msg].gsub(/\[/, "\n\n[")
     end
 
-    if line[:speaker] && line[:speaker].downcase.strip == "question"
+    out = if line[:speaker] && line[:speaker].downcase.strip == "question"
       "---\n\n**#{line[:speaker]}**:\n#{line[:msg]}\n"
     elsif line[:speaker] && line[:msg]
       "\n\n**#{line[:speaker]}**:\n#{line[:msg]}\n"
@@ -259,5 +271,7 @@ class CaptionParser
     else
       "ERROR #{line.inspect}\n"
     end
+
+    out.gsub(/(\w{3,}\.) /, '\1'.strip + "\n")
   end
 end
