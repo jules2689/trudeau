@@ -1,250 +1,243 @@
 
 
 **Rosemary**:
-All righ
-That is the Prime Minister of Canada with his daily update on how his government is tackling the pandemi
-I'm going to bring back Vassy and David and each 30 seconds because we're close to the top of the cloc
- you can have the first 3
+All right.
+That is the Prime Minister of Canada with his daily update on how his government is tackling the pandemic.
+I'm going to bring back Gassy and David and each 30 seconds because we're close to the top of the clock.
+ you can have the first 30.
+
 
 
 **Vassy**:
-Really quickly, I'll summarize what he announced for the wage subsid
-You can apply if you are a business owner starting in one week, I believe April 2
-and the other part was about $350 million for charitie
-What stuck out for me, two planes -- this is a question from the conservative leader ..two empty planes came back from china confirm big issues getting personal protective equipment out of that countr
+Really quickly, I'll summarize what he announced for the wage subsidy.
+You can apply if you are a business owner starting in one week, I believe April 27. and the other part was about $350 million for charities.
+What stuck out for me, two planes -- this is a question from the conservative leader ..two empty planes came back from china confirm big issues getting personal protective equipment out of that country.
+
 
 
 **Rosemary**:
-Wo
+Wow.
 She left you 10 seconds there,  Go ahead.[laughter]
 
 
 
 **Reporter**:
-Beef suppl
-Beef producers have ensured the government they will meet domestic need before they start doing export
-Supply should not go dow
-But prices may very well go u
+Beef supply.
+Beef producers have ensured the government they will meet domestic need before they start doing exports.
+Supply should not go down.
+But prices may very well go up.
 
-
-**Rosemary**:
-O
-Thank you both very muc
-So succinc
-I should make you do that all the time.[laughter]Vassy kapelos and  cochrane.$350   Vassy talked  there does not include the option for charities for wage subsidie
-While their ask was substantive at $10 billion, they get $350 million to help them and they can also start using the wage subsidy, which we'll get more details about at noon eastern at the next federal briefing coming up and we'll bring you up to date on any new information we have about the shooting rampage in Nova Scotia which has killed as many as 20 people no
-We are not necessarily expecting to get a briefing from the local RCMP toda
-But we will get some details probably via press release in terms of how their investigation over those 16 different crime scenes is going and we'll talk about that at the top of the clock as well and bring you all details in terms of the stories that we're learning about the people that were killed over the course of weekend in Nova Scotia as that community and that whole province continues to strugle with  during the time of the pandemi
-Also incountried ble   them on so many front
-O
-I  I'm going to wrap it u
-We'll hear shortly from our federal cabinet ministers who will give us a short briefing more about the wage subsidy that opens up on monday and a public health update to give us a sense of how we're doing in fighting the pandemi
-Some encouraging sign
-But we still have to keep doing what we're doin
-The sky is looking better in ottaw
-We'll  right back on cbc news  after this.[please stand by] they said yesterday one of the reasons that the death toll, thenumber of casualties and fatalities is going up is because officers are only now getting access to a few of the numerous sites across the provinc
-and so they will be combing through the that the application process will open up in a week's tim
-That is significant to business owner
-There has been some information provided to a committee on the length of tim
-Your producer helped us with tha
-The time to get money into the pockets of business owner
-That is something we'll be looking for more details on fromminister duclo
-I   time line, the issueof time for  is hug
-a lot of them have struggled to keep employees on the payrol
-I'm speaking specifically of businesses, for example, small businesses, but also the huge companie
-Think about air Canada and westje
-They signalled  would take advantage of this programme but the  are going to be importan
-At the end of the Prime Minister's press conference he got a question, is this going to be available to companies that use tax haven
-There wasn't a specific answer on that, but that does raise a broader discussion about who exactly will be eligibl
-If this follows in the pattern of other aid packages, the scopewill be broa
- who can do tha
-That does present later on a number I think of complication or questions that will arise about who was able to avail themselves or what kind of company was able to avail themselves of this kind of financial relief or financial ai
-I don't think the government hastime at this  Especially when everybody is saying we need this money fast to go through and look at every thing a company has done, but I think that will factor into the discussion later o
 
 
 **Rosemary**:
-We heard when the Prime Minister made the initial announcement,  he wasn't going to tolerate people taking advantage of i
-So it's a little bit different than the  the relief fund benefit, which I think is just sort of everybody thinks they can apply can apply and there is less concern around tha
-But there does seem to be some perhaps added scrutiny to the way this is going to wor
+ Thank you both very much.
+So succinct.
+I should make you do that all the time.[laughter]Vassy kapelos   cochrane.$350   Vassy talked  there does not include the option for charities for wage subsidies.
+While their ask was substantive at $10 billion, they get $350 million to help them and they can also start using the wage subsidy, which we'll get more details about at noon eastern at the next federal briefing coming up and we'll bring you up to date on any new information we have about the shooting rampage in Nova Scotia which has killed as many as 20 people now.
+We are not necessarily expecting to get a briefing from the local RCMP today.
+But we will get some details probably via press release in terms of how their investigation over those 16 different crime scenes is going and we'll talk about that at the top of the clock as well and bring you all details in terms of the stories that we're learning about the people that were killed over the course of weekend in Nova Scotia as that community and that whole province continues to strugle with  during the time of the pandemic.
+Also incountried ble   them on so many fronts.
+Ok. I  I'm going to wrap it up. We'll hear shortly from our federal cabinet ministers who will give us a short briefing more about the wage subsidy that opens up on monday and  public health update to give us a sense of how we're doing in fighting the pandemic.
+Some encouraging signs.
+But we still have to keep doing what we're doing.
+The sky is looking better in ottawa.
+We'll  right back on cbc news  after this.[please stand by] they said yesterday one of the reasons that the death toll, thenumber of casualties  fatalities is going up is because officers are only now getting access to a few of the numerous sites across the province.
+and so they will be combing through the that the application process will open up in a week's time.
+That is significant to business owners.
+There has been some information provided to a committee on the length of time.
+Your producer helped us with that.
+The time to get money into the pockets of business owners.
+That is something we'll be looking for more details on fromminister duclos.
+I   time line, the issueof time for  is huge.
+a lot of them have struggled to keep employees on the payroll.
+I'm speaking specifically of businesses, for example, small businesses, but also the huge companies.
+Think about air Canada and westjet.
+They signalled  would take advantage of this programme but the  are going to be important.
+At the end of the Prime Minister's press conference he got a question, is this going to be available to companies that use tax havens.
+There wasn't a specific answer on that, but that does raise a broader discussion about who exactly will be eligible.
+If this follows in the pattern of other aid packages, the scopewill be broad.
+ who can do that.
+That does present later on a number I think of complication or questions that will arise about who was able to avail themselves or what kind of company was able to avail themselves of this kind of financial relief or financial aid.
+I don't think the government hastime at this  Especially when everybody is saying we need this money fast to go through and look at every thing a company has done, but I think that will factor into the discussion later on.
+
+
+
+**Rosemary**:
+We heard when the Prime Minister made the initial announcement,  he wasn't going to tolerate people taking advantage of it. So it's a little bit different than the  the relief fund benefit, which I think is just sort of everybody thinks they can apply can apply and there is less concern around that.
+But there does seem to be some perhaps added scrutiny to the way this is going to work.
+
 
 
 **Reporter**:
-There is a couple of thing
-On the tax haven idea, that is  but the wage subsidy is a flow-through to theworke
- not money that goes into the bank account of the company and they get to keep i
-This is using them as a payroll department to get the money to worker
-The tax haven thing is an interesting conversation, but it's not material because this is money in the pockets of workers rather than employers, though they do get a residual benefit from thi
-It may be slower to roll out than the CER
- CERB  been a tremendous success, but it was one-size-fits-al
-This is differen
-It's wage subsidy, which is equivalent to the maximum CPP Amount and then  a sliding scale of what the precise dollaramount would b
-That  take a little more tim
-The application scrutiny will bedone after the fac
- will a post pandemic compliance thing, but how much money to send to a company?that's a little rougher to deal with than the CER
-The two other issues  Prime Minister spoke about, PPE, two planes came back  chin
-Nothing onboar
-I'm told by the government official, all of the PPE Equipment is under lock and key in the warehouse in shangha
-It was safely store and will be making its way back to Canad
-There is another flight coming in today, but it speaks to the chaos ther
-The world is trying to get masksand gloves out of china and largely funneling cargo planes into one or two airport
-This is causing backlog of trucks, they need security, there is limited landing windows, tarmac time and if yourstuff haven't made it through and you're on the plane, you're out of luc
-You have to figure out how to get it another tim
-Those supplies have not been los
-The other thing the Prime Minister was asked about is gun legislatio
-When is he going to bring in guncontrol?something that has been delayed  of the change in everythin
-One of the restrictions is rightnow the agreement struck to havethe  only sit one day  person and then virtual sittingsafte
-The legislation can only be  the pandemi
-So they can't bring it right nowwhile they're operating under this dea
- have to wait until the end of may when there is a hope theycan go back to the normal  Or they would need consent and agreement, including from the conservatives, who have been on the opposite side of this debatefrom the federal liberal
-Quickly, you 
+There is a couple of things.
+On the tax haven idea, that is  but the wage subsidy is a flow-through to theworker.
+ not money that goes into the bank account of the company and they get to keep it. This is using them as a payroll department to get the money to workers.
+The tax haven thing is an interesting conversation, but it's not material because this is money in the pockets of workers rather than employers, though they do get a residual benefit from this.
+It may be slower to roll out than the CERB.
+ CERB  been a tremendous success, but it was one-size-fits-all.
+This is different.
+It's wage subsidy, which is equivalent to the maximum c. P.p. Amount and then it's a sliding scale of what the precise dollaramount would be. That will  a little more time.
+The application scrutiny will bedone after the fact.
+There  a post pandemic compliance thing, but how much money to send to a company?that's a little rougher to deal with than the CERB.
+The two other issues the  Minister spoke about, PPE., two planes came back from  nothing onboard.
+I'm told by the government official, all of the PPE.
+Equipment is under lock and  in the warehouse in shanghai.
+It was safely store and will be making its way back to Canada.
+There is another flight coming in today, but it speaks to the chaos there.
+The world is trying to get masksand gloves out of china and  funneling cargo planes into one or two airports.
+This is causing backlog of trucks, they need security, there is limited landing windows, tarmac time and if yourstuff haven't made it through and  on the plane, you're out of luck.
+You have to figure out how to get it another time.
+Those supplies have not been lost.
+The other thing the Prime Minister was asked about is gun legislation.
+When is he going to bring in guncontrol?something that has been delayed because  the change in everything.
+One of the restrictions is rightnow the agreement struck to havethe house  sit one day in  and then virtual sittingsafter.
+The legislation can only be about  pandemic.
+So they can't bring it right nowwhile they're operating under this deal.
+They  to wait until the end of may when there is a hope theycan go back to the normal rules,  they would need consent and agreement, including from the conservatives, who have been on the opposite side of this debatefrom the federal liberals.
+Quickly, you can't.
 
 
 
 **Rosemary**:
-He did say they were on the verge of bringing it in before this happene
-I mean, I'm not sure exactly what mean
-It certainly wasn't something on the notice pape
+He did say they were on the verge of bringing it in before this happened.
+I mean, I'm not sure exactly what means.
+It certainly wasn't something on the notice paper.
 
 
-BILL BLAIR SAID IT WAS GOING TO BE DONE IN THE SPRING SESSION.GOING BACK TO THE CABINET RETREAT IN JANUARY I WANT TO SAY.BUT IT WAS SOMETHING ON THEIR TO-DO LIST FOR THE SESSIO
+
+BILL BLAIR SAID IT WAS GOING TO BE DONE IN THE SPRING SESSION.GOING BACK TO THE CABINET RETREAT IN JANUARY I WANT TO SAY.BUT IT WAS SOMETHING ON THEIR TO-DO LIST FOR THE SESSION.
+
 
 
 **Rosemary**:
-Going back to the Chinese planes, the planes in china, because they were our planes in chin
-It does speak to, though, the lack of reliability on POE Coming, maybe particularly from china, but maybe from everywher
-and the fact that you're sending over government planes to get things and they're coming back empty and now, it's great if   it's still there, still in the warehous
-But now we're waiting more days for it to get here and we don't have a lot of time in terms of getting that stuff to peopl
+Going back to the Chinese planes, the planes in china, because they were our planes in china.
+It does speak to, though, the lack of reliability on PPE.
+Coming, maybe particularly from china, but maybe from everywhere.
+and the fact that you're sending over government planes to get things and they're coming back empty and now, it's great if   it's still there, still in the warehouse.
+But now we're waiting more days for it to get here and we don't have a lot of time in terms of getting that stuff to people.
+
 
 
 **Vassy**:
-It's hug
-Think about it, we have planes going over there to pick up equipment and because they don'tfit into the time frame the Chinese government has allowed, they're having to come all the way back to Canada empt
-and that equipment, we heard a number of questions to the Prime Minister, and those should be pointed toward each of the provinces, because a lot of the jurisdiction lies with them, but there are genuine questions about how many health care workers are having to reuse their equipment?or are worried, yes, they have to the supply right now, but maynot  a few weeks' tim
-We've heard them throughout the entire pandemi
-It highlights the issue and Canada and the fact that we are incredibly reliant on china and the procurement of these supplies in that countr
-They haven't specifically -- I'mtrying to think about the interviews with the Minister in charge of this -- I've asked many times, how much of our stuff comes from china?and they won't put a percentage on it, but often uses the word "significant" to describe i
-It's clear we have a heavy reliance on that countr
-Things are not easy in china right no
-Certainly they haven't bee
-But they really aren't right no
-We've seen planes stopped going to the United States as wel
-It's a global issue right now and I think there is no easy fix, but the idea of these planes sort of leaving with nothing in them and, yes, you'reright, it's good we have the supplies still, we haven't lost them, it's not like they're gone, but it remains an issue they have to come all the way back her
-If I could touch on the gun legislation you were talking abou
-There are genuine questions of accountability for the governmen
-I take the point given the current structure of parliament it's not going to be happening soo
-That is -- they did massive consultations on what this type of bill would look like, following calls from the mayors of toronto and  to  stricter  contro
-Those consultations wrapped a full year ag
-Then they promised in the campaign to bring in legislatio
-Then they promised on the anniversary of ecole polytechnique   coming soo
-Bill blair signalled  was going to come, I think david pointed  in the sprin
-With we don't know if that -- wedon't know if that would have made a differenc
-But on the specific question about that legislation, you know, yes, it was intended to beintroduced, but  had multiple opportunities in the past prior to this outbreak to do s
-and they had signalled for a long time, many had raised the issu
+It's huge.
+Think about it, we have planes going over there to pick up equipment and because they don'tfit into the time frame the Chinese government has allowed, they're having to come all the way back to Canada empty.
+and that equipment, we heard a number of questions to the Prime Minister, and those should be pointed toward each of the provinces, because a lot of the jurisdiction lies with them, but there are genuine questions about how many health care workers are having to reuse their equipment?or are worried, yes, they have to the supply right now, but maynot  a few weeks' time.
+We've heard them throughout the entire pandemic.
+It highlights the issue and Canada and the fact that we are incredibly reliant on china and the procurement of these supplies in that country.
+They haven't specifically -- I'mtrying to think about the interviews with the Minister in charge of this -- I've asked many times, how much of our stuff comes from china?and they won't put a percentage on it, but often uses the word "significant" to describe it. It's clear we have a heavy reliance on that country.
+Things are not easy in china right now.
+Certainly they haven't been.
+But they really aren't right now.
+We've seen planes stopped going to the United States as well.
+It's a global issue right now and I think there is no easy fix, but the idea of these planes sort of leaving with nothing in them and, yes, you'reright, it's good we have the supplies still, we haven't lost them, it's not like they're gone, but it remains an issue they have to come all the way back here.
+If I could touch on the gun legislation you were talking about.
+There are genuine questions of accountability for the government.
+I take the point given the current structure of parliament it's not going to be happening soon.
+That is -- they did massive consultations on what this type of bill would look like, following calls from the mayors of toronto and  to  stricter  control.
+Those consultations wrapped a full year ago.
+Then they promised in the campaign to bring in legislation.
+Then they promised on the anniversary of ecole polytechnique   coming soon.
+Bill blair signalled  was going to come, I think david pointed  in the spring.
+With we don't know if that -- wedon't know if that would have made a difference.
+But on the specific question about that legislation, you know, yes, it was intended to beintroduced, but  had multiple opportunities in the past prior to this outbreak to do so. and they had signalled for a long time, many had raised the issue.
+
 
 
 **Rosemary**:
-I think they said after the consultation they wanted to campaign on it to get a mandate and that's what they were going to do this sprin
-You're right, there will be question
-Thank you, bot
-I'll take the viewers to the federal briefin
-Deputy Prime Minister Chrystia Freeland is speaking about what happened in Nova Scoti
+I think they said after the consultation they wanted to campaign on it to get a mandate and that's what they were going to do this spring.
+You're right, there will be questions.
+Thank you, both.
+I'll take the viewers to the federal briefing.
+Deputy Prime Minister  Free land is speaking about what happened in Nova Scotia.
+
 
 
 **Chrystia Freeland (Deputy Prime Minister)**:
-It is to difficult to process it when they are los
-At the events in Nova Scotia over the weeken
-This would be a tragedy at any tim
-But for this to happen now as nova Scotians are all making great personal sacrifices to preserve life is a particular horror and particular sorro
-To the people of Nova Scotia, all Canadians with are you in your grie
-So today we will hear from Canada's chief public health officer, Theresa Ta
-The deputy chief public, D
-Howard 
+It is to difficult to process it when they are lost.
+At the events in Nova Scotia over the weekend.
+This would be a tragedy at any time.
+But for this to happen now as nova Scotia's are all making great personal sacrifices to preserve life is a particular horror and particular sorrow.
+To the people of Nova Scotia, all Canadians with are you in your grief.
+So today we will hear from Canada's chief public health officer, Theresa Tam.
+The deputy chief public, dry Howard 
 
 
 
-**D
-Theresa Tam**:
-[speaking french]there are now 3
-000 -- 3
-374 cases including 
-728 death
-We have tested over 56
-000 people to date with around 
-5% of those testing positiv
-But we are still aways  and the path remains uncertai
-I know recovery is what is on everyone's mind right no
-Canadians are continuing to practise social distancing, physical distancing, and stayingat  and this continues to be vitallyimportan
- health authorities are closely monitoring for continuedand  slowing of the epidemic, while carefully considering approaches to ease public health restrictions when and where there is possibl
-But there are hard truths that haven't change
-This is a marathon and we're going to have to plan, pace ourselves and not take sharp turn
-The second truth, there is stilla  of unknowns and no 100% proven path before u
-To get this right, there will bea  to learn as we go, evaluate and adjust as we take cautious step
-These next steps may sound challenging, but there are things we learned and things we know will keep us safe as we carefully navigate this path forward togethe
-We know that the epidemiology ineach  is different, so the approaches won't all be the sam
-We know the timing, types and range of public health measures will be tailored to address the unique challenges and context ofthe  in each province andterritor
- additional measures may need be to adopted and maintained to protect vulnerablepopulations  high-risk settings within jurisdiction
-Most importantly, we know that Canadians have demonstrated whathas worked  slow the spread ofthis disease and what has kept our health system from being overwhelme
-There is no doubt that our sacrifices and everyday inconveniences over the past weeks have prevented an explosive outbreak in Canada like the ones that overwhelm health care systems in places like italy, spain and  yor
-What  this tells us, we can'tbe too confiden
-We can't let our guard dow
-and we can't afford to have any weak points in our syste
-What we can do is ensure we all work together, stay the course and work to strengthen supports that meet the needs of the most vulnerable members of societ
-If we ensure that basic needs are met for everyone we will protect the health of all Canadian
-Thank yo
+**Dr. Theresa Tam**:
+[speaking french]there are now 37, 000 -- 37, 374 cases including 1, 728 deaths.
+We have tested over 565, 000 people to date with around 6.5% of those testing positive.
+But we are still aways  and the path remains uncertain.
+I know recovery is what is on everyone's mind right now.
+Canadians are continuing to practise social distancing, physical distancing, and stayingat  and this continues to be vitallyimportant.
+ health authorities are closely monitoring for continuedand  slowing of the epidemic, while carefully considering approaches to ease public health restrictions when and where there is possible.
+But there are hard truths that haven't changed.
+This is a marathon and we're going to have to plan, pace ourselves and not take sharp turns.
+The second truth, there is stilla  of unknowns and no 100% proven path before us. To get this right, there will bea  to learn as we go, evaluate and adjust as we take cautious steps.
+These next steps may sound challenging, but there are things we learned and things we know will keep us safe as we carefully navigate this path forward together.
+We know that the epidemiology ineach  is different, so the approaches won't all be the same.
+We know the timing, types and range of public health measures will be tailored to address the unique challenges and context ofthe  in each province andterritory.
+ additional measures may need be to adopted and maintained to protect vulnerablepopulations  high-risk settings within jurisdictions.
+Most importantly, we know that Canadians have demonstrated whathas worked  slow the spread ofthis disease  what has kept our health system from being overwhelmed.
+There is no doubt that our sacrifices and everyday inconveniences over the past weeks have prevented an explosive outbreak in Canada like the ones that overwhelm health care systems in places like italy, spain   york.
+What  this tells us, we can'tbe too confident.
+We can't let our guard down.
+and we can't afford to have any weak points in our system.
+What we can do is ensure we all work together, stay the course and work to strengthen supports that meet the needs of the most vulnerable members of society.
+If we ensure that basic needs are met for everyone we will protect the health of all Canadians.
+Thank you.
+
 
 
 **Chrystia Freeland (Deputy Prime Minister)**:
-Thank you.[speaking french]we will now hear from D
-Njo
+Thank you.[speaking french]we will now hear from dr. Njoo.
 
 
-HELLO.THERE ARE NOW 37,374 CONFIRMED CASES INCLUDING 1, 728 DEATHS.WE HAVE TESTED OVER 565,000 PEOPLE TO DATE WITH 6.5% TESTINGPOSITIVE THOUGH WE ARE STILL A WAYS OFF AND THE PATH REMAINS UNCERTAIN, I KNOW THAT RECOVERY AND WHAT IS NEXT IS ON EVERYONE'S MIND RIGHT NOW.CANADIANS ARE PATIENTLY CONTINUING TO PRACTISE PHYSICAL DISTANCING.CANADIANS ARE STAYING AT HOME.THESE MEASURES CONTINUE TO BE VITALLY IMPORTANT.PUBLIC HEALTH AUTHORITIES ARE CLOSELY MONITORING FOR CONTINUEDAND STABLE SLOWING OF THE EPIDEMIC, WHILE CAREFULLY CONSIDERING APPROACHES TO EASE PUBLIC HEALTH RESTRICTIONS WHEN AND WHERE THIS MAY BE POSSIBLE.BUT THERE ARE SOME HARD TRUTHS THAT HAVE NOT CHANGED.THE FIRST.THIS WILL BE A MARATHON.WE WILL HAVE TO PLAN, PACE OURSELVES AND AVOID TAKING ANY SHARP TURNS.THE SECOND.THERE ARE STILL A LOT OF UNKNOWNS.THERE IS NO 100% PROVEN PATH AHEAD OF US.TO GET THIS RIGHT, THERE WILL BEA NEED TO LEARN AS WE GO AND TO EVALUATE, ADJUST AND RIGHT THE COURSE AS WE TAKE CAUTIOUS STEPSIN RELAXING PUBLIC HEALTH CONTROL MEASURES.THESE NEXT STEPS MAY SOUND CHALLENGING, BUT THERE ARE THINGS THAT WE HAVE LEARNED AND THINGS THAT WE NOW KNOW THAT WILL KEEP US SAFE AS WE CAREFULLY NAVIGATE THIS PATH FORWARD TOGETHER.WE KNOW THAT THE EPIDEMIOLOGY INEACH JURISDICTION IS DIFFERENT, SO THE APPROACHES WON'T ALL BE THE SAME.WE KNOW THAT THE TIMING, THE TYPES AND THE RANGE OF PUBLIC HEALTH MEASURES WILL NEED TO BE TAILORED TO ADDRESS THE UNIQUE CHALLENGES AND CONTEXT OF THE DISEASE IN EACH PROVINCE AND TERRITORY.LIKEWISE, ADDITIONAL MEASURES MAY NEED TO BE ADOPTED AND MAINTAINED TO PROTECT VULNERABLEPOPULATIONS AND TO PROTECT HIGH-RISK SETTINGS WITHIN JURISDICTIONS.MOST IMPORTANTLY, WE KNOW AND CANADIANS HAVE DEMONSTRATED WHATHAS WORKED TO SLOW THE SPREAD OFTHIS DISEASE.WE KNOW WHAT HAS KEPT OUR HEALTHSYSTEM FROM BEING OVERWHELMED.THERE IS NO DOUBT THAT OUR SACRIFICES AND EVERYDAY INCONVENIENCES OVER THE PAST WEEKS HAVE PREVENTED AN EXPLOSIVE OUTBREAK IN CANADA.EXPLOSIVE OUTBREAKS LIKE THE ONES THAT OVERWHELMED HEALTH CARE SYSTEMS LIKE IN ITALY, SPAIN AND NEW YORK.WHAT DOES THIS TELL US?IT TELLS US THAT WE CANNOT BE TOO CONFIDENT, THAT WE CANNOT LET OUR GUARD DOWN AND WE CANNOTAFFORD TO HAVE ANY WEAK POINTS IN OUR SYSTEM.WHAT WE CAN DO IS ENSURE WE ALL WORK TOGETHER.ENSURE WE STAY THE COURSE AND THAT WE WORK TO STRENGTHEN SUPPORTS THAT MEET THE NEEDS OF OUR MOST VULNERABLE MEMBERS OF SOCIETY.IF WE ENSURE THAT BASIC NEEDS ARE MET FOR EVERYONE, WE PROTECTTHE HEALTH OF ALL CANADIANS.THANK YO
+
+HELLO.THERE ARE NOW 37,374 CONFIRMED CASES INCLUDING 1, 728 DEATHS.WE HAVE TESTED OVER 565,000 PEOPLE TO DATE WITH 6.5% TESTINGPOSITIVE THOUGH WE ARE STILL A WAYS OFF AND THE PATH REMAINS UNCERTAIN, I KNOW THAT RECOVERY AND WHAT IS NEXT IS ON EVERYONE'S MIND RIGHT NOW.CANADIANS ARE PATIENTLY CONTINUING TO PRACTISE PHYSICAL DISTANCING.CANADIANS ARE STAYING AT HOME.THESE MEASURES CONTINUE TO BE VITALLY IMPORTANT.PUBLIC HEALTH AUTHORITIES ARE CLOSELY MONITORING FOR CONTINUEDAND STABLE SLOWING OF THE EPIDEMIC, WHILE CAREFULLY CONSIDERING APPROACHES TO EASE PUBLIC HEALTH RESTRICTIONS WHEN AND WHERE THIS MAY BE POSSIBLE.BUT THERE ARE SOME HARD TRUTHS THAT HAVE NOT CHANGED.THE FIRST.THIS WILL BE A MARATHON.WE WILL HAVE TO PLAN, PACE OURSELVES AND AVOID TAKING ANY SHARP TURNS.THE SECOND.THERE ARE STILL A LOT OF UNKNOWNS.THERE IS NO 100% PROVEN PATH AHEAD OF US.TO GET THIS RIGHT, THERE WILL BEA NEED TO LEARN AS WE GO AND TO EVALUATE, ADJUST AND RIGHT THE COURSE AS WE TAKE CAUTIOUS STEPSIN RELAXING PUBLIC HEALTH CONTROL MEASURES.THESE NEXT STEPS MAY SOUND CHALLENGING, BUT THERE ARE THINGS THAT WE HAVE LEARNED AND THINGS THAT WE NOW KNOW THAT WILL KEEP US SAFE AS WE CAREFULLY NAVIGATE THIS PATH FORWARD TOGETHER.WE KNOW THAT THE EPIDEMIOLOGY INEACH JURISDICTION IS DIFFERENT, SO THE APPROACHES WON'T ALL BE THE SAME.WE KNOW THAT THE TIMING, THE TYPES AND THE RANGE OF PUBLIC HEALTH MEASURES WILL NEED TO BE TAILORED TO ADDRESS THE UNIQUE CHALLENGES AND CONTEXT OF THE DISEASE IN EACH PROVINCE AND TERRITORY.LIKEWISE, ADDITIONAL MEASURES MAY NEED TO BE ADOPTED AND MAINTAINED TO PROTECT VULNERABLEPOPULATIONS AND TO PROTECT HIGH-RISK SETTINGS WITHIN JURISDICTIONS.MOST IMPORTANTLY, WE KNOW AND CANADIANS HAVE DEMONSTRATED WHATHAS WORKED TO SLOW THE SPREAD OFTHIS DISEASE.WE KNOW WHAT HAS KEPT OUR HEALTHSYSTEM FROM BEING OVERWHELMED.THERE IS NO DOUBT THAT OUR SACRIFICES AND EVERYDAY INCONVENIENCES OVER THE PAST WEEKS HAVE PREVENTED AN EXPLOSIVE OUTBREAK IN CANADA.EXPLOSIVE OUTBREAKS LIKE THE ONES THAT OVERWHELMED HEALTH CARE SYSTEMS LIKE IN ITALY, SPAIN AND NEW YORK.WHAT DOES THIS TELL US?IT TELLS US THAT WE CANNOT BE TOO CONFIDENT, THAT WE CANNOT LET OUR GUARD DOWN AND WE CANNOTAFFORD TO HAVE ANY WEAK POINTS IN OUR SYSTEM.WHAT WE CAN DO IS ENSURE WE ALL WORK TOGETHER.ENSURE WE STAY THE COURSE AND THAT WE WORK TO STRENGTHEN SUPPORTS THAT MEET THE NEEDS OF OUR MOST VULNERABLE MEMBERS OF SOCIETY.IF WE ENSURE THAT BASIC NEEDS ARE MET FOR EVERYONE, WE PROTECTTHE HEALTH OF ALL CANADIANS.THANK YOU.
+
 
 
 **Chrystia Freeland (Deputy Prime Minister)**:
-Thank you, D
- Now we'll hear from the minister of familie
+Thank you, dry  Now we'll hear from the minister of families.
 
 
-THANK YOU VERY MUCH, BONJOUR.WHEN THE EXPERIENCE PERSONAL DIFFICULTIES AS A RESULT OF NATURAL DISASTERS, BE IT WILDFIRES IN BRITISH COLUMBIA ORTORNADO RIGHT HERE IN OTTAWA, ORSOMETHING CLOSER TO HOME, LIKE LOSING A JOB, THAT EVERY TIME COUNTLESS CHARITIES ACROSS THE COUNTRY ARE THERE TO HELP THEM.THEY'RE THERE TO STEP UP AND HELP THEM IN EVERY WAY THEY CAN.CANADIAN CHARITIES AND NON-PROFITS ARE THERE TO HELP USIN OUR TIME OF NEED.[Speaking French][Voice of Interpreter] CHARITY ORGANIZATIONS ARE ALWAYS THERE TO HELP CANADIANS IN TIMES OF NEED.[End of Translation] BRINGING REAL CHALLENGES TO THESE REALLY IMPORTANT ORGANIZATIONS.AT THE VERY TIME THAT COUNTLESS CANADIANS ACROSS THE COUNTRY ARERELYING ON THESE ORGANIZATIONS, SOME FOR THE VERY FIRST TIME, CANADIAN CHARITIES AND NON-PROFITS ARE HAVING TO DEAL WITH EXTRA COSTS PROCURING AND OBTAINING PERSONAL PROTECTIVE EQUIPMENT, INCREASED COSTS AS A RESULT OF STAFFING SHORTAGES.OTHER CHALLENGES AS A RESULT OF GETTING MATERIALS NEEDED TO DO THEIR WORK.AND TO MAKE MATTERS WORSE, THEY ALSO EXPERIENCING A DRAMATIC DROP IN THE AMOUNT OF DONATIONS THEY USUALLY RECEIVE.AT A TIME WHEN CANADIAN CHARITIES AND NON-PROFIT ORGANIZATIONS ARE ASKED TO DO MORE BY CANADIANS WHO NEED THEIRSERVICES, THEY'RE SEEING A DROP IN DONATIONS AND THE NUMBER OF VOLUNTEERS THEY CAN RELY ON.THIS HAS A DIRECT IMPACT ON VULNERABLE CANADIANS.LIKE OLDER CANADIANS, PEOPLE WITH DISABILITIES, RACIALIZED CANADIANS, INCLUDING BLACK-CANADIANS, ARE BEING SIGNIFICANTLY IMPACTED BY THESE DEVELOPMENTS.SO OUR MESSAGE TO CANADA'S COMMUNITY ORGANIZATIONS AND CHARITIES IS THAT WE WILL SUPPORT YOU.THE TIME THAT MORE AND MORE CANADIANS ARE CALLING ON YOU TO PROVIDE MORE SERVICES FOR THEM, WE WILL SUPPORT YOU SO THAT YOU CAN MEET THAT REQUEST, SO THAT YOU CAN ANSWER THAT CALL.AS THE PRIME MINISTER SAID, WE HAVE YOUR BACK.THAT IS WHY THE PRIME MINISTER ANNOUNCED THAT WE ARE PROVIDING $350 MILLION TO SUPPORT IN EMERGENCY FASHION TO HELP CHARITIES AND NON-PROFIT ORGANIZATIONS ADAPT THEIR FRONTLINE SERVICES TO VULNERABLECANADIANS DURING COVID-19.[Speaking French][Voice of Interpreter] THAT'S WHY THE PRIME MINISTER ANNOUNCED UP TO $350 MILLION IN EMERGENCY FUNDING FOR CHARITY ORGANIZATIONS AND NON-PROFIT ORGANIZATIONS.THESE ORGANIZATIONS ARE PROVIDING HELP TO CANADIANS DURING COVID-19.[End of Translation] LIKE THE UNITED WAY, THE CANADIAN RED CROSS AND COMMUNITY FOUNDATIONS OF CANADA, TO ENSURE CHARITIES AND NON-PROFIT ORGANIZATIONS FROM ACROSS THE COUNTRY ARE ABLETO PROVIDE MUCH NEEDED SUPPORT TO VULNERABLE CANADIANS.AND THEY WILL BE ABLE TO DO THISBY FLOWING THE MONEY QUICKLY TO EVERYONE, INCLUDING LOCAL COMMUNITY-BASED ORGANIZATIONS THAT HAVE THE RELATIONSHIPS THATKNOW THE PEOPLE IN THEIR COMMUNITIES WHO NEED THESE SERVICES IMMEDIATELY.THIS MONEY WILL HELP GROUPS LIKETHOSE IN EASTERN ONTARIO THAT ARE WORKING TO PROVIDE MEALS TO THOSE WHO CANNOT LEAVE THEIR HOMES.WHO ARE NOT ABLE TO DO THAT.IT WOULD ALSO HELP ORGANIZATIONSSUCH AS THE ATLANTIC COMPASSION FUND, OR THE VANCOUVER FOUNDATION WHICH IS PROVIDING MUCH NEEDED SUPPORT TO WOMEN FLEEING DOMESTIC VIOLENCE.WE KNOW THESE ARE VERY DIFFICULTTIMES FOR CANADIANS, BUT THE GOVERNMENT OF CANADA IS WORKING TO ENSURE THAT THOSE ORGANIZATIONS THAT CANADIANS ARERELYING ON HAVE THE RESOURCES THAT THEY NEED SO THEY CAN CONTINUE TO HELP CANADIANS NOW AND INTO THE FUTURE.I WANT TO THANK ALL THE ORGANIZATIONS, CHARITIES, AND COMMUNITY LEADERS, INCLUDING FAITH LEADERS, THAT HAVE REACHEDOUT TO ME AND MY COLLEAGUES OVERTHE LAST NUMBER OF WEEKS FOR THEIR HARD WORK ON THIS AND THEIR FEEDBACK AND THEIR GUIDANCE ON HOW TO GET THIS RIGHT.LASTLY, I WANT TO THANK THE VOLUNTEERS AND THE FRONT-LINE WORKERS, THE SERVICE PROVIDERS, WHO ARE TIRELESSLY WORKING DAY AND NIGHT TO PROVIDE MUCH NEEDEDCRITICAL SERVICES TO OUR MOST VULNERABLE IN THEIR HOMES AND INTHEIR COMMUNITIES.THANK YOU SO MUCH FOR EVERYTHINGTHAT YOU DO.[Speaking French][Voice of Interpreter] WE ARE HERE FOR YOU.THANK YO
+
+THANK YOU VERY MUCH, BONJOUR.WHEN THE EXPERIENCE PERSONAL DIFFICULTIES AS A RESULT OF NATURAL DISASTERS, BE IT WILDFIRES IN BRITISH COLUMBIA ORTORNADO RIGHT HERE IN OTTAWA, ORSOMETHING CLOSER TO HOME, LIKE LOSING A JOB, THAT EVERY TIME COUNTLESS CHARITIES ACROSS THE COUNTRY ARE THERE TO HELP THEM.THEY'RE THERE TO STEP UP AND HELP THEM IN EVERY WAY THEY CAN.CANADIAN CHARITIES AND NON-PROFITS ARE THERE TO HELP USIN OUR TIME OF NEED.[Speaking French][Voice of Interpreter] CHARITY ORGANIZATIONS ARE ALWAYS THERE TO HELP CANADIANS IN TIMES OF NEED.[End of Translation] BRINGING REAL CHALLENGES TO THESE REALLY IMPORTANT ORGANIZATIONS.AT THE VERY TIME THAT COUNTLESS CANADIANS ACROSS THE COUNTRY ARERELYING ON THESE ORGANIZATIONS, SOME FOR THE VERY FIRST TIME, CANADIAN CHARITIES AND NON-PROFITS ARE HAVING TO DEAL WITH EXTRA COSTS PROCURING AND OBTAINING PERSONAL PROTECTIVE EQUIPMENT, INCREASED COSTS AS A RESULT OF STAFFING SHORTAGES.OTHER CHALLENGES AS A RESULT OF GETTING MATERIALS NEEDED TO DO THEIR WORK.AND TO MAKE MATTERS WORSE, THEY ALSO EXPERIENCING A DRAMATIC DROP IN THE AMOUNT OF DONATIONS THEY USUALLY RECEIVE.AT A TIME WHEN CANADIAN CHARITIES AND NON-PROFIT ORGANIZATIONS ARE ASKED TO DO MORE BY CANADIANS WHO NEED THEIRSERVICES, THEY'RE SEEING A DROP IN DONATIONS AND THE NUMBER OF VOLUNTEERS THEY CAN RELY ON.THIS HAS A DIRECT IMPACT ON VULNERABLE CANADIANS.LIKE OLDER CANADIANS, PEOPLE WITH DISABILITIES, RACIALIZED CANADIANS, INCLUDING BLACK-CANADIANS, ARE BEING SIGNIFICANTLY IMPACTED BY THESE DEVELOPMENTS.SO OUR MESSAGE TO CANADA'S COMMUNITY ORGANIZATIONS AND CHARITIES IS THAT WE WILL SUPPORT YOU.THE TIME THAT MORE AND MORE CANADIANS ARE CALLING ON YOU TO PROVIDE MORE SERVICES FOR THEM, WE WILL SUPPORT YOU SO THAT YOU CAN MEET THAT REQUEST, SO THAT YOU CAN ANSWER THAT CALL.AS THE PRIME MINISTER SAID, WE HAVE YOUR BACK.THAT IS WHY THE PRIME MINISTER ANNOUNCED THAT WE ARE PROVIDING $350 MILLION TO SUPPORT IN EMERGENCY FASHION TO HELP CHARITIES AND NON-PROFIT ORGANIZATIONS ADAPT THEIR FRONTLINE SERVICES TO VULNERABLECANADIANS DURING COVID-19.[Speaking French][Voice of Interpreter] THAT'S WHY THE PRIME MINISTER ANNOUNCED UP TO $350 MILLION IN EMERGENCY FUNDING FOR CHARITY ORGANIZATIONS AND NON-PROFIT ORGANIZATIONS.THESE ORGANIZATIONS ARE PROVIDING HELP TO CANADIANS DURING COVID-19.[End of Translation] LIKE THE UNITED WAY, THE CANADIAN RED CROSS AND COMMUNITY FOUNDATIONS OF CANADA, TO ENSURE CHARITIES AND NON-PROFIT ORGANIZATIONS FROM ACROSS THE COUNTRY ARE ABLETO PROVIDE MUCH NEEDED SUPPORT TO VULNERABLE CANADIANS.AND THEY WILL BE ABLE TO DO THISBY FLOWING THE MONEY QUICKLY TO EVERYONE, INCLUDING LOCAL COMMUNITY-BASED ORGANIZATIONS THAT HAVE THE RELATIONSHIPS THATKNOW THE PEOPLE IN THEIR COMMUNITIES WHO NEED THESE SERVICES IMMEDIATELY.THIS MONEY WILL HELP GROUPS LIKETHOSE IN EASTERN ONTARIO THAT ARE WORKING TO PROVIDE MEALS TO THOSE WHO CANNOT LEAVE THEIR HOMES.WHO ARE NOT ABLE TO DO THAT.IT WOULD ALSO HELP ORGANIZATIONSSUCH AS THE ATLANTIC COMPASSION FUND, OR THE VANCOUVER FOUNDATION WHICH IS PROVIDING MUCH NEEDED SUPPORT TO WOMEN FLEEING DOMESTIC VIOLENCE.WE KNOW THESE ARE VERY DIFFICULTTIMES FOR CANADIANS, BUT THE GOVERNMENT OF CANADA IS WORKING TO ENSURE THAT THOSE ORGANIZATIONS THAT CANADIANS ARERELYING ON HAVE THE RESOURCES THAT THEY NEED SO THEY CAN CONTINUE TO HELP CANADIANS NOW AND INTO THE FUTURE.I WANT TO THANK ALL THE ORGANIZATIONS, CHARITIES, AND COMMUNITY LEADERS, INCLUDING FAITH LEADERS, THAT HAVE REACHEDOUT TO ME AND MY COLLEAGUES OVERTHE LAST NUMBER OF WEEKS FOR THEIR HARD WORK ON THIS AND THEIR FEEDBACK AND THEIR GUIDANCE ON HOW TO GET THIS RIGHT.LASTLY, I WANT TO THANK THE VOLUNTEERS AND THE FRONT-LINE WORKERS, THE SERVICE PROVIDERS, WHO ARE TIRELESSLY WORKING DAY AND NIGHT TO PROVIDE MUCH NEEDEDCRITICAL SERVICES TO OUR MOST VULNERABLE IN THEIR HOMES AND INTHEIR COMMUNITIES.THANK YOU SO MUCH FOR EVERYTHINGTHAT YOU DO.[Speaking French][Voice of Interpreter] WE ARE HERE FOR YOU.THANK YOU.
+
 
 
 **Chrystia Freeland (Deputy Prime Minister)**:
-Thank yo
-Now we will hear from the president of the treasury boar
-Jean-yves 
+Thank you.
+Now we will hear from the president of the treasury board, jean-yves 
 
 
 
-**Ho
+**Hon.
 Jean-Yves Duclos**:
-Thank yo
-The spread of COVID-19 has brought about unprecedented circumstances for Canadian businesses and worker
-Our government is committed to helping Canadian employers support their employees during these very tough time
-That is why the Prime Minister again this morning has reiterated and announced the introduction of the Canada emergency wage subsidy in order to help businesses support their employees in these very difficult times.[speaking french][voice of interpreter] our government is committed to helping canadian businesses and their employees during these difficult time
-That is why this morning the Prime Minister announced new information about the Canada emergency wage subsidy which will help employers pay their employees' salaries during the COVID-19 crisis.[end  translation] designed tohelp employers keep and rehire workers amidst the challenges possessed by the COVID-19 epidemi
-Having  ability to retain staff and rehire people will putemployers in the  possible position to resume normal circumstances once circumstancesdo allow i
- health and wellness of Canadians is almost -- is also that much better when people have the ability to pay their bills, their rent and buy food for their familie
-It is a government's intent to keep as many Canadians working as possible and the implementation of the Canada emergency wage subsidy is one ofthe measures in  to supportthis goal.[speaking french][voice  interpreter] the Canada emergency wage subsidy covers upto 75% of employees' salarie
-This  be up to $847 per worker per week for up to a maximum of 12 week
-The subsidy is back dated to march 15 and businesses will be able to apply as of next monda
-April 2
-The Canada revenue  will administer the wage subsidy programme on behalf of the  of Canad
-This programme will send funds to  of canadian businesses each wee
-The Canada revenue agency is committed to helping workers andbusinesses.[end of translation] announcing a  emergency wage subsidy web pag
-The page includes a calculator that will help employers to determine quickly the subsidy amount they can expect to claim based on the information that they enter into the calculato
-The government is grateful for the input we have received from many stakeholders during our consultations in the last few week
-These consultations have led to the efficient and quick launch of the website to date.[speaking french][voice of interpreter] I am happy to announce to Canadians that todaythe Canada revenue agency is launching a calculator  its website to help employers prepare for their application to the wage subsidy which will helptheir employee
-We thank business representatives and all  who have helped in preparing this web page.[end of translation] Canada wagesubsidy as of april 2
-It is expected that 90% of  applications will  been processed by the 5th of may withdirect deposits and cheques madeand sent  afte
-Until  businesses are invited  update their businessaccount on the Canada revenue agency's websit
-Technical debriefing  will also be offered this afternoon to the media.[speaking french][voice of interpreter] businesses will be able to file their applications for the Canada emergency wage subsidy as of april 27t
-We expect that 90% of applications will have been processed   5th and this will quickly be followed by direct deposits and  being sent ou
-Until then, businesses are invited to update their profileson the Canada revenue agency websit
-This afternoon, there will be a technical briefing for medi
-Our government is committed to continue to support businesses and workers who are facing unprecedented challenges in the context of the pandemi
-Thank yo
-Now we're ready to take question
+Thank you.
+The spread of  has brought about unprecedented circumstances for Canadian businesses and workers.
+Our government is committed to helping Canadian employers support their employees during these very tough times.
+That is why the Prime Minister again this morning has reiterated and announced the introduction of the Canada emergency wage subsidy in order to help businesses support their employees in these very difficult times.[speaking french][voice of interpreter] our government is committed to helping canadian businesses  their employees during these difficult times.
+That is why this morning the Prime Minister announced new information about the Canada emergency wage subsidy which will help employers pay their employees' salaries during the COVID-19 crisis.[end  translation] designed tohelp employers keep  rehire workers amidst the challenges possessed by the COVID-19 epidemic.
+Having  ability to retain staff and rehire people will putemployers in the  possible position to resume normal circumstances once circumstancesdo allow it.  health and wellness of Canadians is almost -- is also that much better when people have the ability to pay their bills, their rent and buy food for their families.
+It is a government's intent to keep as many Canadians working as possible and the implementation of the Canada emergency wage subsidy is one ofthe measures in  to supportthis goal.[speaking french][voice  interpreter] the Canada emergency wage subsidy covers upto 75% of employees' salaries.
+This  be up to $847 per worker per week for up to a maximum of 12 weeks.
+The subsidy is back dated to march 15 and businesses will be able to apply as of next monday, april 27. The Canada revenue   administer the wage subsidy programme on behalf of the  of Canada.
+This programme will send funds to  of canadian businesses each week.
+The Canada revenue agency is committed to helping workers andbusinesses.[end of translation] announcing a  emergency wage subsidy web page.
+The page includes a calculator that will help employers to determine quickly the subsidy amount they can expect to claim based on the information that they enter into the calculator.
+The government is grateful for the input we have received from many stakeholders during our consultations in the last few weeks.
+These consultations have led to the efficient and quick launch of the website to date.[speaking french][voice of interpreter] I am happy to announce to Canadians that todaythe Canada revenue agency is launching a calculator  its website to help employers prepare for their application to the wage subsidy which will helptheir employees.
+We thank business representatives and all  who have helped in preparing this web page.[end of translation] Canada wagesubsidy as of april 27. It is expected that 90% of  applications will  been processed by the 5th of may withdirect deposits and cheques madeand sent  after.
+Until  businesses are invited  update their businessaccount on the Canada revenue agency's website.
+Technical debriefing  will also be offered this afternoon to the media.[speaking french][voice of interpreter] businesses will be able to file their applications for the Canada emergency wage subsidy as of april 27th.
+We expect that 90% of applications will have been processed   5th and this will quickly be followed by direct deposits and  being sent out.
+Until then, businesses are invited to update their profileson the Canada revenue agency website.
+This afternoon, there will be  technical briefing for media.
+Our government is committed to continue to support businesses and workers who are facing unprecedented challenges in the context of the pandemic.
+Thank you.
+Now we're ready to take questions.
+
 
 
 THERE ARE THREE QUESTIONS ON THE PHONE.ONE QUESTION, ONE FOLLOW-UP.OPERATOR?
@@ -255,31 +248,28 @@ THANK YOU.PLEASE PRESS STAR 1 IF YOU HAVE A QUESTION.[Speaking French][Speaking 
 
 
 
-SO THERE WILL BE A TECHNICAL BRIEFING, THERE ARE CURRENTLY SOUND DIFFICULTIES.OUR NEXT QUESTION IS FROM CBC JAMIE STRASHI
-
-
-MY QUESTION IS FOR D
-TAM.D
-TAM, YOUR COUNTERPART IN THEU.S., D
-FAUCI, TALKED LAST WEEK ABOUT A ROAD BACK FOR PROFESSIONAL SPORTS, GAMES PLAYED WITHOUT ANY FANS IN THE STANDS.I'M JUST WONDERING, DO YOU THINKSIMILAR THING COULD HAPPEN IN CANADA?AND COULD I JUST GET YOUR THOUGHTS ON THE POTENTIAL RETURNOF PROFESSIONAL SPORTS IN CANADA?
+SO THERE WILL BE A TECHNICAL BRIEFING, THERE ARE CURRENTLY SOUND DIFFICULTIES.OUR NEXT QUESTION IS FROM CBC JAMIE STRASHIN.
 
 
 
-**D
-Theresa Tam**:
-So right now together with all the chief medical officers of health, we're looking at the next phas
-If you like, again stressing extreme caution in how we have to keep going right now with the measures that we hav
-We know that population immunity is not going to be hig
-So we have to move extremely carefull
-I think we will be looking at all different kinds of  activities and providing what -- there has to be a risk-based approach, a riskassessment, and that will include this are
-So -- but I think as some of these innovative thinking is coming together, these are some of the ideas, but again that two-metre distance and ensuring that we don't spread the illnessis extremely  which ever solution people are going to think o
-So absolutely, I think every sector should begin some thinking about how innovative they can be in maintaining social distanc
-Because we don't have other specific measures to treat or vaccines, so any sort of -- the new normal must take into account stopping the spread of the virus like we have no
-But I think -- the other perspective I have is just engaging the communities and thesectors that  looking at their own specific situations, because public health can't possibly assess every settin
-We can provide guidance as to how you maintain safety and the health of the population and theclients will  people they serv
+MY QUESTION IS FOR DR. TAM.DR. TAM, YOUR COUNTERPART IN THEU.S., DR. FAUCI, TALKED LAST WEEK ABOUT A ROAD BACK FOR PROFESSIONAL SPORTS, GAMES PLAYED WITHOUT ANY FANS IN THE STANDS.I'M JUST WONDERING, DO YOU THINKSIMILAR THING COULD HAPPEN IN CANADA?AND COULD I JUST GET YOUR THOUGHTS ON THE POTENTIAL RETURNOF PROFESSIONAL SPORTS IN CANADA?
 
 
-FOLLOW-U
+
+**Dr. Theresa Tam**:
+So right now together with all the chief medical officers of health, we're looking at the next phase, if you like, again stressing extreme caution in how we have to keep going right now with the measures that we have.
+We know that population immunity is not going to be high.
+So we have to move extremely carefully.
+I think we will be looking at all different kinds of  activities and providing what -- there has to be a risk-based approach, a riskassessment,  that will include this area.
+So -- but I think as some of these innovative thinking is coming together, these are some of the ideas, but again that two-metre distance and ensuring that we don't spread the illnessis extremely  which ever solution people are going to think of. So absolutely, I think every sector should begin some thinking about how innovative they can be in maintaining social distance.
+Because we don't have other specific measures to treat or vaccines, so any sort of -- the new normal must take into account stopping the spread of the virus like we have now.
+But I think -- the other perspective I have is just engaging the communities and thesectors that  looking at their own specific situations, because public health can't possibly assess every setting.
+We can provide guidance as to how you maintain safety and the health of the population and theclients will  people they serve.
+
+
+
+FOLLOW-UP.
+
 
 
 **Reporter**:
@@ -287,15 +277,16 @@ Just to be more specific, would you be supportive of games played in Canada befo
 
 
 
-**D
-Theresa Tam**:
-I think, together with the other chief medical officers, we'll have to look at what plans there are with the people that are actually going to be potentially in contact with each othe
-I think for sure crowded conditions, mass gatherings, is not in any of our near futur
-I think that is pretty eviden
-As to whether certain activities can be done safely, that needs further assessmen
+**Dr. Theresa Tam**:
+I think, together with the other chief medical officers, we'll have to look at what plans there are with the people that are actually going to be potentially in contact with each other.
+I think for sure crowded conditions, mass gatherings, is not in any of our near future.
+I think that is pretty evident.
+As to whether certain activities can be done safely, that needs further assessment.
 
 
-THANK YOU, DOCTOR.THE NEXT QUESTION, PLEAS
+
+THANK YOU, DOCTOR.THE NEXT QUESTION, PLEASE.
+
 
 
 NEXT QUESTION IS [Speaking French][Speaking French][Voice of Interpreter].
@@ -303,97 +294,86 @@ NEXT QUESTION IS [Speaking French][Speaking French][Voice of Interpreter].
 
 
 **Reporter**:
-Your predictions were that we would have between 1200 and 1600 deaths by today and in fact we're at 170
-That's the second time your short-term predictions are of
+Your predictions were that we would have between 1200 and 1600 deaths by today and in fact we're at 1700.
+That's the second time your short-term predictions are off.
 My question is should we still trust them?and more specifically when you're looking at quÉbec where there are now 54% of all canadian deaths,  you concerned about the situation?is there something quÉbec is doing wrong that would explain the situation?
 
 
 
-**D
-Theresa Tam**:
-So as we've always said modelling is for planning purposes and not there to accurately tell you what the numbers are every single da
-and every single day we relook at those projections, they will change depending on the actual cases reporte
-So as I said several days ago, the 24 hours following that, those projections will already have change
-So I think that is some of the difficulty if you're trying to communicate where we're a
-It is in a similar range of the severit
-and it is a reflection of the population that is most impacted right now in many areas of the country and those are the seniors and those who are in long-term care home
-So absolutely this is a reflection I think of the actualepidemiology  this illness in Canad
-So I think every jurisdiction must do the utmost to enhance infection prevention control in all of those settings, so that'sabsolutely critica
-I think any model is going to tell you that -- what we're doing right now is going to change the trajector
-Those models are very sensitive to what we do today in terms of projecting into the short or further down the roa
-So, you know, I think everythingmust  done to change the cours
-and it is up to everyone who is responding to help do tha
+**Dr. Theresa Tam**:
+So as we've always said modelling is for planning purposes and not there to accurately tell you what the numbers are every single day.
+and every single day we re look at those projections, they will change depending on the actual cases reported.
+So as I said several days ago, the 24 hours following that, those projections will already have changed.
+So I think that is some of the difficulty if you're trying to communicate where we're at. It is in a similar range of the severity.
+and it is a reflection of the population that is most impacted right now in many areas of the country and those are the seniors and those who are in long-term care homes.
+So absolutely this is a reflection I think of the actualepidemiology  this illness in Canada.
+So I think every jurisdiction must do the utmost to enhance infection prevention control in all of those settings, so that'sabsolutely critical.
+I think any model is going to tell you that -- what we're doing right now is going to change the trajectory.
+Those models are very sensitive to what we do today in terms of projecting into the short or further down the road.
+So, you know, I think everythingmust  done to change the course.
+and it is up to everyone who is responding to help do that.
+
 
 
 **Reporter**:
-Well, as a follow-up, you haven't addressedthe  of quÉbe
-Now that the province which represents roughly 23% of the population has 54% of all death
+Well, as a follow-up, you haven't addressedthe  of quÉbec.
+Now that the province which represents roughly 23% of the population has 54% of all deaths.
 How do you explain that?and should we start to think that maybe quÉbec is not doing something right?
 
 
 
-**D
-Theresa Tam**:
-I think we do know that many of the cases are linked to long-term care facilities, so I think My answerstays  sam
-It's not the only jurisdiction, in fact, many provinces have outbreaks related to facilitie
-But it is a major challenge in the context of quÉbe
-I know that the -- from a publichealth  they are, you know, escalating and trying to manage that situatio
+**Dr. Theresa Tam**:
+I think we do know that many of the cases are linked to long-term care facilities, so I think My answerstays  same.
+It's not the only jurisdiction, in fact, many provinces have outbreaks related to facilities, but it is a major challenge in the context of quÉbec.
+I know that the -- from a publichealth  they are, you know, escalating and trying to manage that situation.
 
 
-THANK YOU, DOCTOR.ONE LAST QUESTION ON THE PHONE BEFORE WE TURN TO THE ROO
+
+THANK YOU, DOCTOR.ONE LAST QUESTION ON THE PHONE BEFORE WE TURN TO THE ROOM.
 
 
-THANK YOU.NEXT QUESTION.LA PRESS
+
+THANK YOU.NEXT QUESTION.LA PRESSE.
+
 
 
 **Reporter**:
-[speaking french][voice of interpreter] thank yo
-My first question is for Minister duclo
+[speaking french][voice of interpreter] thank you.
+My first question is for Minister duclos.
  will you be calculating the emergency wage subsidy payments for thousands of businesses in the country and how will you do it quickly?
 
 
 
-ANSWER, THANK YOU FOR THIS QUESTION.YOU ARE VERY RIGHT THAT THESE CALCULATIONS WILL BE RATHER COMPLEX AND IT IS URGENT.WE WANT TO HELP BUSINESSES TO MAINTAIN THEIR EMPLOYEES AND REHIRE THEM AND AS QUICKLY AS POSSIBLE.WHAT WE'RE ANNOUNCING TODAY IS ANEW CALCULATOR BEING LAUNCHED ONTHE C.R.
-WEBSITE AS WELL AS A WHOLE HOST OF INFORMATION ON THEC.R.
-WEB PAGE, SO THAT EMPLOYERS AND BUSINESSES WILL BEREADY TO APPLY A AS OF APRIL 27.I'VE HAD A LOOK AT THE WEBSITE MYSELF.IT'S COMPLETE, IT'S INFORMATIVE.IT WILL HELP BUSINESSES TO PREPARE THEIR APPLICATIONS ON APRIL 27 AND ALSO HELP BUSINESSES MAKE DECISIONS REGARDING REHIRING THEIR EMPLOYEES IF THEY HAVEN'T ALREADY MADE THESE DECISIONS.THE CANADA REVENUE AGENCY HAS EXTRAORDINARY EMPLOYEES.I'M CONFIDENT THAT THE C.R.
-WILL BE ABLE TO GET THE PAYMENTSOUT QUICKLY AS OF MAY 5TH.THEY WILL BE ABLE TO PAY OUT THESUBSIDIES THAT HAVE BEEN APPLIEDFO
+ANSWER, THANK YOU FOR THIS QUESTION.YOU ARE VERY RIGHT THAT THESE CALCULATIONS WILL BE RATHER COMPLEX AND IT IS URGENT.WE WANT TO HELP BUSINESSES TO MAINTAIN THEIR EMPLOYEES AND REHIRE THEM AND AS QUICKLY AS POSSIBLE.WHAT WE'RE ANNOUNCING TODAY IS ANEW CALCULATOR BEING LAUNCHED ONTHE C.R.A. WEBSITE AS WELL AS A WHOLE HOST OF INFORMATION ON THEC.R.A. WEB PAGE, SO THAT EMPLOYERS AND BUSINESSES WILL BEREADY TO APPLY A AS OF APRIL 27.I'VE HAD A LOOK AT THE WEBSITE MYSELF.IT'S COMPLETE, IT'S INFORMATIVE.IT WILL HELP BUSINESSES TO PREPARE THEIR APPLICATIONS ON APRIL 27 AND ALSO HELP BUSINESSES MAKE DECISIONS REGARDING REHIRING THEIR EMPLOYEES IF THEY HAVEN'T ALREADY MADE THESE DECISIONS.THE CANADA REVENUE AGENCY HAS EXTRAORDINARY EMPLOYEES.I'M CONFIDENT THAT THE C.R.A. WILL BE ABLE TO GET THE PAYMENTSOUT QUICKLY AS OF MAY 5TH.THEY WILL BE ABLE TO PAY OUT THESUBSIDIES THAT HAVE BEEN APPLIEDFOR.
+
 
 
 **Reporter**:
-Follow-up question.[end of translation] it's about the mask-wearing policy or instruction
-QuÉbec is working on scenario right now on a new scenario for as far as masks g
-I wonder if you're involved in these discussions and if you would make masks mandatory as they have been declared mandatory for air travel?
+Follow-up question.[end of translation] it's about the mask-wearing policy or instructions.
+QuÉbec is working on scenario right now on a new scenario for as far as masks go. I wonder if you're involved in these discussions and if you would make masks mandatory as they have been declared mandatory for air travel?
 
 
 
-**D
-Theresa Tam**:
-I think as work with all the chief medical officers of health, so any recommendations goes towards that table, the special advisory committee and it forms a guidance, a baseline on which jurisdictions will make certain recommendation
-Sure, I think having facial covering if you're not in the health care setting -- we've said you need to preserve actual personal protective equipment for that circumstanc
-and masks do not replace all the other important measures that we do know work in terms of physical distancing, hand-washing, hygienic measure
-But it does form another layer of protection, which can be applied when you can't maintain that two-metre distanc
-So that is -- depending on what setting you're talking about, that is something that definitely can be considere
-In the transportation on a plane, as one can imagine, social distancing would be quitechallenging, which is why that policy was added as well as in our quarantine act when we have now mandatory orders for symptomatic and asymptomatic travellers, isolation and quarantining for the 14 day
-We also now provide a requirement for the wearing of amask as  are transferring to their place of quarantine as wel
-
-
-THANK YOU, DOCTOR.D
-NJOO.[Speaking French][Voice of Interpreter] I WOULD LIKE THIS REPEAT THE ANSWER IN FRENCH.D
-TAM AND I ARE WORKING VERY CLOSELY WITH OUR COUNTERPARTS, THE CHIEF MEDICAL OFFICERS OF THE PROVINCES AND TERRITORIES.TOGETHER, WE SIT ON A SPECIAL ADVISORY COMMITTEE.YESTERDAY D
-ARRUDA, THE CHIEF MEDICAL OFFICER OF QUÉBEC SAID SOMETHING THAT IS IN LINE WITH WHAT D
-TAM AND I HAVE BEEN SAYING.WEARING A NONMEDICAL MASK CAN PROTECT OTHERS, BUT IT DOES NOT REPLACE PROVEN PUBLIC HEALTH MEASURES SUCH AS PRACTISING PHYSICAL DISTANCING, PRACTISING HAND HYGIENE, AND ALL OTHER HYGIENE MEASURES.HOWEVER, IN SOME SETTINGS IT IS NOT POSSIBLE TO PHYSICAL DISTANCE.FOR EXAMPLE, WHEN TAKING PUBLIC TRANSIT OR WHEN GROCERY SHOPPING.SO THOSE ARE SITUATIONS IN WHICHWE CAN WEAR A NONMEDICAL MASK.WE MUST MAKE SURE TO PRESERVE MASKS FOR THOSE WHO WORK ON THE FRONT LINES IN OUR HEALTH CARE SYSTE
-
-
-THE QUESTION FOR THE HEALTH MINISTER, BUT PERHAPS MINISTER FREELAND OR D
-TAM.KRISTEN BEATON WAS ONE OF THE VICTIMS IN THE NOVA SCOTIA SHOOTING AND WAS A FRONT LINE HEALTH CARE WORKER PROVIDING CONTINUING CARE.HER HUSBAND TOLD NEWS THIS MORNING BEFORE THE TRAGEDY STRUCK THE FAMILY, THEY WERE ALREADY LIVING UNDER QUITE A GREAT DEAL OF STRESS.SHE WAS COMING HOME AND VERY TERRIFIED SHE WOULD PASS ON SOMETHING TO HER CHILDREN AND FAMILY BECAUSE SHE WAS REUSING PROTECTIVE EQUIPMENT BECAUSE THERE WAS A SHORTAGE IN NOVA SCOTIA.THERE WAS NOT ENOUGH FOR HER ANDHER COLLEAGUES.WHAT DO YOU SAY TO THE BEATON FAMILY AND OTHER FRONT LINE HEALTH CARE WORKERS WHEN YOU HEAR STORIES LIKE THAT, THAT THERE IS NOT ENOUGH P.P.
-TO GOAROUND?
+**Dr. Theresa Tam**:
+I think as work with all the chief medical officers of health, so any recommendations goes towards that table, the special advisory committee and it forms a guidance, a baseline on which jurisdictions will make certain recommendations.
+Sure, I think having facial covering if you're not in the health care setting -- we've said you need to preserve actual personal protective equipment for that circumstance.
+and masks do not replace all the other important measures that we do know work in terms of physical distancing, hand-washing, hygienic measures, but it does form another layer of protection, which can be applied when you can't maintain that two-metre distance.
+So that is -- depending on what setting you're talking about, that is something that definitely can be considered.
+In the transportation on a plane, as one can imagine, social distancing would be quitechallenging, which  why that policy was added as well as in our quarantine act when we have now mandatory orders for symptomatic and asymptomatic travellers, isolation and quarantining for the 14 days.
+We also now provide a requirement for the wearing of amask as  are transferring to their place of quarantine as well.
 
 
 
-FIRST OF ALL, OBVIOUSLY, MY HEART IS WITH M
-BEATON IN THISTERRIBLE TIME OF LOSS.I CAN'T EVEN IMAGINE HOW HARD ITIS AND DIFFICULT IT IS FOR HIM AS HE LOSES HIS WIFE AND SOON-TO-BE CHILD AS I UNDERSTAND.ON THE ISSUE OF PERSONAL PROTECTIVE EQUIPMENT, I WILL TELL YOU THAT THE FEDERAL GOVERNMENT HAS BEEN SUPPORTING PROVINCES AND TERRITORIES TO PROCURE EQUIPMENT AS YOU KNOW OVER THE COURSE OF THE OUTBREAK AND PANDEMIC.WE'VE MANAGED TO WORK VERY WELL WITH PROVINCES AND TERRITORIES TO FULFILL THEIR REQUESTS FOR SUPPORT AROUND PERSONAL PROTECTIVE EQUIPMENT AND OTHER MEDICAL DEVICES.AS YOU HAVE HEARD US SAY MANY TIMES, IT'S BEEN A VERY CHALLENGING THING TO DO IN THE TIME OF THE GLOBAL PANDEMIC WHERE SUPPLY CHAINS ARE DISRUPTED, WHERE ALL COUNTRIES ARE SCRAMBLING TO BOOST THEIR CAPACITY TO PRODUCE P.P.E., INCLUDING CANADA.I WILL ALSO SAY THAT I KNOW THE PROVINCES HAVE BEEN WORKING TO ENSURE THEY'RE DISTRIBUTING P.P.
-TO THE HOSPITALS AND CAREFACILITIES.AND I WILL SAY TO M
-BEATON, WEALL HAVE TO REDOUBLE OUR EFFORTSSO THERE AREN'T STORIES OF PEOPLE WHO HAVE TO REUSE MASKS.THERE ARE A NUMBER OF CREATIVE IDEAS THAT HAVE COME FROM PARTNERS AROUND THE STERILIZATION OF MASKS.WE HAVE APPROVED COMPANIES IN CANADA THAT CAN DO THAT.THERE WILL BE MORE DOMESTIC PRODUCTION AND CAPACITY.BUT WHAT IT REMINDS ALL OF US WHO ARE THE ONES TRYING TO FACILITATE THIS NATIONAL RESPONSE IS THAT WE CAN LEAVE NOSTONE UNTURNED.NOT AT THE LOCAL LEVEL, NOT AT THE PROVINCIAL LEVEL AND NOT AT THE FEDERAL LEVE
+THANK YOU, DOCTOR.DR. NJOO.[Speaking French][Voice of Interpreter] I WOULD LIKE THIS REPEAT THE ANSWER IN FRENCH.DR. TAM AND I ARE WORKING VERY CLOSELY WITH OUR COUNTERPARTS, THE CHIEF MEDICAL OFFICERS OF THE PROVINCES AND TERRITORIES.TOGETHER, WE SIT ON A SPECIAL ADVISORY COMMITTEE.YESTERDAY DR. ARRUDA, THE CHIEF MEDICAL OFFICER OF QUÉBEC SAID SOMETHING THAT IS IN LINE WITH WHAT DR. TAM AND I HAVE BEEN SAYING.WEARING A NONMEDICAL MASK CAN PROTECT OTHERS, BUT IT DOES NOT REPLACE PROVEN PUBLIC HEALTH MEASURES SUCH AS PRACTISING PHYSICAL DISTANCING, PRACTISING HAND HYGIENE, AND ALL OTHER HYGIENE MEASURES.HOWEVER, IN SOME SETTINGS IT IS NOT POSSIBLE TO PHYSICAL DISTANCE.FOR EXAMPLE, WHEN TAKING PUBLIC TRANSIT OR WHEN GROCERY SHOPPING.SO THOSE ARE SITUATIONS IN WHICHWE CAN WEAR A NONMEDICAL MASK.WE MUST MAKE SURE TO PRESERVE MASKS FOR THOSE WHO WORK ON THE FRONT LINES IN OUR HEALTH CARE SYSTEM.
+
+
+
+THE QUESTION FOR THE HEALTH MINISTER, BUT PERHAPS MINISTER FREELAND OR DR. TAM.KRISTEN BEATON WAS ONE OF THE VICTIMS IN THE NOVA SCOTIA SHOOTING AND WAS A FRONT LINE HEALTH CARE WORKER PROVIDING CONTINUING CARE.HER HUSBAND TOLD NEWS THIS MORNING BEFORE THE TRAGEDY STRUCK THE FAMILY, THEY WERE ALREADY LIVING UNDER QUITE A GREAT DEAL OF STRESS.SHE WAS COMING HOME AND VERY TERRIFIED SHE WOULD PASS ON SOMETHING TO HER CHILDREN AND FAMILY BECAUSE SHE WAS REUSING PROTECTIVE EQUIPMENT BECAUSE THERE WAS A SHORTAGE IN NOVA SCOTIA.THERE WAS NOT ENOUGH FOR HER ANDHER COLLEAGUES.WHAT DO YOU SAY TO THE BEATON FAMILY AND OTHER FRONT LINE HEALTH CARE WORKERS WHEN YOU HEAR STORIES LIKE THAT, THAT THERE IS NOT ENOUGH P.P.E. TO GOAROUND?
+
+
+
+FIRST OF ALL, OBVIOUSLY, MY HEART IS WITH MR. BEATON IN THISTERRIBLE TIME OF LOSS.I CAN'T EVEN IMAGINE HOW HARD ITIS AND DIFFICULT IT IS FOR HIM AS HE LOSES HIS WIFE AND SOON-TO-BE CHILD AS I UNDERSTAND.ON THE ISSUE OF PERSONAL PROTECTIVE EQUIPMENT, I WILL TELL YOU THAT THE FEDERAL GOVERNMENT HAS BEEN SUPPORTING PROVINCES AND TERRITORIES TO PROCURE EQUIPMENT AS YOU KNOW OVER THE COURSE OF THE OUTBREAK AND PANDEMIC.WE'VE MANAGED TO WORK VERY WELL WITH PROVINCES AND TERRITORIES TO FULFILL THEIR REQUESTS FOR SUPPORT AROUND PERSONAL PROTECTIVE EQUIPMENT AND OTHER MEDICAL DEVICES.AS YOU HAVE HEARD US SAY MANY TIMES, IT'S BEEN A VERY CHALLENGING THING TO DO IN THE TIME OF THE GLOBAL PANDEMIC WHERE SUPPLY CHAINS ARE DISRUPTED, WHERE ALL COUNTRIES ARE SCRAMBLING TO BOOST THEIR CAPACITY TO PRODUCE P.P.E., INCLUDING CANADA.I WILL ALSO SAY THAT I KNOW THE PROVINCES HAVE BEEN WORKING TO ENSURE THEY'RE DISTRIBUTING P.P.E. TO THE HOSPITALS AND CAREFACILITIES.AND I WILL SAY TO MR. BEATON, WEALL HAVE TO REDOUBLE OUR EFFORTSSO THERE AREN'T STORIES OF PEOPLE WHO HAVE TO REUSE MASKS.THERE ARE A NUMBER OF CREATIVE IDEAS THAT HAVE COME FROM PARTNERS AROUND THE STERILIZATION OF MASKS.WE HAVE APPROVED COMPANIES IN CANADA THAT CAN DO THAT.THERE WILL BE MORE DOMESTIC PRODUCTION AND CAPACITY.BUT WHAT IT REMINDS ALL OF US WHO ARE THE ONES TRYING TO FACILITATE THIS NATIONAL RESPONSE IS THAT WE CAN LEAVE NOSTONE UNTURNED.NOT AT THE LOCAL LEVEL, NOT AT THE PROVINCIAL LEVEL AND NOT AT THE FEDERAL LEVEL.
+
 
 
 FOLLOW-UP?
@@ -401,112 +381,110 @@ FOLLOW-UP?
 
 
 **Reporter**:
-is there anything more that can be done in terms of providing greater supplies to personal protective equipment and also thinking about the federal government's role in testing as some provinces, namely Ontario, are having a difficult time meeting the goals they put out for testing and the importance that will come into play, so for POE and testin
-The federal role?
+is there anything more that can be done in terms of providing greater supplies to personal protective equipment and also thinking about the federal government's role in testing as some provinces, namely Ontario, are having a difficult time meeting the goals they put out for testing and the importance that will come into play, so for PPE.
+and testing, the federal role?
 
 
 
-WELL, WE ALL HAVE OUR EYE ON TESTING.IT WILL DEFINITELY BE PART OF THE STRATEGY THAT D
-TAM IS WORKING THROUGH WITH HER COLLEAGUES ON THE NEXT STEPS IN TERMS OF AS WE EMERGE FROM THE FIRST WAVE OF ILLNESS.CERTAINLY AT THE FEDERAL LEVEL, WE HAVE TOOLS THAT WE CAN SUPPORT THE PROVINCES AND TERRITORIES WITH AND WE HAVE BEEN.NAMELY, THAT IS FINANCIAL RESOURCES.THAT IS PRODUCT.AND IN THIS CASE, IN TESTING, IT'S APPROVAL OF TESTING CAPACITY AND THE EQUIPMENT THAT GOES.REAGENT AND THE CHEMICALS THAT PRODUCE REACT AND THE ABILITY TOMANUFACTURE THAT REAGENT.D
-TAM WORKS ON THAT GUIDANCE WITH HER COUNTERPARTS AND IT IS CONSTANTLY UNDER REVIEW AND BEING RENEWED AS WE RAMP UP OUR CAPACITY AND UNDERSTAND BETTER HOW TO REALLY GET A GOOD SENSE OF WHAT IS HAPPENING IN THE COUNTRY.I WILL SAY, AGAIN, AND THIS IS SIMILAR ANSWER, WE CAN ALL DO BETTER.WE CAN ALL DO MORE.I KNOW THAT VARIOUS PROVINCES AND TERRITORIES HAVE STRUGGLED WITH THEIR CAPACITY TO TEST AND WE ARE ALWAYS THERE TO SUPPORT THEM WHETHER IT'S PEOPLE, WHETHER IT'S FINANCIAL RESOURCESOR EQUIPMENT.WE'LL CONTINUE TO WORK WITH THE PROVINCES AND TERRITORIES TO UNDERSTAND WHAT THE PARTICULAR BARRIERS ARE IN THEIR CASE, IN TERMS OF THEIR LIMITATIONS AND WORK TO PROVIDE SOLUTIONS TO ALLEVIATE THOSE LIMITATION
-
-
-THANK YOU, MINISTE
-
-
-JULIE VAN DUSEN, CBC.THE U.
-ESTIMATES WILL NEED 300,000 PEOPLE TO DO CONTACT-TRACING.HOW MANY WILL CANADA NEED?AND HOW IS THAT TRAINING GOING SO FAR?
+WELL, WE ALL HAVE OUR EYE ON TESTING.IT WILL DEFINITELY BE PART OF THE STRATEGY THAT DR. TAM IS WORKING THROUGH WITH HER COLLEAGUES ON THE NEXT STEPS IN TERMS OF AS WE EMERGE FROM THE FIRST WAVE OF ILLNESS.CERTAINLY AT THE FEDERAL LEVEL, WE HAVE TOOLS THAT WE CAN SUPPORT THE PROVINCES AND TERRITORIES WITH AND WE HAVE BEEN.NAMELY, THAT IS FINANCIAL RESOURCES.THAT IS PRODUCT.AND IN THIS CASE, IN TESTING, IT'S APPROVAL OF TESTING CAPACITY AND THE EQUIPMENT THAT GOES.REAGENT AND THE CHEMICALS THAT PRODUCE REACT AND THE ABILITY TOMANUFACTURE THAT REAGENT.DR. TAM WORKS ON THAT GUIDANCE WITH HER COUNTERPARTS AND IT IS CONSTANTLY UNDER REVIEW AND BEING RENEWED AS WE RAMP UP OUR CAPACITY AND UNDERSTAND BETTER HOW TO REALLY GET A GOOD SENSE OF WHAT IS HAPPENING IN THE COUNTRY.I WILL SAY, AGAIN, AND THIS IS SIMILAR ANSWER, WE CAN ALL DO BETTER.WE CAN ALL DO MORE.I KNOW THAT VARIOUS PROVINCES AND TERRITORIES HAVE STRUGGLED WITH THEIR CAPACITY TO TEST AND WE ARE ALWAYS THERE TO SUPPORT THEM WHETHER IT'S PEOPLE, WHETHER IT'S FINANCIAL RESOURCESOR EQUIPMENT.WE'LL CONTINUE TO WORK WITH THE PROVINCES AND TERRITORIES TO UNDERSTAND WHAT THE PARTICULAR BARRIERS ARE IN THEIR CASE, IN TERMS OF THEIR LIMITATIONS AND WORK TO PROVIDE SOLUTIONS TO ALLEVIATE THOSE LIMITATIONS.
 
 
 
-**D
-Theresa Tam**:
-So contact-tracing is pretty much an everyday job for local and provincial public health authorities as wel
-So they are thinking this throug
-One area we stressed we need to make sure that enough capacity to contact-tracin
-and we have offered that suppor
-There is a number of volunteers and people who signed through a portal in terms of people who can hel
-So provinces can draw on those rosters in terms of support for contact-tracin
+THANK YOU, MINISTER.
+
+
+
+JULIE VAN DUSEN, CBC.THE U.S. ESTIMATES WILL NEED 300,000 PEOPLE TO DO CONTACT-TRACING.HOW MANY WILL CANADA NEED?AND HOW IS THAT TRAINING GOING SO FAR?
+
+
+
+**Dr. Theresa Tam**:
+So contact-tracing is pretty much an everyday job for local and provincial public health authorities as well.
+So they are thinking this through.
+One area we stressed we need to make sure that enough capacity to contact-tracing.
+and we have offered that support.
+There is a number of volunteers and people who signed through a portal in terms of people who can help.
+So provinces can draw on those rosters in terms of support for contact-tracing.
 But the numbers are up to individual, even the health authority at the local level, tofigure out how  they need and to let us know if they need anything else, but I know that the whole public health system knows that contact-tracing is going to be very important as welook towards that next 
 
 
 
 **Patty Hajdu (Minister of Health)**:
-I'll add, it is extremely important we understand the investments we make in public health, both fro ma prevention perspective and a public health perspective are critical to the next steps of whether you call it reopening the economy or moving forward in terms of recovering from the pandemi
-That if we don't have local health capacity we'll be hindered in our abilitie
-We have that conversation with provinces and territories at the health Minister tabl
-It is very important we continue to redouble our efforts to support public healt
-and I think D
-Tam is completely accurate when she says that public health is loca
-That this is something that happens at the municipal leve
-That is often funded provincially, but facilitated at the local level in partnership with municipalitie
+I'll add, it is extremely important we understand the investments we make in public health, both fro ma prevention perspective and a public health perspective are critical to the next steps of whether you call it reopening the economy or moving forward in terms of recovering from the pandemic.
+That if we don't have local health capacity we'll be hindered in our abilities.
+We have that conversation with provinces and territories at the health Minister table.
+It is very important we continue to redouble our efforts to support public health.
+and I think dry Tam is completely accurate when she says that public health is local.
+That this is something that happens at the municipal level.
+That is often funded provincially, but facilitated at the local level in partnership with municipalities.
+
 
 
 **Chrystia Freeland (Deputy Prime Minister)**:
-Contact-tracingis  we're all focused o
-I'll add one thin
-I had a good conversation with premier ford this mornin
-We talked about the significant progress that Ontario has made in testing and the big difference that is makin
-and we also talked about contact-tracing and how essential, as your question underscores, julie, how  contact-tracing is today and also going forwar
-and we talked about being very good at communicating with each other and being sure that if there is anything that Ontario needs to terms of support on contact-tracing, we will all be ready to provide i
+Contact-tracingis  we're all focused on. I'll add one thing.
+I had a good conversation with premier ford this morning.
+We talked about the significant progress that Ontario has made in testing and the big difference that is making.
+and we also talked about contact-tracing and how essential, as your question underscores, julie, how  contact-tracing is today and also going forward.
+and we talked about being very good at communicating with each other and being sure that if there is anything that Ontario needs to terms of support on contact-tracing, we will all be ready to provide it.
 
 
-OKAY.GREA
+
+OKAY.GREAT.
+
 
 
 **Reporter**:
-The next question is about the meat-packing plant
-I'm not sure if it's for patty hajd
- not sur
-We know the union sounded the alarm a week ago when there was 38 cases, now there is 48
-Somebody dropped the bal
-Who is going to make sure these places are safe to work in?and who can tell us if the meat packed in these COVID-19-filled plants is safe to eat?
+The next question is about the meat-packing plants.
+I'm not sure if it's for patty hajdu.
+ not sure.
+We know the union sounded the alarm a week ago when there was 38 cases, now there is 484.
+Somebody dropped the ball.
+Who is going to make sure these places are safe to work in?and who can tell us if the meat packed in these COVID-19-filled plants  safe to eat?
 
 
 
 **Patty Hajdu (Minister of Health)**:
-I'll start with the overview and then turn to D
-Tam because she's been involved in the meat packing plant outbreaks and other fa facilitie
-It's critical important that every sector realize and back to earlier comments, that every sector realize they are going to have to extremely thoughtful about the measures they take and put into place to protect their employees because it's not just a matter of a nice thing to do, it's an essential component to ensuring their industry remains strong and able to continue to provide the services or the goods that they -- that they provid
-We obviously support industry as well as public sectors in responses and public health agency of Canada is and has been working on guidance for a variety of different essential workers and we're very concerned about outbreaks in the food supply chai
-Obviously, this has a critical importance, not just to the industry, but to the many Canadians along that chain, but also the Canadians that ultimately end up being consumers of the products that farmers are producin
-So we have our eye on this very closely right no
-I'll turn to D
-Tam to talk about the details of that particular plan
+I'll start with the overview and then turn to dry Tam because she's been involved in the meat packing plant outbreaks and other fa facilities.
+It's critical important that every sector realize and back to earlier comments, that every sector realize they are going to have to extremely thoughtful about the measures they take and put into place to protect their employees because it's not just a matter of a nice thing to do, it's an essential component to ensuring their industry remains strong and able to continue to provide the services or the goods that they -- that they provide.
+We obviously support industry as well as public sectors in responses and public health agency of Canada is and has been working on guidance for a variety of different essential workers and we're very concerned about outbreaks in the food supply chain.
+Obviously, this has a critical importance, not just to the industry, but to the many Canadians along that chain, but also the Canadians that ultimately end up being consumers of the products that farmers are producing.
+So we have our eye on this very closely right now.
+I'll turn to dry Tam to talk about the details of that particular plant.
 
 
-**D
-Theresa Tam**:
-I think the outbreak investigation is very much in the jurisdiction of the province and Alberta and I know that My counterpart is working very hard with the local health authoritie
-So I think we're always there to support if they need extra support whether it's epidemiologists or others, but they're managing the investigation of this outbrea
-and what I will point out is that it's not just the workplace, but also, of course, the social environment of the workers making sure that they have the support they need to keep themselves safe and reduce transmission in the home settings as well as the work setting
-I think the details of exactly what happened in terms of the transmission, I think the Alberta chief medical officer will have a much greater detai
-I know that the risk is not Justin the plant itself, but is more perhaps in the families and the households and those contact
-So I think that is really important to clarif
-I think all essential workplaces must have the necessary protocols, administered protocols, physical and environmental adjustments and, as needed, whether they need masks or personal protective equipment or others that the workers might need should they not be able to physical distance or observe some of the other public health measure
-So I think those are some of the key aspect
+
+**Dr. Theresa Tam**:
+I think the outbreak investigation is very much in the jurisdiction of the province and Alberta and I know that My counterpart is working very hard with the local health authorities.
+So I think we're always there to support if they need extra support whether it's epidemiologists or others, but they're managing the investigation of this outbreak.
+and what I will point out is that it's not just the workplace, but also, of course, the social environment of the workers making sure that they have the support they need to keep themselves safe and reduce transmission in the home settings as well as the work settings.
+I think the details of exactly what happened in terms of the transmission, I think the Alberta chief medical officer will have a much greater detail.
+I know that the risk is not Justin the plant itself, but is more perhaps in the families and the households and those contacts.
+So I think that is really important to clarify.
+I think all essential workplaces must have the necessary protocols, administered protocols, physical and environmental adjustments and, as needed, whether they need masks or personal protective equipment or others that the workers might need should they not be able to physical distance or observe some of the other public health measures.
+So I think those are some of the key aspects.
 Of course, we provide the guidance that I think the implementation is never as easy as one sort of has on a piece 
 
 
 
 **Rosemary**:
-We're going to pull away from the federal briefin
-If you want to continue watching, go to our websit
-I'll bring in David  to help us wrap that u
-I will say, I take little glimmers of optimism where I can get them and D
-Tam did say  prevented an explosive outbreak in Canada as we've seen in other parts of the world".as we get to maybe the second phase of this, whatever that might bring, that is encouragingnew
- to you on what you wanted to talk abou
+We're going to pull away from the federal briefing.
+If you want to continue watching, go to our website.
+I'll bring in David  to help us wrap that up. I will say, I take little glimmers of optimism where I can get them and dry Tam did say  prevented an explosive outbreak in Canada as we've seen in other parts of the world".as we get to maybe the second phase of this, whatever that might bring, that is encouragingnews.
+ to you on what you wanted to talk about.
+
 
 
 **Reporter**:
-I think we're getting more clarity on the questions that were ran by Andrew  the conservative leader, but planes coming back from china empt
-and gotten a statement from the Minister of public services and procurement on what happene
-Two planes did come back from shanghai without their lead of POE Gear they were sent to ge
-One was a federal government ru
-One was undisclosed provincial government ru
-We don't know which provincial government this wa
-What happened they were caught up in congestion on the groun
-The planes were able to get in, but the trucks carrying the supplies couldn't get from the warehouse to the tarmac to load things on in the landing and takeoff window given to these Canadians plane
-I should point out that four planes did arrive over the weekend, carrying full loads of POE This is an ongoing problem at this airport because essentially every country in the world is looking for the same thing coming out of the same countr
-a lot relying on the same airpor
-I heard there was backlogs of trucks trying to get in the airport more than 20 hours lon
+I think we're getting more clarity on the questions that were ran by Andrew  the conservative leader, but planes coming back from china empty.
+and gotten a statement from the Minister of public services and procurement on what happened.
+Two planes did come back from shanghai without their lead of PPE.
+Gear they were sent to get.
+One was a federal government run.
+One was undisclosed provincial government run.
+We don't know which provincial government this was.
+What happened they were caught up in congestion on the ground.
+The planes were able to get in, but the trucks carrying the supplies couldn't get from the warehouse to the tarmac to load things on in the landing and takeoff window given to these Canadians planes.
+I should point out that four planes did arrive over the weekend, carrying full loads of PPE.
+This is an ongoing problem at this airport because essentially every country in the world is looking for the same thing coming out of the same country.
+a lot relying on the same airport.
+I heard there was backlogs of trucks trying to get in the airport more than 20 hours long.
