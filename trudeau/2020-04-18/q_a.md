@@ -6,7 +6,7 @@ Thank you.
 ---
 
 **Question**:
-[speaking french] [voice of interpreter] good morning. I have a question about this agreement with respect to the closure of the u. S.-canadian  We are concerned about not having enough medical equipment and medication. Do you believe that this agreement includes the same mechanisms in terms of timelinesor  you improved it?
+[speaking french] [voice of interpreter] good morning. I have a question about this agreement with respect to the closure of the US-canadian  We are concerned about not having enough medical equipment and medication. Do you believe that this agreement includes the same mechanisms in terms of timelinesor  you improved it?
 
 **Answer**:
 No, it's exactly the same mechanisms. We expect that essential goods and medical equipment and other items will continue to cross the border between our two countries, and that's what we will continue to ensure.[end of translation] the agreement is the same terms, just extended for another 30 days. It will ensure that we continue to get essential goods and services back and forth across the border.
@@ -19,7 +19,7 @@ No, it's exactly the same mechanisms. We expect that essential goods and medical
 Yes. With respect to those masks that were supposed to be coming from 3m, we know that it was extremely complicated because of the directives announced by president trump. Did you not think it would be a good idea to get some additional guarantees so that all those companies providing gowns and masks and so forth can continue to provide that equipment to Canada, so that we don't have to continue to rely on china?
 
 **Answer**:
-Yes, it is very important that we continue to receive essential protective equipment from around the world. Including the United States. We were very pleased to be able to ensure the continuity of 3m shipments, but we will continue to work closely with the u. S. administration so that we are sure to receive all the equipment we need.
+Yes, it is very important that we continue to receive essential protective equipment from around the world. Including the United States. We were very pleased to be able to ensure the continuity of 3m shipments, but we will continue to work closely with the US administration so that we are sure to receive all the equipment we need.
 
 ---
 
@@ -90,7 +90,7 @@ We have discussed the issue of commercial rent with the provinces. I had a good 
 ---
 
 **Question**:
-Ian wood CTV news. Prime Minister, b. C. has seen some success flattening the curve and has indicated it may look at loosening restrictions. You've said it is too soon and provinces like Ontario and quÉbec are still in the thick  Are you concerned the difference in messaging will enable people to disregard what is in place now?are you going to allow the provinces make the decision on re-opening or will the federal government need to give the green light?
+Ian wood CTV news. Prime Minister, BC has seen some success flattening the curve and has indicated it may look at loosening restrictions. You've said it is too soon and provinces like Ontario and quÉbec are still in the thick  Are you concerned the difference in messaging will enable people to disregard what is in place now?are you going to allow the provinces make the decision on re-opening or will the federal government need to give the green light?
 
 **Answer**:
 I think Canadians understand what we are doing now has been tough but is essential in getting through this in the best-possible way. Canadians are really worried if we reopen too quickly or too soon or in the wrong way, we could find ourselves back in this situation a couple of months from now. Everything we will have sacrificed during these months will have been for naught. We are being very, very careful how we are moving forward as a country. I have spoken extensively with the premiers about this issue, and everyone recognizes how cautious and careful and vigilant we need to be. There is a real desire to ensurewe  coordinating our messages, our guidelines, the principles that will underline how we move forward. But of course the situation is very different right across the country from one region to the next. The measures they will be able to move forward with at different moments will vary as well. That's going to be an important part of the recovery here. We need to make sure we are working together, as we have been in an unprecedented way between premiers and the federalgovernment and municipalities and various other communities, to make sure that we're doing the right kinds of things and that we're sending the right messages to Canadians every stepof  way. The message remains we have to be extremely careful to do this the right way in a coordinated and collaborative way.
@@ -106,7 +106,7 @@ I think ensuring the continued flow of groceries and our food supply chains is a
 ---
 
 **Question**:
-Ashley  CBC news. Harvard researchers have suggested that there needs to beat least 500. 000 tests being done a day in the u. S. in order to safely reopen the economy. What is the specific number of tests that Canada needs to hit daily to safely ease up restrictions here?
+Ashley  CBC news. Harvard researchers have suggested that there needs to beat least 500. 000 tests being done a day in the US in order to safely reopen the economy. What is the specific number of tests that Canada needs to hit daily to safely ease up restrictions here?
 
 **Answer**:
 I think every day we are working on new technologies. On better coordination, on accelerating the pace of testing. It has been somewhat uneven across the country. There are places that have done very, very well. There are some places that have faced challenges that they are busy overcoming. We are confident we are going to significantly ramp up testing. All the premiers recognize that extensive testing is an essential part of any plan to loosen the controls on people and start reopening or restarting the economy. This is something that the federal government is very much engaged in with the provinces, ensuring there are enough tests. There are enough swabs, there are enough reagents. These are the kinds of things that we are all working on together. We know we have to do much more than we are now and we are tracking towards doing that.
@@ -114,7 +114,7 @@ I think every day we are working on new technologies. On better coordination, on
 ---
 
 **Question**:
-Many of the cases in Canada have come from the United States you said the border agreement is going to stay in place. If the u. S. loosens restrictions in the next few weeks, what kind of health threat does that pose to Canadians?
+Many of the cases in Canada have come from the United States you said the border agreement is going to stay in place. If the US loosens restrictions in the next few weeks, what kind of health threat does that pose to Canadians?
 
 **Answer**:
 We have the border restrictions in place where non-essential travel across the border will not be permitted. We will take the measures necessary to keep Canadians safewhile  the flow of our essential supply chains on whichso  Canadians depend.[speaking french] [voice of interpreter] we will continue to be very vigilant about our borders and travelling coming from abroad and we will continueas well  work with the americans to  our own safety by maintaining the current measures at the border. At every step of the way, we will do what is necessary to protect Canadians and ensure that our supply chains remain open.[end of translation].
@@ -122,10 +122,10 @@ We have the border restrictions in place where non-essential travel across the b
 ---
 
 **Question**:
-Prime Minister, I'mwondering if you can tell us what the impact on Canada's stockpiles has been for p. P.e. When the government closed so many of its warehouses across the country.
+Prime Minister, I'mwondering if you can tell us what the impact on Canada's stockpiles has been for POE When the government closed so many of its warehouses across the country.
 
 **Answer**:
-Over the past weeks we've been focused on  P.e. To the provinces, on delivering the necessary equipment to ensure that our frontline  who are putting their lives forward to keep Canadians safe are properlyprotected.  efforts continue. I mentioned two plane loads coming in over this weekend. More coming in over the coming days. We are confident that we are in a good place around p. P.e., and we'll only get more as more and more Canadian producers and suppliers come online. It has been something extraordinary to see, the level to which Canadian manufacturers have been stepping up to get involved. We are in a much better place than we were a number of weeks ago. Of course there is a need for continued vigilance and there will of course be many lessons learned on how Canada can be better prepared for any future outbreaks than we were this time.
+Over the past weeks we've been focused on  To the provinces, on delivering the necessary equipment to ensure that our front line workers who are putting their lives forward to keep Canadians safe are  The efforts continue. I mentioned two plane loads coming in over this weekend. More coming in over the coming days. We are confident that we are in a good place around  and we'll only get more as more and more Canadian producers and suppliers come online. It has been something extraordinary to see, the level to which Canadian manufacturers have been stepping up to get involved. We are in a much better place than we were a number of weeks ago. Of course there is a need for continued vigilance and there will of course be many lessons learned on how Canada can be better prepared for any future outbreaks than we were this time.
 
 ---
 

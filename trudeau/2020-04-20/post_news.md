@@ -11,7 +11,7 @@ Borrowing a page from the Prime Minister of new Zealand  when she called on medi
 For the second time in2020 we've seen him leaning into the symbolism of his foal as Prime Minister to comfort people in a time of great tragedy. Iran flight 752 was just over a hundred days ago. The stark difference between then and now is just how much COVID-19 is robbing people the ability to go to rituals and milestones and seeking cold front from their loved ones. and being asked if we can relax things to allow that to happen. There is an acute focus on these18 murders, because as the killer went door to door, the police today are going door to door and making terrible and horrible discoveries. He pivoted to the point that it's not just -- it's people who are dying of cancer, people who are dying of heart disease, people dying of the ordinary run-of-the-mill things we see each year and the total inability of families to find comfort and seek relief from their grief with loved ones and gatherings and how difficult that is. This is why when he's asking thepolitical questions, he  I don't want to be bickering or arguing with anyone on this. It does seem there's going to bean agreement by the end of the day to sit in person once a weekand supplement that  virtualsittings. On fundamental  of life and death, nothing is working asit should because  this. Everything from parliament on down have to find ways to adapt.
 
 **Rosemary**:
-Thank you for this. I will come back to you if I have time. I wanted to go to  where we are speaking to Lenora the m. P. there.
+Thank you for this. I will come back to you if I have time. I wanted to go to  where we are speaking to Lenora the MP there.
 
 **Interview**:
 Thank you, rosier
@@ -65,7 +65,7 @@ Do you recognize how difficult this is because of the fact we're in the pandemic
 I definitely do. We're all on  We're not a Twitter-verse here in cumberland and colchester.  of us are of an age where we prefer facebook.  are actually reaching out andtalking  each other. a number of friends have posted things where they're broken-hearted because  their family members and they can't go and see them.
 
 **Rosemary**:
-Lenore  thank you for taking the time. Nova Scotia m. P. Lenore  We are all thinking about you and your riding.
+Lenore  thank you for taking the time. Nova Scotia MP Lenore  We are all thinking about you and your riding.
 
 **Interview**:
 Thank you very much from Nova Scotia. We love you. Thank you.

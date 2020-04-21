@@ -35,7 +35,7 @@ ON A FOLLOW-UP, KATE.
 ---
 
 **Question**:
-How would you say -- how would you describe your strategy?what has it been in terms of inside the p. M.o. Office to getting us through these tough times and how would you say -- how would you assess your own performance on that?
+How would you say -- how would you describe your strategy?what has it been in terms of inside the PMO  to getting us through these tough times and how would you say -- how would you assess your own performance on that?
 
 **Answer**:
 Our focus every step of the way has been listening to the best advice from experts and scientists on what we need to do to keep Canadians safe in this and to ensure that everything we're doing is giving Canadians the comfort and confidence that we're all in this together and that we are going to be there for each. I think that is key to making sure people are able to self-isolate and are able to take the difficult measures necessary to get us through thispandemic,  know as a country, as systems, and as government, we're there for each other and making sure that Canadians have support and know that we will get through this together, that has been key in getting through this together.

@@ -30,7 +30,7 @@ Prime Minister Trudeau:s WE'RE IN A SITUATION RIGHT NOW WHERE OUR PUBLIC HEALTH 
 Next question, Canadian press. Please go ahead.
 
 **Reporter**:
-Yes, Prime Minister. Thank you for talking to us. The n. D.p. is asking for, in terms of parliamentary sitings,  in-person day and two virtual sitings. You  only one virtual sitting. Can you explain why two is unaccepting?
+Yes, Prime Minister. Thank you for talking to us. The DP is asking for, in terms of parliamentary  one in-person day and two virtual sitings.  proposed only one virtual sitting. Can you explain why two is unaccepting?
 
 **Prime Minister Trudeau**:
 I think it is important that we have in-person sitings and one a week seems about the right number in a reduced fashion. But we also have been clear from the very beginning that we think there should be virtual sittings to allow parliamentarians from across the country who aren't within driving distance of ottawa  continue to participate and that is why we have been pushing for virtual sittings. We heard that they are incapable of standing up virtual sittings for this coming week. But we are very open to increasing them over the subsequent weeks because it's important that we be able to hear from all parliamentarians.
