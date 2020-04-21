@@ -143,6 +143,7 @@ module Trudeau
       @text.gsub!(/\bclergiman\b/, "clergyman")
       @text.gsub!(/\bchinaer\b/, "China")
       @text.gsub!(/\bhasso\b/, "has to")
+      @text.gsub!(/\bandone\b/, "and one")
     end
 
     def fix_acronyms_and_words
