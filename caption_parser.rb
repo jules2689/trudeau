@@ -45,7 +45,7 @@ class CaptionParser
     true
   end
 
-  def write_output(output_path)
+  def write_output(output_path, video_id)
     FileUtils.mkdir_p(output_path)
 
     @dialog.each do |key, entries|
@@ -53,6 +53,9 @@ class CaptionParser
       puts "Writing to #{path}"
       File.write(path, entries.map { |e| format_for_output(e) }.join("\n"))
     end
+
+    path = File.join(output_path, "video_id.txt")
+    File.write(path, video_id)
   end
 
   private
