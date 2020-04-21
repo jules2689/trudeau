@@ -13,7 +13,7 @@ jobs:
     - uses: actions/setup-ruby@v1
       with:
         ruby-version: '2.6'
-    - name: Generate Dialog
+    - name: Install Aspell
       run: |
         sudo apt-get install aspell aspell-en
     - name: Generate Dialog

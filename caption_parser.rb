@@ -128,7 +128,7 @@ class CaptionParser
     text.gsub!(/\bunited\s?states\b/, "United States")
     text.gsub!(/\bhaveto\b/, "have to")
     text.gsub!(/\btheresa tam\b/, "Theresa Tam")
-    text.gsub!(/\b(\w+s)in\b/, '\1 in') # sectorsin => sector in
+    text.gsub!(/\b(\w+s)in\b/, '\1 in') # sectorsin => sector in (etc..)
     text.gsub!(/\bbeable\b/, "be able")
     text.gsub!(/\bwhenwe\b/, "when we")
     text.gsub!(/\btobe\b/, "to be")
