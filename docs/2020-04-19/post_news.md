@@ -5,7 +5,7 @@
 The Prime Minister of Canada with his daily briefing, daily update on his government's approach to fighting the pandemic.
 I'll bring in the cbc's David Cochrane.
 a couple of points I would make, David from listening to the Prime Minister.
-There is no one, not any party that is asking for all MIPS to return tomorrow.
+There is no one, not any party that is asking for all MPs to return tomorrow.
 So, that just in case people got that impression.
 and there is nothing that would require all 338 M.P.s to come to ottawa tomorrow.
 They could continue to do their parliamentary work in their ridings if they chose not to come.
