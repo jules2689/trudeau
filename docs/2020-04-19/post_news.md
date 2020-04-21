@@ -5,7 +5,7 @@
 The Prime Minister of Canada with his daily briefing, daily update on his government's approach to fighting the pandemic.
 I'll bring in the cbc's David Cochrane.
 a couple of points I would make, David from listening to the Prime Minister.
-There is no one, not any party that is asking for all m. Performs to return tomorrow.
+There is no one, not any party that is asking for all MIPS to return tomorrow.
 So, that just in case people got that impression.
 and there is nothing that would require all 338 M.P.s to come to ottawa tomorrow.
 They could continue to do their parliamentary work in their ridings if they chose not to come.
@@ -21,12 +21,12 @@ They are saying that conservatives are not taking a responsible approach wanting
 So they can have question period as much as they want during this pandemic, wanting to hold the government to account for the actions it's take or not taking.
 The greens wanting to go completely virtual and the liberals and the n. D.p. Having an agreement to do one day in-person and then two days virtual.
 No. There is no requirement for all 338 to come back and nobody necessarily wants that.
-Absent an agreement, it is possible that an undetermined number of m. Performs could come back to parliament and insist on taking their seat.
+Absent an agreement, it is possible that an undetermined number of MPs could come back to parliament and insist on taking their seat.
 There was some unpredictability even when there was an agreement tos pa it a several weeks ago.
 Scott reid showed up to protest what was being done.
 So negotiations are continuing with public pronouncements being made by political leaders t. Conservatives essentially saying trudeau is not taking the accountable approach and if he can take questions from reporters every day and ministers can hold press conferences every day sitting next to Dr. Tam and Dr. Njoo, why can't they go down the hall into the house of commons and give some answers to the dully-elected members of the house of commons.
 There is no consensus on this.
-The bulk of the parties, which is the majority of the m. Performs, think that the conservatives are asking for too much.
+The bulk of the parties, which is the majority of the MPs, think that the conservatives are asking for too much.
 and the conservatives saying the government giving too little.
 
 
