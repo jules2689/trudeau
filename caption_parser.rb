@@ -169,6 +169,7 @@ class CaptionParser
     text.gsub!(/\bleekly\b/, "likely")
     text.gsub!(/\bstricker\b/, "stricter")
     text.gsub!(/\baboutthe\b/, "about the")
+    text.gsub!(/\bdroektly\b/, "directly")
 
     # Fix acronyms
     acronyms = {
