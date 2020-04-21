@@ -42,6 +42,7 @@ CLI::UI::Frame.open("Finding videos") do
   end
 end
 
+readme = []
 videos.each do |id, video|
   CLI::UI::Frame.open("#{video[:date]} - #{video[:title]}") do
     video_output_path = File.join(OUTPUT_PATH, video[:date])
@@ -55,9 +56,15 @@ videos.each do |id, video|
     parser = Trudeau::CaptionParser.new(captions)
     if parser.parse
       parser.write_output(video_output_path, id)
+      readme << "- #{video[:date]}"
+      readme << "  - [Trudeau](./#{video[:date]}/trudeau.md)"
+      readme << "  - [Q & A](./#{video[:date]}/q_a.md)"
+      readme << "  - [News before Trudeau](./#{video[:date]}/pre_news.md)"
+      readme << "  - [News after Trudeau](./#{video[:date]}/post_news.md)"
     end
   end
 end
 
+File.write(File.join(OUTPUT_PATH, 'README.md'), readme.join("\n"))
 
 

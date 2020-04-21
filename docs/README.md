@@ -1,0 +1,25 @@
+- 2020-04-21
+  - [Trudeau](./2020-04-21/trudeau.md)
+  - [Q & A](./2020-04-21/q_a.md)
+  - [News before Trudeau](./2020-04-21/pre_news.md)
+  - [News after Trudeau](./2020-04-21/post_news.md)
+- 2020-04-20
+  - [Trudeau](./2020-04-20/trudeau.md)
+  - [Q & A](./2020-04-20/q_a.md)
+  - [News before Trudeau](./2020-04-20/pre_news.md)
+  - [News after Trudeau](./2020-04-20/post_news.md)
+- 2020-04-19
+  - [Trudeau](./2020-04-19/trudeau.md)
+  - [Q & A](./2020-04-19/q_a.md)
+  - [News before Trudeau](./2020-04-19/pre_news.md)
+  - [News after Trudeau](./2020-04-19/post_news.md)
+- 2020-04-18
+  - [Trudeau](./2020-04-18/trudeau.md)
+  - [Q & A](./2020-04-18/q_a.md)
+  - [News before Trudeau](./2020-04-18/pre_news.md)
+  - [News after Trudeau](./2020-04-18/post_news.md)
+- 2020-04-17
+  - [Trudeau](./2020-04-17/trudeau.md)
+  - [Q & A](./2020-04-17/q_a.md)
+  - [News before Trudeau](./2020-04-17/pre_news.md)
+  - [News after Trudeau](./2020-04-17/post_news.md)
