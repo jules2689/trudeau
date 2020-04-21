@@ -11,8 +11,8 @@ gemfile do
   gem "byebug"
 end
 
-require_relative 'caption_parser'
-require_relative 'playlist_parser'
+require_relative 'lib/caption_parser'
+require_relative 'lib/playlist_parser'
 
 CLI::UI::StdoutRouter.enable
 TOKEN = File.exist?(File.expand_path("../.token", __FILE__)) ? File.read(File.expand_path("../.token", __FILE__)).strip : ARGV[0]
@@ -35,7 +35,7 @@ end
 
 videos = {}
 CLI::UI::Frame.open("Finding videos") do
-  parser = PlaylistParser.new(TOKEN)
+  parser = Trudeau::PlaylistParser.new(TOKEN)
   videos = parser.parse
   videos.each do |_, video|
     puts "#{video[:date]} - #{video[:title]}"
@@ -52,7 +52,7 @@ videos.each do |id, video|
     end
 
     captions = caption_download(id)
-    parser = CaptionParser.new(captions)
+    parser = Trudeau::CaptionParser.new(captions)
     if parser.parse
       parser.write_output(video_output_path, id)
     end
