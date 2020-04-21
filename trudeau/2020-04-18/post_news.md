@@ -2,7 +2,7 @@
 
 **Rosemary**:
 That is the Prime Minister of Canada on this Saturday morning, briefing Canadians on his government's actions to fight COVID-19. Let's bring in the cbc's Catharine Cullen Catharine, I'll pick up where the Prime Minister left off.
-It is of interest in Ottawa but it should be of interest to everyone.
+It is of interest in Ottawa bu tit should be of interest to everyone.
 If no agreement is reached, 338 people have to get back here formonday for parliament to sit.
 
 
@@ -142,14 +142,14 @@ You're talking about companies switching their supply chains to create things li
 
 **Interview**:
 Definitely.
-We have seen a couple of our indigenous members who have pivoted to ethanol and producing hand sanitizer and a number of businesses too who have been able to access masks.
+We have seen a couple of our indigenous members who have pivoted to ethanol and producing hand sanitize and a number of businesses too who have been able to access masks.
 Another great business abroflex has been able to pivot to makinggowns.
 We want to make sure those businesses have an opportunity to be part of the the federal supply chain and also to provide support to communities.
 
 
 
 **Rosemary**:
-Tabatha, thanks forsaking time for us.
+Tabatha, thanks for making time for us.
 
 
 
@@ -172,7 +172,7 @@ I do know the premier was asked yesterday and he had some frank comments about t
 
 
 **Reporter**:
-Really what we heard yesterday from quÉbec's premier, franÇois legault, was AMA culpa, about how the government of quÉbec has handled the situation of long-term care facilities during the COVID-19 pandemic, so much so that the government actually asked for assistance from the federal government to get canadian armedforces members to come into the province and help out in some ofthese facilities.
+Really what we heard yesterday from quÉbec's premier, franÇois legault, was am ea culpa, about how the government of quÉbec has handled the situation of long-term care facilities during the COVID-19 pandemic, so much so that the government actually asked for assistance from the federal government to get canadian armedforces members to come into the province and help out in some ofthese facilities.
 That's going to start today.
 There are going to be 125 armed forces members deployed in quÉbec to help in these facilities.
 We heard from the canadian armedforces that that is starting at a specific long-term care facility in montreal.
@@ -192,9 +192,9 @@ You can watch us on CBC news network.[♪♪♪] [ please stand by ]
 
 
 **Rosemary**:
-The city of Toronto today is holding some talks about laying out potential timeline for itsreopening, even though it instill many week away from allowing that to happen.
+The city of Toronto today is holding some talks about laying out potential timeline for itsreopening, even though it is still many week away from allowing that to happen.
 This is all in the planningstages.
-The Prime Minister, of course, has said that it will be weeks, still, before Canadians will be able to go back to some sort offense of normal life, even if that includes going to the park, for instance.
+The Prime Minister, of course, has said that it will be weeks, still, before Canadians will be able to go back to some sort of sense of normal life, even if that includes going to the park, for instance.
 COVID-19 continues to killcanadians everyday, particularly as we know in Ontario andquebec's long-term care homes, about half of the deaths in thiscountry attributed to what ishappening in those places.
 The severe outbreaks and theinability to contain or movepeople from long-term carecentres.
 As we wait for this briefing to get started, I'll bring incatherine cullen.
@@ -204,7 +204,7 @@ So let's go now to that pressconference.
 
 
 
-We have completed tests forever 507, 000 people with 6%confirmed cases.(speaking french).
+We have completed tests for over 507, 000 people with 6%confirmed cases.(speaking french).
 
 
 
@@ -214,14 +214,14 @@ There are now 31, 884 casesincluding 1, 309 deaths, 507tests have been completed
 
 
 Dr. Tam says there is cause for cautious optimism coming through the data.
-We must remain vigilant and keeper eyes on ultimate goal, chichis limiting the spread of this terrible virus to protect ourfamilies, friends and our fellowcanadians.
-Some parts of the country will experience the epidemics slowing down but no matter where you live in the country, everyone must remember to continue to doth things helping to stop the transmission of COVID-19 in ourcommunities.
+We must remain vigilant and keep or eyes on ultimate goal, which is limiting the spread of this terrible virus to protect ourfamilies, friends and our fellowcanadians.
+Some parts of the country will experience the epidemics slowing down but no matter where you live in the country, everyone must remember to continue to do the things helping to stop the transmission of COVID-19 in ourcommunities.
 This include swashing your hands frequently, practicing physical distancing and staying home as much aspossible.
 Unless we all remain diligent in maintaining these good, newhabits, new outbreaks can be sparked anywhere at any time.
 
 
 
-Some parts of our country will experience the epidemic slowing down earlier thanothers, but no matter where relive in our country, everyone must remember to keep doing the things that are helping to slowdown and then to stop the transmission in our communities.
+Some parts of our country will experience the epidemic slowing down earlier thanothers, but no matter where we live in our country, everyone must remember to keep doing the things that are helping to slowdown and then to stop the transmission in our communities.
 This includes washing our handsfrequently, physical distancing from one another and staying home as much as possible.
 Unless we all remain diligent in maintaining our new habits, new outbreaks can be sparked anywhere at any time.
 Remember, as Dr. Tam also said, this is not a sprint.
@@ -253,18 +253,18 @@ As we are all focused on the public health response that will save lives.
 In addition to the previously announced $305 million in funding to address immediateneeds, and to help indigenous communities prepare and react to the spread of this virus, thismorning, the prime minister announced $306.8 million for indigenous businesses as we recognise their unique needs.
 These businesses are the backbones of communities across this country and integral to thecanadian economy.
 We recognise smaller indigenous businesses may be disproportionately affected by this unprecedented and unique situation and these businesses may and are already facing unique challenges such as being in rural or remote locations and having less access to capital.
-The emergency funds announced today will be provided to indigenous businesses through the 59 aboriginal financialinstitutions, enabling them to keep supporting the thousands of small and medium first nationsinuit and metes businesses, great number run by women.
+The emergency funds announced today will be provided to indigenous businesses through the 59 aboriginal financialinstitutions, enabling them to keep supporting the thousands of small and medium first nationsinuit and met is businesses, great number run by women.
 It will allow for short-materialinterest-free loans andnonrepayable interestcontributions offeringflexibility in supporting localbusinesses and ensuring they arewell positioned for the recoveryto come.(speaking french).
 
 
 
-We are aware of the challenges that many indigenous communities face in theterritories, especially when incomes to air transport necessary for food supplies and other essential supplies.
+We are aware of the challenges that many indigenous communities face in theterritories, especially when it comes to air transport necessary for food supplies and other essential supplies.
 At the beginning of the week, we announced financial support of$73 million to support the northwest territories andnunavut so that they can slow the spread of the virus and we will continue to work with our indigenous partners every wherein Canada to identify theirneeds.
 
 
 
 In close coordination to ensure supplies such as ppe, bottled water, hand sanitize rand testing are in place to prevent and combat the spread ofcovid-19. In collaboration with indigenouscommunities, we will continue to adapt plans and provide surge capacity as the situationevolves.
-To date, we shipped 555 orders for ppe, personal protective equipment in regards to testing, nursing stations have the supplies to administer tests Andre are working to ensure consistent supply as needsarise.(speaking french).
+To date, we shipped 555 orders for ppe, personal protective equipment in regards to testing, nursing stations have the supplies to administer tests and we are working to ensure consistent supply as needsarise.(speaking french).
 
 
 
@@ -287,7 +287,7 @@ Spring is upon us and with spring comes flooding season.
 We are currently working with indigenous communities to ensure that they are prepared for emergency situations, including potential flooding.
 For example, indigenous servicescanada gave $2.1 million to the first nation of sesawhan to reduce the risks of COVID-19 and the risks of possible flooding in that community.
 This funding is based on the decision that they made to isolate away from COVID-19 in traditional hunting grounds.
-This spring, two hunt goose another traditional practises and this is a part of border health recommendations to strengthen physical distancing during the pandemic and the situation of circumstances are veryunfortunate.
+This spring, two hunt goose and other traditional practises and this is a part of border health recommendations to strengthen physical distancing during the pandemic and the situation of circumstances are veryunfortunate.
 That said, we're happy to support this initiative because when indigenous peoples return to the land, that is a very positive and healthy type of physical distancing for them and physical distancing is so important to prevent the spread of the virus.
 This new funding will help to purchase supplies, equipment, such as tents.
 We are supporting these communities throughout this difficult time and our crisis management team is constantly in touch with the first nation to plan emergency preparednessplans.
@@ -295,11 +295,11 @@ We are supporting these communities throughout this difficult time and our crisi
 
 
 The first nations will not proceed with elections at this time due to the current health risks associated with largegatherings.
-Accordingly, last week reintroduced the postponement regulations that enable firstnation's leaders to continue in their positions for up to six or12 months to stay focused on keeping communities safe.
+Accordingly, last week we introduced the postponement regulations that enable firstnation's leaders to continue in their positions for up to six or12 months to stay focused on keeping communities safe.
 We've been in direct communication who will soon be undergoing the process and encourage communities to unveil themselves to this option.
 The final decision to hold or postpone elections ultimately lies with community leadership and we must respect that.
 Should communities decide to proceed with elections asscheduled, we stand ready to provide advice on measures to spread the virus to communitymembers.
-All of this being said, we recognise that more support Willie needed.
+All of this being said, we recognise that more support will be needed.
 By working together, we can save lives and we will be there to make sure no indigenous community is left behind.
 Thank you.
 
@@ -311,7 +311,7 @@ Dr. Wong.
 
 Hello, I would like to begin by highlighting important public health messages.
 I would like to highlight important principles about public health.
-It is very important to take physical distancing seriously, avoid crowds, gatherings, avoid nonessential travel, limit contact with people who are thigh risks of complications, such as the ederly, the people with underlying medicalconditions.
+It is very important to take physical distancing seriously, avoid crowds, gatherings, avoid nonessential travel, limit contact with people who are at high risks of complications, such as the ederly, the people with underlying medicalconditions.
 Isolate if sick and go home if you are sick.
 It is important to practise hand and respiratory hygiene.
 We need to stop smoking, stopvaping.
@@ -321,7 +321,7 @@ So with that, I'm going to say, thank you.
 
 
 
-Thank you, Dr. Wong and wearer now ready to take questions.
+Thank you, Dr. Wong and we are now ready to take questions.
 Thank you, Minister.
 We will begin by questions thephone.
 One question and one follow-upper reporter and then we'll takequestions in the room.
@@ -330,7 +330,7 @@ Over to you, operator.
 
 
 **Operator**:
-The first questions from radio-Canada.
+The first question is from radio-Canada.
 
 ---
 
@@ -386,7 +386,7 @@ Next question.
 
 
 **Operator**:
-Our next questions from Teresa wright.
+Our next question is from Teresa wright.
 Please go ahead.
 
 ---
@@ -399,11 +399,11 @@ So what can we tell them?
 
 
 First two things.
-At the broad level, yes, there's cause for cautious optimism this being said, we need to Beverly mindful that thesignificant, considerable and difficult efforts that canadianshave been making over the last few weeks need to be maintained.
-We don't want to lose what weave gained.
+At the broad level, yes, there is cause for cautious optimism this being said, we need to be very mindful that thesignificant, considerable and difficult efforts that canadianshave been making over the last few weeks need to be maintained.
+We don't want to lose what we have gained.
 Although we want to beoptimistic, we need to be cautious and maintain the clear guidance of health Canada, public health Canada and all public health officers acrosscanada.
-The absolutely guidance that we need to maintain physicaldistancing, wash our handsregularly, stay at home as mochas possible and avoid nonessential travel.
-So we really want to keep maintaining our efforts because if we didn't do that, we would end up losing all of the gain that we have acquired, that weave made over the last fewweeks.
+The absolutely guidance that we need to maintain physicaldistancing, wash our handsregularly, stay at home as much as possible and avoid nonessential travel.
+So we really want to keep maintaining our efforts because if we didn't do that, we would end up losing all of the gain that we have acquired, that we have made over the last fewweeks.
 
 ---
 
@@ -415,7 +415,7 @@ How concerned are you about their safety in this voting process and why didn't t
 
 
 
-Thank you, Teresa and in regard to the first nation Thais going ahead with thiselection, we're working closely with them to make sure that Otis done observing the strictest health protocols to ensure that everyone stays safe.
+Thank you, Teresa and in regard to the first nation that is going ahead with thiselection, we're working closely with them to make sure that Otis done observing the strictest health protocols to ensure that everyone stays safe.
 It is ultimately, and if you respect self-determination, isultimately their decision to goahead or not.
 You can imagine the immensesensitivity around enacting newregulations around the indianact which is colonialistinstrument and as we move beyondthe indian act, we mustrecognise there are certainnations that still operate underit.
 It gives them the flexibility todo that.
@@ -458,7 +458,7 @@ The government of Quebec will manage their deployment.
 The government of Quebec will identify it's needs, where the needs are on the ground and the government of Quebec will decide what responsibilities these armed force's members will have.
 We've heard it is satisfied with how quickly we have stepped into make this happen.
 These individuals will be sent to facilities where needs arepressing.
-The government of Quebec dissatisfied and that said, the federal government must continue to help in any way that it can, given the importance and urgency of the situation.
+The government of Quebec is satisfied and that said, the federal government must continue to help in any way that it can, given the importance and urgency of the situation.
 
 
 
@@ -468,7 +468,7 @@ Now a followupquestion.
 ---
 
 **Question**:
-I'm getting the impression you don't know where the needs are dire and maybe toucan answer on Minister Freeland.
+I'm getting the impression you don't know where the needs are dire and maybe you can answer on Minister Freeland.
 There was a Minister's call with the provisional and territorial premiers and remuneration of essential workers was discussed.
 Had a deal been reached with provinces regarding salarypop-ups for essential workexperts what decisions have beentaken and which workers willreceive these top-ups.
 
@@ -491,10 +491,10 @@ Will the federal government stepin and mandate provinces toincrease testing and 
 
 
 
-You are absolutely correct in describing testing and tracings being key and actions in thecovid-19 process.
+You are absolutely correct in describing testing and tracing as being key and actions in thecovid-19 process.
 We also understand that different provinces face different circumstances.
-and in Quebec and the federal government is always not only willing but most often always able to provide guidance that may be helpful in the local circumstances and provide any logistical support and any procurement support when incomes to making equipment and testing equipment available to provinces and territories.
-So we want to do this as much ANSIs needed and that's what we will continue to do.
+and in Quebec and the federal government is always not only willing but most often always able to provide guidance that may be helpful in the local circumstances and provide any logistical support and any procurement support when it comes to making equipment and testing equipment available to provinces and territories.
+So we want to do this as much as is needed and that's what we will continue to do.
 
 ---
 
@@ -505,7 +505,7 @@ With regard to those that are on old-agesecurity or disability benefits, those t
 
 Well, that's making ends neatmeetis a large source of anxietdparticularly lower income andthat's why we acted very quickly putting into place measures that the federal government certainly never implemented and probably never envisioned, such as thecanada emergency responsebenefit, but also increasing theist tax credit, providing support to families with children and in particular, families with lower nextsthrough the child canadabenefit.
 As the Prime Minister keepssaying, we are working in an emergency situation which requires continuing actions and continuing forms of support.
-So we are going to continue Ashe Prime Minister again said, continue being mindful of the anxiety and the difficult circumstances which thecanadians are going through, but also renewing and developing our continuing support to thosecanadians.
+So we are going to continue as the Prime Minister again said, continue being mindful of the anxiety and the difficult circumstances which thecanadians are going through, but also renewing and developing our continuing support to thosecanadians.
 
 ---
 
@@ -526,8 +526,8 @@ But since we have Dr. Wong and since Dr. Wong is probably a lot more credible th
 
 
 Thank you.
-a number of factors that we all have to actually look at, administer duclos had just said, we have to look at not just thecurve, where it's going, but also we have to look at the local and the community and the provisional and the national picture because it depends on the interface between differentfactors.
-All of those really determine how one, you would consider, perhaps, easing some measures intone situation and not easing some measures in othersituations.
+a number of factors that we all have to actually look at, as minister duclos had just said, we have to look at not just thecurve, where it's going, but also we have to look at the local and the community and the provisional and the national picture because it depends on the interface between differentfactors.
+All of those really determine how one, you would consider, perhaps, easing some measures in one situation and not easing some measures in othersituations.
 Thank you.
 
 ---
@@ -579,7 +579,7 @@ When trump expresses impatienceand a strong desire to reopenthe american economy
 **Answer**:
 As an economist, given the current circumstances, if we want to reopen theeconomy, then we must be very, very cautious, especially when it comes to public health.
 We have made major sacrifices these past few weeks.
-We have been isolated and weave felt anxious and we have also made economic sacrifices.
+We have been isolated and we have felt anxious and we have also made economic sacrifices.
 People have lost their jobs.
 People are having difficulty making ends meet.
 So we always have to weigh public health outcomes and economic outcomes..in the next few weeks andmonths, we will have to be very, very cautious.
@@ -617,12 +617,12 @@ Briefing.
 Let me give you some information in the Canada relief benefit, the CERB that many of you have tapped into because you have lost work or lost your jobs due to COVID-19 and he says there have been 7.9 millionapplications.
 Just to give you a sense of how much the economy is struggling and how many of you are, too, are turning to the government for support.
 Catherine Cullen has been listening along with us and I'mnot sure if anything else stood out for you.
-We did get new numbers on covid outbreaks in different indigenous communities.
+We did get new numbers on covidoutbreaks in different indigenous communities.
 
 
 
 **Reporter**:
-Let's talk about what Minister duclos said whence was asked about the protective equipment across thecanada-United States border.
+Let's talk about what Minister duclos said when he was asked about the protective equipment across thecanada-United States border.
 I thought it was interesting hesaid they'll have to remainvigilant on this particularissue and did note while thecanada-United States relationship is agood one, it's one that has beentested and he said it wouldcontinue to be tested over thecourse of the next few weeks, and that goes back to the pointwe were talking about beforethis news conference started.
 That the government officials donot want to politician italy sata great source this is, as wesee the picture across theproblems and territories and thepicture seems to change fromstate to state, too, and a lotof attention being paid to newyork city state.
 The government does not want to say it's a significant concernbut obviously, this 30-day 30-dyextension on the border is arelief to government trying todeal with a large number ofother issue.
@@ -637,13 +637,13 @@ It's a significant contribution, I guess, we can say, to thenumber of deaths we'
 
 **Rosemary**:
 Probably it will look not only different region to region, but probably it will look different in terms ofsociety.
-Vulnerable people, seniors, older Canadians will probably believing under different restrictions than other people for some time because they are the ones most susceptible.
+Vulnerable people, seniors, older Canadians will probably be living under different restrictions than other people for some time because they are the ones most susceptible.
 So you can see a ramping down of measures and maybe parks will open to kick around a soccerball.
 But restaurants only open at 50%capacity.
 We are seeing some of that happening in other parts of the world and so that gives us some indications of what that might look like.
 Dr. Tam was not there today butmr.
 Duclos say they remain cautiously optimistic about what they are seeing.
-But again, I think everyone assaying we can't let go now because then everything thatwe've done for past four or five weeks will be lost, potentially.
+But again, I think everyone is saying we can't let go now because then everything thatwe've done for past four or five weeks will be lost, potentially.
 
 
 
@@ -652,11 +652,11 @@ That raises couple of points.
 One about testing and if I could echo Dr. Tam for a minute and weknow, perhaps, what she mightsay, something we've heard repeatedly is this question of the curve.
 Yes, perhaps, you've reached the peak but that's only 50% of the cases and you have to be certainwe've heard her say time and time again, be mindful of what happens on the way back down, because that is 50% of thecases.
 Again, the need for ongoingvigilance.
-We would talk about testing, as well, a question Ashley burkeraised when speaking to the prime Minister and she pointed to research out of harvarduniversity which suggests forth United States to sort of open things back up, they need to be doing something in the neighborhood of half a million tests or upwards of that.
-Ashley asked the prime minister whether there was a specific number he had been advised offer Canada in terms of the level of testing needed and he did not certainly come close to engaging in specific numbers, but did saythat, too, is uneven across thecountry.
+We would talk about testing, as well, a question Ashley burkeraised when speaking to the prime Minister and she pointed to research out of harvarduniversity which suggests for the United States to sort of open things back up, they need to be doing something in the neighborhood of half a million tests or upwards of that.
+Ashley asked the prime minister whether there was a specific number he had been advised of for Canada in terms of the level of testing needed and he did not certainly come close to engaging in specific numbers, but did saythat, too, is uneven across thecountry.
 Where there are somesomejurisdictions doing well, hschoosing words carefully, saying there are other jurisdictions trying to improve their efforts.
 That is one piece of the puzzle.
-You talk about kicking around the soccer ball and that's Nice mental image for us rightnow, but obviously, there aredecisions, too, about what the picture looks like.
+You talk about kicking around the soccer ball and that's an ice mental image for us rightnow, but obviously, there aredecisions, too, about what the picture looks like.
 I thought when you were speaking about what's happening -- thediscussion, I should say ofwhat's happening in California the governor talking about the prospect of Ok. perhaps we would reopen restaurants, but menus would be disposable and all of the precautions taken.
 You can imagine that just one false move would cause everybody to snap back, as well.
 So it's really a very dynamicconversation, but one that think people are hungry for answers to, as well.
@@ -693,7 +693,7 @@ is that what you are doing?
 
 
 
-So what happened, the hospital support the staff and that if you're living with your family and you're traveling fart your work, you have times to stay during your work time and so that's one of the support they giving to the staff rightnow.
+So what happened, the hospital support the staff and that if you're living with your family and you're traveling far to your work, you have times to stay during your work time and so that's one of the support they giving to the staff rightnow.
 
 
 
@@ -704,12 +704,12 @@ I think we have enough suppliesso far.
 
 
 
-How do you feel going into work everyday because we know that as well as older Canadians, the people that are most vulnerable are healthcare workers and we have even seen number of deaths.
+How do you feel going into work everyday because we know that as well as older Canadians, the people that are most vulnerable are healthcare workers and we have even seen an umber of deaths.
 How worried are you going into work everyday.
 
 
 
-Working in emergency is verychallenging, but this pandemics quite different.
+Working in emergency is verychallenging, but this pandemic is quite different.
 So every time I go to work, always have the fear that it might affect My family, youknow.
 I have a fear that I might getinfected, as well.
 So I just need to be more careful at work so that I will not pass it to My loved ones andfamily.
@@ -729,13 +729,13 @@ Maria, is there anything else you need from the government?is there anything els
 
 
 
-I know our country is doing the best to support all of thecanadians and then as a nurse, so we just actually doing our best to protect our patients, to protect ourselves, to protector families.
-But then I think the governments doing a good job at thistime.
+I know our country is doing the best to support all of thecanadians and then as a nurse, so we just actually doing our best to protect our patients, to protect ourselves, to protect our families.
+But then I think the government is doing a good job at thistime.
 So I think we just need to work together and we will get through this pandemic.
 
 
 
-Well, maria, thank you for your work because you're doing all of the hard work for all offs and we appreciate it. Stay safe and healthy.
+Well, maria, thank you for your work because you're doing all of the hard work for all of us and we appreciate it. Stay safe and healthy.
 Thank you very much.
 
 
@@ -745,7 +745,7 @@ Thank you.
 
 
 That's maria Alonzo invancouver.
-Across, across the country, Canadians are trying to help others affected by COVID-19. Senator Jim Manson is one of those helpers.
+Across, across the country, Canadians are trying to help others affected by COVID-19. Senator Jim mun son is one of those helpers.
 It might surprise you what he'sdoing.
 He plays recreational hockey with a group of old-timers andi'm sure he won't be offendedwhen I say that.
 When the season was cut short, his fellow league membersdecided to do something.
@@ -780,7 +780,7 @@ It's not much money, but atleast it does something and itshows that for the sake
 
 
 
-It's a smart idea because, obviously, this is the first wave of some sports being shutdown, but I'm not sure soccer and other things are going to restarting up quickly any time soon and there may be other places where that will work, too.
+It's a smart idea because, obviously, this is the first wave of some sports being shutdown, but I'm not sure soccer and other things are going to be starting up quickly any time soon and there may be other places where that will work, too.
 
 
 
@@ -799,11 +799,11 @@ As you know, the house of commons is grappling with that right now and they have
 
 
 My thoughts on that is that we have to be responsible.
-Our committees can meet virtually and we can pass legislation if legislation comes to us, but we think it'sextremely important to live handwork by example and work from home and there's no place -- we should not be sitting in the senate of Canada.
+Our committees can meet virtually and we can pass legislation if legislation comes to us, but we think it'sextremely important to live and work by example and work from home and there's no place -- we should not be sitting in the senate of Canada.
 Canadians have been asked to stay at home.
 We can also work from home and get our jobs done, whether it'sadvocacy or legislation.
 So we have postponed untiljune 2nd.
-Doesn't mean our work is notdone, but I think that traveling across the country at this times not a smart thing to do. What are we doing?we're staying home, working andenjoying our families and we'regiving back and as politicians, I think that we have to be very, very cautious, very cautious.
+Doesn't mean our work is notdone, but I think that traveling across the country at this time is not a smart thing to do. What are we doing?we're staying home, working andenjoying our families and we'regiving back and as politicians, I think that we have to be very, very cautious, very cautious.
 
 
 

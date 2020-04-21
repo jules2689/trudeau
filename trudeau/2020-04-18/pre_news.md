@@ -17,7 +17,7 @@ The Prime Minister has been asked those questions virtually every day this week.
 That's right.
 He says it's key to moving forward.
 Any attempt to reopen the economy will depend on testing.
-The world health organization, an organization that we should say is under added scrutiny, but it put forward this week six criteria for any jurisdiction that's looking at moving forward and widespread testing would be a part of that.
+The world health organization, an organization that we should say is under added scrutiny, bu tit put forward this week six criteria for any jurisdiction that's looking at moving forward and widespread testing would be a part of that.
 Canada, according to many experts, is not at a point to reopen the economy.
 Even beyond that there is a debate of larger jurisdictions, notably Ontario, they are still trying to ramp up to a level that everyone is happy with to deal with the situation as it is, let alone allow people to return to people's lives not as normal, not to some sense of normalcy.
 
@@ -32,7 +32,7 @@ There was a move last night that came late in the day by the federal government 
 
 **Catherine**:
 That's right.
-Anyone now who enters an airport, anyone who is doing any airline travel will need to wears non-medical mask, a cloth facecovering.
+Anyone now who enters an airport, anyone who is doing any airline travel will need to weary non-medical mask, a cloth facecovering.
 When we're talking about membersof the general public, they do not want people using those medical masks, but more and morepeople who have gone out of their house see people with those masks.
 If you're in an airport or anywhere you cannot maintain that physical distancing, you will have to wear a face covering.
 That would be going through security or an I. D. check, border checks, getting on the plane itself.

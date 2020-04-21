@@ -60,7 +60,7 @@ With this fund, we are giving organisations more resources to adjust to the curr
 Charities and nonprofit organisations were doing crucial work to help our communities.
 Their mission has always been to support people in their time of need and that hasn't changed.
 But COVID-19 is putting a tremendous amount of pressure on those organisations because more people need help.
-Back in march, one united way partner in Winnipeg made and distracted 1475 emergency kits for families, seniors and homeless people in just five days.
+Back in march, one united way partner in Winnipeg made and district ed 1475 emergency kits for families, seniors and homeless people in just five days.
 They had to change services because of the rules that everyone has to follow to keep each other safe.
 Here in Ottawa there are a number of organisations focused on serving isolated seniors.
 Usually they have day programme where seniors can socialize, participate in activities, eat well and maintain a connection to their community.
@@ -468,7 +468,7 @@ and on the wage subsidy, can you assure us that not $1 of taxpayer money will go
 Now we see the numbers going up in certain parts of the country.
 But there are fewer and fewer cases each day and we hope that what this means is that the measures we've been taking are now helping.
 and are now helping the expected outcome.
-At the same time, we need to keep those measures in place because if we relax them too soon, we could end up in a situation where COVID-19 would ramp up again and this is not something we would want to see happen.
+At the same time, we need to keep those measures in place because if we relax them too soon, we could end up in a situation where COVID-19 COULD ramp up again and this is not something we would want to see happen.
 In terms of our approach in helping businesses, we have always been focused on help for workers.
 We did not want to judge whether someone working for a small halifax store or for a large internation hardware chain would be treated differently.
 We wanted to ensure that workers and families that depend on that income would have the necessary help and that is why we moved forward with the wage six did and moving forward with the emergency response benefit.

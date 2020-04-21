@@ -15,7 +15,7 @@ Brett is in Portapique where this all began, but we'll start with tom in Halifax
 
 
 **TOM**:
-We're expecting an RCMP briefing in a couple of hours now to shed more light on what happened.
+We're expecting an rcmpbriefing in a couple of hours now to shed more light on what happened.
 We're hearing of more victims.
 The count is up to 17 including the killer.
 You mentioned the occupations of some of those people.
@@ -108,7 +108,7 @@ Vassy, what is the latest we know?
 
 
 **Vassy**:
-The latest I'm hearings there will be a motion introduced by the liberals.
+The latest I'm hearing is there will be a motion introduced by the liberals.
 and the nature of the tension I should just say is over how many times they should be meeting.
 The liberals are offering once a week in person and then some virtual, supplemental sessions.
 The n. D.p. and the bloc quÉbÉcois are supportive of thatin various forms.
@@ -134,7 +134,7 @@ David, your perspective.
 
 **David**:
 It's interesting.
-Andrew scheer has been like an auctioneer going in reverse.
+Andrew schemer has been like an auctioneer going in reverse.
 He wanted five days a week and now he's down to three days a week.
 That has been the compromise that the other parties have agreed to. The greens don't want any session unless there is a vote.
 The bloc is content to have rules of engagement so they don't have to go through this every time they have to come back.
@@ -161,7 +161,7 @@ Vassy, I'll get you to weigh in as we continue to wait for the Prime Minister.
 
 
 **Vassy**:
-At the heart of all of this is like you and David printout a desire for accountability.
+At the heart of all of this is like you and David point out a desire for accountability.
 There's evidence that that accountability has worked over the past month, right.
 There's lots of legislation that the government has introduced that has some holes that the opposition parties pointed out.
 They went back and got agreement.
@@ -196,7 +196,7 @@ The RCMP has not confirmed the number of deaths nor had they confirmed that one 
 There will be other things for the Prime Minister to say today.
 We are expecting of course to hear from public safety minister bill Blair a little bit later as well as of course the Nova Scotia RCMP.
 Just to remind you what we are dealing with in terms of number sand what happened in Nova Scotia, it started to unfold Saturday night.
-The shooter now believed to have taken out at least 16 people Andre himself was also killed when he was taken into custody is ourunderstanding.
+The shooter now believed to have taken out at least 16 people and he himself was also killed when he was taken into custody is ourunderstanding.
 Let me go back to David if I can.
 Obviously these are -- here is the Prime Minister.
 There we go. We will let him talk about events as they unfolded in Nova Scotia.

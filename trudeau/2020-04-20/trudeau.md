@@ -97,7 +97,7 @@ First question Laura Osman "the Canadian press."line open.
 ---
 
 **Question**:
-Mr. Prime Minister, conservative leader Andrew scheer accused you of being inflexible about the number of sittings in parliament.
+Mr. Prime Minister, conservative leader Andrew schemer accused you of being inflexible about the number of sittings in parliament.
 I wonder if there's any room fora compromise, two sittings per week, given that moving forward may be preferable to no deal at all?
 
 
@@ -250,7 +250,7 @@ Given what we know about the shooting in Nova Scotia, could that have prevented 
 **Answer**:
 As we know, this is very much an ongoing investigation that is in its early stages in Nova Scotia right now.
 So I don't want to jump to conclusions or make characterizations about what happens until we get a full accounting from the authorities.
-But in regards to gun control, we took very serious commitments in the election campaign and removing forward on them to make sure we're strengthening gun control in this country.
+But in regards to gun control, we took very serious commitments in the election campaign and are moving forward on them to make sure we're strengthening gun control in this country.
 I can say we were on the verge of introducing legislation to ban assault-style weapons acrossthe country.
 It was interrupted when the pandemic caused parliament to besuspended.
 We have ever intention of movingforward on that measure and potentially other measures when the parliament returns.
@@ -276,7 +276,7 @@ We need to do everything we can to keep people safe and healthy, even in the mid
 ---
 
 **Question**:
-Prime Minister, waste Nova Scotia shooter on the federal government's radar?were any federal agencies watching him?
+Prime Minister, was the Nova Scotia shooter on the federal government's radar?were any federal agencies watching him?
 
 
 
@@ -351,7 +351,7 @@ Now, will you be participating in that ceremony and could you introduce your gun
 
 
 **Answer**:
-Yes, I intend to participate in the virtual vigils much as possible.
+Yes, I intend to participate in the virtual vigil as much as possible.
 We will most certainly be listening very carefully to whatcanadians are saying with respect to more gun control.
 So we will look at what the options are when it comes to introduce that bill when the appropriate time is with us.[end of translation] I have every intention of participatingin the vigils.
 I know that many Canadians will want to express their solidaritywith those in Nova Scotia who are grieving.
@@ -380,7 +380,7 @@ That is a pertinent question, given the severity of these actions.
 As we learn more about the motive and about what happened, those kinds of questions will persist.
 He was also asked how he felt and what his reaction was upon learning that the suspect was almost obsessed with the RCMP.
 Had dressed up and taken cars and things like that.
-He didn't really respond necessarily to that, but kept pointing out that there is a lot more to learn and put focus Bacon the victims of course where all of our thoughts are on the severity of the crime.
+He didn't really respond necessarily to that, but kept pointing out that there is a lot more to learn and put focus back on the victims of course where all of our thoughts are on the severity of the crime.
 He was also asked about gun control legislation.
 Again, it's difficult to know because there are so few details about motive and about how this all unfolded at this point whether or not that would have made a difference, but those questions are interesting because the government had been promising gun control legislation for a number of months.
 My understanding the last conversation about it was that something was expected this spring.
@@ -405,7 +405,7 @@ Iran flight 752 was just over a hundred days ago.
 The stark difference between then and now is just how much COVID-19 is robbing people the ability to go to rituals and milestones and seeking cold front from their loved ones.
 and being asked if we can relax things to allow that to happen.
 There is an acute focus on these18 murders, because as the killer went door to door, the police today are going door to door and making terrible and horrible discoveries.
-He pivoted to the point that it's not just -- it's people whore dying of cancer, people who are dying of heart disease, people dying of the ordinary run-of-the-mill things we see each year and the total inability of families to find comfort and seek relief from their grief with loved ones and gatherings and how difficult that is. This is why when he's asking thepolitical questions, he says I don't want to be bickering or arguing with anyone on this.
+He pivoted to the point that it's not just -- it's people who are dying of cancer, people who are dying of heart disease, people dying of the ordinary run-of-the-mill things we see each year and the total inability of families to find comfort and seek relief from their grief with loved ones and gatherings and how difficult that is. This is why when he's asking thepolitical questions, he says I don't want to be bickering or arguing with anyone on this.
 It does seem there's going to bean agreement by the end of the day to sit in person once a weekand supplement that with virtualsittings.
 On fundamental issues of life and death, nothing is working asit should because of this.
 Everything from parliament on down have to find ways to adapt.
@@ -493,7 +493,7 @@ What was he able to say to you that was helpful or to the community that they ne
 **Interview**:
 Basically he was very, very compassionate.
 Very kind and understanding.
-He wanted to know if there's anything that I need, understanding how difficult thesis to go through.
+He wanted to know if there's anything that I need, understanding how difficult this is to go through.
 Making sure I knew if our community needs anything, the government will be there.
 Today he came on the phone with all of us, with the entire nova scotian liberal caucus and basically said the same thing.
 It's nice to have a leader who is kind and compassionate and understanding and takes the time to do this with his members and anyone else who has been affected.
@@ -531,7 +531,7 @@ But I wonder if because of the violence and the magnitude of this incident, whet
 
 **Interview**:
 Well, I think for one thing that would be up to the premier of Nova Scotia I would imagine, but the thing is I wouldn't want to go to a funeral thinking that perhaps I might spread a disease to somebody else and have more deaths because of My involvement.
-I think we have to think of the bigger picture of all of us and protecting all nova Scotians Randall Canadians.
+I think we have to think of the bigger picture of all of us and protecting all nova Scotians and all Canadians.
 That's why we are doing what we're doing and sacrificing our lives and jobs and everything by staying home.
 So there are going to be vigils.
 There are going to be online vigils.
