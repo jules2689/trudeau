@@ -14,6 +14,7 @@ require_relative 'playlist_parser'
 
 CLI::UI::StdoutRouter.enable
 TOKEN = ARGV[0]
+FORCE = ARGV[1] == "--force"
 OUTPUT_PATH = File.expand_path("../trudeau/", __FILE__)
 FileUtils.mkdir_p(OUTPUT_PATH)
 
@@ -43,7 +44,7 @@ videos.each do |id, video|
   CLI::UI::Frame.open("#{video[:date]} - #{video[:title]}") do
     video_output_path = File.join(OUTPUT_PATH, video[:date])
 
-    if Dir.exist?(video_output_path)
+    if !FORCE && Dir.exist?(video_output_path)
       puts "Video downloaded already"
       next
     end

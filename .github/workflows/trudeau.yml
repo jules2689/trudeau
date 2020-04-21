@@ -15,7 +15,7 @@ jobs:
         ruby-version: '2.6'
     - name: Generate Dialog
       run: |
-        ruby captions.rb "${{ secrets.GOOGLE_TOKEN }}"
+        ruby captions.rb "${{ secrets.GOOGLE_TOKEN }}" --force
     - name: Commit Dialog
       run: |
         git config --local user.email "action@github.com"

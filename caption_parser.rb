@@ -20,7 +20,10 @@ class CaptionParser
       if line.include?("&gt;")
         fmt_line = format_line(dialog_buffer)
     
-        if current_dialog == :trudeau && fmt_line[:msg].downcase.include?("first question")
+        if current_dialog == :pre_news && fmt_line[:speaker]&.include?("Trudeau")
+          puts "Found Trudeau Speech"
+          current_dialog = :trudeau
+        elsif current_dialog == :trudeau && fmt_line[:msg].downcase.include?("first question")
           puts "Found Q & A"
           current_dialog = :q_a
         elsif fmt_line[:speaker] == "Rosemary" && current_dialog == :q_a
@@ -97,7 +100,9 @@ class CaptionParser
   end
   
   def format_for_output(line)
-    if line[:speaker] && line[:msg]
+    if line[:speaker] && line[:speaker].downcase.strip == "question"
+      "---\n\n#{line[:speaker]}:\n#{line[:msg]}\n"
+    elsif line[:speaker] && line[:msg]
       "#{line[:speaker]}:\n#{line[:msg]}\n"
     elsif line[:msg]
       "#{line[:msg]}\n"

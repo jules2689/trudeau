@@ -1,6 +1,8 @@
 Operator:
 The first questionis from radio-canada.
 
+---
+
 Question:
 Hello, I have aquestion for minister duclos. Minister, we have extended theborder measures with the unitedstates. Have we obtained any guaranteesthat we will be able to receiveessential medical supplies fromthe united states without anyhiccups at the border or withoutany issues with the trumpadministration?
 
@@ -8,6 +10,8 @@ Answer:
 Minister duclassociation. Os. Thank you for the question. As you have mentioned., ourrelationship with the unitedstates is very important in thiscontext and all contexts. In the current situation, ouru. S.-canada relations are veryimportant. We have conversations with ourpartners every single day. The border agreement that wereached a few weeks ago has beenextended for another 30 days. And we need to ensure thecontinued flow of essentialsupplies, food, medicines. Have we received a guarantee tothat effect?
 
 YES, AND WE ARECONFIDENT IN EXTENDING THIS DEALFOR ANOTHER 30 DAYS.AND, OF COURSE, WE HAVEDISCUSSIONS ABOUT OTHER TOPICSWITH A VIEW OF FLOWING SUPPLIESACROSS THE BORDER IN BOTHDIRECTIONS.OUR CANADA-U.S. RELATIONS AREVERY IMPORTANT AND ARE VERYPOSITIVE AND WE WORK VERY HARDTO MAINTAIN A GOOD, STRONGRELATIONSHIP.I WAS SAYING WHAT MOST CANADIANSUNDERSTAND IS THAT THERELATIONSHIP WITH OUR FRIEND ANDNEIGHBOUR IS NOT ONLY IMPORTANTIN ALL ASPECTS BUT ABSOLUTELYESSENTIAL IN THE CURRENTEMERGENCY CONTEXT.WE ARE PLEASED WITH THE FACTTHAT WE WERE ABLE TO RENEGOTIATETHE AGREEMENT THAT WE HADACHIEVED JUST A FEW WEEKS AGOFOR THE NEXT 30 DAYS, WHICHACHIEVES A NUMBER OF DIFFERENTOBJECTIVES, BUT ONE IS THEABSOLUTE NECESSITY TO KEEP THEMOVEMENT OF ESSENTIAL GOODS ANDSERVICES ACROSS THE FRONTEIRS INBOTH WAY.BECAUSE GOODS GO SOUTH, NORTHAND THOSE GOODS, MEDICAL, FOODAND OTHER THINGS ARE FOREIGNMAINTAIN THE SECURITY AND HEALTHOF CANADIANS.
+
+---
 
 Question:
 I have a veryspecific question about personalprotective equipment at theborder. Have you received a guaranteesfrom the american governmentthat 3m and other americancompanies will be able to exportmedical supplies and protectiveequipment to canada?will we be able to import thesesupplies from americancompanies?have you received a guaranteefrom that effect from theamerican government?will we be able to receivemedical supplies and especiallypersonal protective equipment?
@@ -20,10 +24,14 @@ THANK YOU, MINISTER.NEXT QUESTION.
 Operator:
 Our next questionis from teresa wright. Please go ahead.
 
+---
+
 Question:
 Good morning,minister ducl association. Os. You said that the numbers aregiving us cause for causeanxious optimism and canadiansare starting to see numbers intheir provinces improving andthey're going to question whenwe can get to the new normal. So what can we tell them?
 
 FIRST TWO THINGS.AT THE BROAD LEVEL, YES, THEREIS CAUSE FOR CAUTIOUS OPTIMISMTHIS BEING SAID, WE NEED TO BEVERY MINDFUL THAT THESIGNIFICANT, CONSIDERABLE ANDDIFFICULT EFFORTS THAT CANADIANSHAVE BEEN MAKING OVER THE LASTFEW WEEKS NEED TO BE MAINTAINED.WE DON'T WANT TO LOSE WHAT WEHAVE GAINED.ALTHOUGH WE WANT TO BEOPTIMISTIC, WE NEED TO BECAUTIOUS AND MAINTAIN THE CLEARGUIDANCE OF HEALTH CANADA,PUBLIC HEALTH CANADA AND ALLPUBLIC HEALTH OFFICERS ACROSSCANADA.THE ABSOLUTELY GUIDANCE THAT WENEED TO MAINTAIN PHYSICALDISTANCING, WASH OUR HANDSREGULARLY, STAY AT HOME AS MUCHAS POSSIBLE AND AVOIDNONESSENTIAL TRAVEL.SO WE REALLY WANT TO KEEPMAINTAINING OUR EFFORTS BECAUSEIF WE DIDN'T DO THAT, WE WOULDEND UP LOSING ALL OF THE GAINTHAT WE HAVE ACQUIRED, THAT WEHAVE MADE OVER THE LAST FEWWEEKS.
+
+---
 
 Question:
 Thank you. Minister miller, you mentionedthe regulatory changes that youmade with regards to firstnation elections allowing theleaders to continue in theirroles for up to six months, butthere are some indigenousleaders saying this should havecome sooner. Manitoba first nation is goingahead with an election, ibelieve today. How concerned are you abouttheir safety in this votingprocess and why didn't theseregulation changes happensooner?
@@ -32,8 +40,12 @@ THANK YOU, TERESA AND INREGARD TO THE FIRST NATION THATIS GOING AHEAD WITH THISE
 
 THANK YOU, MINISTER.NEXT QUESTION.
 
+---
+
 Question:
 Our next question.
+
+---
 
 Question:
 Mellow. I have questionsfor minister duclos. For a question about militarymedics being sent into long-termcare facilities in quebec as oftoday. The government hasn't given usmuch detail about where theywill go. They mentioned the st region. Could you tell us where thesemilitary medics are sent todayand how many are sent and towhich regions?
@@ -44,21 +56,29 @@ Minister duclassociation. Os. Thank you for your question. I would like to thank
 Operator:
 Now a followupquestion.
 
+---
+
 Question:
 I'm getting theimpression you don't know wherethe needs are dire and maybe youcan answer on minister freeland. There was a minister's call withthe provisional and territorialpremiers and remuneration ofessential workers was discussed. Had a deal been reached withprovinces regarding salarypop-ups for essential workexperts what decisions have beentaken and which workers willreceive these top-ups.
 
 Answer:
 We are starting torealize in quebec and everywherein canada that many essentialworkers are not sufficientlyremixer n e. R.a. T derick. Remunerated. Another element you mentioned isthat the government of quebecwants to help provinces andterritories and everyone wantsto help essential workers. As minister freeland said, thesetalks are going well. Everyone is on the same wavelength. Now it's a matter of finding theright ways to act, the rightways for the federal governmentto provide financial support andsalary pop-ups. There are jurisdictional issuesand the government of canada, ofcourse, wants to providesupport, but must do so in sucha way that they protect thejurisdictions.
 
+---
+
 Question:
 B. C.'s success iscredited with good tracing andontario seems to be laggingbehind. Will the federal government stepin and mandate provinces toincrease testing and are youconcerned that provinces thatare lagging behind will pulldown those that have come ahead?
 
 YOU ARE ABSOLUTELY CORRECT INDESCRIBING TESTING AND TRACINGAS BEING KEY AND ACTIONS IN THECOVID-19 PROCESS.WE ALSO UNDERSTAND THATDIFFERENT PROVINCES FACEDIFFERENT CIRCUMSTANCES.AND IN QUEBEC AND THE FEDERALGOVERNMENT IS ALWAYS NOT ONLYWILLING BUT MOST OFTEN ALWAYSABLE TO PROVIDE GUIDANCE THATMAY BE HELPFUL IN THE LOCALCIRCUMSTANCES AND PROVIDE ANYLOGISTICAL SUPPORT AND ANYPROCUREMENT SUPPORT WHEN ITCOMES TO MAKING EQUIPMENT ANDTESTING EQUIPMENT AVAILABLE TOPROVINCES AND TERRITORIES.SO WE WANT TO DO THIS AS MUCH ASIS NEEDED AND THAT'S WHAT WEWILL CONTINUE TO DO.
 
+---
+
 Question:
 With regard tothose that are on old-agesecurity or disability benefits,those that have a fixed income,what's being done for thosepeople who might be facingmounting costs with regard togroceries or transportation orcost of living on a fixed incomeand is there any talk with theprovinces about making sure thatcerb doesn't affect theirreceiving federal benefits?
 
 WELL, THAT'S MAKING ENDS NEATMEETIS A LARGE SOURCE OF ANXIETDPARTICULARLY LOWER INCOME ANDTHAT'S WHY WE ACTED VERY QUICKLYPUTTING INTO PLACE MEASURES THATTHE FEDERAL GOVERNMENT CERTAINLYNEVER IMPLEMENTED AND PROBABLYNEVER ENVISIONED, SUCH AS THECANADA EMERGENCY RESPONSEBENEFIT, BUT ALSO INCREASING THEGST TAX CREDIT, PROVIDINGSUPPORT TO FAMILIES WITHCHILDREN AND IN PARTICULAR,FAMILIES WITH LOWER NEXTSTHROUGH THE CHILD CANADABENEFIT.AS THE PRIME MINISTER KEEPSSAYING, WE ARE WORKING IN ANEMERGENCY SITUATION WHICHREQUIRES CONTINUING ACTIONS ANDCONTINUING FORMS OF SUPPORT.SO WE ARE GOING TO CONTINUE ASTHE PRIME MINISTER AGAIN SAID,CONTINUE BEING MINDFUL OF THEANXIETY AND THE DIFFICULTCIRCUMSTANCES WHICH THECANADIANS ARE GOING THROUGH, BUTALSO RENEWING AND DEVELOPING OURCONTINUING SUPPORT TO THOSECANADIANS.
+
+---
 
 Question:
 I'm with cbc news. B.c. Is talking about, perhaps,easing up some of therestrictions next month is thenumber of hospitalizations andcases go down. At a federal level, what is thebar that we have to meet inorder to relax some of theamericas?cases?
@@ -66,6 +86,8 @@ I'm with cbc news. B.c. Is talking about, perhaps,easing up some of therestricti
 THANK YOU, THAT'S A VERY GOODQUESTION AND A VERY GOODQUESTION WHICH DR. TAM HADANSWERED REGULARLY OVER THE LASTFEW DAYS.AND I DON'T HAVE THE SAMEEXPERTISE AND, PERHAPS, THECREDIBILITY AS DR. TAM WOULDHAVE IN RESPONDING TO THATIMPORTANT QUESTION.BUT LET ME SUMMARIZE WHICH WOULDPROBABLY SAY, IT'S AROUND NOTONLY THE CURVE, BUT WHERE THECURVE MAY BE HEADING AND IT'SALSO AROUND THE CAPACITY OF THEHEALTH SYSTEM.IT'S ALSO ABOUT THE NUMBER OFDEATHS, THE NUMBER OF EMERGENCYINTENSIVE CARE UNITS THAT ARENEEDED AND IT'S ABOUT THEABILITY OF WORKERS TO BEPROTECTED IN THE ENVIRONMENTS INWHICH THEY WOULD HAVE TO WORK.IT'S ABOUT THE ABILITY OFSECURING ENOUGH EQUIPMENT UNDERDIFFERENT SCENARIOS.BUT SINCE WE HAVE DR. WONG ANDSINCE DR. WONG IS PROBABLY A LOTMORE CREDIBLE THAN I WOULD BE INTHAT AREA, PERHAPS DR. WONG, YOUWOULD LIKE TO ADD YOUR OWN VIEW?
 
 THANK YOU.A NUMBER OF FACTORS THAT WE ALLHAVE TO ACTUALLY LOOK AT, ASMINISTER DUCLOS HAD JUST SAID,WE HAVE TO LOOK AT NOT JUST THECURVE, WHERE IT'S GOING, BUTALSO WE HAVE TO LOOK AT THELOCAL AND THE COMMUNITY AND THEPROVISIONAL AND THE NATIONALPICTURE BECAUSE IT DEPENDS ONTHE INTERFACE BETWEEN DIFFERENTFACTORS.ALL OF THOSE REALLY DETERMINEHOW ONE, YOU WOULD CONSIDER,PERHAPS, EASING SOME MEASURES INONE SITUATION AND NOT EASINGSOME MEASURES IN OTHERSITUATIONS.THANK YOU.
+
+---
 
 Question:
 I'm alsowondering, how many blue medmedical tents does thedepartment have ready to send tocommunities and when exactlywhat that happen.
@@ -83,11 +105,15 @@ TURNING BACK TO THE PHONE,OPERATOR.
 Operator:
 Thank you. Our next question, please goahead.
 
+---
+
 Question:
 My question is forminister duclos. You spoke about how thecanada-u. S. relationship will betested in the upcoming weeks. When trump expresses impatienceand a strong desire to reopenthe american economy, does thatworry you?
 
 Answer:
 As an economist,given the current circumstances,if we want to reopen theeconomy, then we must be very,very cautious, especially whenit comes to public health. We have made major sacrificesthese past few weeks. We have been isolated and wehave felt anxious and we havealso made economic sacrifices. People have lost their jobs. People are having difficultymaking ends meet. So we always have to weighpublic health outcomes andeconomic outcomes..in the next few weeks andmonths, we will have to be very,very cautious. Of course, many of us areanxious to reopen the economy. That said, we must absolutelyfollow the recommendations ofour public health experts. We must take the necessarypublic health measures if wewant to reopen the economy. Followup question.
+
+---
 
 Question:
 All right. So that was your economist'spoint of view. Now what's your point of view asa canadian, as a canadiancitizen?president trump wants peoplemoving around freely as soon aspossible. How do you feel about that?could that compromise publichealth and safety in canada?
