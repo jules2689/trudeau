@@ -40,5 +40,5 @@ Prime Minister Justin Trudeau is speaking to Canadians about the spread of COVID
   - [News after Trudeau](./2020-04-03/post_news.md)
 
 <div style='border: 1px solid #ccc; display: inline-block; padding: 10px 0; margin-top: 30px;'>
-  <a style='display: inline-block; padding: 10px 0; width: 50px; text-align: center; 'href='./PAGE_3.md'>←</a>
+  <a style='display: inline-block; padding: 10px 0; width: 50px; text-align: center; ' href='./PAGE_3.md'>←</a>
 </div>
