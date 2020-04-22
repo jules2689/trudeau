@@ -110,11 +110,13 @@ videos.each_with_index do |(id, video), idx|
     current_readme << "<div style='padding: 20px'>"
     current_readme << "<h3>#{video[:date]} - #{video[:title]}</h3>"
     current_readme << video[:description]
-    current_readme << "<ul><li><a href='https://www.youtube.com/watch?v=#{id})'>Video</a></li>"
-    current_readme << "<li><a href='./#{video[:date]}/#{id}/trudeau.md)'>Trudeau</a></li>"
-    current_readme << "<li><a href='./#{video[:date]}/#{id}/q_a.md)'>Q & A</a></li>"
-    current_readme << "<li><a href='./#{video[:date]}/#{id}/pre_news.md)'>News before Trudeau</a></li>"
-    current_readme << "<li><a href='./#{video[:date]}/#{id}/post_news.md)'>News after Trudeau</a></li></ul>"
+    current_readme << "<br>"
+    button_style = "display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;"
+    current_readme << "<div style='#{button_style}'><a href='./#{video[:date]}/#{id}/trudeau.md)'>PM Trudeau Speech</a></div>"
+    current_readme << "<div style='#{button_style}'><a href='./#{video[:date]}/#{id}/q_a.md)'>Q & A</a></div>"
+    current_readme << "<br>"
+    current_readme << "<div style='#{button_style}'><a href='./#{video[:date]}/#{id}/pre_news.md)'>Pre-Speech News</a></div>"
+    current_readme << "<div style='#{button_style}'><a href='./#{video[:date]}/#{id}/post_news.md)'>News after Trudeau</a></div>"
     current_readme << "\n</div></div>"
 
     if !options[:force] && Dir.exist?(video_output_path)
