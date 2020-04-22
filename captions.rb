@@ -92,7 +92,7 @@ EOF
 
 videos.each_with_index do |(id, video), idx|
   CLI::UI::Frame.open("#{video[:date]} - #{video[:title]}") do
-    video_output_path = File.join(options[:output_path], video[:date])
+    video_output_path = File.join(options[:output_path], video[:date], id)
 
     if idx > 0 && idx % 10 == 0
       readmes << current_readme.join("\n")
@@ -103,10 +103,10 @@ videos.each_with_index do |(id, video), idx|
     current_readme << "\n### #{video[:date]} - #{video[:title]}"
     current_readme << video[:description]
     current_readme << "  - [Video](https://www.youtube.com/watch?v=#{id})"
-    current_readme << "  - [Trudeau](./#{video[:date]}/trudeau.md)"
-    current_readme << "  - [Q & A](./#{video[:date]}/q_a.md)"
-    current_readme << "  - [News before Trudeau](./#{video[:date]}/pre_news.md)"
-    current_readme << "  - [News after Trudeau](./#{video[:date]}/post_news.md)"
+    current_readme << "  - [Trudeau](./#{video[:date]}/#{id}/trudeau.md)"
+    current_readme << "  - [Q & A](./#{video[:date]}/#{id}/q_a.md)"
+    current_readme << "  - [News before Trudeau](./#{video[:date]}/#{id}/pre_news.md)"
+    current_readme << "  - [News after Trudeau](./#{video[:date]}/#{id}/post_news.md)"
 
     if !options[:force] && Dir.exist?(video_output_path)
       puts "Video downloaded already"

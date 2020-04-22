@@ -105,7 +105,7 @@ module Trudeau
     end
 
     def write_output(output_path, video_id)
-      FileUtils.mkdir_p(output_path)
+      FileUtils.mkpath(output_path)
 
       @dialog.each do |key, entries|
         path = File.join(output_path, "#{key}.md")
