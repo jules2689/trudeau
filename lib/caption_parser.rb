@@ -2,11 +2,12 @@ require "cgi"
 require "date"
 require "active_support/core_ext/string/inflections"
 require 'tempfile'
-require_relative './spell_checker'
 require_relative './text'
 
 module Trudeau
   class CaptionParser
+    attr_reader :dialog
+
     def initialize(raw_captions)
       @raw_captions = raw_captions
       @dialog = { pre_news: [], trudeau: [], q_a: [], post_news: [] }
@@ -18,9 +19,9 @@ module Trudeau
       current_dialog = :pre_news
       dialog_buffer = ""
       caption_entries = Nokogiri::XML.parse(@raw_captions).css('text')
-      puts "Found #{caption_entries.size} lines of text"
+      puts "Found #{caption_entries.size} lines of text" unless ENV["TEST"]
       return false if caption_entries.size == 0
-      CLI::UI::Frame.divider("Starting with Pre-News")
+      CLI::UI::Frame.divider("Starting with Pre-News") unless ENV["TEST"]
 
       starting_time = nil
       duration = 0
@@ -39,7 +40,7 @@ module Trudeau
           when :pre_news
             if text_object.speaker&.include?("Trudeau")
               output_section_stats
-              CLI::UI::Frame.divider("Found Trudeau Speech")
+              CLI::UI::Frame.divider("Found Trudeau Speech") unless ENV["TEST"]
               current_dialog = :trudeau
             end
           when :trudeau
@@ -49,13 +50,13 @@ module Trudeau
             ].map(&:downcase)
             if q_a_matches.any? { |t| text_object.msg.downcase.include?(t) || text_object.speaker&.downcase&.include?(t) }
               output_section_stats
-              CLI::UI::Frame.divider("Found Q & A")
+              CLI::UI::Frame.divider("Found Q & A") unless ENV["TEST"]
               current_dialog = :q_a
             end
           when :q_a
             if text_object.speaker == "Rosemary"
               output_section_stats
-              CLI::UI::Frame.divider("Found Post News")
+              CLI::UI::Frame.divider("Found Post News") unless ENV["TEST"]
               current_dialog = :post_news
             end
           when :post_news
@@ -68,7 +69,7 @@ module Trudeau
           potential_matches = ["here is the Prime Minister", "prime minister is here", "here he is"]
           if potential_matches.any? { |m| text_object.msg.downcase.include?(m.downcase) }
             output_section_stats
-            CLI::UI::Frame.divider("Found Trudeau Speech")
+            CLI::UI::Frame.divider("Found Trudeau Speech") unless ENV["TEST"]
             current_dialog = :trudeau
           end
       
@@ -87,7 +88,7 @@ module Trudeau
       end
 
       output_section_stats
-      CLI::UI::Frame.divider(nil)
+      CLI::UI::Frame.divider(nil) unless ENV["TEST"]
       true
     end
 
@@ -96,7 +97,7 @@ module Trudeau
 
       @dialog.each do |key, entries|
         path = File.join(output_path, "#{key}.md")
-        puts "Writing to #{path}"
+        puts "Writing to #{path}" unless ENV["TEST"]
         File.write(path, entries.map(&:to_s).join("\n"))
       end
 
@@ -104,11 +105,11 @@ module Trudeau
       File.write(path, video_id)
     end
 
-    def print_output
-      CLI::UI::Frame.divider("Output")
+    def print_output(io = STDOUT)
+      CLI::UI::Frame.divider("Output") unless ENV["TEST"]
       @dialog.each do |key, entries|
         entries.each do |entry|
-          puts entry.to_s
+          io.puts entry.to_s
         end
       end
     end
@@ -116,14 +117,16 @@ module Trudeau
     private
 
     def output_section_stats
-      unless @unknown_words.empty?
-        puts CLI::UI.fmt "{{bold:Unknown Words}}"
-        @unknown_words.each { |o, n| puts "- #{o} => #{n.take(3).join(', ')}" }
-      end
-    
-      unless @replaced_words.empty?
-        puts CLI::UI.fmt "{{bold:Replaced Words}}"
-        @replaced_words.each { |o, n| puts "- #{o} => #{n}" }
+      unless ENV["TEST"]
+        unless @unknown_words.empty?
+          puts CLI::UI.fmt "{{bold:Unknown Words}}"
+          @unknown_words.each { |o, n| puts "- #{o} => #{n.take(3).join(', ')}" }
+        end
+      
+        unless @replaced_words.empty?
+          puts CLI::UI.fmt "{{bold:Replaced Words}}"
+          @replaced_words.each { |o, n| puts "- #{o} => #{n}" }
+        end
       end
 
       @unknown_words = {}

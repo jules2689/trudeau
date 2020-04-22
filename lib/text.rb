@@ -1,4 +1,4 @@
-require_relative './spell_checker'
+require_relative './text_cleaner'
 require 'cgi'
 
 module Trudeau
@@ -7,8 +7,8 @@ module Trudeau
 
     def initialize(raw_text, starting_time, duration)
       @raw_text = raw_text.dup
-      @starting_time = starting_time
-      @duration = duration
+      @starting_time = starting_time.to_f
+      @duration = duration.to_f
       @replaced_words = {}
       @unknown_words = {}
 
@@ -31,10 +31,15 @@ module Trudeau
       if @speaker&.include?("Justin Trudeau")
         @msg = @msg.gsub(/\[/, "\n\n[")
       end
+
+      # Split up out put by sentence. This makes diffs easier to compare, but doesn't affect the markdown.
+      # Check for 3 word chars before a period so we don't get things like Dr. and Mr. as places to split
+      # Not perfect as this will capture things like `on.` too, but this is fine... it's only for diffs
+      @msg.gsub!(/(\w{3,}\.) /, '\1'.strip + "\n")
     end
 
     def to_s
-      out = if @speaker && @speaker.downcase.strip == "question"
+      if @speaker && @speaker.downcase.strip == "question"
         # Output for a "question"
         # Add a divider, then bold the Question "speaker"
         # Then output the message
@@ -51,11 +56,6 @@ module Trudeau
         # Otherwise we have an error... need to investigate
         "ERROR #{self.speaker}\t#{self.msg}\t#{self.raw_text}\n"
       end
-
-      # Split up out put by sentence. This makes diffs easier to compare, but doesn't affect the markdown.
-      # Check for 3 word chars before a period so we don't get things like Dr. and Mr. as places to split
-      # Not perfect as this will capture things like `on.` too, but this is fine... it's only for diffs
-      out.gsub(/(\w{3,}\.) /, '\1'.strip + "\n")
     end
 
     private
@@ -64,7 +64,7 @@ module Trudeau
       return msg if msg.nil?
       msg = msg.strip.humanize
       
-      spellchecker = Trudeau::SpellChecker.new(msg)
+      spellchecker = Trudeau::TextCleaner.new(msg)
       spellchecker.fix!
       @replaced_words.merge!(spellchecker.replaced_words)
       @unknown_words.merge!(spellchecker.unknown_words)

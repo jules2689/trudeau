@@ -1,5 +1,5 @@
 module Trudeau
-  class SpellChecker
+  class TextCleaner
     PROVINCES = [
       "Nunavut",
       "Quebec",
@@ -47,10 +47,15 @@ module Trudeau
       fix_known_issues
       fix_acronyms_and_words
       spell_check
+      post_clean
       @text
     end
 
     private
+
+    def post_clean
+      @text.gsub!(/\[speaking french\]\./i, "")
+    end
 
     def fix_known_issues
       # Together Fixes
@@ -150,6 +155,11 @@ module Trudeau
       @text.gsub!(/\bresurge ens\b/, "resurgence")
       @text.gsub!(/\bnotionally\b/, "nationally")
       @text.gsub!(/\bM. PERFORMs\b/i, "MPs")
+      @text.gsub!(/\bDISTRICTED\b/i, "distributed")
+      @text.gsub!(/united way/, "United Way")
+      @text.gsub!(/\bDHURG\b/i, "during this")
+      @text.gsub!(/\bin may\b/i, "in May")
+      @text.gsub!(/\bmay (\d)\b/i, 'May \1')
     end
 
     def fix_acronyms_and_words
