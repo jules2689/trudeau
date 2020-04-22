@@ -113,6 +113,9 @@ videos.each_with_index do |(id, video), idx|
       next
     end
 
+    FileUtils.mkpath(video_output_path)
+    File.write(File.join(video_output_path, "video.json"), JSON.pretty_generate(video.merge(id: id)))
+
     captions = caption_download(id)
     parser = Trudeau::CaptionParser.new(captions)
     if parser.parse
