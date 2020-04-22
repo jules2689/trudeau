@@ -1,5 +1,7 @@
 [Automated Summary can be read here](./trudeau_summary.md)
 
+
+
 **Prime Minister Trudeau**:
 
 For a lot of students, the month of may normally marks the start of a summer job.
