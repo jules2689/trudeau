@@ -49,7 +49,7 @@ module Trudeau
               "first question",
               "phone lines for some questions",
             ].map(&:downcase)
-            if q_a_matches.any? { |t| text_object.msg.downcase.include?(t) || text_object.speaker&.downcase&.include?(t) }
+            if text_object.speaker&.downcase&.include?("operator") || q_a_matches.any? { |t| text_object.msg.downcase.include?(t) || text_object.speaker&.downcase&.include?(t) }
               output_section_stats
               CLI::UI::Frame.divider("Found Q & A") unless ENV["TEST"]
               current_dialog = :q_a
