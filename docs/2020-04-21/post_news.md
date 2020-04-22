@@ -172,7 +172,7 @@ This would be a tragedy at any time.
 But for this to happen now as nova Scotians are all making great personal sacrifices to preserve life is a particular horror and particular sorrow.
 To the people of Nova Scotia, all Canadians with are you in your grief.
 So today we will hear from Canada's chief public health officer, Theresa Tam.
-The deputy chief public, Dr. Howard njoo.
+The deputy chief public, Dr. Howard Njoo.
 
 
 

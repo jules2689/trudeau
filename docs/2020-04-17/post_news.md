@@ -46,10 +46,10 @@ This is the deputy Prime Minister.
 
 
 
-**The Hon. ChyrstiaFREELAND**:
+**The Hon. Chrystia Freeland**:
 
 (voice oftranslator): navdeep Bains who is joining us remotely as well.
-Also with us is the deputy chief public health officer,(voice of translator):dr. Howard njoo is with us andready to answer your questions.[end of translation]dr. Tam, please.
+Also with us is the deputy chief public health officer,(voice of translator):Dr. Howard Njoo is with us andready to answer your questions.[end of translation]dr. Tam, please.
 
 
 
@@ -379,7 +379,7 @@ is there some way to make an exception so that more than --these particular sold
 
 
 
-**The Hon. ChyrstiaFREELAND**:
+**The Hon. Chrystia Freeland**:
 
 (voice oftranslator): Minister Freeland, answer.
 The decision to respond toquÉbec's request that went to the Prime Minister is an important one.
@@ -400,7 +400,7 @@ What about the volunteers?can you give us an idea of howmany more people could b
 
 
 
-**The Hon. ChyrstiaFREELAND**:
+**The Hon. Chrystia Freeland**:
 
 (voice oftranslator): answer, ministerfreeland.
 At this point, no. What I do want to underscore is that it is essential to work in close cooperation with theprovince.
