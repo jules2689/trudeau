@@ -93,6 +93,6 @@ Prime Minister Justin Trudeau discusses the Canada emergency business account, a
   - [News before Trudeau](./2020-04-10/pre_news.md)
   - [News after Trudeau](./2020-04-10/post_news.md)
 
-<ul style='border: 1px solid #ccc; display: inline-block; padding: 10px 0; margin-top: 30px;'>
-	<li style='display: inline-block; width: 50px; text-align: center';><a href='./PAGE_2'>→</a></li>
-</ul>
+<div style='border: 1px solid #ccc; display: inline-block; padding: 10px 0; margin-top: 30px;'>
+  <a style='display: inline-block; padding: 10px 0; width: 50px; text-align: center' href='./PAGE_2'>→</a>
+</div>
