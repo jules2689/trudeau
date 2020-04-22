@@ -19,9 +19,10 @@ jobs:
         key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
         restore-keys: |
           ${{ runner.os }}-gems-
-    - name: Install Aspell
+    - name: Install Aspell & Bundler
       run: |
         sudo apt-get install aspell aspell-en
+        gem install bundler
     - name: Bundle install
       run: |
         bundle config path vendor/bundle
