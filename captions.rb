@@ -85,7 +85,7 @@ end
 readmes = []
 current_readme = []
 readme_preamble = <<~EOF
-<div style="border: 1px solid #ccc; padding: 20px; text-align: center; margin-bottom: 30px; border-radius: 20px;">
+<div style="border: 1px solid #ccc; padding: 20px; text-align: center; margin-bottom: 30px; border-radius: 10px;">
 You can view a human summarized version of these notes <a href="https://www.notion.so/jnadeau/Covid-19-Canadian-PM-Trudeau-Summaries-9055578ceba94368a732b68904eae78f">at this link</a>.
 </div>
 EOF
@@ -100,21 +100,22 @@ videos.each_with_index do |(id, video), idx|
     end
 
     current_readme << readme_preamble if current_readme.empty?
-    current_readme << "<div style='border: 1px solid #ccc; padding: 20px; text-align: center; margin-bottom: 30px; border-radius: 20px;'>"
-    current_readme << "### #{video[:date]} - #{video[:title]}"
-    current_readme << video[:description]
+    current_readme << "<div style='border: 1px solid #ccc; text-align: center; margin-bottom: 30px; border-radius: 10px;'>"
     current_readme << <<~EOF
     <iframe src="https://www.youtube.com/embed/#{id}"
-            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""
-            style="width: 100%;" width="" height="250" frameborder="0"></iframe>
+    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""
+    style="width: 100%; border-top-left-radius: 10px; border-top-right-radius: 10px;" width="" height="250" frameborder="0"></iframe>
     <br>
     EOF
-    current_readme << "  - [Video](https://www.youtube.com/watch?v=#{id})"
-    current_readme << "  - [Trudeau](./#{video[:date]}/#{id}/trudeau.md)"
-    current_readme << "  - [Q & A](./#{video[:date]}/#{id}/q_a.md)"
-    current_readme << "  - [News before Trudeau](./#{video[:date]}/#{id}/pre_news.md)"
-    current_readme << "  - [News after Trudeau](./#{video[:date]}/#{id}/post_news.md)"
-    current_readme << "\n</div>"
+    current_readme << "<div style='padding: 20px'>"
+    current_readme << "<h3>#{video[:date]} - #{video[:title]}</h3>"
+    current_readme << video[:description]
+    current_readme << "<ul><li><a href='https://www.youtube.com/watch?v=#{id})''>Video</a></li>"
+    current_readme << "<li><a href='./#{video[:date]}/#{id}/trudeau.md)''>Trudeau</a></li>"
+    current_readme << "<li><a href='./#{video[:date]}/#{id}/q_a.md)''>Q & A</a></li>"
+    current_readme << "<li><a href='./#{video[:date]}/#{id}/pre_news.md)''>News before Trudeau</a></li>"
+    current_readme << "<li><a href='./#{video[:date]}/#{id}/post_news.md)''>News after Trudeau</a></li></ul>"
+    current_readme << "\n</div>/div>"
 
     if !options[:force] && Dir.exist?(video_output_path)
       puts "Video downloaded already"
