@@ -9,10 +9,11 @@ style="width: 100%; border-top-left-radius: 10px; border-top-right-radius: 10px;
 <br>
 
 <div style='padding: 20px'>
-<h3>2020-04-21 - Trudeau pledges $350M to community groups helping seniors, homeless</h3>
+<h3>Trudeau pledges $350M to community groups helping seniors, homeless</h3>
+<strong>2020-04-21</strong>
 Prime Minister Justin Trudeau has announced $350 million for community groups and national charities such as the United Way and Red Cross.
 
-<br>
+<br><br>
 <div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-21/K60KUHbmG_k/trudeau.md)'>PM Trudeau Speech</a></div>
 <div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-21/K60KUHbmG_k/q_a.md)'>Q & A</a></div>
 <br>
@@ -27,10 +28,11 @@ style="width: 100%; border-top-left-radius: 10px; border-top-right-radius: 10px;
 <br>
 
 <div style='padding: 20px'>
-<h3>2020-04-20 - Trudeau addresses Canadians on Nova Scotia mass shooting</h3>
+<h3>Trudeau addresses Canadians on Nova Scotia mass shooting</h3>
+<strong>2020-04-20</strong>
 Prime Minister Justin Trudeau addresses the mass shooting that took place over the weekend in Nova Scotia.
 
-<br>
+<br><br>
 <div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-20/yKCkZ10-FBo/trudeau.md)'>PM Trudeau Speech</a></div>
 <div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-20/yKCkZ10-FBo/q_a.md)'>Q & A</a></div>
 <br>
@@ -45,10 +47,11 @@ style="width: 100%; border-top-left-radius: 10px; border-top-right-radius: 10px;
 <br>
 
 <div style='padding: 20px'>
-<h3>2020-04-19 - Federal parties grapple over reconvening Parliament</h3>
+<h3>Federal parties grapple over reconvening Parliament</h3>
+<strong>2020-04-19</strong>
 The Conservatives are calling for more in-person sittings, while other opposition parties are concerned over recalling MPs during the pandemic and prefer virtual sittings. 
 
-<br>
+<br><br>
 <div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-19/70aKpsEfk9s/trudeau.md)'>PM Trudeau Speech</a></div>
 <div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-19/70aKpsEfk9s/q_a.md)'>Q & A</a></div>
 <br>
@@ -63,10 +66,11 @@ style="width: 100%; border-top-left-radius: 10px; border-top-right-radius: 10px;
 <br>
 
 <div style='padding: 20px'>
-<h3>2020-04-18 - Canada, U.S. agree to extend border restrictions, Trudeau says</h3>
+<h3>Canada, U.S. agree to extend border restrictions, Trudeau says</h3>
+<strong>2020-04-18</strong>
 Prime Minister Justin Trudeau announced a 30-day extension of restrictions imposed on cross-border travel between the U.S. and Canada 
 
-<br>
+<br><br>
 <div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-18/IHjelomI83U/trudeau.md)'>PM Trudeau Speech</a></div>
 <div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-18/IHjelomI83U/q_a.md)'>Q & A</a></div>
 <br>
@@ -81,10 +85,11 @@ style="width: 100%; border-top-left-radius: 10px; border-top-right-radius: 10px;
 <br>
 
 <div style='padding: 20px'>
-<h3>2020-04-17 - Trudeau earmarks $1.7B to clean orphan wells and expands business credits</h3>
+<h3>Trudeau earmarks $1.7B to clean orphan wells and expands business credits</h3>
+<strong>2020-04-17</strong>
 Prime Minister Justin Trudeau has announced $1.7 billion to clean up orphan wells in Alberta, Saskatchewan and British Columbia, as well as aid for rural businesses and people working in the arts and culture sectors.
 
-<br>
+<br><br>
 <div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-17/ARmTJuR83M0/trudeau.md)'>PM Trudeau Speech</a></div>
 <div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-17/ARmTJuR83M0/q_a.md)'>Q & A</a></div>
 <br>
@@ -99,10 +104,11 @@ style="width: 100%; border-top-left-radius: 10px; border-top-right-radius: 10px;
 <br>
 
 <div style='padding: 20px'>
-<h3>2020-04-16 - Trudeau plans to expand aid for businesses, assistance for commercial rent</h3>
+<h3>Trudeau plans to expand aid for businesses, assistance for commercial rent</h3>
+<strong>2020-04-16</strong>
 Prime Minister Justin Trudeau has announced more measures to help Canadian businesses get through the COVID-19 crisis, including expanded loan eligibility and assistance with commercial rent.
 
-<br>
+<br><br>
 <div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-16/NAkfUqUq2Ds/trudeau.md)'>PM Trudeau Speech</a></div>
 <div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-16/NAkfUqUq2Ds/q_a.md)'>Q & A</a></div>
 <br>
@@ -117,10 +123,11 @@ style="width: 100%; border-top-left-radius: 10px; border-top-right-radius: 10px;
 <br>
 
 <div style='padding: 20px'>
-<h3>2020-04-15 - Part-time, contract and seasonal workers now qualify for CERB | Special coverage</h3>
+<h3>Part-time, contract and seasonal workers now qualify for CERB | Special coverage</h3>
+<strong>2020-04-15</strong>
 Prime Minister Justin Trudeau has announced more flexible rules for claiming the Canada emergency response benefit (CERB) in response to critics who pointed out the initial rules excluded too many people, including those working reduced hours.
 
-<br>
+<br><br>
 <div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-15/f3jf-f6hEjM/trudeau.md)'>PM Trudeau Speech</a></div>
 <div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-15/f3jf-f6hEjM/q_a.md)'>Q & A</a></div>
 <br>
@@ -135,10 +142,11 @@ style="width: 100%; border-top-left-radius: 10px; border-top-right-radius: 10px;
 <br>
 
 <div style='padding: 20px'>
-<h3>2020-04-14 - Trudeau announces new mandatory COVID-19 measures | Special coverage</h3>
+<h3>Trudeau announces new mandatory COVID-19 measures | Special coverage</h3>
+<strong>2020-04-14</strong>
 Prime Minister Justin Trudeau announced new mandatory COVID-19 measures that include getting a self-isolation plan approved by authorities for anybody arriving in Canada.
 
-<br>
+<br><br>
 <div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-14/76iqxbZz4X8/trudeau.md)'>PM Trudeau Speech</a></div>
 <div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-14/76iqxbZz4X8/q_a.md)'>Q & A</a></div>
 <br>
@@ -153,10 +161,11 @@ style="width: 100%; border-top-left-radius: 10px; border-top-right-radius: 10px;
 <br>
 
 <div style='padding: 20px'>
-<h3>2020-04-11 - Trudeau, opposition leaders and select MPs debate wage subsidy bill | Special coverage</h3>
+<h3>Trudeau, opposition leaders and select MPs debate wage subsidy bill | Special coverage</h3>
+<strong>2020-04-11</strong>
 Chief public health officer Dr. Theresa Tam makes recommendations for long-term care homes during COVID-19 pandemic. http://www.cbc.ca/1.5529884
 
-<br>
+<br><br>
 <div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-11/YjHHe_YQj4g/trudeau.md)'>PM Trudeau Speech</a></div>
 <div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-11/YjHHe_YQj4g/q_a.md)'>Q & A</a></div>
 <br>
@@ -171,10 +180,11 @@ style="width: 100%; border-top-left-radius: 10px; border-top-right-radius: 10px;
 <br>
 
 <div style='padding: 20px'>
-<h3>2020-04-10 - Trudeau highlights interest-free loans to help small businesses during COVID-19</h3>
+<h3>Trudeau highlights interest-free loans to help small businesses during COVID-19</h3>
+<strong>2020-04-10</strong>
 Prime Minister Justin Trudeau discusses the Canada emergency business account, a federal government plan that will back interest-free bank loans of up to $40,000 for small businesses and not-for-profit companies.
 
-<br>
+<br><br>
 <div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-10/F-UQwgj4CR4/trudeau.md)'>PM Trudeau Speech</a></div>
 <div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-10/F-UQwgj4CR4/q_a.md)'>Q & A</a></div>
 <br>

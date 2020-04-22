@@ -108,9 +108,10 @@ videos.each_with_index do |(id, video), idx|
     <br>
     EOF
     current_readme << "<div style='padding: 20px'>"
-    current_readme << "<h3>#{video[:date]} - #{video[:title]}</h3>"
+    current_readme << "<h3>#{video[:title]}</h3>"
+    current_readme << "<strong>#{video[:date]}</strong>"
     current_readme << video[:description]
-    current_readme << "<br>"
+    current_readme << "<br><br>"
     button_style = "display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;"
     current_readme << "<div style='#{button_style}'><a href='./#{video[:date]}/#{id}/trudeau.md)'>PM Trudeau Speech</a></div>"
     current_readme << "<div style='#{button_style}'><a href='./#{video[:date]}/#{id}/q_a.md)'>Q & A</a></div>"
