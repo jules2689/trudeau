@@ -1,3 +1,7 @@
+<div style="border: 1px solid #ccc; padding: 20px; text-align: center">
+You can view a human summarized version of these notes <a href="https://www.notion.so/jnadeau/Covid-19-Canadian-PM-Trudeau-Summaries-9055578ceba94368a732b68904eae78f">at this link</a>.
+</div>
+
 
 ### 2020-04-21 - Trudeau pledges $350M to community groups helping seniors, homeless
 Prime Minister Justin Trudeau has announced $350 million for community groups and national charities such as the United Way and Red Cross.
