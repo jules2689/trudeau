@@ -18,7 +18,7 @@ jobs:
         sudo apt-get install aspell aspell-en
     - name: Generate Dialog
       run: |
-        ruby captions.rb "${{ secrets.GOOGLE_TOKEN }}" --force
+        ruby captions.rb -t "${{ secrets.GOOGLE_TOKEN }}" --force
     - name: Commit Dialog
       run: |
         git config --local user.email "action@github.com"

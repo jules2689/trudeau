@@ -1,4 +1,4 @@
-<div style="border: 1px solid #ccc; padding: 20px; text-align: center">
+<div style="border: 1px solid #ccc; padding: 20px; text-align: center; margin-bottom: 30px; border-radius: 20px;">
 You can view a human summarized version of these notes <a href="https://www.notion.so/jnadeau/Covid-19-Canadian-PM-Trudeau-Summaries-9055578ceba94368a732b68904eae78f">at this link</a>.
 </div>
 

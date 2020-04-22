@@ -104,6 +104,15 @@ module Trudeau
       File.write(path, video_id)
     end
 
+    def print_output
+      CLI::UI::Frame.divider("Output")
+      @dialog.each do |key, entries|
+        entries.each do |entry|
+          puts entry.to_s
+        end
+      end
+    end
+
     private
 
     def output_section_stats
