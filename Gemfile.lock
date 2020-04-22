@@ -17,6 +17,9 @@ GEM
     minitest (5.14.0)
     nokogiri (1.10.9)
       mini_portile2 (~> 2.4.0)
+    rake (13.0.1)
+    rake-compiler (1.1.0)
+      rake
     rspec (3.9.0)
       rspec-core (~> 3.9.0)
       rspec-expectations (~> 3.9.0)
@@ -31,6 +34,8 @@ GEM
       rspec-support (~> 3.9.0)
     rspec-support (3.9.2)
     spellchecker (0.1.5)
+    summarize (1.0.3)
+      rake-compiler
     thread_safe (0.3.6)
     tzinfo (1.2.7)
       thread_safe (~> 0.1)
@@ -46,6 +51,7 @@ DEPENDENCIES
   nokogiri
   rspec
   spellchecker
+  summarize
 
 BUNDLED WITH
    2.0.2

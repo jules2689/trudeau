@@ -40,13 +40,13 @@ module Trudeau
       @msg.gsub!(/(\w{3,}\.) /, '\1'.strip + "\n")
     end
 
-    def to_s
-      if @speaker && @speaker.downcase.strip == "question"
+    def to_s(include_speaker: true)
+      if include_speaker && @speaker && @speaker.downcase.strip == "question"
         # Output for a "question"
         # Add a divider, then bold the Question "speaker"
         # Then output the message
         "---\n\n**#{@speaker}**:\n\n#{@msg}\n"
-      elsif @speaker && @msg
+      elsif include_speaker && @speaker && @msg
         # Output for a speaker
         # Add a divider, then bold the Question "speaker"
         # Then output the message

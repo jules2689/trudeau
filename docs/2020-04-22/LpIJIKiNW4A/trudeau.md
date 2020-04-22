@@ -1,4 +1,4 @@
-
+[Automated Summary can be read here](./trudeau_summary.md)
 
 **Prime Minister Trudeau**:
 

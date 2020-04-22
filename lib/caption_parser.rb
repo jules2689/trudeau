@@ -3,6 +3,7 @@ require "date"
 require "active_support/core_ext/string/inflections"
 require 'tempfile'
 require "nokogiri"
+require "summarize"
 require_relative './text'
 
 module Trudeau
@@ -110,7 +111,24 @@ module Trudeau
       @dialog.each do |key, entries|
         path = File.join(output_path, "#{key}.md")
         puts "Writing to #{path}" unless ENV["TEST"]
-        File.write(path, entries.map(&:to_s).join("\n"))
+        output = entries.map(&:to_s).join("\n")
+        if key == :trudeau
+          output = "[Automated Summary can be read here](./#{key}_summary.md)\n\n#{output}"
+        end
+        File.write(path, output)
+
+        # Auto-Summarize
+        if key == :trudeau
+          path = File.join(output_path, "#{key}_summary.md")
+          puts "Writing to #{path}" unless ENV["TEST"]
+          trudeau_text = entries.select { |e| e.speaker&.downcase&.include?("trudeau") }
+                                .map { |e| e.to_s(include_speaker: false) }
+                                .join("\n")
+          content, topics = trudeau_text.summarize(ratio: 50, topics: true)
+          output = "**This content is fully automated and not guaranteed to be accurate**\n\n"
+          output = "#{output}### Topics\n\n- #{topics.split(",").join("\n- ")}\n\n---\n\n### Summary:\n\n#{content}"
+          File.write(path, output)
+        end
       end
 
       path = File.join(output_path, "video_id.txt")
