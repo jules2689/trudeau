@@ -164,7 +164,7 @@ module Trudeau
       @text.gsub!(/\bin may\b/i, "in May")
       @text.gsub!(/\bmay (\d)\b/i, 'May \1')
       @text.gsub!(/\btohow\b/, "to how")
-      @test.gsub!(/dr\. Howard njoo/, "Dr. Howard Njoo")
+      @text.gsub!(/dr\. Howard njoo/, "Dr. Howard Njoo")
     end
 
     def fix_acronyms_and_words
