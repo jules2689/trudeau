@@ -28,7 +28,7 @@ Right now, many energy firms are experiencing a cash crunch so they don't have t
 Today's announcement will allow for this kind of work to be done and create jobs people need during this difficult time.
 Through the wells and methane initiatives, we estimate that we will maintain roughly 10, 000 jobs across the country.
 Just because we're in a health crisis doesn't mean we can neglect the environmental crisis.
-We're also working with b. D.c. and EDC To expand credit support for at-risk medium-sized energy companis so they can maintain operations and keep employees.
+We're also working with BDC and EDC To expand credit support for at-risk medium-sized energy companis so they can maintain operations and keep employees.
 
 
 
@@ -47,7 +47,7 @@ Right now, energy sector companies have cash flow problems, which means that the
 Today's announcement will allow these companies to carry out that work while, at the same time, creating jobs for workers during this difficult time.
 This public health crisis must not prevent us from taking action to fight the climate crisis.
 With this nichetive to clean up the wells and the fund to reduce emissions, we believe that 10, 000 jobs will be maintained.
-At the same time, we're working with b. D.c. and EDC To strengthen credit support for medium-sized energy companies that are particularly at risk.
+At the same time, we're working with BDC and EDC To strengthen credit support for medium-sized energy companies that are particularly at risk.
 Once again, the goal is to allow these companies to continue their activity in order to keep their employees.
 
 
@@ -66,7 +66,7 @@ There is an assistance programme to support inknow vaiz tos and other early stag
 For small businesses, today we're announcing two further investments.
 First our government will provide $962 million to regional developmentings as and to the community futures network.
 This is money that will make it possible to provide help to small businesses that don't qualify for the emergency wage subsidy or to receive a loan through the emergency account.
-Our government will also allocate $270 million to [speaking french] and to the industrial research assistance programme to support innovators and other startups that are not eligible for the wage subsidy.
+Our government will also allocate $270 million to  and to the industrial research assistance programme to support innovators and other startups that are not eligible for the wage subsidy.
 We also have news for people working in the arts, culture and sports sectors.
 These are industries which some, like the small businesses I just described, are not able to receive the assistance already announced because their income structures are not the same or they don't operate the same way.
 From the beginning of this crisis, artists have been providing us with comfort, laughter and happiness.

@@ -178,7 +178,7 @@ The deputy chief public, Dr. Howard njoo.
 
 **Dr. Theresa Tam**:
 
-[speaking french]there are now 37, 000 -- 37, 374 cases including 1, 728 deaths.
+there are now 37, 000 -- 37, 374 cases including 1, 728 deaths.
 We have tested over 565, 000 people to date with around 6.5% of those testing positive.
 But we are still aways off and the path remains uncertain.
 I know recovery is what is on everyone's mind right now.
@@ -205,7 +205,7 @@ Thank you.
 
 **Chrystia Freeland (Deputy Prime Minister)**:
 
-Thank you.[speaking french]we will now hear from Dr. Njoo.
+Thank you.we will now hear from Dr. Njoo.
 
 
 
@@ -249,7 +249,7 @@ Now we'll hear from the minister of families.
 Thank you very much, Bonjour.
 When the experience personal difficulties as a result of natural disasters, be it wildfires in British Columbia or tornado right here in Ottawa or something closer to home, like losing a job, that every time countless charities across the country are there to help them.
 They're there to step up and help them in every way they can.
-Canadian charities and non-profits are there to help us in our time of need.[speaking french][voice of interpreter] charity organizations are always there to help Canadians in times of need.[end of translation] bringing real challenges to these really important organizations.
+Canadian charities and non-profits are there to help us in our time of need.[voice of interpreter] charity organizations are always there to help Canadians in times of need.[end of translation] bringing real challenges to these really important organizations.
 At the very time that countless Canadians across the country arerelying on these organizations, some for the very first time, canadian charities and non-profits are having to deal with extra costs procuring and obtaining personal protective equipment, increased costs as a result of staffing shortages.
 Other challenges as a result of getting materials needed to do their work.
 and to make matters worse, they also experiencing a dramatic drop in the amount of donations they usually receive.
@@ -258,7 +258,7 @@ Like older Canadians, people with disabilities, racialized Canadians, including 
 So our message to Canada's community organizations and charities is that we will support you.
 The time that more and more Canadians are calling on you to provide more services for them, we will support you so that you can meet that request, so that you can answer that call.
 As the Prime Minister said, we have your back.
-That is why the Prime Minister announced that we are providing $350 million to support in emergency fashion to help charities and non-profit organizations adapt their frontline services to vulnerablecanadians during COVID-19.[speaking french][voice of interpreter] that's why the Prime Minister announced up to $350 million in emergency funding for charity organizations and non-profit organizations.
+That is why the Prime Minister announced that we are providing $350 million to support in emergency fashion to help charities and non-profit organizations adapt their frontline services to vulnerablecanadians during COVID-19.[voice of interpreter] that's why the Prime Minister announced up to $350 million in emergency funding for charity organizations and non-profit organizations.
 These organizations are providing help to Canadians during COVID-19.[end of translation] like the United Way, the canadian red cross and community foundations of Canada, to ensure charities and non-profit organizations from across the country are ableto provide much needed support to vulnerable Canadians.
 and they will be able to do thisby flowing the money quickly to everyone, including local community-based organizations that have the relationships thatknow the people in their communities who need these services immediately.
 This money will help groups likethose in eastern Ontario that are working to provide meals to those who cannot leave their homes.
@@ -267,7 +267,7 @@ It would also help organizationssuch as the atlantic compassion fund, or the van
 We know these are very difficulttimes for Canadians, but the government of Canada is working to ensure that those organizations that Canadians arerelying on have the resources that they need so they can continue to help Canadians now and into the future.
 I want to thank all the organizations, charities, and community leaders, including faith leaders, that have reachedout to me and My colleagues overthe last number of weeks for their hard work on this and their feedback and their guidance on how to get this right.
 Lastly, I want to thank the volunteers and the front-line workers, the service providers, who are tirelessly working day and night to provide much neededcritical services to our most vulnerable in their homes and intheir communities.
-Thank you so much for everythingthat you do.[speaking french][voice of interpreter] we are here for you.
+Thank you so much for everythingthat you do.[voice of interpreter] we are here for you.
 Thank you.
 
 
@@ -284,20 +284,20 @@ Now we will hear from the president of the treasury board, jean-yves duclos.
 Thank you.
 The spread of COVID-19 has brought about unprecedented circumstances for Canadian businesses and workers.
 Our government is committed to helping Canadian employers support their employees during these very tough times.
-That is why the Prime Minister again this morning has reiterated and announced the introduction of the Canada emergency wage subsidy in order to help businesses support their employees in these very difficult times.[speaking french][voice of interpreter] our government is committed to helping canadian businesses and their employees during these difficult times.
+That is why the Prime Minister again this morning has reiterated and announced the introduction of the Canada emergency wage subsidy in order to help businesses support their employees in these very difficult times.[voice of interpreter] our government is committed to helping canadian businesses and their employees during these difficult times.
 That is why this morning the Prime Minister announced new information about the Canada emergency wage subsidy which will help employers pay their employees' salaries during the COVID-19 crisis.[end of translation] designed tohelp employers keep and rehire workers amidst the challenges possessed by the COVID-19 epidemic.
 Having the ability to retain staff and rehire people will putemployers in the best possible position to resume normal circumstances once circumstancesdo allow it. The health and wellness of Canadians is almost -- is also that much better when people have the ability to pay their bills, their rent and buy food for their families.
-It is a government's intent to keep as many Canadians working as possible and the implementation of the Canada emergency wage subsidy is one ofthe measures in place to supportthis goal.[speaking french][voice of interpreter] the Canada emergency wage subsidy covers upto 75% of employees' salaries.
+It is a government's intent to keep as many Canadians working as possible and the implementation of the Canada emergency wage subsidy is one ofthe measures in place to supportthis goal.[voice of interpreter] the Canada emergency wage subsidy covers upto 75% of employees' salaries.
 This can be up to $847 per worker per week for up to a maximum of 12 weeks.
 The subsidy is back dated to March 15 and businesses will be able to apply as of next Monday, April 27. The Canada revenue agency will administer the wage subsidy programme on behalf of the government of Canada.
 This programme will send funds to thousands of canadian businesses each week.
 The Canada revenue agency is committed to helping workers andbusinesses.[end of translation] announcing a Canada emergency wage subsidy web page.
 The page includes a calculator that will help employers to determine quickly the subsidy amount they can expect to claim based on the information that they enter into the calculator.
 The government is grateful for the input we have received from many stakeholders during our consultations in the last few weeks.
-These consultations have led to the efficient and quick launch of the website to date.[speaking french][voice of interpreter] I am happy to announce to Canadians that todaythe Canada revenue agency is launching a calculator on its website to help employers prepare for their application to the wage subsidy which will helptheir employees.
+These consultations have led to the efficient and quick launch of the website to date.[voice of interpreter] I am happy to announce to Canadians that todaythe Canada revenue agency is launching a calculator on its website to help employers prepare for their application to the wage subsidy which will helptheir employees.
 We thank business representatives and all stakeholders who have helped in preparing this web page.[end of translation] Canada wagesubsidy as of April 27. It is expected that 90% of the applications will have been processed by the 5th of may withdirect deposits and cheques madeand sent soon after.
 Until then, businesses are invited to update their businessaccount on the Canada revenue agency's website.
-Technical debriefing session will also be offered this afternoon to the media.[speaking french][voice of interpreter] businesses will be able to file their applications for the Canada emergency wage subsidy as of April 27th.
+Technical debriefing session will also be offered this afternoon to the media.[voice of interpreter] businesses will be able to file their applications for the Canada emergency wage subsidy as of April 27th.
 We expect that 90% of applications will have been processed by may 5th and this will quickly be followed by direct deposits and cheques being sent out.
 Until then, businesses are invited to update their profileson the Canada revenue agency website.
 This afternoon, there will be a technical briefing for media.
@@ -313,7 +313,7 @@ One question, one follow-up. Operator?
 
 
 Thank you.
-Please press star 1 if you have a question.[speaking french][speaking french][voice of interpreter] our first question is from la presse..
+Please press star 1 if you have a question.[voice of interpreter] our first question is from la presse..
 
 
 
@@ -365,7 +365,7 @@ The next question, please.
 
 
 
-Next question is [speaking french][speaking french][voice of interpreter].
+Next question is [voice of interpreter].
 
 
 
@@ -422,7 +422,7 @@ La presser
 
 **Reporter**:
 
-[speaking french][voice of interpreter] thank you.
+[voice of interpreter] thank you.
 My first question is for Minister duclos.
 How will you be calculating the emergency wage subsidy payments for thousands of businesses in the country and how will you do it quickly?
 
@@ -459,7 +459,7 @@ We also now provide a requirement for the wearing of amask as people are transfe
 
 
 Thank you, doctor.
-Dr. Njoo.[speaking french][voice of interpreter] I would like this repeat the answer in french.
+Dr. Njoo.[voice of interpreter] I would like this repeat the answer in french.
 Dr. Tam and I are working very closely with our counterparts, the chief medical officers of the provinces and territories.
 Together, we sit on a special advisory committee.
 Yesterday Dr. Arruda, the chief medical officer of quÉbec said something that is in line with what Dr. Tam and I have been saying.

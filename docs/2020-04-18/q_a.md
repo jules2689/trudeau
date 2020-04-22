@@ -14,7 +14,7 @@ Thank you.
 
 **Question**:
 
-[speaking french] [voice of interpreter] good morning.
+ [voice of interpreter] good morning.
 I have a question about this agreement with respect to the closure of the United States-canadian border.
 We are concerned about not having enough medical equipment and medication.
 Do you believe that this agreement includes the same mechanisms in terms of timelinesor have you improved it?
@@ -29,7 +29,7 @@ It will ensure that we continue to get essential goods and services back and for
 
 
 
-[speaking french] [voice of interpreter] follow up.
+ [voice of interpreter] follow up.
 
 ---
 
@@ -106,7 +106,8 @@ Right now we're in a situation where M.P.s across the country and their staff ar
 Obviously that is not something from a public health standpoint we should want to see happening.
 Right now on the books the rule is parliament needs to re-open fully on Monday.
 That is obviously not a good idea, which is why we've proposed measures going forward that we're discussing with the other parties.
-We certainly hope we can come to an agreement so we all don't have to convene in the house of commons on Monday morning.[speaking french] [voice of interpreter] we are still in discussions with the other parties.
+We certainly hope we can come to an agreement so we all don't have to convene in the house of commons on Monday morning.
+[voice of interpreter] we are still in discussions with the other parties.
 We have proposed that the house of commons sit every week to ensure that there is an opportunity to ask questions of the government and also to be able to pass other measures thatwill help Canadians.
 The reality is that Monday morning 338 members of parliament and the teams are supposed to be in ottawa.
 They are expected to be in ottawa then so that parliament can reconvene.
@@ -279,7 +280,8 @@ If the United States loosens restrictions in the next few weeks, what kind of he
 **Answer**:
 
 We have the border restrictions in place where non-essential travel across the border will not be permitted.
-We will take the measures necessary to keep Canadians safewhile ensuring the flow of our essential supply chains on whichso many Canadians depend.[speaking french] [voice of interpreter] we will continue to be very vigilant about our borders and travelling coming from abroad and we will continueas well to work with the americans to ensure our own safety by maintaining the current measures at the border.
+We will take the measures necessary to keep Canadians safewhile ensuring the flow of our essential supply chains on whichso many Canadians depend.
+[voice of interpreter] we will continue to be very vigilant about our borders and travelling coming from abroad and we will continueas well to work with the americans to ensure our own safety by maintaining the current measures at the border.
 At every step of the way, we will do what is necessary to protect Canadians and ensure that our supply chains remain open.[end of translation].
 
 ---
@@ -305,7 +307,7 @@ Of course there is a need for continued vigilance and there will of course be ma
 
 **Question**:
 
-[speaking french] [voice of interpreter] radio-Canada.
+ [voice of interpreter] radio-Canada.
 Good morning, Mr. Trudeau.
 I have a rather simple question.
 Why are we extending the closureof the border with the United States?is it because you are concerned that president trump may want tolift the current measures or do you think that they're not able to properly manage the pandemic?what is the reason?
@@ -331,7 +333,7 @@ We will continue those measures, both with the United States and the world, for 
 
 **Question**:
 
-[speaking french] [voice of interpreter] with respect to the negotiations with the opposition about parliament, why has there not been any agreement yet?you're able to agree with the United States.
+ [voice of interpreter] with respect to the negotiations with the opposition about parliament, why has there not been any agreement yet?you're able to agree with the United States.
 What is blocking the agreement?can you not put some water in your wine?
 
 

@@ -92,7 +92,7 @@ I think that is key to making sure people are able to self-isolate and are able 
 
 **Question**:
 
-[speaking french] [voice of interpreter] good morning, Mr. Trudeau.
+ [voice of interpreter] good morning, Mr. Trudeau.
 I understand that you don't really want to talk about parliament at this time, but I do have to discuss this with you in spite of that.
 I would like you to comment on your impression of what citizens are thinking looking at what's happening in Ottawa right now.
 People are at home and have been there for more than a month now.
@@ -199,7 +199,8 @@ I think that's a reflection that communities, that the province, and that all of
 We understand how incredibly painful it is for families who've lost loved ones in Nova Scotia this past day to imagine that they're not going to be able to see them off together as a community.
 But at the same time, there are thousands and thousands of Canadians across the country who've lost loved ones to COVID-19 over the past days and others who lost family members to cancer and to other causes who haven't been able to gather, to mourn, to grieve, to attend funerals.
 This is something that we are dealing with right now that is heart break on top of other heart breaks.
-and I know that everyone will be looking for ways to demonstrate their solidarity without putting further at risk communities, first responders, our health professionals, and our seniors.[speaking french] [voice of interpreter] I recognize that there are people who have lost loved ones in this past day or so in Nova Scotia.
+and I know that everyone will be looking for ways to demonstrate their solidarity without putting further at risk communities, first responders, our health professionals, and our seniors.
+[voice of interpreter] I recognize that there are people who have lost loved ones in this past day or so in Nova Scotia.
 There are also people who have lost family members and friends or parents in the recent weeks because of COVID-19. They have been unable to come together for funerals or to mourn together.
 This is a difficult situation made even worse in times of lossand mourning.
 But we must continue to try to be there for each other in thesetragic times and ensure that we are not creating greater risk for our loved ones, our neighbours, our first responders, or healthcare workers.
@@ -247,7 +248,7 @@ Why can't your government reach a deal on this?
 
 I'm very hopeful that over the course of the day Canadians will see parliamentarians coming together to demonstrate that our democracy is strong, that our institutions need to function, including during difficult times, indeed because of the difficult time we're going through, but that we can do so in a responsible way.
 As I've said, there is agreement amongst most of the parties in the house of commons.
-I hope to see by the end of this day that we're all in a place where we can both have our parliamentary institutions functioning, but doing so in a responsible way, given the context we're in.[speaking french] [voice of interpreter] I do hope that between now and the end of the day, we will have found a way ofensuring that our parliament is functioning, that our democracy is functioning.
+I hope to see by the end of this day that we're all in a place where we can both have our parliamentary institutions functioning, but doing so in a responsible way, given the context we're in. [voice of interpreter] I do hope that between now and the end of the day, we will have found a way ofensuring that our parliament is functioning, that our democracy is functioning.
 We will have to see.
 We do have the agreement of a number of parliamentarians.
 We will find the right solution in order to continue to sit as aparliament responsibly given thecurrent circumstances.[end of translation].
@@ -271,7 +272,7 @@ I'm hopeful that by the end of the day today we'll have a clear path forward tha
 
 **Question**:
 
-[speaking french] [voice of interpreter] radio-Canada.
+ [voice of interpreter] radio-Canada.
 Good morning, Mr. Trudeau.
 I understand that there are questions that will be asked formany weeks to come about what happened in Nova Scotia, but My question is more about Canada ingeneral.
 How is it that in 2020 we are still seeing mass shootings likethis?

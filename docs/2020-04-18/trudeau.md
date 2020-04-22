@@ -6,7 +6,6 @@ I want to start by confirming that Canada and the United States have agreed to e
 This is an important decision and one that will keep people on both sides of the border safe.
 It's another example of the excellent collaboration between our two countries, and I want to thank Minister bill Blair for leading the discussions with the United states.
 
-[speaking french] 
 
 [voice of interpreter] I want to begin by confirming that Canada and the United States have agreed to extend by 30 days the current border measures.
 This is an important decision that will protect citizens on both sides of the border, and I want to thank Minister blair forleading those discussions with the United States.
@@ -24,7 +23,6 @@ Limit your trips to the grocery store to once a week.
 If you do go out, keep 2 metres of distance between yourselves.
 As you do your part, know that we are here to support you.
 
-[speaking french] 
 
 [voice of interpreter] later today you maysee ads showing people that you know.
 They will be reminding you that you can save lives by staying home.
@@ -58,7 +56,6 @@ More shipments will be coming this week and into this weekend with additional me
 I can announce we will begin receiving face shields from toronto stamp very soon.
 They've shifted from their usualproduction of rubber stamps and I. D. badges and will be providing millions of face shields over the next few months.
 
-[speaking french] 
 
 [voice of interpreter] Canada continues tocontinue to receive shipments ofindividual protective equipment.
 Yesterday two planes arrived full of n95 masks and coveralls and more will arrive over the weekend or next week.

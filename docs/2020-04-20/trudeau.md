@@ -2,9 +2,7 @@
 
 **Prime Minister Justin Trudeau**:
 
-
-
-[speaking french] 
+ 
 
 [voice of interpreter] good morning, everyone.
 
@@ -22,7 +20,6 @@ Such a tragedy should have neveroccurred.
 Violence of any kind has no place in Canada.
 We stand with you and we grieve with you and you can count on our government's full support during this incredibly painful time.
 
-[speaking french] 
 
 [voice of interpreter] yesterday, at least18 people lost their lives aftera shoot-out in Nova Scotia, plunging families and their loved ones in mourning.
 Some lost children, some lost a parent, some lost a friend.
@@ -43,7 +40,6 @@ I know that can weigh on you at times.
 These are exceptional circumstances, yet you did what you always do. You ran towards danger, without pause, without hesitation, you put your life on the line.
 On behalf of all Canadians, thank you for your service.
 
-[speaking french] 
 
 [voice of interpreter] I'd just like to take a moment to thank all our first responders for their courage and their professionalism.
 You're already working hard because of the pandemic.
@@ -67,7 +63,6 @@ I want to ask the media to avoidmentioning the name and showing the picture of t
 Do not give him the gift of infamy.
 Let us instead focus all our attention on the lives we lost and the families and friends whogrieve.
 
-[speaking french] 
 
 [voice of interpreter] while the pandemic will prevent us from gathering and mourning together, a virtualvigil will be held on Friday at 7:00 p. M. through the facebook group colchester supporting our community.
 It will be an opportunity to support the lives of these victims and be there for their families and their loved ones.

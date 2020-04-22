@@ -313,7 +313,7 @@ Fortunately, it is increasing as we move forward.
 
 
 
-[speaking french](voice of translator):radio-Canada.
+(voice of translator):radio-Canada.
 
 ---
 

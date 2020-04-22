@@ -49,7 +49,7 @@ This is the deputy Prime Minister.
 **The Hon. ChyrstiaFREELAND**:
 
 (voice oftranslator): navdeep Bains who is joining us remotely as well.
-Also with us is the deputy chief public health officer,[speaking french](voice of translator):dr. Howard njoo is with us andready to answer your questions.[end of translation]dr. Tam, please.
+Also with us is the deputy chief public health officer,(voice of translator):dr. Howard njoo is with us andready to answer your questions.[end of translation]dr. Tam, please.
 
 
 
@@ -83,7 +83,7 @@ and today is particularlyimportant in that regard.
 You've seen us put forward waysto support people at the canadaemergency response benefit andthe Canada emergency wagesubsidy.
 We know that some orginisationshave not been able to fully getaccess to those programmes, including the business accountfor small businesses.
 So today we're announcing asignificant funding to helpthose small businesses in therural communities in particularthat might not get access to thecanada emergency businessaccount or may not be eligiblefor the Canada emergency wagesubsidy.
-We also know that among theplaces hardest hit in ourcountry are the cultural sector, the arts and the culture and thesports sector.[speaking french]
+We also know that among theplaces hardest hit in ourcountry are the cultural sector, the arts and the culture and thesports sector.
 
 
 
@@ -174,11 +174,11 @@ We'llnow go to Stephen guilbeault.
 
 **(Voice of Translator)**:
 
-I'dlike to ask you what are you doing during physicaldistancing?watching the news, watching amovie, tv?reading a good book?looking at a virtual exhibit?[end of translation]our favourite athletes whoinspire us to get involved insports.[speaking french](voice of translator): thegovernment is very proud toprovide assistance to thesectors.
-We stand behind those who areusing their passion and theirwork to liven our lives.[end of translation]$100 million to establish acovid-19 emergency support fundfor cultural, heritage andsports orginisations.[speaking french](voice of translator): thegovernment will provide$500 million for orginisations in culture, heritage andsupport.[end of translation]the targeted measure willprovide financial support thatis consistent with the existingcovid-19 support members forwage and fixed costs fororginisations.
-It will be administered bycanadian heritage with thesupport of many partners such asthe Canada council for the arts.[speaking french](voice of translator):Minister guilbeault.
+I'dlike to ask you what are you doing during physicaldistancing?watching the news, watching amovie, tv?reading a good book?looking at a virtual exhibit?[end of translation]our favourite athletes whoinspire us to get involved insports.(voice of translator): thegovernment is very proud toprovide assistance to thesectors.
+We stand behind those who areusing their passion and theirwork to liven our lives.[end of translation]$100 million to establish acovid-19 emergency support fundfor cultural, heritage andsports orginisations.(voice of translator): thegovernment will provide$500 million for orginisations in culture, heritage andsupport.[end of translation]the targeted measure willprovide financial support thatis consistent with the existingcovid-19 support members forwage and fixed costs fororginisations.
+It will be administered bycanadian heritage with thesupport of many partners such asthe Canada council for the arts.(voice of translator):Minister guilbeault.
 We'll be working with the sectorto fine-tune this aid.
-We are doing our utmost torespond to your concerns, yourmost pressing concerns, to ensure your survival, stability, and to let Canadians continue to have access to cultural contentand sports, which are the bestin the world.[end of translation]Canada day this year will behosted virtually.[speaking french](voice of translator):Minister guilbeault.
+We are doing our utmost torespond to your concerns, yourmost pressing concerns, to ensure your survival, stability, and to let Canadians continue to have access to cultural contentand sports, which are the bestin the world.[end of translation]Canada day this year will behosted virtually.(voice of translator):Minister guilbeault.
 Together in a virtualenvironment, we will celebrateour strength and resilience as well as our values at canadaday.
 Our creators and athletes areproviding us with a number ofexamples of inspiration andsolidarity.[end of translation]we are reminded each day howfortunate we are to have suchtalent here in Canada.
 Merci.
@@ -220,7 +220,7 @@ and now our Minister ofinnovation and science andindustry navdeep Bains, now, pl
 
 
 Thank you very much, Chrystia.
-In every industry and sector, companies are stepping up to lend a hand wherever possible.[speaking french](voice of translator):Minister Bains.
+In every industry and sector, companies are stepping up to lend a hand wherever possible.(voice of translator):Minister Bains.
 Companies are coming and helpingpeople as much as they can.[end of translation]canadian businesses and highlyskilled innovators that we willhelp in this period ofuncertainty.
 You know, during the normalcourse of things, one of theimportant roles of government isproviding economic support tohigh potential innovative firms in the early stages ofdevelopment.
 Especially in a country likecanada where science andinnovation are our strengths.
@@ -235,7 +235,7 @@ and we've heard from thestart-up community that some ofthese early stage firm do
 We've heard the call for helpfrom the canadian businesscommunity.
 and today we're answering it byinjecting $250 million into theindustrial research assistanceprogramme.
 This is an investment to protectcanada's highly skilledinnovators.
-This support will be targeted tocompanies identified asstrategic to the canadianeconomy, impacted by COVID-19. Whether they are pre-revenue ornot.[speaking french](voice of translator):Minister Bains.
+This support will be targeted tocompanies identified asstrategic to the canadianeconomy, impacted by COVID-19. Whether they are pre-revenue ornot.(voice of translator):Minister Bains.
 This assistance will helpstrategic companies.[end of translation]I encourage any technology orinnovation-based business thatis unable to access the currentsupport measures to go on to thenational research council'swebsite today.
 and they'll be able to sign upto be notified when theapplication opens up early nextweek.
 With today's announcement weexpect to support over 1, 000canadian innovative firms andmaintain 10, 000 canadian jobsover the next three months.
@@ -254,7 +254,7 @@ and we're now ready to take yourquestions.
 
 
 Thank you, deputy Prime Minister.
-So we'll start with three questions on the phone and turn to the one, and one question and one follow-up.[speaking french]
+So we'll start with three questions on the phone and turn to the one, and one question and one follow-up.
 
 ---
 
@@ -285,7 +285,7 @@ and the programmes that we havealready announced weren'ttailored for them and di
 
 
 
-[speaking french]
+
 
 ---
 
@@ -314,7 +314,7 @@ So they're on the ground andthey will be helping to provideassistance to small l
 
 
 Our next question [speakingfrench]teresa wright with canadianpress.
-Please go ahead.[speaking french]
+Please go ahead.
 
 ---
 
@@ -672,7 +672,7 @@ It's credit, it's on commercial basis and it would allow businesses -- and busin
 
 
 
-[speaking french]
+
 
 ---
 

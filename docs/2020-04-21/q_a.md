@@ -86,7 +86,7 @@ We recognize the need for support as quickly as possible and that is why we're w
 We started with the Canada emergency response benefit, which is now helped over $8 million people across this country and made a significant difference.
 But we also want people to get the -- we want other people to get the emergency wage subsidy, which means working with businesses to keep people on the payroll through this so that they cannot only retain a job, but have a job to get back quickly to as soon as the economy picks up again.
 We have announced that on Monday, people will be able to register for this online.
-As of today, however, they can see what the amount they're likely to be able to get through this and be confident in their ability to access credit from banks, from agencies like b. D.c. and EDC, to be able to support people right now in this time of need.
+As of today, however, they can see what the amount they're likely to be able to get through this and be confident in their ability to access credit from banks, from agencies like BDC and EDC, to be able to support people right now in this time of need.
 We're moving as quickly as we can.
 We move very quickly on the Canada emergency response benefit.
 We hope to be able to get this help out to businesses, to keep employees on the payroll as quickly as possible.
@@ -108,7 +108,7 @@ Follow-up?
 **Interpreter**:
 
 Mr. Trudeau, quickly, what does that mean?will it go as quickly as the CERB for the wage subsidy or should we expect that it could take longer or perhaps a week or two weeks before the money starts to circulate?the Minister will have more to say about that in a couple of hours, but I can tell you that people at the Canada revenue agency are working hard right now to deliver that money to businesses as quick will I as possible after the registration.
-Now it will take a bit of time, but people should know that they will be geting that money and should not hesitate to access credit from banks and our other institutions like b. D.c. and EDC
+Now it will take a bit of time, but people should know that they will be geting that money and should not hesitate to access credit from banks and our other institutions like BDC and EDC
 
 
 
@@ -169,7 +169,8 @@ One more question on the phone, please, operator.
 **Operator**:
 
 Thank you.
-Merci.[speaking french] la presse.
+Merci.
+la presse.
 
 
 
