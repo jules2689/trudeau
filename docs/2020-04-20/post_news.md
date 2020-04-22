@@ -10,7 +10,8 @@ Vassy, over to you first.
 
 **Vassy**:
 
-Hey, Rosie On the comments of what happened in Nova Scotia, a number of different condolences offered by the Prime Minister.
+Hey, Rosie.
+On the comments of what happened in Nova Scotia, a number of different condolences offered by the Prime Minister.
 He was asked interestingly if he was willing to relax any of the social distancing rules for those who will find it tough to mourn all of this and grieve all of this from their homes rather than getting together.
 He talked about how difficult it would be from a public health standpoint.
 He said there is going to be a virtual vigil.
@@ -65,7 +66,7 @@ I wanted to go to colchester where we are speaking to Lenora the M.P. there.
 
 **Interview**:
 
-Thank you, Rosie
+Thank you, Rosie.
 
 
 
@@ -88,7 +89,8 @@ Not quite the type of thing you would expect to wake up to on a Sunday morning i
 **Rosemary**:
 
 Tell us a little bit some of those communities.
-We were talking to Brett Ruskin Portapique is cottage country and these are small towns where people would know each other I would imagine?
+We were talking to Brett Ruskin.
+Portapique is cottage country and these are small towns where people would know each other I would imagine?
 
 
 
@@ -98,17 +100,17 @@ Oh, yes.
 As the Prime Minister said, we all know each other here.
 Where you live in Portapique or Debert or shubenacadie, we are all related, cousins, sisters, brothers, husbands, wives.
 So many, many, many of us know people who know people who are definitely involved and their family members have been affected.
-Many people were looking for loved ones yesterday, putting up their pictures saying, have you seen them?they live in Portapique.
-I can't get ahold of them.
+Many people were looking for loved ones yesterday, putting up their pictures saying, have you seen them? they live in Portapique.
+I can't get ah old of them.
 and Wentworth is another area.
-Sadly I found out that a number of those folks they were lookingfor are deceased.
+Sadly I found out that a number of those folks they were looking for are deceased.
 
 
 
 **Rosemary**:
 
 Some of the names and the stories of the people that were killed are starting to emerge today.
-We heard the Prime Minister say there, Lenore that it's up to 18 people that were killed.
+We heard the Prime Minister say there, Lenore, that it's up to 18 people that were killed.
 How do you react to that knowing that these are your people in some ways?
 
 
@@ -150,7 +152,7 @@ Basically he was very, very compassionate.
 Very kind and understanding.
 He wanted to know if there's anything that I need, understanding how difficult this is to go through.
 Making sure I knew if our community needs anything, the government will be there.
-Today he came on the phone with all of us, with the entire nova scotian liberal caucus and basically said the same thing.
+Today he came on the phone with all of us, with the entire Nova Scotian liberal caucus and basically said the same thing.
 It's nice to have a leader who is kind and compassionate and understanding and takes the time to do this with his members and anyone else who has been affected.
 I know My community appreciates it and we appreciate the outpouring of love from across Canada to be honest.
 We're very moved by that.
@@ -190,11 +192,11 @@ But I wonder if because of the violence and the magnitude of this incident, whet
 **Interview**:
 
 Well, I think for one thing that would be up to the premier of Nova Scotia I would imagine, but the thing is I wouldn't want to go to a funeral thinking that perhaps I might spread a disease to somebody else and have more deaths because of My involvement.
-I think we have to think of the bigger picture of all of us and protecting all nova Scotians and all Canadians.
+I think we have to think of the bigger picture of all of us and protecting all Nova Scotians and all Canadians.
 That's why we are doing what we're doing and sacrificing our lives and jobs and everything by staying home.
 So there are going to be vigils.
 There are going to be online vigils.
-I know there is one on Friday night at 7:00 on Facebook that communities -- colchester supporting our community is the name of that Facebook page.
+I know there is one on Friday night at 7:00 on Facebook, that communities -- colchester supporting our community is the name of that Facebook page.
 That's a community-led vigil.
 I'm going to take part in that and that's what I would do.
 
@@ -208,7 +210,8 @@ Do you recognize how difficult this is because of the fact we're in the pandemic
 
 **Interview**:
 
-I definitely do. We're all on Facebook We're not a Twitter-verse here in cumberland and colchester.
+I definitely do. We're all on Facebook.
+We're not a Twitter-verse here in cumberland and colchester.
 Most of us are of an age where we prefer facebook.
 We are actually reaching out andtalking to each other.
 a number of friends have posted things where they're broken-hearted because it's their family members and they can't go and see them.
@@ -228,3 +231,17 @@ We are all thinking about you and your riding.
 Thank you very much from Nova Scotia.
 We love you.
 Thank you.
+
+
+
+**Rosemary**:
+
+Stay healthy of course.
+That leads us to the end of our coverage today of the federal government's briefing on COVID-19. We are not going to bring you the federal briefing with ministers and public health officials today because of the ongoing situation in Nova Scotia.
+You can watch that briefing online.
+Actually, provinces, many of them are delaying some of their press conferences because the RCMP's next update on what unfolded over the past couple ofdays, day and a half in Nova Scotia, will take place at 1:00 eastern.
+Bill Blair, the Minister of public safety, is expected to speak to the media at 1:30 eastern.
+Of course we do know that there will be updates from provinces, Ontario, quÉbec, and others on the ongoing state of the pandemic of COVID-19. That is our coverage on CBC.
+CBC news network will continue with our coverage.
+I'm rosemary Barton.
+[♪♪♪] [ please stand by ]

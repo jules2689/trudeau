@@ -15,14 +15,15 @@ I'd like the speak briefly about the situation unfolding right now in Portapique
 I know we've all been following the news and I want you to know that our heart go out to all those affected by this event.
 I want to thank the authorities for their good work and everyone else for their cooperation.
 This morning, I also want to wish a happy orthodox Easter to those celebrating today.
-Even if you do it on Skype I hope you can spend this special day with your family and friends.
+Even if you do it on Skype, I hope you can spend this special day with your family and friends.
 
 
 
 **Prime Minister Trudeau**:
 
 and a happy orthodox Easter to everyone celebrating today.
-Even if it's just over Skype I hope you can spend this special with family and friends.
+Even if it's just over Skype.
+I hope you can spend this special with family and friends.
 Although this pandemic has affected everyone, some people have been hit especially hard.
 Right now, too many Canadians are facing some really difficult situations.
 If you live with a disability, I don't have to tell you what this can look like.
@@ -41,6 +42,7 @@ On that note, I want to recognize the outstanding organisations across the count
 Like the rick Hansen foundation that are bringing these issues to the fore.
 You are doing inc*ep credible work.
 and we are proud to be your partner.
+
 
 
 
@@ -75,6 +77,7 @@ and it's working.
 We're seeing the numbers trend in the right direction.
 So we need to keep doing what we're doing and keep being extremely careful.
 and we will get through this together.
+
 
 
 
@@ -126,6 +129,7 @@ They turned the restaurant into a community kitchen where people pitch in and ge
 and there have been thousands of Canadians who have already signed up through our national COVID-19 volunteer improvement campaign to lighten the load on our front line workers.
 Everyone can help out.
 Everyone can help us get through this.
+
 
 
 

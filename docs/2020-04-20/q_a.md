@@ -2,7 +2,7 @@
 
 **Operator**:
 
-First question Laura Osman "the Canadian press."line open.
+First question Laura Osman "the Canadian press." line open.
 
 ---
 
@@ -73,7 +73,7 @@ On a follow-up, kate.
 
 **Question**:
 
-How would you say -- how would you describe your strategy?what has it been in terms of inside the p. M.o. Office to getting us through these tough times and how would you say -- how would you assess your own performance on that?
+How would you say -- how would you describe your strategy? what has it been in terms of inside the p. M.o. Office to getting us through these tough times and how would you say -- how would you assess your own performance on that?
 
 
 
@@ -92,7 +92,7 @@ I think that is key to making sure people are able to self-isolate and are able 
 
 **Question**:
 
- [voice of interpreter] good morning, Mr. Trudeau.
+[voice of interpreter] good morning, Mr. Trudeau.
 I understand that you don't really want to talk about parliament at this time, but I do have to discuss this with you in spite of that.
 I would like you to comment on your impression of what citizens are thinking looking at what's happening in Ottawa right now.
 People are at home and have been there for more than a month now.
@@ -165,14 +165,15 @@ Now, is your government in support of this measure being taken in quÉbec and ac
 Well, I think that the various jurisdictions are making their own decisions within their field of jurisdiction.
 I think it's up to each region and province to determine what can be done at what time.
 We are trying to coordinate these actions right across the country, but of course the decisions will be different from one place to the other.
-and of course it is absolutely critical that whatever decisions are made, the health and safety of workers and all Canadians to avoid the further spread of COVID-19 must be the top priority if we're talking about any type of work starting up again.[end of translation].
+and of course it is absolutely critical that whatever decisions are made, the health and safety of workers and all Canadians to avoid the further spread of COVID-19 must be the top priority if we're talking about any type of work starting up again.
+[end of translation].
 
 ---
 
 **Question**:
 
 You promised a ban on assault-style weapons.
-Given what we know about the shooting in Nova Scotia, could that have prevented these crimes?if not, would you consider even tighter gun-control measures?
+Given what we know about the shooting in Nova Scotia, could that have prevented these crimes? if not, would you consider even tighter gun-control measures?
 
 
 
@@ -200,17 +201,18 @@ We understand how incredibly painful it is for families who've lost loved ones i
 But at the same time, there are thousands and thousands of Canadians across the country who've lost loved ones to COVID-19 over the past days and others who lost family members to cancer and to other causes who haven't been able to gather, to mourn, to grieve, to attend funerals.
 This is something that we are dealing with right now that is heart break on top of other heart breaks.
 and I know that everyone will be looking for ways to demonstrate their solidarity without putting further at risk communities, first responders, our health professionals, and our seniors.
-[voice of interpreter] I recognize that there are people who have lost loved ones in this past day or so in Nova Scotia.
+ [voice of interpreter] I recognize that there are people who have lost loved ones in this past day or so in Nova Scotia.
 There are also people who have lost family members and friends or parents in the recent weeks because of COVID-19. They have been unable to come together for funerals or to mourn together.
-This is a difficult situation made even worse in times of lossand mourning.
-But we must continue to try to be there for each other in thesetragic times and ensure that we are not creating greater risk for our loved ones, our neighbours, our first responders, or healthcare workers.
-We need to do everything we can to keep people safe and healthy, even in the midst of this tragedy and pandemic.[end of translation].
+This is a difficult situation made even worse in times of loss and mourning.
+But we must continue to try to be there for each other in these tragic times and ensure that we are not creating greater risk for our loved ones, our neighbours, our first responders, or healthcare workers.
+We need to do everything we can to keep people safe and healthy, even in the midst of this tragedy and pandemic.
+[end of translation].
 
 ---
 
 **Question**:
 
-Prime Minister, was the Nova Scotia shooter on the federal government's radar?were any federal agencies watching him?
+Prime Minister, was the Nova Scotia shooter on the federal government's radar? were any federal agencies watching him?
 
 
 
@@ -223,22 +225,22 @@ There will be many opportunities to talk about this once we have a clearer idea 
 
 **Question**:
 
-What did you think when you learned about the degree of planning in this terrible crime?does it concern you someone could create such a good fake?
+What did you think when you learned about the degree of planning in this terrible crime? does it concern you someone could create such a good fake?
 
 
 
 **Answer**:
 
 I think as we learn more about this we'll have to ask ourselves many questions about how it happened and what we can do to keep communities safe in the future.
-My first thoughts when I heard of this tragedy yesterday and saw the numbers climb in terms of victims, My first thought was for nova Scotians, who for the most part know each other so much.
-They are such a connected group that I know the vast majority of nova Scotians will have a direct link with one or more of the many victims.
+My first thoughts when I heard of this tragedy yesterday and saw the numbers climb in terms of victims, My first thought was for Nova Scotians, who for the most part know each other so much.
+They are such a connected group that I know the vast majority of Nova Scotians will have a direct link with one or more of the many victims.
 The entire province and the entire country is grieving right now as we come to grips with something that is absolutely unimaginable.
 
 ---
 
 **Question**:
 
-Kevin Gallagher CTV news.
+Kevin Gallagher, CTV news.
 Prime Minister, as we're talking about the tragedy in nova scotiaand Canadians living under strict public health guidelines, how appropriate is it to bring back parliament.
 Why can't your government reach a deal on this?
 
@@ -248,10 +250,11 @@ Why can't your government reach a deal on this?
 
 I'm very hopeful that over the course of the day Canadians will see parliamentarians coming together to demonstrate that our democracy is strong, that our institutions need to function, including during difficult times, indeed because of the difficult time we're going through, but that we can do so in a responsible way.
 As I've said, there is agreement amongst most of the parties in the house of commons.
-I hope to see by the end of this day that we're all in a place where we can both have our parliamentary institutions functioning, but doing so in a responsible way, given the context we're in. [voice of interpreter] I do hope that between now and the end of the day, we will have found a way ofensuring that our parliament is functioning, that our democracy is functioning.
+I hope to see by the end of this day that we're all in a place where we can both have our parliamentary institutions functioning, but doing so in a responsible way, given the context we're in.  [voice of interpreter] I do hope that between now and the end of the day, we will have found a way of ensuring that our parliament is functioning, that our democracy is functioning.
 We will have to see.
 We do have the agreement of a number of parliamentarians.
-We will find the right solution in order to continue to sit as aparliament responsibly given thecurrent circumstances.[end of translation].
+We will find the right solution in order to continue to sit as Parliament responsibly given the current circumstances.
+[end of translation].
 
 ---
 
@@ -272,7 +275,7 @@ I'm hopeful that by the end of the day today we'll have a clear path forward tha
 
 **Question**:
 
- [voice of interpreter] radio-Canada.
+[voice of interpreter] radio-Canada.
 Good morning, Mr. Trudeau.
 I understand that there are questions that will be asked formany weeks to come about what happened in Nova Scotia, but My question is more about Canada ingeneral.
 How is it that in 2020 we are still seeing mass shootings likethis?
@@ -290,7 +293,7 @@ We need to make sure Canadians can live in safety, in their communities, in thei
 
 **Question**:
 
-Now, will you be participating in that ceremony and could you introduce your gun control bill in the coming weeks?parliament will be sitting, so you could introduce it as early as this week.
+Now, will you be participating in that ceremony and could you introduce your gun control bill in the coming weeks? parliament will be sitting, so you could introduce it as early as this week.
 
 
 
@@ -298,8 +301,9 @@ Now, will you be participating in that ceremony and could you introduce your gun
 
 Yes, I intend to participate in the virtual vigil as much as possible.
 We will most certainly be listening very carefully to whatcanadians are saying with respect to more gun control.
-So we will look at what the options are when it comes to introduce that bill when the appropriate time is with us.[end of translation] I have every intention of participatingin the vigils.
-I know that many Canadians will want to express their solidaritywith those in Nova Scotia who are grieving.
+So we will look at what the options are when it comes to introduce that bill when the appropriate time is with us. [end of translation] I have every intention of participating in the vigils.
+I know that many Canadians will want to express their solidarity with those in Nova Scotia who are grieving.
 I am very much open to moving forward with our gun control legislation.
 I think there is always going to be questions of when is the right moment to do that.
-We are in the middle of a different crisis right now, but with parliament returning in some fashion over the coming weeks, I think we will look at opportunities to do just that.[end of translation].
+We are in the middle of a different crisis right now, but with parliament returning in some fashion over the coming weeks, I think we will look at opportunities to do just that.
+[end of translation].

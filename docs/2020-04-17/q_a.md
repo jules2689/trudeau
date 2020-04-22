@@ -1,10 +1,10 @@
 
 
-**[SPEAKING FRENCH].OPERATOR**:
+**[SPEAKING FRENCH]. OPERATOR**:
 
 Merci.
 Thank you.
-The first question, Dylan Robertson Winnipeg free press.
+The first question, Dylan Robertson, Winnipeg free press.
 Your line is open.
 
 
@@ -13,7 +13,8 @@ Your line is open.
 
 Prime Minister.
 You've expressed a preference for virtual parliament.
-Many regions of Canada have terrible internet connection and they tend to be the ones that feel the most ignored by Ottawa Are you comfortable with having virtual sittings if M.P.s can't participate in realtime from their home?
+Many regions of Canada have terrible internet connection and they tend to be the ones that feel the most ignored by Ottawa.
+Are you comfortable with having virtual sittings if M.P.s can't participate in realtime from their home?
 
 
 
@@ -27,6 +28,7 @@ Right now, on the books, there is a rule that says 338M.P.s need to get on fligh
 That is obviously not a good idea.
 We're not in normal circumstances.
 So we're negotiating with all opposition parties to try and make sure we can find a way to keep the important work of our democracy going while at the same time respecting public health advice.
+
 
 
 
@@ -55,7 +57,7 @@ The bank of Canada has taken steps to impact the provincial coffers and at the s
 
 
 
-**THANK YOU.NEXT QUESTION.OPERATOR**:
+**THANK YOU. NEXT QUESTION. OPERATOR**:
 
 Thank you, Merci.
 Your line is open.
@@ -64,9 +66,10 @@ Your line is open.
 
 **Reporter**:
 
-Good morning, Prime Minister.[inaudible] lowered the threshold for owners to apply for interest-free loans.
+Good morning, Prime Minister.
+[inaudible] lowered the threshold for owners to apply for interest-free loans.
 But still a number of people I've spoken with this week are not impacted by any of these changes.
-What should people in these positions, people who are left out and who have a hard time making ends meet do?should they apply for the c. R.b. Or wait for your government to come up with another fix?
+What should people in these positions, people who are left out and who have a hard time making ends meet do? should they apply for the c. R.b. Or wait for your government to come up with another fix?
 
 
 
@@ -85,7 +88,7 @@ Follow-up question?
 **Reporter**:
 
 Yeah, thank you.
-Are you basically saying wait until the government comes up with another fix?as you know on Saturday, M.P.s voted to support a motion that basically said if you need help, the government is going to ensure that if you applied for the CERB and you weren't supposed to be eligible you would be unjustly penalized.
+Are you basically saying wait until the government comes up with another fix? as you know on Saturday, M.P.s voted to support a motion that basically said if you need help, the government is going to ensure that if you applied for the CERB and you weren't supposed to be eligible you would be unjustly penalized.
 is the government saying the worst thing that happens for you if you apply for CERB and don't qualify that you will have to pay the money back in full next year.
 is that the worst thing that will happen to people who apply for CERB because they feel they need it?
 
@@ -100,6 +103,7 @@ New measures to fix people and fix support for people in particular situations.
 
 
 
+
 **Interpreter**:
 
 We recognize the programmes that we created to help as many people as possible are not enough.
@@ -107,6 +111,7 @@ Because some people have special circumstances.
 Almost on a daily basis, we have been announcing changes or extensions of the programmes to allow people to receive more help based on the programmes we put in place.
 Operator: thank you.
 Merci.
+
 
 
 
@@ -122,11 +127,11 @@ Good morning, Mr. Trudeau.
 I'd like to come back to your aid plan that you have just unveiled.
 a lot of people were expecting you to do more.
 Some people were suggesting that there needed to be an equity contribution from the government.
-Are you prepared to do that and, if not, why not?why did you not choose that avenue?our emphasis from the outset was to help Canadians in difficultty, to help families that are suffering, to help people who need help.
+Are you prepared to do that and, if not, why not? why did you not choose that avenue? our emphasis from the outset was to help Canadians in difficultty, to help families that are suffering, to help people who need help.
 and that is why the wage subsidy and the Canada emergency response benefit are there to assist millions of Canadians in industries right across the country.
 and we clearly saw that the oil industry has special issues because of what is happening on international markets with the oil price decline and also because of COVID-19. So all of these issues mean that we have to do a bit more and that is exactly what we're doing now.
 We will continue to look at other possibilities if there is a need.
-But we pry marely want to ensure that we're helping canadian families and canadian workers who need help during these difficult times.
+But we pry ma rely want to ensure that we're helping Canadian families and Canadian workers who need help during these difficult times.
 
 
 
@@ -174,27 +179,29 @@ Merci.
 
 
 
+
 **Reporter**:
 
 Merci.
 
 
 
+
 **Interpreter**:
 
 Good morning, Mr. Trudeau.
-With respect to the deployment of Canadian armed forces members, can you tell us where those military members are coming from and why such a limited number of reinforcements for Quebec?because, as we know, the -- these facilitis are in a dire situation.
+With respect to the deployment of Canadian armed forces members, can you tell us where those military members are coming from and why such a limited number of reinforcements for Quebec? because, as we know, the -- these facilities are in a dire situation.
 We have been working with Quebec and we were speaking to Quebec yesterday to see exactly how we could support them.
 We're talking about 125 military members who will be providing significant support to these institutions in Quebec and we know that we can do more with the red cross and the bank of volunteers that we have.
 Quebec also has a group of volunteers it can access.
 We will continue to seek ways to provide that help as best we can and will always want to do more.
 But the situation with the c. a.f. Members is that we are always limited in our medical resources within any organization.
 Including in the armed forces.
-Do you have a follow-up?yes.
+Do you have a follow-up? yes.
 Just to get a clarify casing.
 I realise that medical employees are limited in number.
 But there is information circulating, Mr. Trudeau, that an agreement has been reached with the United States on the closure of the border.
-Could you comment on that?well, as I said before, we are in constant conversation with the United States, which is our ally and our friend to ensure that we can both protect our citizens and My priority will alwayss be to protect Canadians and we continue to work with the americans to ensure that the borders remain secure.
+Could you comment on that? well, as I said before, we are in constant conversation with the United States, which is our ally and our friend to ensure that we can both protect our citizens and My priority will alwayss be to protect Canadians and we continue to work with the americans to ensure that the borders remain secure.
 As I've often said, I do not expect those borders to be re-opened in a short period of time.
 We will continue to listen to science and to closely monitor the evolution of this virus in Canada and around the world before we make any decision on that.
 But I can tell you that our discussions with the americans continue and they are very positive.
@@ -214,7 +221,7 @@ That is what we'll continue to do and the conversations with the americans have 
 
 Prime Minister, for weeks now, you have been promising relief and aid for the energy sector.
 What you announced today will help a comparatively small number of workers, isn't going to do anything for the sector overall to help deal with devastating impact of this virus and the downturn in the world oil markets.
-My question is, is this it?is this the package you were promising?if so, what do you say to people in western Canada, particularly who were expecting more substantial relief?
+My question is, is this it? is this the package you were promising? if so, what do you say to people in western Canada, particularly who were expecting more substantial relief?
 
 
 
@@ -240,7 +247,7 @@ Prime Minister, Julie van dusen, CBC news.
 You spoke to the premiers last night so I'm hoping you can update us on this.
 Blaine Higgs said he is hoping to get his economy going by the summer.
 John Horgan on CBC said he and his Washington state counterpart could decide when the border opens.
-I'm wondering, who decides all this?is it you?is it them?if it is you, will there be international standards to guide them?
+I'm wondering, who decides all this? is it you? is it them? if it is you, will there be international standards to guide them?
 
 
 
@@ -252,6 +259,7 @@ But we all agreed that we need to continue to remain very, very vigilant as we c
 We will continue that in the principles and the steps that need to be taken.
 Of course, this is Canada, which means that there are very different needs and very different approaches that will be in place across the country.
 What we'll be working on to co-ordinate and collaborate on is that the messages that get out and the lens that we take and the data that we collect and the way we do this is aligned and coordinated so that we can maximize our chances of getting through this without having to fall back into self-isolation the way we have been these past few weeks.
+
 
 
 
@@ -281,13 +289,14 @@ That will be the lens that we take.
 
 **Reporter**:
 
-and on a separate matter, china has revised its numbers on the Wuhan deaths, increasing them by 50%.is this a statistical verification or proof that they
+and on a separate matter, china has revised its numbers on the Wuhan deaths, increasing them by 50%. is this a statistical verification or proof that they
 
 
 
 Covered it suspended Senator >> Prime Minister Trudeau we all need to be very attentive to how data flows around the world and be very -- very thoughtful about how we process different information and how we apply the lessons learned from elsewhere around the world to what we do. We'll continue to work with partners and allies and international institutions and organisations.
 As we figure out how to get through today and tomorrow.
-But there will be many questions to ask once we're through this on how various countries behaved and what sort of principles we need to learn from and conclusions we need draw.[please stand by] -- holds responsibility for notcontaining it within its b.
+But there will be many questions to ask once we're through this on how various countries behaved and what sort of principles we need to learn from and conclusions we need draw.
+[please stand by] -- holds responsibility for not containing it within its b.
 
 
 
@@ -300,7 +309,7 @@ But for the time being, I have to remain focused on what is important for Canadi
 
 
 
-So are you suggesting, iguess, that china may withholdP.P.E., is that why you're notmentioning china as you continueto do!and on julie's question about the way out of this, what level of testing do we need to see across Canada in order to start reopening the economy?
+So are you suggesting, iguess, that china may withholdP.P.E., is that why you're notmentioning china as you continueto do! and on julie's question about the way out of this, what levelof testing do we need to seeacross Canada in order to startreopening the economy?
 
 
 
@@ -313,14 +322,16 @@ Fortunately, it is increasing as we move forward.
 
 
 
-(voice of translator):radio-Canada.
+**[Speaking French](Voice of Translator)**:
+
+Radio-Canada.
 
 ---
 
 **Question**:
 
 (voice oftranslator): about the 125medical personnel from thec.
-I.f., how many physicians andhow many nurses are in thatnumber?are we taking people away from civilian hospitals to do that?and when will they exactly beavailable to go into thelong-term care facilities?
+I.f., how many physicians andhow many nurses are in thatnumber? are we taking people away fromcivilian hospitals to do that? and when will they exactly beavailable to go into thelong-term care facilities?
 
 
 
@@ -345,4 +356,6 @@ That's why we're going to be there to help them.
 
 
 
-(voice of translator):thank you, everyone.
+**(Voice of Translator)**:
+
+Thank you, everyone.

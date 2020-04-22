@@ -13,9 +13,10 @@ I'll start with the energy sector.
 Right now, workers and families are struggling because of things beyond their control.
 Both the devastating effects of the pandemic and price war driven by foreign interests are a challenge.
 As a result, companies have had to slowdown or pause their operations, leaving too many people out of work.
-To help these worker, our government will invest $1.7 billion to clean up orphan and inactive wells in Alberta, Saskatchewan and British Columbia.these wells, which are no longer in use, can be detrimental not only to our environment, but to people's health.
+To help these worker, our government will invest $1.7 billion to clean up orphan and inactive wells in Alberta, Saskatchewan and British Columbia.
+these wells, which are no longer in use, can be detrimental not only to our environment, but to people's health.
 Think of the farmer who can't go anything on his land because of an abandoned well a few steps away from his home.
-Think of the small town or indigenous communities strugling with this issuthat has been festering for years or even decades.
+Think of the small town or indigenous communities struggling with this issuthat has been festering for years or even decades.
 Cleaning them up will bring people back to work and help many landowners who have had these wells on their property for years but haven't been able to get them taken care of and the land restored.
 Our goal is to create immediate jobs in these provinces while helping companies avoid bankruptcy and supporting our environmental targets.
 In Alberta alone, these investments will maintain 5200 jobs.
@@ -29,6 +30,7 @@ Today's announcement will allow for this kind of work to be done and create jobs
 Through the wells and methane initiatives, we estimate that we will maintain roughly 10, 000 jobs across the country.
 Just because we're in a health crisis doesn't mean we can neglect the environmental crisis.
 We're also working with BDC and EDC To expand credit support for at-risk medium-sized energy companis so they can maintain operations and keep employees.
+
 
 
 
@@ -95,6 +97,7 @@ As our country confront this is pandemic, I'm especially grateful that Canadians
 To everyone who has stayed home and followed public health recommendations, thank you.
 Making that choice together today will ensure that we remain who we are as Canadians for generations to come.
 Merci.
+
 
 
 

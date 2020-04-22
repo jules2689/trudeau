@@ -1,10 +1,10 @@
 
 
-**THANK YOU, PRIME MINISTER.WE'LL GO TO THE PHONE LINES FOR QUESTIONS.ONE QUESTION AND ONE FOLLOW-UP.OVER TO YOU, OPERATOR.OPERATOR**:
+**THANK YOU, PRIME MINISTER. WE'LL GO TO THE PHONE LINES FOR QUESTIONS. ONE QUESTION AND ONE FOLLOW-UP. OVER TO YOU, OPERATOR. OPERATOR**:
 
 Thank you.
 Merci.
-First question, Kristy kirkup, the "globe and mail".line.
+First question, Kristy kirkup, the "globe and mail". line.
 Open.
 
 
@@ -22,7 +22,7 @@ We know that the way we get through this particular crisis is by pulling togethe
 It is key to being able to recover quickly once we're through this pandemic.
 That is why we continue to work with partners across the country, to highlight gaps and challenges and things we need to do more to help people.
 We will continue to work with partners to make sure we're getting that help out there.
-Ok.
+Ok. 
 
 
 
@@ -59,22 +59,24 @@ Merci.
 
 
 
+
 **Reporter**:
 
 Bonjour.
 
 
 
+
 **Interpreter**:
 
 Good morning.
-With respect to the wage subsidy, I gather that it will be fob apply starting Monday, but can you tell us, Mr. Trudeau, when companies that apply will actually receive money in order to pay their employees?the reality is that during this crisis, people need help.
+With respect to the wage subsidy, I gather that it will be fob apply starting Monday, but can you tell us, Mr. Trudeau, when companies that apply will actually receive money in order to pay their employees? the reality is that during this crisis, people need help.
 Almost immediately.
 and we need to be able to deliver that help as quickly as possible.
 We realised that the wage subsidy was going to take a bit of time to be delivered and we're still working on that.
 As you say, people will start to be able to apply on Monday and we do hope that we can get the money to them quickly after that.
 It will take a number of days at the very least.
-That is why we wanded to make sure that businesses, small businesses and corporations, would have access to credit in order to get through these times.
+That is why we wand ed to make sure that businesses, small businesses and corporations, would have access to credit in order to get through these times.
 The money is coming.
 The online calculator will also allow companies to see exactly how much money they will be receiving from the government in the coming weeks and, therefore, they can make the necessary -- do the necessary borrowing now.
 
@@ -107,8 +109,8 @@ Follow-up?
 
 **Interpreter**:
 
-Mr. Trudeau, quickly, what does that mean?will it go as quickly as the CERB for the wage subsidy or should we expect that it could take longer or perhaps a week or two weeks before the money starts to circulate?the Minister will have more to say about that in a couple of hours, but I can tell you that people at the Canada revenue agency are working hard right now to deliver that money to businesses as quick will I as possible after the registration.
-Now it will take a bit of time, but people should know that they will be geting that money and should not hesitate to access credit from banks and our other institutions like BDC and EDC
+Mr. Trudeau, quickly, what does that mean? will it go as quickly as the CERB for the wage subsidy or should we expect that it could take longer or perhaps a week or two weeks before the money starts to circulate? the Minister will have more to say about that in a couple of hours, but I can tell you that people at the Canada revenue agency are working hard right now to deliver that money to businesses as quick will I as possible after the registration.
+Now it will take a bit of time, but people should know that they will be getting that money and should not hesitate to access credit from banks and our other institutions like BDC and EDC
 
 
 
@@ -119,7 +121,7 @@ Merci.
 
 **Operator**:
 
-Next question, charlie Pinkerton ipolitics.
+Next question, charlie Pinkerton, ipolitics.
 Line open.
 
 
@@ -139,6 +141,7 @@ The tragedy in Nova Scotia simply reinforces an underlines how important it is f
 
 
 
+
 **Interpreter**:
 
 The tragedy in Nova Scotia makes it clear just how important it is to continue to move forward with gun control.
@@ -149,7 +152,7 @@ But we will take necessary time to ensure we do things properly.
 
 **Reporter**:
 
-So which of your government's promised gun control measures will it be that it introduces first?the assault rifle ban or something else perhaps influenced by what happened over the weekend.
+So which of your government's promised gun control measures will it be that it introduces first? the assault rifle ban or something else perhaps influenced by what happened over the weekend.
 
 
 
@@ -170,7 +173,7 @@ One more question on the phone, please, operator.
 
 Thank you.
 Merci.
-la presse.
+ la presser.
 
 
 
@@ -180,14 +183,16 @@ Bonjour, Mr. Trudeau.
 
 
 
+
 **Interpreter**:
 
-I'd like to come back to a question you were asked yesterday during the question per in the house about three planes that were to come back to Canada full of medical equipment from China.-- china.
+I'd like to come back to a question you were asked yesterday during the question per in the house about three planes that were to come back to Canada full of medical equipment from China.
+-- china.
 and that came back empty.
-Can you tell us more about that?I received more information about that.
+Can you tell us more about that? I received more information about that.
 There was one plane that was supposed to be bringing in equipment for Canada.
-Another was bringing in equipment for a specific province that hay had ordered and there are very strict limits on how much these chinese aircraft are allowed to stay in Canada and there are huge delays when it comes to bringing in the equipment from the airport.
-Unfortunately the planes haed to take off without having received their cargo.
+Another was bringing in equipment for a specific province that hay had ordered and there are very strict limits on how much these Chinese aircraft are allowed to stay in Canada and there are huge delays when it comes to bringing in the equipment from the airport.
+Unfortunately the planes ha ed to take off without having received their cargo.
 But we continue to work tirelessly to deliver that equipment.
 We received a great deal of equipment in recent days.
 We are expecting more equipment in the coming days and up until now, we have been able to respond to the province's need every step of the way.
@@ -208,7 +213,7 @@ But those two airlines were forced to take off quickly.
 We will continue to ensure that, as we have been, we make sure that Canadians get -- Canadian provinces and *ins -- institutions get the equipment that they so desperately need.
 We're continuing to receive millions of pieces of P.P.E. Over the past days.
 We expect many more over the next days and weeks.
-As well as the canadian industrial facilities tooling up their ability to deliver P.P.E. S.it's always a challenge to get the P.P.E. Into Canada in a time where the global market is very, very competitive for these.
+As well as the canadian industrial facilities tooling up their ability to deliver P.P.E. S. it's always a challenge to get the P.P.E. Into Canada in a time where the global market is very, very competitive for these.
 But we have managed so far to get the equipment the provinces have asked for and we will continue to make sure we're prioritizing support for our frontline workers who are going into battle every day against this virus.
 
 
@@ -227,7 +232,7 @@ Follow-up?
 
 **Interpreter**:
 
-So what happened to that equipment, Mr. Trudeau?is it still in our possession in storage somewhere or -- and what is the other province expecting this equipment?well, we will continue to follow up on the orders that were placed and ensure we receive the equipment we need and we will continue to ensure that we have chartered plane there is to pick up the equipment we require.
+So what happened to that equipment, Mr. Trudeau? is it still in our possession in storage somewhere or -- and what is the other province expecting this equipment? well, we will continue to follow up on the orders that were placed and ensure we receive the equipment we need and we will continue to ensure that we have chartered plane there is to pick up the equipment we require.
 With respect to the province, I will let the province share that information with you.
 
 
@@ -402,13 +407,13 @@ On the supporting provinces, we recognize that various provinces are facing real
 **Interpreter**:
 
 Now earlier in your speech, you said there was some positive science and I won't Earp what those positive signs are in your opinion.
-and on the wage subsidy, can you assure us that not $1 of taxpayer money will go to companies that have money in tax havens?well, in terms of encouraging signs, when we look at the pandemic curves and the numbers in terms of spread of COVID-19, we can see that there has been a the decline in the numbers.
+and on the wage subsidy, can you assure us that not $1 of taxpayer money will go to companies that have money in tax havens? well, in terms of encouraging signs, when we look at the pandemic curves and the numbers in terms of spread of COVID-19, we can see that there has been a the decline in the numbers.
 Now we see the numbers going up in certain parts of the country.
 But there are fewer and fewer cases each day and we hope that what this means is that the measures we've been taking are now helping.
 and are now helping the expected outcome.
-At the same time, we need to keep those measures in place because if we relax them too soon, we could end up in a situation where COVID-19 COULD ramp up again and this is not something we would want to see happen.
+At the same time, we need to keep those measures in place because if we relax them too soon, we could end up in a situation where COVID-19 would ramp up again and this is not something we would want to see happen.
 In terms of our approach in helping businesses, we have always been focused on help for workers.
-We did not want to judge whether someone working for a small halifax store or for a large internation hardware chain would be treated differently.
+We did not want to judge whether someone working for a small Halifax store or for a large inter nation hardware chain would be treated differently.
 We wanted to ensure that workers and families that depend on that income would have the necessary help and that is why we moved forward with the wage six did and moving forward with the emergency response benefit.
 I'd like to say that we are always working hard to fight tax havens and tax avoidance.
 We have taken very strong measures to try and recover that money and impose serious consequences on companies that take advantage of those tax havens and we'll continue to do that.
@@ -437,11 +442,11 @@ But it is encouraging to see the things that Canadians are doing from coast to c
 **Interpreter**:
 
 Now just to understand with respect to tax havens, you didn't really answer My question.
-Can you tell Canadians today that the money that you paid in taxes will not go to companies that have accounts in tax havens?can you assure us of that today or can you not assure us of that today?we are helping workers right across this country.
+Can you tell Canadians today that the money that you paid in taxes will not go to companies that have accounts in tax havens? can you assure us of that today or can you not assure us of that today? we are helping workers right across this country.
 Someone who works for a company whose family depends on that job and has lost that job needs help.
 Needs to be able to pay for groceries or pay rent.
 It is that reason that we decided to help people, whether it is a small company or big company.
 We are helping workers who need that support.
 Now with respect to tax avieed answer, we will continue to fight that sort of action.
-and choices made by some companis who refuse to pay their fair share of taxes.
+and choices made by some companies who refuse to pay their fair share of taxes.
 We have invested more than $1 billion in the Canada revenue agency so that we have more tools available to us to target those companies.

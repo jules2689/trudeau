@@ -6,7 +6,7 @@ Ca. We are standing by to bring you the Prime Minister's briefing.
 This is not like another briefing.
 Nova Scotians are trying to come to terms with a mass shooting, gunman killing at least 16 people.
 We're hearing more about the victims, their names, their stories.
-a RCMP constable, a grade schoolteacher, a volunteer firefighter, and a nurse among the dead.
+a RCMP Constable, a grade schoolteacher, a volunteer firefighter, and a nurse among the dead.
 We are expecting an update from Nova Scotia at 2:00 local time.
 We are expecting the Prime Minister to address this today as well, but because of the nature of this story and how important it is, we will start in Nova Scotia.
 Brett Ruskin and tom Murphy joinus.
@@ -77,7 +77,7 @@ and Lisa McCully who died and left behind a family.
 
 **Rosemary**:
 
-Tom Murphy thank you for that.
+Tom Murphy, thank you for that.
 Let me turn to Brett Ruskin who is in Portapique.
 It's a small community.
 How are people dealing with things today as they start to understand the magnitude of whathappened?
@@ -104,7 +104,8 @@ This is taking this community byshock.
 
 **Rosemary**:
 
-Brett Ruskin in Portapique and tom morefy in Halifax As Brett mentioned, the investigation is spanning over at least 50 kilometres.
+Brett Ruskin in Portapique and tom morefy in Halifax.
+As Brett mentioned, the investigation is spanning over at least 50 kilometres.
 There is an RCMP briefing we are expecting that will be an important one.
 The Prime Minister is expected to give his daily briefing outside Rideau cottage in about eight minutes or so. We do expect him to spend a lot of time talking about what happened in Nova Scotia, given the magnitude of the tragedy.
 I want to show viewers the inside of the house of commons.

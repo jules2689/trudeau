@@ -3,7 +3,7 @@
 We are standing by, as we do every day almost to hear from the Prime Minister for his daily update on the federal response to the COVID-19 pandemic.
 Yesterday Justin Trudeau unveiled more than $2 billion in rescue money for Canada's slumping energy sector and other key industries like tourism.
 Today we are expecting to hear more about additional help for indigenous businesses that may be taking a due to the pandemic.
-Justin Trudeau is also addressing the nation on a day that the Canadian military begin an operation to combat COVID-19.125 personnel are being deployed to quÉbec to assist some overwhelmed staff in the province's long-term care homes.
+Justin Trudeau is also addressing the nation on a day that the Canadian military begin an operation to combat COVID-19. 125 personnel are being deployed to quÉbec to assist some overwhelmed staff in the province's long-term care homes.
 QuÉbec requested that had he been in an effort to contain thedeadly outbreaks that are sweeping through the facilities are and of course in the province of Ontario as well.
 That is a scene you are familiarwith at this stage, the front door at the Prime Minister's residence, Rideau cottage.
 We will hear from him in 15 minutes' time.
@@ -27,7 +27,7 @@ Even beyond that there is a debate of larger jurisdictions, notably Ontario, the
 **Rosemary**:
 
 B. C. is already having that conversation.
-Of course they were testing at much higher rate than other provinces and according to their public health officer, Bonnie Henry have flattened out the curve.
+Of course they were testing at much higher rate than other provinces and according to their public health officer, Bonnie Henry, have flattened out the curve.
 There was a move last night that came late in the day by the federal government to start I guess putting different measures in place as things ease up.
 
 
@@ -56,7 +56,8 @@ and now Dr. Njoo says the science is evolving.
 
 Now new York state is saying you have to wear a mask on things like public transit.
 As restrictions are eased, other measures have to come into play.
-Catharine, I'll come back to you shortly as we stand by and wait for the Prime Minister in Ottawa Obviously the coronavirus continues to claim lives in long-term care facilities.
+Catharine, I'll come back to you shortly as we stand by and wait for the Prime Minister in Ottawa.
+Obviously the coronavirus continues to claim lives in long-term care facilities.
 More than half of the deaths in this country have occurred in those places.
 Because of that, some family members are choosing to bring their family members home.
 Ilene Smyth is one of those who removed her mother from a care home earlier this week.
@@ -72,7 +73,7 @@ Thank you.
 
 **Rosemary**:
 
-How is your mother doing, Ilene
+How is your mother doing, Ilene?
 
 
 
@@ -145,14 +146,14 @@ Yes, so that made it possible for me. I had had My mother prior to her going and
 
 **Rosemary**:
 
-Does it worry you about having to send her back?because, if anything, this pandemic has exposed, eileen, that long-term care homes are obviously struggling during thispandemic, but may be we are not doing enough for older canadiansacross the board.
+Does it worry you about having to send her back? because, if anything, this pandemic has exposed, Eileen, that long-term care homes are obviously struggling during thispandemic, but may be we are not doing enough for older canadiansacross the board.
 
 
 
 **Interview**:
 
 Well, the government could be a little more lenient to families who want to take their loved ones home.
-It was a real dilemma for me because when I called the actionline, the ministry of health, the lady told me that My mother would lose her bed, that she would go on the waiting list as a pre-admit, and not sure when she would get back in. My question to her was is the pre-admit over or below the crises list?because I know the crises list is probably in a couple thousand.
+It was a real dilemma for me because when I called the actionline, the ministry of health, the lady told me that My mother would lose her bed, that she would go on the waiting list as a pre-admit, and not sure when she would get back in. My question to her was is the pre-admit over or below the crises list? because I know the crises list is probably in a couple thousand.
 She couldn't answer that, but she did leave the phone and scamback with an answer and said it was below the crises list.
 At that point I e-mailed My local M.P.p. and voiced My concern and also e-mailed -- youknow, a detailed e-mail.
 I heard back from that office three days later.
@@ -160,13 +161,13 @@ and I was -- he said he would put it to his superior.
 But I had not heard anything since.
 The last phone call was to ccac who deals with mom's particular area.
 She explained to me that My mother would go on a re-admit list, but she would be a priority at the very top if I call them in the 90-day span from now or this past week, theni won't have to go through the paperwork so that the next bed that becomes available at the home will be available to her.
-Now, if I go past the 90 days --as you said, this may go on -- then what am I going to do?so that's an issue for sure.
+Now, if I go past the 90 days --as you said, this may go on -- then what am I going to do? so that's an issue for sure.
 
 
 
 **Rosemary**:
 
-All right, Eileen I know many people are struggling with these same issues and it was a difficult decision for you to make.
+All right, Eileen, I know many people are struggling with these same issues and it was a difficult decision for you to make.
 I can tell your mom is still very much full of life and is happy to be there.
 I wish you good health and take care.
 
@@ -180,7 +181,7 @@ Thank you very much.
 
 **Rosemary**:
 
-Eileen Smyth in Barrie Ontario.
+Eileen Smyth in Barrie, Ontario.
 In Ontario there are more than 100 long-term care homes who have outbreaks of COVID-19. So we're talking about almost one in six homes.
 That has been the picture, not only in Ontario but definitely in quÉbec and to some extent in British Columbia as well.
 Let's go to the cbc's megan batchelor in vancouver because British Columbia is ahead of the curve, has flattened the curve, and is now already talking about ways to reopen and what that might look like.
@@ -189,26 +190,27 @@ Let's go to the cbc's megan batchelor in vancouver because British Columbia is a
 
 **Megan**:
 
-Yeah, Rosie we're seeing data coming out of British Columbia and Dr. Bonnie Henry being cautiously optimistic that some restrictions are being lifted.
+Yeah, Rosie, we're seeing data coming out of British Columbia and Dr. Bonnie Henry being cautiously optimistic that some restrictions are being lifted.
 We're seeing a slow down in the increase in cases across the country in particular in ontarioand in quÉbec.
 B.c. is also changing the way that it's doing its modelling.
 It used to compare the number ofcases to those in italy or hubeiprovince in china, those real hot spots, the epicentres of COVID-19. Now they are not comparing the worst-case scenario from there, looking at what could perhaps happen to our medical system here because we are starting to see this flattening of the curve.
 Now officials here are starting to develop new models, looking at the cases that are happening short term, and projecting those, assuming there is no change in the current measures.
 They're also looking at what could happen if they start to ease some of the physical distancing restrictions.
 We say that now with the restrictions in place, contacts between british columbians is 30% of normal.
-They do say they could go up to 60% of normal and not see a reemergence of COVID-19 in British Columbiathey are still looking ahead at that second wave that we keep talking about.
+They do say they could go up to 60% of normal and not see a reemergence of COVID-19 in British Columbia they are still looking ahead at that second wave that we keep talking about.
 The officials here are preparingfor that and adjusting their modelling there.
 
 
 
 **Rosemary**:
 
-Megan bachelor in Vancouver a different picture on the west coast.
+Megan bachelor in Vancouver.
+a different picture on the west coast.
 That is the issue with COVID-19 is that the chief public health officer, Dr. Theresa tam, has talked about regional epidemics.
 Every province looks a little bit different.
 So easing back some of the restrictions will happen on different timetables in different parts of this country, and that will make it challenging likely for the federal government, who only has to much say how this is going tounfold.
 As we wait for the Prime Minister, he is expected to be on time.
-I'll bring back My colleague Catharine Cullen but I may cut you off.
+I'll bring back My colleague Catharine Cullen, but I may cut you off.
 Yesterday the Prime Minister made significant announcements in terms of money.
 One of them was to address the oil and gas sector, although it was in no way a bailout.
 There was criticism in industry that this is not enough to get them through everything.

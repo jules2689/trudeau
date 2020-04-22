@@ -17,7 +17,8 @@ What can you tell us about how it's played out?
 **Reporter**:
 
 Well, as you said, the suspect -- we know from RCMP that gunman is now in custody and we know that he has been on the run for approximately 12 hours.
-The RCMP tell us that he was tracked down between here and Halifax We last know that he was seen traveling on highway 102.
+The RCMP tell us that he was tracked down between here and Halifax.
+We last know that he was seen traveling on highway 102.
 That is the highway, the major highway that runs between here and the city.
 About 45 kilometres away from where I am. and he was last seen traveling in a small silver s. U.v. We had heard from police that he might have been wearing an RCMP uniform or what looked like an RCMP uniform.
 At one point, he was also traveling, they believed, in a car that looked like an RCMP car.
@@ -62,7 +63,8 @@ We expect the RCMP in Nova Scotia to update us the moment we hear more about tha
 So obviously important, breaking news out of Nova Scotia.
 We'll continue to track it. At this hour, we're expecting to hear from Prime Minister Justin Trudeau's doing his daily briefing to the nation around his government's response to COVID-19. So let's bring in David Cochrane.
 I expect that the Prime Minister will probably say something about this incident in Nova Scotia first.
-and maybe give us some details if he has any, David What else are we expecting from him today?
+and maybe give us some details if he has any, David.
+What else are we expecting from him today?
 
 
 
@@ -82,7 +84,7 @@ The liberals, the greens, the bloc, they don't want to go to that.
 You can reduce the number of M.P.s, but you need staff, broadcasters, political staff, clerks and dozens and dozens of people would go into the west block and even last time with the reduced sitings, elizabeth may and others complained that when you left your seats there's lots of seats.
 and when you head back, there's too many support staff for people to safely social distance.
 These are the behind the scenes conversations in ottawa.
-What is the compromise?four of the parties have largely found an agreement that functions.
+What is the compromise? four of the parties have largely found an agreement that functions.
 The conservatives are not on board with that yet and we'll hear from Andrew Scheer a little bit later this afternoon to see what he has to say on this.
 
 
@@ -138,7 +140,7 @@ a little tired.
 **Rosemary**:
 
 I bet.
-When did this start for you?was it last night and what were you told?
+When did this start for you? was it last night and what were you told?
 
 
 
@@ -154,7 +156,7 @@ So, we pretty much bunker ed in for the time being.
 
 **Rosemary**:
 
-Did they appear to be large house fires?what can you tell me?
+Did they appear to be large house fires? what can you tell me?
 
 
 
@@ -170,7 +172,7 @@ So -- [sirens]
 
 **Rosemary**:
 
-and do you know the residents of the homes?I don't know how much you could see in terms of what house was affected.
+and do you know the residents of the homes? I don't know how much you could see in terms of what house was affected.
 
 
 
@@ -213,7 +215,7 @@ So we didn't get a lot of information until this morning.
 
 **Rosemary**:
 
-Do you know the suspect?does his name --
+Do you know the suspect? does his name --
 
 
 
@@ -277,7 +279,7 @@ Very rural.
 Very small community.
 On the water.
 It's cottage country here.
-Noise area a.-- nice area.
+Noise area a. -- nice area.
 Beautiful area.
 and houses are spread out.
 a lot of trees.

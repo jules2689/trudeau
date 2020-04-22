@@ -23,7 +23,7 @@ We appreciate that.
 
 **Rosemary**:
 
-How are you doing?how are the people around you doing today?
+How are you doing? how are the people around you doing today?
 
 
 
@@ -38,7 +38,8 @@ Go ahead.
 
 **Rosemary**:
 
-No, you go ahead, Larry Your normal is you all get together and help one another.
+No, you go ahead, Larry.
+Your normal is you all get together and help one another.
 
 
 
@@ -71,8 +72,8 @@ They're just heartbreaking.
 
 **Rosemary**:
 
-The fact that it happened over such a large territory, right?a number of different villages were hit and a number of different families.
-How much more difficult is that?the fact that it really seems to have touched so many people in the region?
+The fact that it happened over such a large territory, right? a number of different villages were hit and a number of different families.
+How much more difficult is that? the fact that it really seems to have touched so many people in the region?
 
 
 
@@ -87,7 +88,7 @@ It's only been two days and most of us cannot, cannot, get our heads and heart a
 
 **Rosemary**:
 
-We now know, I think 18 of the victims, Larry did you know any of them or their families?
+We now know, I think 18 of the victims, Larry, did you know any of them or their families?
 
 
 
@@ -112,7 +113,7 @@ is that something you'll want some answers to going forward as a politician, as 
 
 
 
-Well, I'm -- I'm sure that if something different could have been done, we're going to learn from it.[sirens]there are going to be a number of circumstances that are going to come out of this that we don't know about yet.
+Well, I'm -- I'm sure that if something different could have been done, we're going to learn from it. [sirens]there are going to be a number of circumstances that are going to come out of this that we don't know about yet.
 Maybe the response could have been different, I don't know.
 But what -- but where I'm going to put all My energy now -- if not there -- but all My energy will be going to those who have survived this.
 Because they're going to need so much time and so much care and I think that is where most of our energy, as a province, really needs to go at this time.
@@ -168,7 +169,8 @@ Because they know that the outside world really cares about what's happening her
 **Rosemary**:
 
 Well, y you're right.
-We do. We do. and we're all thinking of all of you and I do appreciate you making the time, Larry These are difficult days.
+We do. We do. and we're all thinking of all of you and I do appreciate you making the time, Larry.
+These are difficult days.
 Yeah.
 Do whatever you can to help those people and we'll do the same.
 Thank you so much.
@@ -182,12 +184,12 @@ and thank you very much.
 
 **Rosemary**:
 
-Appreciate it. That is Larry Harrison a member of Nova Scotia's legislature and he joins us us from shortt's lake.
+Appreciate it. That is Larry Harrison, a member of Nova Scotia's legislature and he joins us us from shortt's lake.
 Ok. We'll turn back to what we have come to the usual part of our day.
 If anything is usual these days.
 But it is the regular update from the Prime Minister that we do expect at this time.
 Some sort of normalcy and routine, I guess, is provided by that.
-and also by the help of My colleagues here in Ottawa the cbc's David Cochrane and the host of "power & politics", Vassy kapelos.
+and also by the help of My colleagues here in Ottawa, the cbc's David Cochrane and the host of "power & politics", Vassy kapelos.
 We'll talk about what to expect from the Prime Minister today because while yesterday was very much focused on Nova Scotia, and I imagine he'll have a little more to say on that today, potentially, he is also in the midst, of course, of putting together a government response to fight the pandemic and we do expect him to talk about places and things that might have gotten left out.
 and I'll start with Vassy.
 
@@ -204,7 +206,8 @@ They had asked for a stabilization fund in the neighbourhood of $10 billion.
 My understanding is that what is announced today won't necessarily be that much.
 I'm not sure of the exact figure.
 But that will be sort of a chunk of change for charities, specifically aimed at supplementing the money that they have lost due to a lack of fundraising.
-The second aspect, the second facet of what I'm expecting from the Prime Minister has to do with that other huge government relief package for businesses around wage six dids.-- subsidies.
+The second aspect, the second facet of what I'm expecting from the Prime Minister has to do with that other huge government relief package for businesses around wage six didst.
+-- subsidies.
 The government has passed legislation with opposition part is a few weeks acing to provide a wage subsidy for businesses of any size, of 75% of the first I think is nearly $58, 000 of an employee's salary.
 That is in the -- the application process is starting.
 It will be starting in a few weeks is My understanding.
@@ -298,7 +301,7 @@ Their revenues are hurting and the federal government's revenues, I should say, 
 
 **Rosemary**:
 
-The difference is they have more capacity and take on debt than we've seen obviously in Newfoundland certainly.
+The difference is they have more capacity and take on debt than we've seen obviously in Newfoundland, certainly.
 All right.
 Here is the Prime Minister of Canada emerging from his home to speak with us yet again about his government's response to the COVID-19 pandemic.
 Let's listen in.

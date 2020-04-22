@@ -3,8 +3,9 @@
 **Prime Minister Trudeau**:
 
 hello, everyone.
-I want to begin by noting the innocent men, women and children systematically murder by the nazis.
+I want to begin by noting the innocent men, women and children systematically murder by the Nazis.
 We also pay tribute to the brave itself and resiliency of survivors and all those who risked their lives to save others during the holocaust.
+
 
 
 
@@ -18,10 +19,11 @@ Today we remember the six million men and women who were systematically murdered
 **Prime Minister Trudeau**:
 
 This morning, I want to again extend My most sincere condolences to the friends and families of the victims of terrible Nova Scotia attacks.
-Since yesterday, I've had a chance to speak with constable chad Morrison the RCMP officer who was wounded as well as constable Heidi stevenson's family.
+Since yesterday, I've had a chance to speak with Constable Chad Morrison, the RCMP officer who was wounded as well as Constable Heidi Stevenson's family.
 On behalf of all Canadians, I thanked them for their service and their sacrifice.
 Yesterday, when I offered My sympathies to the RCMP officers who support me, I was amazed to see how many of them knew Heidi and had incredibly fond memories of her and worked with her on the musical ride.
 They remembered her as an extraordinary person and it really goes to show just how tightly knit not just the RCMP is as a force, but how close we are as a country.
+
 
 
 
@@ -35,11 +37,12 @@ and that made me realise that it is not only about the RCMP being family and con
 
 **Prime Minister Trudeau**:
 
-The Canadian police and peace officers memorial on parliament hill to pay tribute to constable Stevenson and recognize the contributions of all law enforcement members to keep us safe.
+The Canadian police and peace officers memorial on parliament hill to pay tribute to Constable Stevenson and recognize the contributions of all law enforcement members to keep us safe.
 I also spoke to a number of colleagues from Nova Scotia, both past and present, and sought Senator Sam kutcher's advice.
 These calls all reinforce what had we know about Nova Scotia -- that it's a special place where people stick together and look out for each other.
-This week, we are all nova scotian.
-The families and friends can count on the unwavering support of their neighbours and of every single canadian.
+This week, we are all Nova Scotian.
+The families and friends can count on the unwavering support of their neighbours and of every single Canadian.
+
 
 
 
@@ -69,16 +72,17 @@ Their mission has always been to support people in their time of need and that h
 But COVID-19 is putting a tremendous amount of pressure on those organisations because more people need help.
 Back in March, one United Way partner in Winnipeg made and distributed 1475 emergency kits for families, seniors and homeless people in just five days.
 They had to change services because of the rules that everyone has to follow to keep each other safe.
-Here in Ottawa there are a number of organisations focused on serving isolated seniors.
+Here in Ottawa, there are a number of organisations focused on serving isolated seniors.
 Usually they have day programme where seniors can socialize, participate in activities, eat well and maintain a connection to their community.
 That is no longer possible because of COVID-19 so organisations are now delivering meals and providing support via phone.
-In Toronto Tropicana community services is now helping vulnerable youth access their COVID-19 benefits.
+In Toronto, Tropicana community services is now helping vulnerable youth access their COVID-19 benefits.
 It takes resources to make these adjust.
 S, resources these groups don't have because they're spread so thin trying to help as many people as possible.
 So to support charities and nonprofits in their important work, our government is setting up a $350 million emergency community support fund.
 a portion of these funds will go directly to smaller, independent front line organisations and the rest will flow through national organisations like the United Way community foundations Canada and the red cross that can get funds to local organisations and vulnerable people quickly.
 This is money for things like training volunteers, increasing at-home deliveries for seniors or driving people with disabilities to appointments.
 With this fund, we're giving more resources to charities and nonprofits so they can adapt to the new realities and difficulties brought on by this pandemic.
+
 
 
 
@@ -102,9 +106,11 @@ Our supercluster initiative brings together small, medium-sized and large compan
 So a few weeks ago, the digital technology supercluster challenged its network of over 500 firms to come up with solutions to help Canadians get through this pandemic.
 They received over 300 submissions and they are now moving forward on a number of key projects.
 Toronto's DNA Stack is developing a new cloud-based network that allows researchers who are looking to improve our ability to diagnose and treat COVID-19 to share their findings.
-Another company, foodex, is working with its partners to develop an e-grocery management system to make sure our health care workers, seniors and others have access to fresh food during this crisis.-- during this crisis.
+Another company, foodex, is working with its partners to develop an e-grocery management system to make sure our health care workers, seniors and others have access to fresh food during this crisis.
+-- during this crisis.
 Canadian innovators are among the best in the world and it is great to see so many of them use their talents to help our communities.
 This is yet another example of what we can achieve when we work together as team Canada.
+
 
 
 

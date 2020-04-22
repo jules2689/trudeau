@@ -5,10 +5,11 @@
 I want to start by confirming that Canada and the United States have agreed to extend by another 30 days the border measures that are in place.
 This is an important decision and one that will keep people on both sides of the border safe.
 It's another example of the excellent collaboration between our two countries, and I want to thank Minister bill Blair for leading the discussions with the United states.
-
+ 
 
 [voice of interpreter] I want to begin by confirming that Canada and the United States have agreed to extend by 30 days the current border measures.
-This is an important decision that will protect citizens on both sides of the border, and I want to thank Minister blair forleading those discussions with the United States.
+This is an important decision that will protect citizens on both sides of the border, and I want to thank Minister Blair for leading those discussions with the United States.
+
 
 [end of translation] we're all here today, but it is the weekend.
 Usually a Saturday morning in April means getting outside to enjoy the sunshine.
@@ -17,20 +18,20 @@ Or taking the kids to the park.
 But these aren't normal times.
 We're living through an unprecedented public health emergency and we need to keep responding accordingly.
 Even as the weather gets nicer and we start to see hopeful news, we can't let up. Because if we do, we could lose the progress that we've made.
-Later today you may see some newads with people you know like hayley wickenheiser and Dr. Tam.
+Later today you may see some new ads with people you know like Haley wickenheiser and Dr. Tam.
 and they are urging people to stay at home.
 Limit your trips to the grocery store to once a week.
 If you do go out, keep 2 metres of distance between yourselves.
 As you do your part, know that we are here to support you.
+ 
 
-
-[voice of interpreter] later today you maysee ads showing people that you know.
+[voice of interpreter] later today you may see ads showing people that you know.
 They will be reminding you that you can save lives by staying home.
 As I've often said, everyone must do their part.
 In recent weeks, we have announced historic measures to help you to get through this crisis, with the emergency benefit, the wage benefit, and the loans for small businesses, we are supporting millions of families and workers right across the country.
 However, there is still work to be done.
 There are still people we need to help.
-So today I am announcing furthermeasures to support Canadians.
+So today I am announcing further measures to support Canadians.
 Our government will allocate more than $306 million to help indigenous businesses.
 This funding will be provided through financial institutions and the national association of indigenous associations.
 This will allow them to get an interest-free short-term loan and non-refundable contributionsso that they can get through this crisis and rebound afterwards.
@@ -38,6 +39,7 @@ The investments announced today will help thousands of businesses to hold the li
 These businesses recruit people in every sector right across thecountry.
 This is only a first step.
 Very soon we will be announcing other measures to support indigenous businesses and their employees.
+
 
 [end of translation] this morning I am very happy to announce that the government will allocate more than $306 million to give indigenous businesses the support they need.
 This funding will be provided through aboriginal financial institutions and administered by the national aboriginal capital corporations association.
@@ -55,7 +57,7 @@ Yesterday two planes full of n95masks and coveralls arrived in Canada.
 More shipments will be coming this week and into this weekend with additional medical supplies.
 I can announce we will begin receiving face shields from toronto stamp very soon.
 They've shifted from their usualproduction of rubber stamps and I. D. badges and will be providing millions of face shields over the next few months.
-
+ 
 
 [voice of interpreter] Canada continues tocontinue to receive shipments ofindividual protective equipment.
 Yesterday two planes arrived full of n95 masks and coveralls and more will arrive over the weekend or next week.
@@ -66,5 +68,6 @@ So this weekend, please stay home.
 Continue to follow the experts' guidelines.
 Together, we will get through this.
 Thank you.
+
 
 [end of translation].

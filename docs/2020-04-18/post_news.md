@@ -2,8 +2,9 @@
 
 **Rosemary**:
 
-That is the Prime Minister of Canada on this Saturday morning, briefing Canadians on his government's actions to fight COVID-19. Let's bring in the cbc's Catharine Cullen Catharine, I'll pick up where the Prime Minister left off.
-It is of interest in Ottawa but it should be of interest to everyone.
+That is the Prime Minister of Canada on this Saturday morning, briefing Canadians on his government's actions to fight COVID-19. Let's bring in the cbc's Catharine Cullen.
+Catharine, I'll pick up where the Prime Minister left off.
+It is of interest in Ottawa, but it should be of interest to everyone.
 If no agreement is reached, 338 people have to get back here formonday for parliament to sit.
 
 
@@ -44,7 +45,7 @@ The other by the of big news, this concerns everyone, the Canada-United States b
 
 a lot of canadiansmay say, status quo, this is just another 30-day extension.
 But it's interesting to watch what has been happening day in and day out with the questions by the media.
-Repeatedly reporters ask him to acknowledge what is in many ways think obvious to a lot of Canadians, particularly if you look at new York state right you, they say, sir, is it not apparent that the United States poses an enormous risk to us?and the Prime Minister does not want to acknowledge that, however self-evident that may be. I don't want to speculate on what's going on in the Prime Minister's mind, but there is a question whether he will provokethe United States.
+Repeatedly reporters ask him to acknowledge what is in many ways think obvious to a lot of Canadians, particularly if you look at new York state right you, they say, sir, is it not apparent that the United States poses an enormous risk to us? and the Prime Minister does not want to acknowledge that, however self-evident that may be. I don't want to speculate on what's going on in the Prime Minister's mind, but there is a question whether he will provokethe United States.
 We have seen the government lurching around during the course of this outbreak as they're dealing with unexpected news from the United States.
 First there was a report of the United States putting troops on the border.
 Then there was donald trump possibly preventing 3m from sending the much-needed n95 masks to Canada.
@@ -80,7 +81,7 @@ Thanks for having me.
 
 **Rosemary**:
 
-How needed was this going to be?was there a real desire for additional money for specifically indigenous businesses?
+How needed was this going to be? was there a real desire for additional money for specifically indigenous businesses?
 
 
 
@@ -130,7 +131,7 @@ We've seen a higher impact on indigenous women.
 
 **Rosemary**:
 
-Are there other things needed?the Prime Minister said this is the first step.
+Are there other things needed? the Prime Minister said this is the first step.
 These policy decisions being pushed out the door quickly are sometimes not the final version.
 is there anything else you're looking for?
 
@@ -208,7 +209,8 @@ He said before this pandemic thegovernment should have acted quicker on trying t
 **Rosemary**:
 
 Matt, I'm sorry, I've got to let you go because I'm going to end the special on the main network.
-You can watch us on CBC news network.[♪♪♪] [ please stand by ]
+You can watch us on CBC news network.
+[♪♪♪] [ please stand by ]
 
 
 
@@ -226,7 +228,8 @@ So let's go now to that pressconference.
 
 
 
-We have completed tests for over 507, 000 people with 6%confirmed cases.(speaking french).
+We have completed tests for over 507, 000 people with 6%confirmed cases.
+(speaking french).
 
 
 
@@ -247,7 +250,8 @@ Some parts of our country will experience the epidemic slowing down earlier than
 This includes washing our handsfrequently, physical distancing from one another and staying home as much as possible.
 Unless we all remain diligent in maintaining our new habits, new outbreaks can be sparked anywhere at any time.
 Remember, as Dr. Tam also said, this is not a sprint.
-This is a marathon and we need to keep on doing and keep doing the right things and keep being strong all together.(speaking french).
+This is a marathon and we need to keep on doing and keep doing the right things and keep being strong all together.
+(speaking french).
 
 
 
@@ -276,7 +280,8 @@ In addition to the previously announced $305 million in funding to address immed
 These businesses are the backbones of communities across this country and integral to thecanadian economy.
 We recognise smaller indigenous businesses may be disproportionately affected by this unprecedented and unique situation and these businesses may and are already facing unique challenges such as being in rural or remote locations and having less access to capital.
 The emergency funds announced today will be provided to indigenous businesses through the 59 aboriginal financialinstitutions, enabling them to keep supporting the thousands of small and medium first nationsinuit and met is businesses, great number run by women.
-It will allow for short-materialinterest-free loans andnonrepayable interestcontributions offeringflexibility in supporting localbusinesses and ensuring they arewell positioned for the recoveryto come.(speaking french).
+It will allow for short-materialinterest-free loans andnonrepayable interestcontributions offeringflexibility in supporting localbusinesses and ensuring they arewell positioned for the recoveryto come.
+(speaking french).
 
 
 
@@ -286,7 +291,8 @@ At the beginning of the week, we announced financial support of$73 million to su
 
 
 In close coordination to ensure supplies such as ppe, bottled water, hand sanitize rand testing are in place to prevent and combat the spread ofcovid-19. In collaboration with indigenouscommunities, we will continue to adapt plans and provide surge capacity as the situationevolves.
-To date, we shipped 555 orders for ppe, personal protective equipment in regards to testing, nursing stations have the supplies to administer tests and we are working to ensure consistent supply as needsarise.(speaking french).
+To date, we shipped 555 orders for ppe, personal protective equipment in regards to testing, nursing stations have the supplies to administer tests and we are working to ensure consistent supply as needsarise.
+(speaking french).
 
 
 
@@ -301,7 +307,8 @@ I would like to extend my sincere condolences to six nations of the grand river.
 Our thoughts are with thefamilies, loved ones and community as they heal during this difficult time.
 While we're thankful for the low number of cases in the indigenous communities to date, we are not taking and should not take this for granted.
 This is a function of a number of things, note fully remoteness of the communities and some of the aggressive measures taken by the leadership, medical and political in communities learning from the experience and being in a position to what'sgone on across the glowing.
-Globe.(speaking french).
+Globe.
+(speaking french).
 
 
 
@@ -359,7 +366,7 @@ The first question is from radio-Canada.
 
 **Question**:
 
-Hello, I have question for Minister duclos.
+Hello, I have question for Minister Duclos.
 Minister, we have extended the border measures with the United States.
 Have we obtained any guarantees that we will be able to receive essential medical supplies from the United States without any hiccups at the border or without any issues with the trumpadministration?
 
@@ -369,7 +376,8 @@ Have we obtained any guarantees that we will be able to receive essential medica
 
 Minister duclassociation.
 Os. Thank you for the question.
-As you have mentioned., our relationship with the United States is very important in this context and all contexts.
+As you have mentioned.
+, our relationship with the United States is very important in this context and all contexts.
 In the current situation, our United States-Canada relations are veryimportant.
 We have conversations with ourpartners every single day.
 The border agreement that wereached a few weeks ago has beenextended for another 30 days.
@@ -390,17 +398,17 @@ Because goods go south, northand those goods, medical, foodand other things are 
 **Question**:
 
 I have a very specific question about personal protective equipment at theborder.
-Have you received a guarantees from the American government that 3m and other americancompanies will be able to export medical supplies and protective equipment to Canada?will we be able to import thesesupplies from americancompanies?have you received a guaranteefrom that effect from theamerican government?will we be able to receivemedical supplies and especiallypersonal protective equipment?
+Have you received a guarantees from the American government that 3m and other americancompanies will be able to export medical supplies and protective equipment to Canada? will we be able to import these supplies from americancompanies? have you received a guarantee from that effect from theamerican government? will we be able to receive medical supplies and especially personal protective equipment?
 
 
 
 **Answer**:
 
 Minister duclous.
-S.the word word is vigilant.
-These past few weeks, we haveobserved that essential goodsincluding medicine have beenable to flow across the bordervery well, but the motto isvigilance.
-Yes, we have a very goodrelationship with the americangovernment, but thisrelationship will continue to beput to the test over the nextfew weeks.
-We will remain vigilant to ensure that our Canada-United Statesrelationship, which is currentlyvery strong, we will ensure thatit continues to remain strong inthe next few weeks.
+S. the word word is vigilant.
+These past few weeks, we have observed that essential goods including medicine have be enable to flow across the border very well, but the motto isvigilance.
+Yes, we have a very good relationship with the americangovernment, but this relationship will continue to be put to the test over the next few weeks.
+We will remain vigilant to ensure that our Canada-United States relationship, which is currentlyvery strong, we will ensure thatit continues to remain strong inthe next few weeks.
 The essential discussion inaction that we have around thetransit of medical goods and ithink we first must admit thatthings are going quite well withefforts on both sides of thefrontier, meaning we havemedical goods in both directions in the current crisis.
 This being said, we need to bevigilant because thatrelationship is going to betested for the rest of thecrisis.
 We have citizens on both sidesof the border that are anxious, that are in need of beingreassured and that's exactlywhat the responsibility of thefellow government is, is to notonly to provide the essentialflow of those medical goods butalso to reassure Canadians thatwe will always be working in therelationship and movement ofthose goods.
@@ -474,7 +482,7 @@ Our next question.
 **Question**:
 
 Mellow.
-I have questions for Minister duclos.
+I have questions for Minister Duclos.
 For a question about military medics being sent into long-termcare facilities in Quebec as oftoday.
 The government hasn't given usmuch detail about where theywill go. They mentioned the st region.
 Could you tell us where thesemilitary medics are sent todayand how many are sent and towhich regions?
@@ -486,7 +494,8 @@ Could you tell us where thesemilitary medics are sent todayand how many are sent
 Minister duclassociation.
 Os. Thank you for your question.
 I would like to thank actors in both governments who have worked hard to make this happen very, very quickly.
-We all recognise the urgency of the situation the government ofquebec has a primary responsibility to handle thesituation, but the federal government is also responsible for quickly stepping in to help after receiving the request that we received.125 medically trained force swill be deployed in Quebec.
+We all recognise the urgency of the situation the government ofquebec has a primary responsibility to handle thesituation, but the federal government is also responsible for quickly stepping in to help after receiving the request that we received.
+125 medically trained force swill be deployed in Quebec.
 The government of Quebec will manage their deployment.
 The government of Quebec will identify it's needs, where the needs are on the ground and the government of Quebec will decide what responsibilities these armed force's members will have.
 We've heard it is satisfied with how quickly we have stepped into make this happen.
@@ -551,7 +560,7 @@ So we are going to continue as the Prime Minister again said, continue being min
 
 I'm with CBC news.
 B.c. is talking about, perhaps, easing up some of therestrictions next month is thenumber of hospitalizations andcases go down.
-At a federal level, what is thebar that we have to meet inorder to relax some of theamericas?cases?
+At a federal level, what is thebar that we have to meet inorder to relax some of theamericas? cases?
 
 
 
@@ -565,7 +574,7 @@ But since we have Dr. Wong and since Dr. Wong is probably a lot more credible th
 
 
 Thank you.
-a number of factors that we all have to actually look at, as minister duclos had just said, we have to look at not just thecurve, where it's going, but also we have to look at the local and the community and the provisional and the national picture because it depends on the interface between differentfactors.
+a number of factors that we all have to actually look at, as minister Duclos had just said, we have to look at not just thecurve, where it's going, but also we have to look at the local and the community and the provisional and the national picture because it depends on the interface between differentfactors.
 All of those really determine how one, you would consider, perhaps, easing some measures in one situation and not easing some measures in othersituations.
 Thank you.
 
@@ -588,7 +597,8 @@ Exactly.
 We have that number and it can be used for differentsolutions, whether isolation ortesting.
 It depends on the needs of the community and as we look at the pandemic plan and possible expansion which hasn't occurred in communities, but we have to examine and consider thosecommunities, we will ramp upresources.
 We have a number in stock available in the process of being deployed in the communities that have asked for this and have it as a part of their pandemic plan.
-I don't have those precisenumbers..it's a moving variable as werecognise there may be surges incommunities, but it's very muchsomething that we are assessingon the fly, but we have a numberprepared to be deployed and havebeen deployed in somecircumstances.
+I don't have those precisenumbers.
+.it's a moving variable as we recognise there may be surges incommunities, but it's very much something that we are assessing on the fly, but we have a number prepared to be deployed and have been deployed in somecircumstances.
 I'll let tom answer moreprecisely.
 
 
@@ -612,7 +622,7 @@ Our next question, please goahead.
 
 **Question**:
 
-My question is for minister duclos.
+My question is for minister Duclos.
 You spoke about how thecanada-United States relationship will betested in the upcoming weeks.
 When trump expresses impatienceand a strong desire to reopenthe american economy, does thatworry you?
 
@@ -625,10 +635,10 @@ We have made major sacrifices these past few weeks.
 We have been isolated and we have felt anxious and we have also made economic sacrifices.
 People have lost their jobs.
 People are having difficulty making ends meet.
-So we always have to weigh public health outcomes and economic outcomes..in the next few weeks andmonths, we will have to be very, very cautious.
-Of course, many of us areanxious to reopen the economy.
-That said, we must absolutelyfollow the recommendations of our public health experts.
-We must take the necessarypublic health measures if wewant to reopen the economy.
+So we always have to weigh public health outcomes and economic outcomes.. in the next few weeks andmonths, we will have to be very, very cautious.
+Of course, many of us are anxious to reopen the economy.
+That said, we must absolutely follow the recommendations of our public health experts.
+We must take the necessary public health measures if we want to reopen the economy.
 Followup question.
 
 ---
@@ -637,8 +647,8 @@ Followup question.
 
 All right.
 So that was your economist'spoint of view.
-Now what's your point of view as a Canadian as a canadiancitizen?president trump wants peoplemoving around freely as soon aspossible.
-How do you feel about that?could that compromise publichealth and safety in Canada?
+Now what's your point of view as a Canadian, as a canadiancitizen? president trump wants people moving around freely as soon aspossible.
+How do you feel about that? could that compromise public health and safety in Canada?
 
 
 
@@ -669,11 +679,11 @@ We did get new numbers on covidoutbreaks in different indigenous communities.
 
 **Reporter**:
 
-Let's talk about what Minister duclos said when he was asked about the protective equipment across thecanada-United States border.
+Let's talk about what Minister Duclos said when he was asked about the protective equipment across thecanada-United States border.
 I thought it was interesting hesaid they'll have to remainvigilant on this particularissue and did note while thecanada-United States relationship is agood one, it's one that has beentested and he said it wouldcontinue to be tested over thecourse of the next few weeks, and that goes back to the pointwe were talking about beforethis news conference started.
 That the government officials donot want to politician italy sata great source this is, as wesee the picture across theproblems and territories and thepicture seems to change fromstate to state, too, and a lotof attention being paid to newyork city state.
 The government does not want to say it's a significant concernbut obviously, this 30-day 30-dyextension on the border is arelief to government trying todeal with a large number ofother issue.
-We heard recurring conversation, once again, with the Prime Minister today, withjean duclos, as well, whencanada can talk aboutrestartingthe economy.
+We heard recurring conversation, once again, with the Prime Minister today, withjean Duclos, as well, whencanada can talk aboutrestartingthe economy.
 It is very clear this is asituation that will change fromregion to region and everyone issaying the watch word is cautionand this needs to be donecautiously and carefully.
 There's incredible concern abouteasing things too quickly andseeing a major resurgence andeveryone is looking at expectssouth of the border but morebroadly international and ithink singapore comes to mind, where they're trying to restartthe economy and restart society, but concerned that one falsemove could lead to a majoroutbreak.
 I would note something we'vebeen talking about over thecourse of the programme which isthe situation is long-term carehomes.
@@ -706,7 +716,7 @@ Ashley asked the prime minister whether there was a specific number he had been 
 Where there are somesomejurisdictions doing well, hschoosing words carefully, saying there are other jurisdictions trying to improve their efforts.
 That is one piece of the puzzle.
 You talk about kicking around the soccer ball and that's an ice mental image for us rightnow, but obviously, there aredecisions, too, about what the picture looks like.
-I thought when you were speaking about what's happening -- thediscussion, I should say ofwhat's happening in California the governor talking about the prospect of Ok. perhaps we would reopen restaurants, but menus would be disposable and all of the precautions taken.
+I thought when you were speaking about what's happening -- thediscussion, I should say ofwhat's happening in California, the governor talking about the prospect of Ok. perhaps we would reopen restaurants, but menus would be disposable and all of the precautions taken.
 You can imagine that just one false move would cause everybody to snap back, as well.
 So it's really a very dynamicconversation, but one that think people are hungry for answers to, as well.
 
@@ -748,7 +758,7 @@ So what happened, the hospital support the staff and that if you're living with 
 
 
 That's good.
-Tell me how you are in terms ofequipment, masks, gloves, do you have enough or is that a concern for you?at the moment, in the hospital, we have enough so far and wehave enough supplies forprotective measures right now.
+Tell me how you are in terms ofequipment, masks, gloves, do you have enough or is that a concern for you? at the moment, in the hospital, we have enough so far and we have enough supplies for protective measures right now.
 We have the face masks, the n95face shields and all of thestuff right now.
 I think we have enough suppliesso far.
 
@@ -775,7 +785,7 @@ So we just need to protect ourfamilies, really.
 
 
 
-Maria, is there anything else you need from the government?is there anything else thatwould be of help for you to doyour job more easily?
+Maria, is there anything else you need from the government? is there anything else that would be of help for you to do your job more easily?
 
 
 
@@ -803,7 +813,8 @@ Good to see you, Senator.
 
 
 
-Just another Senator, Rosie not playing hockey.[ laughter ]
+Just another Senator, Rosie, not playing hockey.
+[ laughter ]
 
 
 
@@ -826,7 +837,8 @@ But we have lots of money leftand a refund of $4, 200.
 So our chief organizer, whothought he's going to get a taxdonation back, a refund back, hetopped it off to make the $7, 000in the kitty.
 We're not trying to blow our ownhorns but show other hockeyteams across the country whatthey can do. So $7, 000 has gone to the ottawafood bank and the ottawa missionhelping those who live onstreets and need a safe bed.
 So $7, 000, we like to look atthis AIs an ice hockey movement, not a grass root's movement, butan ice hockey movement, and weare encouraging other teamsacross the country and peopleinvolved in figure skating clubsto donate money to theircharity, even if you have acredit for next year.
-It's not much money, but atleast it does something and itshows that for the sake of a fewmore wings and too many beers, that we can give back to ourcommunity.[ laughter ]
+It's not much money, but atleast it does something and itshows that for the sake of a fewmore wings and too many beers, that we can give back to ourcommunity.
+[ laughter ]
 
 
 
@@ -854,12 +866,12 @@ Our committees can meet virtually and we can pass legislation if legislation com
 Canadians have been asked to stay at home.
 We can also work from home and get our jobs done, whether it'sadvocacy or legislation.
 So we have postponed untiljune 2nd.
-Doesn't mean our work is notdone, but I think that traveling across the country at this time is not a smart thing to do. What are we doing?we're staying home, working andenjoying our families and we'regiving back and as politicians, I think that we have to be very, very cautious, very cautious.
+Doesn't mean our work is notdone, but I think that traveling across the country at this time is not a smart thing to do. What are we doing? we're staying home, working and enjoying our families and we'regiving back and as politicians, I think that we have to be very, very cautious, very cautious.
 
 
 
 You probably were in thesenate, though, over the past couple of weeks to help with the legislation because you are in the region.
-and did it work?were there any problems with alimited number of people there?
+and did it work? were there any problems with limited number of people there?
 
 
 
@@ -883,3 +895,11 @@ It's an ice hockey movement.
 
 Thank you, Senator.
 Good to see you, s always, stayhealthy,.
+
+
+
+Thanks, Rosie, you, too.
+a couple of announcements that the United States-Canada border willremain closed for another 30days to nonessential travel.
+I'm rosemary barton and I'll seeyou back here for specialcoverage.
+Michael serapio continues rightnow.
+[ ♪♪♪ ]

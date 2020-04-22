@@ -13,14 +13,16 @@ Vassy, you can have the first 30.
 
 Really quickly, I'll summarize what he announced for the wage subsidy.
 You can apply if you are a business owner starting in one week, I believe April 27. and the other part was about $350 million for charities.
-What stuck out for me, two planes -- this is a question from the conservative leader ..two empty planes came back from china confirm big issues getting personal protective equipment out of that country.
+What stuck out for me, two planes -- this is a question from the conservative leader . . two empty planes came back from china confirm big issues getting personal protective equipment out of that country.
 
 
 
 **Rosemary**:
 
 Wow.
-She left you 10 seconds there, David Go ahead.[laughter]
+She left you 10 seconds there, David.
+Go ahead.
+[laughter]
 
 
 
@@ -37,22 +39,25 @@ But prices may very well go up.
 
 Ok. Thank you both very much.
 So succinct.
-I should make you do that all the time.[laughter]Vassy kapelos and david Cochrane.$350 million that Vassy talked about there does not include the option for charities for wage subsidies.
+I should make you do that all the time.
+[laughter]Vassy kapelos and david Cochrane.
+$350 million that Vassy talked about there does not include the option for charities for wage subsidies.
 While their ask was substantive at $10 billion, they get $350 million to help them and they can also start using the wage subsidy, which we'll get more details about at noon eastern at the next federal briefing coming up and we'll bring you up to date on any new information we have about the shooting rampage in Nova Scotia which has killed as many as 20 people now.
 We are not necessarily expecting to get a briefing from the local RCMP today.
 But we will get some details probably via press release in terms of how their investigation over those 16 different crime scenes is going and we'll talk about that at the top of the clock as well and bring you all details in terms of the stories that we're learning about the people that were killed over the course of weekend in Nova Scotia as that community and that whole province continues to strugle with that during the time of the pandemic.
 Also incountried ble challenging for them on so many fronts.
-Ok. I think I'm going to wrap it up. We'll hear shortly from our federal cabinet ministers who will give us a short briefing more about the wage subsidy that opens up on Monday and a public health update to give us a sense of how we're doing in fighting the pandemic.
+Ok. K think I'm going to wrap it up. We'll hear shortly from our federal cabinet ministers who will give us a short briefing more about the wage subsidy that opens up on Monday and a public health update to give us a sense of how we're doing in fighting the pandemic.
 Some encouraging signs.
 But we still have to keep doing what we're doing.
 The sky is looking better in ottawa.
-We'll be right back on cbc news network after this.[please stand by] they said yesterday one of the reasons that the death toll, thenumber of casualties and fatalities is going up is because officers are only now getting access to a few of the numerous sites across the province.
+We'll be right back on cbc news network after this.
+[please stand by] they said yesterday one of the reasons that the death toll, thenumber of casualties and fatalities is going up is because officers are only now getting access to a few of the numerous sites across the province.
 and so they will be combing through the that the application process will open up in a week's time.
 That is significant to business owners.
 There has been some information provided to a committee on the length of time.
 Your producer helped us with that.
 The time to get money into the pockets of business owners.
-That is something we'll be looking for more details on fromminister duclos.
+That is something we'll be looking for more details on fromminister Duclos.
 I think the time line, the issueof time for employers is huge.
 a lot of them have struggled to keep employees on the payroll.
 I'm speaking specifically of businesses, for example, small businesses, but also the huge companies.
@@ -70,7 +75,7 @@ Especially when everybody is saying we need this money fast to go through and lo
 
 **Rosemary**:
 
-We heard when the Prime Minister made the initial announcement, David he wasn't going to tolerate people taking advantage of it. So it's a little bit different than the CERB, the relief fund benefit, which I think is just sort of everybody thinks they can apply can apply and there is less concern around that.
+We heard when the Prime Minister made the initial announcement, David, he wasn't going to tolerate people taking advantage of it. So it's a little bit different than the CERB, the relief fund benefit, which I think is just sort of everybody thinks they can apply can apply and there is less concern around that.
 But there does seem to be some perhaps added scrutiny to the way this is going to work.
 
 
@@ -86,7 +91,7 @@ The CERB has been a tremendous success, but it was one-size-fits-all.
 This is different.
 It's wage subsidy, which is equivalent to the maximum c. P.p. Amount and then it's a sliding scale of what the precise dollaramount would be. That will take a little more time.
 The application scrutiny will bedone after the fact.
-There will a post pandemic compliance thing, but how much money to send to a company?that's a little rougher to deal with than the CERB.
+There will a post pandemic compliance thing, but how much money to send to a company? that's a little rougher to deal with than the CERB.
 The two other issues the Prime Minister spoke about, P.P.E., two planes came back from china, nothing onboard.
 I'm told by the government official, all of the P.P.E. Equipment is under lock and key in the warehouse in shanghai.
 It was safely store and will be making its way back to Canada.
@@ -96,7 +101,7 @@ This is causing backlog of trucks, they need security, there is limited landing 
 You have to figure out how to get it another time.
 Those supplies have not been lost.
 The other thing the Prime Minister was asked about is gun legislation.
-When is he going to bring in guncontrol?something that has been delayed because of the change in everything.
+When is he going to bring in guncontrol? something that has been delayed because of the change in everything.
 One of the restrictions is rightnow the agreement struck to havethe house only sit one day in person and then virtual sittingsafter.
 The legislation can only be about the pandemic.
 So they can't bring it right nowwhile they're operating under this deal.
@@ -132,10 +137,10 @@ But now we're waiting more days for it to get here and we don't have a lot of ti
 
 It's huge.
 Think about it, we have planes going over there to pick up equipment and because they don'tfit into the time frame the Chinese government has allowed, they're having to come all the way back to Canada empty.
-and that equipment, we heard a number of questions to the Prime Minister, and those should be pointed toward each of the provinces, because a lot of the jurisdiction lies with them, but there are genuine questions about how many health care workers are having to reuse their equipment?or are worried, yes, they have to the supply right now, but maynot in a few weeks' time.
+and that equipment, we heard a number of questions to the Prime Minister, and those should be pointed toward each of the provinces, because a lot of the jurisdiction lies with them, but there are genuine questions about how many health care workers are having to reuse their equipment? or are worried, yes, they have to the supply right now, but may not in a few weeks' time.
 We've heard them throughout the entire pandemic.
 It highlights the issue and Canada and the fact that we are incredibly reliant on china and the procurement of these supplies in that country.
-They haven't specifically -- I'mtrying to think about the interviews with the Minister in charge of this -- I've asked many times, how much of our stuff comes from china?and they won't put a percentage on it, but often uses the word "significant" to describe it. It's clear we have a heavy reliance on that country.
+They haven't specifically -- I'mtrying to think about the interviews with the Minister in charge of this -- I've asked many times, how much of our stuff comes from china? and they won't put a percentage on it, but often uses the word "significant" to describe it. It's clear we have a heavy reliance on that country.
 Things are not easy in china right now.
 Certainly they haven't been.
 But they really aren't right now.
@@ -144,11 +149,11 @@ It's a global issue right now and I think there is no easy fix, but the idea of 
 If I could touch on the gun legislation you were talking about.
 There are genuine questions of accountability for the government.
 I take the point given the current structure of parliament it's not going to be happening soon.
-That is -- they did massive consultations on what this type of bill would look like, following calls from the mayors of toronto and montreal to bringin stricter gun control.
+That is -- they did massive consultations on what this type of bill would look like, following calls from the mayors of Toronto and Montreal to bring in stricter gun control.
 Those consultations wrapped a full year ago.
 Then they promised in the campaign to bring in legislation.
-Then they promised on the anniversary of ecole polytechnique that was coming soon.
-Bill blair signalled it was going to come, I think david pointed out, in the spring.
+Then they promised on the anniversary of ecol poly technique that was coming soon.
+Bill Blair signalled it was going to come, I think David pointed out, in the spring.
 With we don't know if that -- wedon't know if that would have made a difference.
 But on the specific question about that legislation, you know, yes, it was intended to beintroduced, but they've had multiple opportunities in the past prior to this outbreak to do so. and they had signalled for a long time, many had raised the issue.
 
@@ -169,7 +174,7 @@ Deputy Prime Minister Chrystia Freeland is speaking about what happened in Nova 
 It is to difficult to process it when they are lost.
 At the events in Nova Scotia over the weekend.
 This would be a tragedy at any time.
-But for this to happen now as nova Scotians are all making great personal sacrifices to preserve life is a particular horror and particular sorrow.
+But for this to happen now as Nova Scotians are all making great personal sacrifices to preserve life is a particular horror and particular sorrow.
 To the people of Nova Scotia, all Canadians with are you in your grief.
 So today we will hear from Canada's chief public health officer, Theresa Tam.
 The deputy chief public, Dr. Howard Njoo.
@@ -205,7 +210,8 @@ Thank you.
 
 **Chrystia Freeland (Deputy Prime Minister)**:
 
-Thank you.we will now hear from Dr. Njoo.
+Thank you.
+we will now hear from Dr. Njoo.
 
 
 
@@ -231,7 +237,7 @@ Most importantly, we know and Canadians have demonstrated whathas worked to slow
 We know what has kept our healthsystem from being overwhelmed.
 There is no doubt that our sacrifices and everyday inconveniences over the past weeks have prevented an explosive outbreak in Canada.
 Explosive outbreaks like the ones that overwhelmed health care systems like in italy, spain and new york.
-What does this tell us?it tells us that we cannot be too confident, that we cannot let our guard down and we cannotafford to have any weak points in our system.
+What does this tell us? it tells us that we cannot be too confident, that we cannot let our guard down and we cannotafford to have any weak points in our system.
 What we can do is ensure we all work together.
 Ensure we stay the course and that we work to strengthen supports that meet the needs of our most vulnerable members of society.
 If we ensure that basic needs are met for everyone, we protectthe health of all Canadians.
@@ -247,9 +253,11 @@ Now we'll hear from the minister of families.
 
 
 Thank you very much, Bonjour.
-When the experience personal difficulties as a result of natural disasters, be it wildfires in British Columbia or tornado right here in Ottawa or something closer to home, like losing a job, that every time countless charities across the country are there to help them.
+When the experience personal difficulties as a result of natural disasters, be it wildfires in British Columbia or tornado right here in Ottawa, or something closer to home, like losing a job, that every time countless charities across the country are there to help them.
 They're there to step up and help them in every way they can.
-Canadian charities and non-profits are there to help us in our time of need.[voice of interpreter] charity organizations are always there to help Canadians in times of need.[end of translation] bringing real challenges to these really important organizations.
+Canadian charities and non-profits are there to help us in our time of need.
+[voice of interpreter] charity organizations are always there to help Canadians in times of need.
+[end of translation] bringing real challenges to these really important organizations.
 At the very time that countless Canadians across the country arerelying on these organizations, some for the very first time, canadian charities and non-profits are having to deal with extra costs procuring and obtaining personal protective equipment, increased costs as a result of staffing shortages.
 Other challenges as a result of getting materials needed to do their work.
 and to make matters worse, they also experiencing a dramatic drop in the amount of donations they usually receive.
@@ -258,8 +266,8 @@ Like older Canadians, people with disabilities, racialized Canadians, including 
 So our message to Canada's community organizations and charities is that we will support you.
 The time that more and more Canadians are calling on you to provide more services for them, we will support you so that you can meet that request, so that you can answer that call.
 As the Prime Minister said, we have your back.
-That is why the Prime Minister announced that we are providing $350 million to support in emergency fashion to help charities and non-profit organizations adapt their frontline services to vulnerablecanadians during COVID-19.[voice of interpreter] that's why the Prime Minister announced up to $350 million in emergency funding for charity organizations and non-profit organizations.
-These organizations are providing help to Canadians during COVID-19.[end of translation] like the United Way, the canadian red cross and community foundations of Canada, to ensure charities and non-profit organizations from across the country are ableto provide much needed support to vulnerable Canadians.
+That is why the Prime Minister announced that we are providing $350 million to support in emergency fashion to help charities and non-profit organizations adapt their frontline services to vulnerablecanadians during COVID-19. [voice of interpreter] that's why the Prime Minister announced up to $350 million in emergency funding for charity organizations and non-profit organizations.
+These organizations are providing help to Canadians during COVID-19. [end of translation] like the United Way, the canadian red cross and community foundations of Canada, to ensure charities and non-profit organizations from across the country are ableto provide much needed support to vulnerable Canadians.
 and they will be able to do thisby flowing the money quickly to everyone, including local community-based organizations that have the relationships thatknow the people in their communities who need these services immediately.
 This money will help groups likethose in eastern Ontario that are working to provide meals to those who cannot leave their homes.
 Who are not able to do that.
@@ -267,7 +275,7 @@ It would also help organizationssuch as the atlantic compassion fund, or the van
 We know these are very difficulttimes for Canadians, but the government of Canada is working to ensure that those organizations that Canadians arerelying on have the resources that they need so they can continue to help Canadians now and into the future.
 I want to thank all the organizations, charities, and community leaders, including faith leaders, that have reachedout to me and My colleagues overthe last number of weeks for their hard work on this and their feedback and their guidance on how to get this right.
 Lastly, I want to thank the volunteers and the front-line workers, the service providers, who are tirelessly working day and night to provide much neededcritical services to our most vulnerable in their homes and intheir communities.
-Thank you so much for everythingthat you do.[voice of interpreter] we are here for you.
+Thank you so much for everythingthat you do. [voice of interpreter] we are here for you.
 Thank you.
 
 
@@ -275,7 +283,7 @@ Thank you.
 **Chrystia Freeland (Deputy Prime Minister)**:
 
 Thank you.
-Now we will hear from the president of the treasury board, jean-yves duclos.
+Now we will hear from the president of the treasury board, jean-yves Duclos.
 
 
 
@@ -284,21 +292,28 @@ Now we will hear from the president of the treasury board, jean-yves duclos.
 Thank you.
 The spread of COVID-19 has brought about unprecedented circumstances for Canadian businesses and workers.
 Our government is committed to helping Canadian employers support their employees during these very tough times.
-That is why the Prime Minister again this morning has reiterated and announced the introduction of the Canada emergency wage subsidy in order to help businesses support their employees in these very difficult times.[voice of interpreter] our government is committed to helping canadian businesses and their employees during these difficult times.
-That is why this morning the Prime Minister announced new information about the Canada emergency wage subsidy which will help employers pay their employees' salaries during the COVID-19 crisis.[end of translation] designed tohelp employers keep and rehire workers amidst the challenges possessed by the COVID-19 epidemic.
+That is why the Prime Minister again this morning has reiterated and announced the introduction of the Canada emergency wage subsidy in order to help businesses support their employees in these very difficult times.
+[voice of interpreter] our government is committed to helping canadian businesses and their employees during these difficult times.
+That is why this morning the Prime Minister announced new information about the Canada emergency wage subsidy which will help employers pay their employees' salaries during the COVID-19 crisis.
+[end of translation] designed tohelp employers keep and rehire workers amidst the challenges possessed by the COVID-19 epidemic.
 Having the ability to retain staff and rehire people will putemployers in the best possible position to resume normal circumstances once circumstancesdo allow it. The health and wellness of Canadians is almost -- is also that much better when people have the ability to pay their bills, their rent and buy food for their families.
-It is a government's intent to keep as many Canadians working as possible and the implementation of the Canada emergency wage subsidy is one ofthe measures in place to supportthis goal.[voice of interpreter] the Canada emergency wage subsidy covers upto 75% of employees' salaries.
+It is a government's intent to keep as many Canadians working as possible and the implementation of the Canada emergency wage subsidy is one ofthe measures in place to supportthis goal.
+[voice of interpreter] the Canada emergency wage subsidy covers upto 75% of employees' salaries.
 This can be up to $847 per worker per week for up to a maximum of 12 weeks.
 The subsidy is back dated to March 15 and businesses will be able to apply as of next Monday, April 27. The Canada revenue agency will administer the wage subsidy programme on behalf of the government of Canada.
 This programme will send funds to thousands of canadian businesses each week.
-The Canada revenue agency is committed to helping workers andbusinesses.[end of translation] announcing a Canada emergency wage subsidy web page.
+The Canada revenue agency is committed to helping workers andbusinesses.
+[end of translation] announcing a Canada emergency wage subsidy web page.
 The page includes a calculator that will help employers to determine quickly the subsidy amount they can expect to claim based on the information that they enter into the calculator.
 The government is grateful for the input we have received from many stakeholders during our consultations in the last few weeks.
-These consultations have led to the efficient and quick launch of the website to date.[voice of interpreter] I am happy to announce to Canadians that todaythe Canada revenue agency is launching a calculator on its website to help employers prepare for their application to the wage subsidy which will helptheir employees.
-We thank business representatives and all stakeholders who have helped in preparing this web page.[end of translation] Canada wagesubsidy as of April 27. It is expected that 90% of the applications will have been processed by the 5th of may withdirect deposits and cheques madeand sent soon after.
+These consultations have led to the efficient and quick launch of the website to date.
+[voice of interpreter] I am happy to announce to Canadians that todaythe Canada revenue agency is launching a calculator on its website to help employers prepare for their application to the wage subsidy which will helptheir employees.
+We thank business representatives and all stakeholders who have helped in preparing this web page.
+[end of translation] Canada wagesubsidy as of April 27. It is expected that 90% of the applications will have been processed by the 5th of may withdirect deposits and cheques madeand sent soon after.
 Until then, businesses are invited to update their businessaccount on the Canada revenue agency's website.
-Technical debriefing session will also be offered this afternoon to the media.[voice of interpreter] businesses will be able to file their applications for the Canada emergency wage subsidy as of April 27th.
-We expect that 90% of applications will have been processed by may 5th and this will quickly be followed by direct deposits and cheques being sent out.
+Technical debriefing session will also be offered this afternoon to the media.
+[voice of interpreter] businesses will be able to file their applications for the Canada emergency wage subsidy as of April 27th.
+We expect that 90% OH applications will have been processed by may 5th and this will quickly be followed by direct deposits and cheques being sent out.
 Until then, businesses are invited to update their profileson the Canada revenue agency website.
 This afternoon, there will be a technical briefing for media.
 Our government is committed to continue to support businesses and workers who are facing unprecedented challenges in the context of the pandemic.
@@ -313,7 +328,9 @@ One question, one follow-up. Operator?
 
 
 Thank you.
-Please press star 1 if you have a question.[voice of interpreter] our first question is from la presse..
+Please press star 1 if you have a question.
+[voice of interpreter] our first question is from la presse.
+.
 
 
 
@@ -324,7 +341,7 @@ Our next question is from CBC Jamie strashin.
 
 My question is for Dr. Tam.
 Dr. Tam, your counterpart in the United States, Dr. Fauci, talked last week about a road back for professional sports, games played without any fans in the stands.
-I'm just wondering, do you think similar thing could happen in Canada?and could I just get your thoughts on the potential returnof professional sports in Canada?
+I'm just wondering, do you think similar thing could happen in Canada? and could I just get your thoughts on the potential return of professional sports in Canada?
 
 
 
@@ -347,7 +364,7 @@ Follow-up.
 
 **Reporter**:
 
-Just to be more specific, would you be supportive of games played in Canada before empty stadiums?would that be safe in your estimation?
+Just to be more specific, would you be supportive of games played in Canada before empty stadiums? would that be safe in your estimation?
 
 
 
@@ -373,7 +390,7 @@ Next question is [voice of interpreter].
 
 Your predictions were that we would have between 1200 and 1600 deaths by today and in fact we're at 1700.
 That's the second time your short-term predictions are off.
-My question is should we still trust them?and more specifically when you're looking at quÉbec where there are now 54% of all canadian deaths, are you concerned about the situation?is there something quÉbec is doing wrong that would explain the situation?
+My question is should we still trust them? and more specifically when you're looking at quÉbec where there are now 54% of all canadian deaths, are you concerned about the situation? is there something quÉbec is doing wrong that would explain the situation?
 
 
 
@@ -397,7 +414,7 @@ and it is up to everyone who is responding to help do that.
 
 Well, as a follow-up, you haven't addressedthe question of quÉbec.
 Now that the province which represents roughly 23% of the population has 54% of all deaths.
-How do you explain that?and should we start to think that maybe quÉbec is not doing something right?
+How do you explain that? and should we start to think that maybe quÉbec is not doing something right?
 
 
 
@@ -416,14 +433,14 @@ One last question on the phone before we turn to the room.
 
 Thank you.
 Next question.
-La presser
+La presser.
 
 
 
 **Reporter**:
 
 [voice of interpreter] thank you.
-My first question is for Minister duclos.
+My first question is for Minister Duclos.
 How will you be calculating the emergency wage subsidy payments for thousands of businesses in the country and how will you do it quickly?
 
 
@@ -442,7 +459,8 @@ They will be able to pay out thesubsidies that have been appliedfor.
 
 **Reporter**:
 
-Follow-up question.[end of translation] it's about the mask-wearing policy or instructions.
+Follow-up question.
+[end of translation] it's about the mask-wearing policy or instructions.
 QuÉbec is working on scenario right now on a new scenario for as far as masks go. I wonder if you're involved in these discussions and if you would make masks mandatory as they have been declared mandatory for air travel?
 
 
@@ -459,7 +477,8 @@ We also now provide a requirement for the wearing of amask as people are transfe
 
 
 Thank you, doctor.
-Dr. Njoo.[voice of interpreter] I would like this repeat the answer in french.
+Dr. Njoo.
+[voice of interpreter] I would like this repeat the answer in french.
 Dr. Tam and I are working very closely with our counterparts, the chief medical officers of the provinces and territories.
 Together, we sit on a special advisory committee.
 Yesterday Dr. Arruda, the chief medical officer of quÉbec said something that is in line with what Dr. Tam and I have been saying.
@@ -524,8 +543,9 @@ Thank you, Minister.
 
 
 
-Julie van dusen, CBC The United States estimates will need 300, 000 people to do contact-tracing.
-How many will Canada need?and how is that training going so far?
+Julie van dusen, CBC.
+The United States estimates will need 300, 000 people to do contact-tracing.
+How many will Canada need? and how is that training going so far?
 
 
 
@@ -575,7 +595,7 @@ I'm not sure if it's for patty hajdu.
 I'm not sure.
 We know the union sounded the alarm a week ago when there was 38 cases, now there is 484.
 Somebody dropped the ball.
-Who is going to make sure these places are safe to work in?and who can tell us if the meat packed in these COVID-19-filled plants is safe to eat?
+Who is going to make sure these places are safe to work in? and who can tell us if the meat packed in these COVID-19-filled plants is safe to eat?
 
 
 
@@ -608,7 +628,7 @@ Of course, we provide the guidance that I think the implementation is never as e
 
 We're going to pull away from the federal briefing.
 If you want to continue watching, go to our website.
-I'll bring in David Cochrane to help us wrap that up. I will say, I take little glimmers of optimism where I can get them and Dr. Tam did say "wehave prevented an explosive outbreak in Canada as we've seen in other parts of the world".as we get to maybe the second phase of this, whatever that might bring, that is encouragingnews.
+I'll bring in David Cochrane to help us wrap that up. I will say, I take little glimmers of optimism where I can get them and Dr. Tam did say "wehave prevented an explosive outbreak in Canada as we've seen in other parts of the world". as we get to maybe the second phase of this, whatever that might bring, that is encouragingnews.
 Over to you on what you wanted to talk about.
 
 
@@ -626,3 +646,12 @@ The planes were able to get in, but the trucks carrying the supplies couldn't ge
 I should point out that four planes did arrive over the weekend, carrying full loads of P.P.E. This is an ongoing problem at this airport because essentiallyevery country in the world is looking for the same thing coming out of the same country.
 a lot relying on the same airport.
 I heard there was backlogs of trucks trying to get in the airport more than 20 hours long.
+
+
+
+**Rosemary**:
+
+Thank you, David.
+I appreciate it. You can check out Vassy's show.
+Andrew Nichols will pick up the coverage after this.
+[please stand by]

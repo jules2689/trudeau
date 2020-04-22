@@ -1,10 +1,10 @@
 
 
-**[SPEAKING FRENCH].OPERATOR**:
+**[SPEAKING FRENCH]. OPERATOR**:
 
 Merci.
 Thank you.
-First question, the "globe and mail".your line is open.
+First question, the "globe and mail". your line is open.
 Please go ahead.
 
 
@@ -19,6 +19,7 @@ Why is this decision important and why did you take this decision a month after 
 
 
 Prime Minister Trudeau's we recognize that countries around the world are looking at their own regimes and recognizing that there are vulnerable businesses that are going to be important to our recovery who are perhaps exposed to foreign purchases in a vulnerable time, that we need to be careful and are taken care of. We'll be strengthening our oversight and paying close attention to foreign investment in this country, to ensure that there isn't people taking advantage of this crisis.
+
 
 
 
@@ -43,10 +44,11 @@ This is something that, of course, we'll be keeping an eye on.
 
 
 
-**THANK YOU.[SPEAKING FRENCH].OPERATOR**:
+**THANK YOU. [SPEAKING FRENCH]. OPERATOR**:
 
 Thank you.
 Merci.
+
 
 
 
@@ -56,21 +58,22 @@ Bonjour.
 
 
 
+
 **Interpreter**:
 
 Good morning, Mr. Trudeau.
 What can you tell us about the negotiations regarding the reconvening of parliament next week and if the 338 M.P.s have to be recalled tomorrow.
-Whose fault will it be?well, we're very concerned about the fact that we have not yet reached an agreement with all the opposition part is to not come back tomorrow morning.
+Whose fault will it be? well, we're very concerned about the fact that we have not yet reached an agreement with all the opposition partis to not come back tomorrow morning.
 The current situation is that parliament is supposed to resume tomorrow on the 20th of April with 338 M.P.s from every corner of the country and their team, their staff, security guards and administrative personnel and, of course, we're not in a situation where that should be happening.
 We need a parliament that works.
 We need to do that in a responsible way.
 That's why we've had some good conversations with most of the parties and we're close to an agreement to be able to come back every week to ensure that they can ask questions and we can move forward with legislation.
 But the conservatives are resisting that reasonable solution at this time.
 But we do hope that this can be resolved soon.
-Follow-up?yes.
+Follow-up? yes.
 So you're saying that it's the conservatives.
 Now you were talking to children earlier because it's Sunday.
-So, what kind of image does this present if everyone is making sacrifices and does it really show that politicians are not able to agree at such a difficult time?well, that's a very good question, lena.
+So, what kind of image does this present if everyone is making sacrifices and does it really show that politicians are not able to agree at such a difficult time? well, that's a very good question, lena.
 and for me it is very frustrating.
 Because we're clearly hearing from our experts and public health authorities that we must continue to make the responsible choices and limit our movements and seems to me that it's fairly clear that parliament should not return in the same manner as before, starting tomorrow.
 I very much believe that I's extremely important to continue to support our democracy and keep our *ins using -- institutions working and I'm willing to answer questions.
@@ -91,7 +94,7 @@ I'm perfectly happy to be take questions every day from media and looking to war
 
 
 
-**THANK YOU.MERCI.QUESTION?OPERATOR**:
+**THANK YOU. MERCI. QUESTION? OPERATOR**:
 
 Next question, Canadian press.
 Please go ahead.
@@ -136,19 +139,19 @@ Operator:
 **Interpreter**:
 
 Now the virtual sitings.
-What would they look like in concrete terms, Mr. Trudeau?well, there are various proposals that the house of commons is looking at now.
+What would they look like in concrete terms, Mr. Trudeau? well, there are various proposals that the house of commons is looking at now.
 The idea is for members of parliament across the country to make speeches and ask questions via video conferencing with the same rights and ability to speak as people current will I have inside the house of commons.
 There would be some in the house and other M.P.s attending virtually.
 That is why the house of commons has asked for more time to get this ready.
 In your speech, you said that thousands of families are going through a terrible time and premier legault said yesterday that his government was not properly prepared for this pandemic.
 You said in the past that there will be a time for a postmortem.
 After a month of this crisis, there are question asked across the country.
-Do you think that your government was adequately prepared for this pandemic?I think when we're in the middle of the crisis and witness the tragedies, we will never fully be prepared.
+Do you think that your government was adequately prepared for this pandemic? I think when we're in the middle of the crisis and witness the tragedies, we will never fully be prepared.
 At the same time, we know that canadian and the different levels of government and organisations and everyone have come together to try and put in place measures to protect people and slow the spread of this virus.
 In a positive way compared to other countries.
 But even if we end up having a better history than other countries, let's not forget this is a terrible tragedy for too many families out there and we all have a responsibility to do our very best to ensure that we come out of this tragedy and this crisis without too many additional tragedies.
-Could you tell me why three in-person sitings per week with reduced numbers is unreasonable?well, I think we know that all parliamentarians cannot return to the house of commons.
-There are people who live in provinces that are far away from ottawa and cannot return.
+Could you tell me why three in-person sittings per week with reduced numbers is unreasonable? well, I think we know that all parliamentarians cannot return to the house of commons.
+There are people who live in provinces that are far away from Ottawa and cannot return.
 and that is why we've been saying it's very important to have virtual sittings so that people can participate in order to represent their community during this crisis.
 At the same time, in being there to answer questions regularly, it is also important for democracy and our Canadians.
 It's fine to take media questions here.
@@ -157,16 +160,16 @@ It is important to remember that people are elected from all corners of this cou
 Particularly in a crime of crisis, it is important to look at virtual ways that allow members from every corner of the country to engage in parliamentary debate and discussion and not just those who have the opportunity to proximity to be around the national capital region.
 That is why we've been pushing the virtual sittings.
 We know that accountability is important and taking questions every day from the media is a good thing.
-But it is also important that parliamentarians and opposition politicians go et to ask questions of the government which is why we proposed parliaments sit every fwhaoek reduced fashion and that is a proposal that was accepted by most parties.
+But it is also important that parliamentarians and opposition politicians go ET to ask questions of the government which is why we proposed parliaments sit every fwhaoek reduced fashion and that is a proposal that was accepted by most parties.
 The conservatives still need to work on it a little bit in terms of their own reflection.
 
 
 
 **Interpreter**:
 
-Would you be open to there being several virtual sittings per week once that starts happening, three or four, for example?right now the opposition partis can not ask you to account every single day.
+Would you be open to there being several virtual sittings per week once that starts happening, three or four, for example? right now the opposition part is can not ask you to account every single day.
 and that is why they're unhappy.
-Would you be in favour of several virtual sittings?I can tell you that the proposals made by the opposition parties and the issues they are raising in terms of criticizing the government are, you know, hear in the media and we have adjusted our proposal and are trying to ensure that we're doing everything we can to respond to real needs across the country.
+Would you be in favour of several virtual sittings? I can tell you that the proposals made by the opposition parties and the issues they are raising in terms of criticizing the government are, you know, hear in the media and we have adjusted our proposal and are trying to ensure that we're doing everything we can to respond to real needs across the country.
 We are coming to functioning parliament.
 It's extremely important that that be the case.
 That is why we're trying to find a solution and I can tell you that most opposition party dos agree, only the conservatives may force us to come back tomorrow morning with 338 members of parliament in the house of commons.
@@ -205,6 +208,7 @@ and that will always be My focus.
 
 
 
+
 **Interpreter**:
 
 We recognize that there are important questions to be asked and there needs to be reflection on what happened and what kind of responsibility some countries have, including china.
@@ -215,7 +219,8 @@ How we can ensure that we have everything we need to keep ourselves safe.
 
 **Reporter**:
 
-Prime Minister, a correctional facility near Montreal has confirmed dozens of COVID-19 cases and the same is true with other facilities across the country, including one near Vancouver What are you doing to protect the incarcerated population and the staff in these facilities to stop the spread of COVID-19.
+Prime Minister, a correctional facility near Montreal has confirmed dozens of COVID-19 cases and the same is true with other facilities across the country, including one near Vancouver.
+What are you doing to protect the incarcerated population and the staff in these facilities to stop the spread of COVID-19.
 
 
 
@@ -247,7 +252,7 @@ But getting through it as quickly as possible means being very careful about wha
 
 **Reporter**:
 
-Good morning, in Austria for example, they have a plan to get businesses re-opened and doing it in a two-week process.
+Good morning, in Austria, for example, they have a plan to get businesses re-opened and doing it in a two-week process.
 They open a small business, monitor for two weeks, if the cases don't go up, they continue with hotels, restaurants, etc.
 Provinces here in Canada have plans that they're announcing on how they're going to do that.
 I'm wondering what the coordination is between your government and the provinces.

@@ -4,7 +4,7 @@
 
 The Prime Minister of Canada with his daily briefing, daily update on his government's approach to fighting the pandemic.
 I'll bring in the cbc's David Cochrane.
-a couple of points I would make, David from listening to the Prime Minister.
+a couple of points I would make, David, from listening to the Prime Minister.
 There is no one, not any party that is asking for all MPs to return tomorrow.
 So, that just in case people got that impression.
 and there is nothing that would require all 338 M.P.s to come to ottawa tomorrow.
@@ -71,7 +71,7 @@ So this is certainly an unfolding incident and we expect to get more from the RC
 
 **Rosemary**:
 
-Do we have a time for that yet?any sense when that might happen?
+Do we have a time for that yet? any sense when that might happen?
 
 
 
@@ -100,3 +100,16 @@ The suspect was traveling in an RCMP -- what looked like an RCMP vehicle and wha
 We don't know too much about how he got those items or where exactly they came from, whether they were legitimate items or not.
 But he was traveling in an RCMP vehicle and then shortly after that, the RCMP told us that he had switched to a silver s. U.v. Chevy tracker.
 We believe that's how it played out.
+
+
+
+**Rosemary**:
+
+Thank you very much for your reporting.
+We'll keep coming to you through the day for more details.
+We'll end now our special coverage of the government's response to the COVID-19 pandemic but we'll continue to track the breaking news out of Nova Scotia.
+The suspect now in custody.
+I'm rosemary Barton.
+Michael serapio picks up our coverage on CBC news network.
+Thank you for watching.
+? [please stand by]

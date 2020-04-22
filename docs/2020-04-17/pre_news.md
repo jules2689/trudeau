@@ -1,7 +1,9 @@
 
 
-I'm rosemary Barton Thank you for joining us on CBC CBC news network, or streaming around the world.
-We are, as we do at this time of day, standing by to hear from Prime Minister Justin Trudeau He is expected today to respond to some of the urgent appeals to support various industries across Canada.
+I'm rosemary Barton.
+Thank you for joining us on CBC, CBC news network, or streaming around the world.
+We are, as we do at this time of day, standing by to hear from Prime Minister Justin Trudeau.
+He is expected today to respond to some of the urgent appeals to support various industries across Canada.
 For weeks, as his government has been rolling out emergency aid for Canadian businesses and workers.
 The Prime Minister has also been promising second -- sect oral help by certain industries that have been hit particularly hard by the COVID-19 shutdown.
 Let me bring in My colleagues as we stand by and wait for the Prime Minister.
@@ -19,7 +21,7 @@ That didn't materialize.
 There is sort of a double whammy when it comes to the oil patch right now.
 Not just because of COVID-19 and decreased demand for oil, much decreased demand, but also this price war that emerged between Russia and Saudi Arabia that kind of got resold last week, but didn't really end up buoying oil prices.
 They're at all-time lows.
-a barrel of canadian oil was selling for less than $5. The idea was -- or the question raised to the government is going to be is there specific help for the sector?and what might that help look like?there's been two specific asks for it. The first is orphan wells.
+a barrel of canadian oil was selling for less than $5. The idea was -- or the question raised to the government is going to be is there specific help for the sector? and what might that help look like? there's been two specific asks for it. The first is orphan wells.
 These are sites that the company ended up going broke and didn't clean up. It's estimated the cleanup of those sites could cost billions of dollars, upwards of $8 billion, one assessment put out there.
 The Alberta government has announced that some money would be directed to it. There is the expectation that the federal government will chip in on that endeavour.
 I don't know to what degree.
@@ -66,7 +68,8 @@ While we wait to hear more from the Prime Minister about these details of variou
 Not only by oil prices, but also the pandemic.
 a double whammy in that part of the country.
 and Jason Kenny has said that it's possible that employment there -- the unemployment rate hits 25%, which would be just astounding.
-The cbc's Carolyn Dunn joins me from Calgary All right, Carolyn I know you talked to people in the industry regularly and there have been a lot of asks.
+The cbc's Carolyn Dunn joins me from Calgary.
+All right, Carolyn, I know you talked to people in the industry regularly and there have been a lot of asks.
 It doesn't sound like this is the big, big package that they maybe were looking for.
 But there will be something here.
 
@@ -76,7 +79,8 @@ But there will be something here.
 
 I think that is what I'm watching for.
 Are we going -- is this going to be parceled out of the giant industry package or are we going to start out smaller today and kind of [inaudible] with those big announcements with airlines, etc.
-What Alberta is asking for is very clear.$20 to $30 billion package.
+What Alberta is asking for is very clear.
+$20 to $30 billion package.
 Likely a lot of that will be around liquidity, you know, around backstopping credit, around low-interest loans, that kind of thing.
 and you mentioned the fallout for workers, an unemployment rate of up to 25% or beyond, which is astounding.
 and I guess for industry, if they don't get immediate help with their liquidity, they will be losing oil and gas companies, guaranteed.
@@ -99,7 +103,8 @@ Yeah.
 It would do a couple of things all at once, that's for sure.
 Thank you for that.
 You'll stand by in case we need to get back to you.
-Carolyn Dunn in Calgary As we wait for the Prime Minister, expected in about seven minutes, let me go to Kathy duke.
+Carolyn Dunn in Calgary.
+As we wait for the Prime Minister, expected in about seven minutes, let me go to Kathy duke.
 She is c. E.o. Of destination st. John's, the agency that works hard to bring in visitors to the province of Newfoundland and Labrador and like all places across this country, it is a tough challenge in these difficult times because tourism and visiting places isn't really something that is happening.
 Kathy, good to see you.
 
@@ -112,7 +117,7 @@ Thank you for having me.
 **Rosemary**:
 
 a pleasure.
-How are things there?obviously your industry, what you're doing isn't happening right now.
+How are things there? obviously your industry, what you're doing isn't happening right now.
 
 
 
@@ -169,7 +174,7 @@ Can this happen still for weeks or is there any pressure coming from any of your
 
 Oh, I think, you know, if we had our [inaudible], we would start tomorrow, of course.
 The tourism industry representatives that we work with really just trying to get a handle on when things are going to turn around.
-and I think [inaudible].it may start July or August.
+and I think [inaudible]. it may start July or August.
 Others the following summer saying that there won't be any visitation until 2021.
 We do know that as travel comes back, it will be mostly domestic travelers and that is good for Newfoundland and Labrador in that 80% of our visitors have traditionally come from Canada.
 So we really immediate to be targeted to the traveler.
@@ -197,7 +202,7 @@ Thank you.
 Ok. Cathy duke, c. E.o. Of destination st. John's, agency of tourism for that province which, of course, is another sector that has been hit hard.
 Just to give you a sense of how bad things are, and then I'll bring in Vassy, the accommodation and food services sector in this country has shrunk by a quarter.
 I.t. Arts and culture lost 13% of all its jobs.
-Education, 9%.wholesale and retail trade lost 7%.the only place that continues to add some jobs, other than grocery stores and essential services work would be agriculture.
+Education, 9%. wholesale and retail trade lost 7%. the only place that continues to add some jobs, other than grocery stores and essential services work would be agriculture.
 Nearly 7, 000 jobs there created as obviously the reliance on the domestic food chain becomes more and more important.
 I'll bring in My colleagues again and turn to you, Vassy, about it guess the ways in which the government has tried to shore up support.
 and how this might be different given that there are particular areas, of course, that are basically not functioning anymore.
@@ -207,17 +212,19 @@ and how this might be different given that there are particular areas, of course
 **Vassy**:
 
 Yeah.
-I think we've seen the unveiling and rolling out of two giant financial aid packages, right?the first being directed at individuals who have to stay home because of COVID-19, who can't work, and who have lost most, if not all of their income.
+I think we've seen the unveiling and rolling out of two giant financial aid packages, right? the first being directed at individuals who have to stay home because of COVID-19, who can't work, and who have lost most, if not all of their income.
 They're getting right now $2, 000 and, as you reminded our viewers yesterday, they should be re-applying for the second month, which they might need that money.
 That was the first step.
 The second step was aimed at businesses.
 and it involves wage subsidies as well as this loan, this canadian emergency business account.
 Basically a $40, 000 interest-free loan, a quarter of it can be forgiven.
 They expanded the parameters yesterday to who can qualify for that loan.
-I I think they had 220, 000 applications approved so far.$8.8 billion worth of credit.
+I I think they had 220, 000 applications approved so far.
+$8.8 billion worth of credit.
 So, the need is clear and it's evidents.
 However, as you've been discussing with carolyn and your last guest, there are certain sectors and the Prime Minister always -- I've noticed names in tandem.
-Airlines, tourism and the I'll patch.-- oil patch.
+Airlines, tourism and the I'll patch.
+-- oil patch.
 Those are clearly what the government has indicated and what we can discern from what we see in front of us as sectors, industries that are particularly hard hit.
 They're sort of suffering from double or triple whammies.
 So, you know, what we're looking towards here from the Prime Minister is beyond an acknowledgment that that is the case.
@@ -275,7 +282,8 @@ and for now, there is no deal.
 and if they don't get a deal by Monday, which I imagine they will, we would be in a place where the house of commons would have to resume.
 Which obviously would fly in the face of public health directives.
 Another issue to keep your eye on. and I will bring in Vassy because there is another two-minute warning.
-I don't know if I can do that much on My own.[laughter]maybe we'll just pick up on that issue that the conservatives are pushing very hard for increased accountability and increased questions to the government, which, you know, I totally get.
+I don't know if I can do that much on My own.
+[laughter]maybe we'll just pick up on that issue that the conservatives are pushing very hard for increased accountability and increased questions to the government, which, you know, I totally get.
 But I'm not sure that we are -- it doesn't sound like we're anywhere near close on a deal in terms of everyone agreeing that one or two or three times a week will actually happen.
 
 
@@ -289,7 +297,7 @@ My understanding late yesterday is it looked like there might be some movement t
 Maybe once a week and end up being a few hours and very much an accountability session.
 Maybe not like question period, but something that we've come to know as committee as the whole.
 The opposition getting a chances to ask questions of the government about the policies that they have rolled out and they plan to roll out.
-The corresponding request is, well can they do that virtually?will they be able to do that virtually?the speaker's office, in particular, is working on some sort of plan to make that happen.
+The corresponding request is, well can they do that virtually? will they be able to do that virtually? the speaker's office, in particular, is working on some sort of plan to make that happen.
 For the opposition, they would like to continue some in person.
 They say the virtual thing can be a companion piece.
 If it's not ready yet, there has to be something happening in person.
