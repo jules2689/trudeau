@@ -14,11 +14,11 @@ style="width: 100%; border-top-left-radius: 10px; border-top-right-radius: 10px;
 Prime Minister Justin Trudeau offered more assurances that the federal government would help all Canadians through the COVID-19 crisis — but warned that "extraordinary" measures to contain the virus could be in place for weeks or months.
 
 <br><br>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/0k8vvTTy5UA/trudeau.md)'>PM Trudeau Speech</a></div>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/0k8vvTTy5UA/q_a.md)'>Q & A</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/0k8vvTTy5UA/trudeau.md'>PM Trudeau Speech</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/0k8vvTTy5UA/q_a.md'>Q & A</a></div>
 <br>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/0k8vvTTy5UA/pre_news.md)'>Pre-Speech News</a></div>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/0k8vvTTy5UA/post_news.md)'>News after Trudeau</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/0k8vvTTy5UA/pre_news.md'>Pre-Speech News</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/0k8vvTTy5UA/post_news.md'>News after Trudeau</a></div>
 
 </div></div>
 <div style='border: 1px solid #ccc; margin-bottom: 30px; border-radius: 10px;'>
@@ -33,11 +33,11 @@ style="width: 100%; border-top-left-radius: 10px; border-top-right-radius: 10px;
 Prime Minister Justin Trudeau has announced a $82-billion aid package to help Canadians and businesses with the global COVID-19 pandemic, including income supports, wage subsidies and tax deferrals.
 
 <br><br>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/AOCvtq_WVzo/trudeau.md)'>PM Trudeau Speech</a></div>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/AOCvtq_WVzo/q_a.md)'>Q & A</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/AOCvtq_WVzo/trudeau.md'>PM Trudeau Speech</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/AOCvtq_WVzo/q_a.md'>Q & A</a></div>
 <br>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/AOCvtq_WVzo/pre_news.md)'>Pre-Speech News</a></div>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/AOCvtq_WVzo/post_news.md)'>News after Trudeau</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/AOCvtq_WVzo/pre_news.md'>Pre-Speech News</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/AOCvtq_WVzo/post_news.md'>News after Trudeau</a></div>
 
 </div></div>
 <div style='border: 1px solid #ccc; margin-bottom: 30px; border-radius: 10px;'>
@@ -52,11 +52,11 @@ style="width: 100%; border-top-left-radius: 10px; border-top-right-radius: 10px;
 Prime Minister Justin Trudeau is updating Canadians on the new measures the federal government has implemented to help combat COVID-19.
 
 <br><br>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/fuO4NB3AjzU/trudeau.md)'>PM Trudeau Speech</a></div>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/fuO4NB3AjzU/q_a.md)'>Q & A</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/fuO4NB3AjzU/trudeau.md'>PM Trudeau Speech</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/fuO4NB3AjzU/q_a.md'>Q & A</a></div>
 <br>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/fuO4NB3AjzU/pre_news.md)'>Pre-Speech News</a></div>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/fuO4NB3AjzU/post_news.md)'>News after Trudeau</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/fuO4NB3AjzU/pre_news.md'>Pre-Speech News</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/fuO4NB3AjzU/post_news.md'>News after Trudeau</a></div>
 
 </div></div>
 <div style='border: 1px solid #ccc; margin-bottom: 30px; border-radius: 10px;'>
@@ -71,11 +71,11 @@ style="width: 100%; border-top-left-radius: 10px; border-top-right-radius: 10px;
 Prime Minister Justin Trudeau is speaking to Canadians about the spread of COVID-19. Earlier today he warned Canadians against international travel and is considering tightening the border to some international travellers.
 
 <br><br>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/JVMZC952AwE/trudeau.md)'>PM Trudeau Speech</a></div>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/JVMZC952AwE/q_a.md)'>Q & A</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/JVMZC952AwE/trudeau.md'>PM Trudeau Speech</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/JVMZC952AwE/q_a.md'>Q & A</a></div>
 <br>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/JVMZC952AwE/pre_news.md)'>Pre-Speech News</a></div>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/JVMZC952AwE/post_news.md)'>News after Trudeau</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/JVMZC952AwE/pre_news.md'>Pre-Speech News</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/JVMZC952AwE/post_news.md'>News after Trudeau</a></div>
 
 </div></div>
 
