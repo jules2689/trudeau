@@ -2,9 +2,9 @@
 
 **Prime Minister Trudeau**:
 
-[speaking french].hello, everyone.
+hello, everyone.
 I want to begin by noting the innocent men, women and children systematically murder by the nazis.
-We also pay tribute to the brave itself and resiliency of survivors and all those who risked their lives to save others during the holocaust.[speaking french].
+We also pay tribute to the brave itself and resiliency of survivors and all those who risked their lives to save others during the holocaust.
 
 
 
@@ -21,7 +21,7 @@ This morning, I want to again extend My most sincere condolences to the friends 
 Since yesterday, I've had a chance to speak with constable chad Morrison the RCMP officer who was wounded as well as constable Heidi stevenson's family.
 On behalf of all Canadians, I thanked them for their service and their sacrifice.
 Yesterday, when I offered My sympathies to the RCMP officers who support me, I was amazed to see how many of them knew Heidi and had incredibly fond memories of her and worked with her on the musical ride.
-They remembered her as an extraordinary person and it really goes to show just how tightly knit not just the RCMP is as a force, but how close we are as a country.[speaking french].
+They remembered her as an extraordinary person and it really goes to show just how tightly knit not just the RCMP is as a force, but how close we are as a country.
 
 
 
@@ -39,7 +39,7 @@ The Canadian police and peace officers memorial on parliament hill to pay tribut
 I also spoke to a number of colleagues from Nova Scotia, both past and present, and sought Senator Sam kutcher's advice.
 These calls all reinforce what had we know about Nova Scotia -- that it's a special place where people stick together and look out for each other.
 This week, we are all nova scotian.
-The families and friends can count on the unwavering support of their neighbours and of every single canadian.[speaking french].
+The families and friends can count on the unwavering support of their neighbours and of every single canadian.
 
 
 
@@ -56,7 +56,7 @@ But they need more support in order to help a large number of people.
 and expanding clientele.
 So, the government is putting in place the emergency fund for community support today.
 This will be an envelope of $350 million to support community organisations and nonprofit organisations.
-Part of the money will go directly to small independent organisations and the rest will go through the national organization like the united way and the red cross.
+Part of the money will go directly to small independent organisations and the rest will go through the national organization like the United Way and the red cross.
 This is money our community leaders will be able to use to train volunteers or increase deliveries at home for the seniors or provide transportation services for people with a disability.
 With this fund, we are giving organisations more resources to adjust to the current realities and difficulties associated with COVID-19.
 
@@ -67,7 +67,7 @@ With this fund, we are giving organisations more resources to adjust to the curr
 Charities and nonprofit organisations were doing crucial work to help our communities.
 Their mission has always been to support people in their time of need and that hasn't changed.
 But COVID-19 is putting a tremendous amount of pressure on those organisations because more people need help.
-Back in march, one united way partner in Winnipeg made and district ed 1475 emergency kits for families, seniors and homeless people in just five days.
+Back in March, one United Way partner in Winnipeg made and distributed 1475 emergency kits for families, seniors and homeless people in just five days.
 They had to change services because of the rules that everyone has to follow to keep each other safe.
 Here in Ottawa there are a number of organisations focused on serving isolated seniors.
 Usually they have day programme where seniors can socialize, participate in activities, eat well and maintain a connection to their community.
@@ -76,9 +76,9 @@ In Toronto Tropicana community services is now helping vulnerable youth access t
 It takes resources to make these adjust.
 S, resources these groups don't have because they're spread so thin trying to help as many people as possible.
 So to support charities and nonprofits in their important work, our government is setting up a $350 million emergency community support fund.
-a portion of these funds will go directly to smaller, independent front line organisations and the rest will flow through national organisations like the united way community foundations Canada and the red cross that can get funds to local organisations and vulnerable people quickly.
+a portion of these funds will go directly to smaller, independent front line organisations and the rest will flow through national organisations like the United Way community foundations Canada and the red cross that can get funds to local organisations and vulnerable people quickly.
 This is money for things like training volunteers, increasing at-home deliveries for seniors or driving people with disabilities to appointments.
-With this fund, we're giving more resources to charities and nonprofits so they can adapt to the new realities and difficulties brought on by this pandemic.[speaking french].
+With this fund, we're giving more resources to charities and nonprofits so they can adapt to the new realities and difficulties brought on by this pandemic.
 
 
 
@@ -87,7 +87,7 @@ With this fund, we're giving more resources to charities and nonprofits so they 
 Our government has introduce add three-point plan to protect jobs and help people who have lost their jobs as well as support small businesses that are having cash flow problems.
 and today, I have other news with respect to the emergency wage subsidy that gives eligible employers up to $847 per week per employee to allow them to keep them on the payroll.
 We are launching a calculator on the C.R.A. Website that will allow businesses to determine exactly what the wage subsidy will cover.
-Companies will be able to apply starting next Monday April 27. Later today, the president of the treasury board will provide additional details with respect to the deployment of this programme.
+Companies will be able to apply starting next Monday, April 27. Later today, the president of the treasury board will provide additional details with respect to the deployment of this programme.
 
 
 
@@ -96,15 +96,15 @@ Companies will be able to apply starting next Monday April 27. Later today, the 
 is also helping business owners and entrepreneurs adapt to a new reality with the Canada emergency wage subsidy.
 This new measure gives qualifying employers up to $847 per employee each week so they can keep people on the payroll.
 Today we're launching a new calculator on the C.R.A. Website so businesses can determine the amount they can expect to claim through the wage subsidy.
-Employers will be able to apply, as of this monday, april 27. Later today, the Minister will be providing more details regarding the roll out of this programme.
+Employers will be able to apply, as of this Monday, April 27. Later today, the Minister will be providing more details regarding the roll out of this programme.
 I want to turn now to some encouraging news on the innovation front.
 Our supercluster initiative brings together small, medium-sized and large companies, academic institutions and not-for-profit organizations to generate bold ideas and innovate.
 So a few weeks ago, the digital technology supercluster challenged its network of over 500 firms to come up with solutions to help Canadians get through this pandemic.
 They received over 300 submissions and they are now moving forward on a number of key projects.
 Toronto's DNA Stack is developing a new cloud-based network that allows researchers who are looking to improve our ability to diagnose and treat COVID-19 to share their findings.
-Another company, foodex, is working with its partners to develop an e-grocery management system to make sure our health care workers, seniors and others have access to fresh food dhurg crisis.-- during this crisis.
+Another company, foodex, is working with its partners to develop an e-grocery management system to make sure our health care workers, seniors and others have access to fresh food during this crisis.-- during this crisis.
 Canadian innovators are among the best in the world and it is great to see so many of them use their talents to help our communities.
-This is yet another example of what we can achieve when we work together as team Canada.[speaking french].
+This is yet another example of what we can achieve when we work together as team Canada.
 
 
 

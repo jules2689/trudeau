@@ -98,7 +98,7 @@ Explain to people how you came to this decision, where your mom, who you mention
 
 **Interview**:
 
-Well, about the third week in march I was reading the news and listening to what was happening in long-term care and it became very scary.
+Well, about the third week in March I was reading the news and listening to what was happening in long-term care and it became very scary.
 I mean, a lot of people were dying.
 There was no help.
 The personal support workers forscared to go and work at a lot of these homes.

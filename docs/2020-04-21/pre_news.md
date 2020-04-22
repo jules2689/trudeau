@@ -228,7 +228,7 @@ and correct me if I'm wrong, but I think charities can also tap into the wage su
 Yeah.
 They can tap into the wage subsidy and they can include and exclude the government grants they were getting and make it as accessible in popular.
 In particular, what we'll see today with the aid for charities is we were told what would be to support vulnerable populations.
-The Prime Minister, in particular on Sunday I believe, it was, referenced the disabled and people with disabilities and also seniors as particular segments of the population that have the vulnerabilities to which they are exposed has been laid bare by this pandemic and sort of foreshadowing the need to help there.
+The Prime Minister, in particular on Sunday, I believe, it was, referenced the disabled and people with disabilities and also seniors as particular segments of the population that have the vulnerabilities to which they are exposed has been laid bare by this pandemic and sort of foreshadowing the need to help there.
 and the charitable sector could very well be a vehicle to provide that aid.
 and, you know, there's a couple of other things that we're hoping to hear from the Prime Minister today.
 There is a growing problem in Canada's food supply sector in terms of meat plants, for example.
@@ -273,7 +273,8 @@ and to try to understand how any industry could rebound from those numbers and t
 Yeah.
 and it is crazy, rosey, that less than a week ago we were sitting here talk about the aid package that the federal government was announcing for the sector based on numbers that already looked terrible and just in the last 24 hours as David and you both point out got a whole lot worse.
 Specifically that benchmark price for United States oil, at least the contracts for may is concerned.
-They are a bit better in June But there is so much instability.
+They are a bit better in June.
+But there is so much instability.
 The reserves right now are so high, the storage capacity is full pretty much all over.
 We saw that price war between Russia and Saudi Arabia take place that really deflated prices below what they were thanks to a huge increase in demand.
 and that agreement that was reached about supply a few weeks ago ended up basically doing nothing for oil prices.

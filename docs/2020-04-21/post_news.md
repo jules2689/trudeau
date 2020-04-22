@@ -42,7 +42,7 @@ While their ask was substantive at $10 billion, they get $350 million to help th
 We are not necessarily expecting to get a briefing from the local RCMP today.
 But we will get some details probably via press release in terms of how their investigation over those 16 different crime scenes is going and we'll talk about that at the top of the clock as well and bring you all details in terms of the stories that we're learning about the people that were killed over the course of weekend in Nova Scotia as that community and that whole province continues to strugle with that during the time of the pandemic.
 Also incountried ble challenging for them on so many fronts.
-Ok. I think I'm going to wrap it up. We'll hear shortly from our federal cabinet ministers who will give us a short briefing more about the wage subsidy that opens up on monday and a public health update to give us a sense of how we're doing in fighting the pandemic.
+Ok. I think I'm going to wrap it up. We'll hear shortly from our federal cabinet ministers who will give us a short briefing more about the wage subsidy that opens up on Monday and a public health update to give us a sense of how we're doing in fighting the pandemic.
 Some encouraging signs.
 But we still have to keep doing what we're doing.
 The sky is looking better in ottawa.
@@ -259,7 +259,7 @@ So our message to Canada's community organizations and charities is that we will
 The time that more and more Canadians are calling on you to provide more services for them, we will support you so that you can meet that request, so that you can answer that call.
 As the Prime Minister said, we have your back.
 That is why the Prime Minister announced that we are providing $350 million to support in emergency fashion to help charities and non-profit organizations adapt their frontline services to vulnerablecanadians during COVID-19.[speaking french][voice of interpreter] that's why the Prime Minister announced up to $350 million in emergency funding for charity organizations and non-profit organizations.
-These organizations are providing help to Canadians during COVID-19.[end of translation] like the united way, the canadian red cross and community foundations of Canada, to ensure charities and non-profit organizations from across the country are ableto provide much needed support to vulnerable Canadians.
+These organizations are providing help to Canadians during COVID-19.[end of translation] like the United Way, the canadian red cross and community foundations of Canada, to ensure charities and non-profit organizations from across the country are ableto provide much needed support to vulnerable Canadians.
 and they will be able to do thisby flowing the money quickly to everyone, including local community-based organizations that have the relationships thatknow the people in their communities who need these services immediately.
 This money will help groups likethose in eastern Ontario that are working to provide meals to those who cannot leave their homes.
 Who are not able to do that.
@@ -279,8 +279,7 @@ Now we will hear from the president of the treasury board, jean-yves duclos.
 
 
 
-**Hon.
-Jean-Yves Duclos**:
+**Hon. Jean-Yves Duclos**:
 
 Thank you.
 The spread of COVID-19 has brought about unprecedented circumstances for Canadian businesses and workers.
@@ -290,15 +289,15 @@ That is why this morning the Prime Minister announced new information about the 
 Having the ability to retain staff and rehire people will putemployers in the best possible position to resume normal circumstances once circumstancesdo allow it. The health and wellness of Canadians is almost -- is also that much better when people have the ability to pay their bills, their rent and buy food for their families.
 It is a government's intent to keep as many Canadians working as possible and the implementation of the Canada emergency wage subsidy is one ofthe measures in place to supportthis goal.[speaking french][voice of interpreter] the Canada emergency wage subsidy covers upto 75% of employees' salaries.
 This can be up to $847 per worker per week for up to a maximum of 12 weeks.
-The subsidy is back dated to march 15 and businesses will be able to apply as of next monday, april 27. The Canada revenue agency will administer the wage subsidy programme on behalf of the government of Canada.
+The subsidy is back dated to March 15 and businesses will be able to apply as of next Monday, April 27. The Canada revenue agency will administer the wage subsidy programme on behalf of the government of Canada.
 This programme will send funds to thousands of canadian businesses each week.
 The Canada revenue agency is committed to helping workers andbusinesses.[end of translation] announcing a Canada emergency wage subsidy web page.
 The page includes a calculator that will help employers to determine quickly the subsidy amount they can expect to claim based on the information that they enter into the calculator.
 The government is grateful for the input we have received from many stakeholders during our consultations in the last few weeks.
 These consultations have led to the efficient and quick launch of the website to date.[speaking french][voice of interpreter] I am happy to announce to Canadians that todaythe Canada revenue agency is launching a calculator on its website to help employers prepare for their application to the wage subsidy which will helptheir employees.
-We thank business representatives and all stakeholders who have helped in preparing this web page.[end of translation] Canada wagesubsidy as of april 27. It is expected that 90% of the applications will have been processed by the 5th of may withdirect deposits and cheques madeand sent soon after.
+We thank business representatives and all stakeholders who have helped in preparing this web page.[end of translation] Canada wagesubsidy as of April 27. It is expected that 90% of the applications will have been processed by the 5th of may withdirect deposits and cheques madeand sent soon after.
 Until then, businesses are invited to update their businessaccount on the Canada revenue agency's website.
-Technical debriefing session will also be offered this afternoon to the media.[speaking french][voice of interpreter] businesses will be able to file their applications for the Canada emergency wage subsidy as of april 27th.
+Technical debriefing session will also be offered this afternoon to the media.[speaking french][voice of interpreter] businesses will be able to file their applications for the Canada emergency wage subsidy as of April 27th.
 We expect that 90% of applications will have been processed by may 5th and this will quickly be followed by direct deposits and cheques being sent out.
 Until then, businesses are invited to update their profileson the Canada revenue agency website.
 This afternoon, there will be a technical briefing for media.
@@ -432,9 +431,9 @@ How will you be calculating the emergency wage subsidy payments for thousands of
 Answer, thank you for this question.
 You are very right that these calculations will be rather complex and it is urgent.
 We want to help businesses to maintain their employees and rehire them and as quickly as possible.
-What we're announcing today is anew calculator being launched on the C.R.A. Website as well as a whole host of information on theC.R.a. Web page, so that employers and businesses will beready to apply a as of april 27. I've had a look at the website myself.
+What we're announcing today is anew calculator being launched on the C.R.A. Website as well as a whole host of information on theC.R.a. Web page, so that employers and businesses will beready to apply a as of April 27. I've had a look at the website myself.
 It's complete, it's informative.
-It will help businesses to prepare their applications on april 27 and also help businesses make decisions regarding rehiring their employees if they haven't already made these decisions.
+It will help businesses to prepare their applications on April 27 and also help businesses make decisions regarding rehiring their employees if they haven't already made these decisions.
 The Canada revenue agency has extraordinary employees.
 I'm confident that the C.R.A. Will be able to get the paymentsout quickly ah of may 5th.
 They will be able to pay out thesubsidies that have been appliedfor.

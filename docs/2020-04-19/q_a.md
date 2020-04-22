@@ -18,7 +18,7 @@ Why is this decision important and why did you take this decision a month after 
 
 
 
-Prime Minister Trudeau's we recognize that countries around the world are looking at their own regimes and recognizing that there are vulnerable businesses that are going to be important to our recovery who are perhaps exposed to foreign purchases in a vulnerable time, that we need to be careful and are taken care of. We'll be strengthening our oversight and paying close attention to foreign investment in this country, to ensure that there isn't people taking advantage of this crisis.[speaking french].
+Prime Minister Trudeau's we recognize that countries around the world are looking at their own regimes and recognizing that there are vulnerable businesses that are going to be important to our recovery who are perhaps exposed to foreign purchases in a vulnerable time, that we need to be careful and are taken care of. We'll be strengthening our oversight and paying close attention to foreign investment in this country, to ensure that there isn't people taking advantage of this crisis.
 
 
 
@@ -46,13 +46,13 @@ This is something that, of course, we'll be keeping an eye on.
 **THANK YOU.[SPEAKING FRENCH].OPERATOR**:
 
 Thank you.
-Merci.[speaking french].
+Merci.
 
 
 
 **Reporter**:
 
-Bonjour.[speaking french].
+Bonjour.
 
 
 
@@ -69,7 +69,7 @@ But the conservatives are resisting that reasonable solution at this time.
 But we do hope that this can be resolved soon.
 Follow-up?yes.
 So you're saying that it's the conservatives.
-Now you were talking to children earlier because it's sunday.
+Now you were talking to children earlier because it's Sunday.
 So, what kind of image does this present if everyone is making sacrifices and does it really show that politicians are not able to agree at such a difficult time?well, that's a very good question, lena.
 and for me it is very frustrating.
 Because we're clearly hearing from our experts and public health authorities that we must continue to make the responsible choices and limit our movements and seems to me that it's fairly clear that parliament should not return in the same manner as before, starting tomorrow.
@@ -82,7 +82,7 @@ I think you'll have to ask him, ask them what their approach is. and why they're
 
 Prime Minister Trudeau's we're in a situation right now where our public health authorities, our experts and common sense tells us we need to continue to limit our movements, we need to continue to work from home.
 We need to continue to do everything we can to ensure that people are kept safe from further spread of this pandemic.
-That's why it would be irresponsible for the house of commons to resume tomorrow, as scheduled, on april 20 with 338 M.P.s, their staff, support staff in the house of commons, security, people coming in from across the country at this particular point.
+That's why it would be irresponsible for the house of commons to resume tomorrow, as scheduled, on April 20 with 338 M.P.s, their staff, support staff in the house of commons, security, people coming in from across the country at this particular point.
 We have proposed, and it has been accepted by -- largely accepted by the other opposition parties that we should have accountability measures.
 We should have parliament that functions, but we have to do it responsibly.
 That's why coming back every week for questions and for work on passing new legislation is something that I think is reasonable and is acceptable to most parties.
@@ -129,7 +129,7 @@ I can't confirm anything like that.
 As I came out this morning, I heard that we were very close on it. But I haven't in the past half hour got notice that there was a deal.
 It seems reasonable that we can agree that there needs to be a parliament functioning responsibly in this difficult time.
 Most parties have responsible proposals forward and I certainly hope that the conservatives will agree to doing the responsible thing here.
-Operator: [speaking french].
+Operator: 
 
 
 
@@ -201,7 +201,7 @@ Are you supportive of this investigation in the future and do you believe that c
 I think it is important that we understand what happened and ask tough questions of all countries involved, including china.
 This is something that we need to pursue.
 My priority right now and the priority for countries around the world needs to be doing everything we can to keep our people safe and make sure that we have the resources necessary to protect our citizens and get through this.
-and that will always be My focus.[speaking french].
+and that will always be My focus.
 
 
 
@@ -300,4 +300,4 @@ Safety of workers, of their families as well needs to be the primary considerati
 
 
 
-[speaking french].
+

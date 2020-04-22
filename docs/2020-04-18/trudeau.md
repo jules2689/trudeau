@@ -12,7 +12,7 @@ It's another example of the excellent collaboration between our two countries, a
 This is an important decision that will protect citizens on both sides of the border, and I want to thank Minister blair forleading those discussions with the United States.
 
 [end of translation] we're all here today, but it is the weekend.
-Usually a saturday morning in april means getting outside to enjoy the sunshine.
+Usually a Saturday morning in April means getting outside to enjoy the sunshine.
 Having a friend over for coffee.
 Or taking the kids to the park.
 But these aren't normal times.
@@ -63,7 +63,7 @@ They've shifted from their usualproduction of rubber stamps and I. D. badges and
 [voice of interpreter] Canada continues tocontinue to receive shipments ofindividual protective equipment.
 Yesterday two planes arrived full of n95 masks and coveralls and more will arrive over the weekend or next week.
 We are all very anxious to see when this will be over.
-We are all to see a saturday when we can meet with friends ortake our children to a birthday party.
+We are all to see a Saturday when we can meet with friends ortake our children to a birthday party.
 That time will come, but only ifeveryone continues to do their part.
 So this weekend, please stay home.
 Continue to follow the experts' guidelines.

@@ -22,7 +22,7 @@ We know that the way we get through this particular crisis is by pulling togethe
 It is key to being able to recover quickly once we're through this pandemic.
 That is why we continue to work with partners across the country, to highlight gaps and challenges and things we need to do more to help people.
 We will continue to work with partners to make sure we're getting that help out there.
-Ok.[speaking french].
+Ok.
 
 
 
@@ -55,24 +55,24 @@ Next question, operator.
 **OPERATOR**:
 
 Thank you.
-Merci.[speaking french].
+Merci.
 
 
 
 **Reporter**:
 
-Bonjour.[speaking french].
+Bonjour.
 
 
 
 **Interpreter**:
 
 Good morning.
-With respect to the wage subsidy, I gather that it will be fob apply starting Monday but can you tell us, Mr. Trudeau, when companies that apply will actually receive money in order to pay their employees?the reality is that during this crisis, people need help.
+With respect to the wage subsidy, I gather that it will be fob apply starting Monday, but can you tell us, Mr. Trudeau, when companies that apply will actually receive money in order to pay their employees?the reality is that during this crisis, people need help.
 Almost immediately.
 and we need to be able to deliver that help as quickly as possible.
 We realised that the wage subsidy was going to take a bit of time to be delivered and we're still working on that.
-As you say, people will start to be able to apply on monday and we do hope that we can get the money to them quickly after that.
+As you say, people will start to be able to apply on Monday and we do hope that we can get the money to them quickly after that.
 It will take a number of days at the very least.
 That is why we wanded to make sure that businesses, small businesses and corporations, would have access to credit in order to get through these times.
 The money is coming.
@@ -85,7 +85,7 @@ The online calculator will also allow companies to see exactly how much money th
 We recognize the need for support as quickly as possible and that is why we're working extremely hard to get help out to people.
 We started with the Canada emergency response benefit, which is now helped over $8 million people across this country and made a significant difference.
 But we also want people to get the -- we want other people to get the emergency wage subsidy, which means working with businesses to keep people on the payroll through this so that they cannot only retain a job, but have a job to get back quickly to as soon as the economy picks up again.
-We have announced that on Monday people will be able to register for this online.
+We have announced that on Monday, people will be able to register for this online.
 As of today, however, they can see what the amount they're likely to be able to get through this and be confident in their ability to access credit from banks, from agencies like b. D.c. and EDC, to be able to support people right now in this time of need.
 We're moving as quickly as we can.
 We move very quickly on the Canada emergency response benefit.
@@ -101,7 +101,7 @@ Follow-up?
 
 **Reporter**:
 
-[speaking french].
+
 
 
 
@@ -135,7 +135,7 @@ Will a gun control bill be introduced in the restricted version of parliament th
 Ing >> Prime Minister Trudeau obviously, we're all reeling from the tragedy in Nova Scotia and our focus right now is on supporting those families as quickly as possible and, as well as we possibly can.
 On gun control legislation, we made strong commitments to move forward with that rapidly.
 As you mentioned, we were on the verge of bringing it in before parliament was suspended through COVID-19 and we're now looking at the right way and the right moment to bring it forward.
-The tragedy in Nova Scotia simply reinforces an underlines how important it is for us to continue to move forward on strengthening gun control in this country and we will do that at the appropriate time.[speaking french].
+The tragedy in Nova Scotia simply reinforces an underlines how important it is for us to continue to move forward on strengthening gun control in this country and we will do that at the appropriate time.
 
 
 
@@ -175,7 +175,7 @@ Merci.[speaking french] la presse.
 
 **Reporter**:
 
-Bonjour, Mr. Trudeau.[speaking french].
+Bonjour, Mr. Trudeau.
 
 
 
@@ -220,7 +220,7 @@ Follow-up?
 
 **Reporter**:
 
-[speaking french].
+
 
 
 
@@ -341,7 +341,7 @@ FranÇois?
 
 **Prime Minister Trudeau**:
 
-[speaking french].
+
 
 
 
@@ -394,7 +394,7 @@ On the supporting provinces, we recognize that various provinces are facing real
 
 **Reporter**:
 
-[speaking french].
+
 
 
 
@@ -429,7 +429,7 @@ But it is encouraging to see the things that Canadians are doing from coast to c
 
 **Reporter**:
 
-[speaking french].
+
 
 
 

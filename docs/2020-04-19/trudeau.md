@@ -2,7 +2,7 @@
 
 **Prime Minister Trudeau**:
 
-[speaking french].before we get started, I want to touch briefly on the unfolding events in Portapique, Nova Scotia.
+before we get started, I want to touch briefly on the unfolding events in Portapique, Nova Scotia.
 I know we've all been watching this on the news.
 My heart goes out to everyone affected in what is a terrible situation.
 I want to thank the police for their hard work and people for cooperating are authorities.
@@ -40,7 +40,7 @@ and we're doing all of this work with you at the table.
 On that note, I want to recognize the outstanding organisations across the country.
 Like the rick Hansen foundation that are bringing these issues to the fore.
 You are doing inc*ep credible work.
-and we are proud to be your partner.[speaking french].
+and we are proud to be your partner.
 
 
 
@@ -74,7 +74,7 @@ All these measures we brought in are about helping you do the things that will g
 and it's working.
 We're seeing the numbers trend in the right direction.
 So we need to keep doing what we're doing and keep being extremely careful.
-and we will get through this together.[speaking french].
+and we will get through this together.
 
 
 
@@ -125,7 +125,7 @@ About a restaurant in Nova Scotia, the canteen.
 They turned the restaurant into a community kitchen where people pitch in and get meals to those in need.
 and there have been thousands of Canadians who have already signed up through our national COVID-19 volunteer improvement campaign to lighten the load on our front line workers.
 Everyone can help out.
-Everyone can help us get through this.[speaking french].
+Everyone can help us get through this.
 
 
 

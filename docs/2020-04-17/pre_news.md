@@ -14,7 +14,7 @@ But there will be components that will help Alberta and other places.
 **Vassy**:
 
 Yeah, and I'll tell you why I think we've all been asking various people in government, is this going to be targeted, rosey, to oil and gas.
-Back at the end of march, I think it was the 25th or 26th, bill morneau said help for the oil patch would be coming in hours or days.
+Back at the end of March, I think it was the 25th or 26th, bill morneau said help for the oil patch would be coming in hours or days.
 That didn't materialize.
 There is sort of a double whammy when it comes to the oil patch right now.
 Not just because of COVID-19 and decreased demand for oil, much decreased demand, but also this price war that emerged between Russia and Saudi Arabia that kind of got resold last week, but didn't really end up buoying oil prices.
@@ -169,7 +169,7 @@ Can this happen still for weeks or is there any pressure coming from any of your
 
 Oh, I think, you know, if we had our [inaudible], we would start tomorrow, of course.
 The tourism industry representatives that we work with really just trying to get a handle on when things are going to turn around.
-and I think [inaudible].it may start july or august.
+and I think [inaudible].it may start July or August.
 Others the following summer saying that there won't be any visitation until 2021.
 We do know that as travel comes back, it will be mostly domestic travelers and that is good for Newfoundland and Labrador in that 80% of our visitors have traditionally come from Canada.
 So we really immediate to be targeted to the traveler.
@@ -264,7 +264,7 @@ I'm sure you are familiar with it now.
 a couple other issues to keep your eye on today.
 and we heard earlier from conservative leader and doctor sheer and that is the return of parliament.
 It, too, was on a deadline.
-All parties had agreed that it would be suspended until monday unless they could reach another agreement to continue that suspension.
+All parties had agreed that it would be suspended until Monday unless they could reach another agreement to continue that suspension.
 As of now, there is no deal on, that either.
 and Andrew Scheer has been pushing very hard to see in-person sitings.
 He is asking for four times a week.
@@ -272,7 +272,7 @@ Doesn't sound like that is acceptable to the government.
 and it doesn't even sound like other partis are interested in coming in and having M.P.s here in a reduced capacity for that many days of week.
 But it is something that conservatives continue to push.
 and for now, there is no deal.
-and if they don't get a deal by monday, which I imagine they will, we would be in a place where the house of commons would have to resume.
+and if they don't get a deal by Monday, which I imagine they will, we would be in a place where the house of commons would have to resume.
 Which obviously would fly in the face of public health directives.
 Another issue to keep your eye on. and I will bring in Vassy because there is another two-minute warning.
 I don't know if I can do that much on My own.[laughter]maybe we'll just pick up on that issue that the conservatives are pushing very hard for increased accountability and increased questions to the government, which, you know, I totally get.
@@ -304,7 +304,7 @@ Thank you for that.
 
 
 
-Prime Minister Trudeau's [speaking french].
+Prime Minister Trudeau's 
 
 
 

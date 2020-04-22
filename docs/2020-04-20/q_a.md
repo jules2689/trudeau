@@ -86,7 +86,7 @@ I think that is key to making sure people are able to self-isolate and are able 
 
 **Operator**:
 
-[speaking french].
+
 
 ---
 

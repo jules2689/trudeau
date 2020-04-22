@@ -46,8 +46,7 @@ This is the deputy Prime Minister.
 
 
 
-**The Hon.
-ChyrstiaFREELAND**:
+**The Hon. ChyrstiaFREELAND**:
 
 (voice oftranslator): navdeep Bains who is joining us remotely as well.
 Also with us is the deputy chief public health officer,[speaking french](voice of translator):dr. Howard njoo is with us andready to answer your questions.[end of translation]dr. Tam, please.
@@ -103,8 +102,7 @@ Let's go back to finance minister bill morneau.
 
 
 
-**The Hon.
-Bill Morneau**:
+**The Hon. Bill Morneau**:
 
 That would go through heritage canadathat My colleague will be talking about.
 and we know that there are manystart-up companies, companiesthat are just getting going, that might not be able to haveaccess to the Canada emergencywage subsidy or the emergencybusiness account so we'reputting money in that regard as well towards those firms.
@@ -168,8 +166,7 @@ Back to you, Chrystia.
 
 
 
-**The Hon.
-Chyrstia Freeland:THANK YOU, SEAMUS.[Speaking French](Voice of Translator)**:
+**The Hon. Chyrstia Freeland:THANK YOU, SEAMUS.[Speaking French](Voice of Translator)**:
 
 We'llnow go to Stephen guilbeault.
 
@@ -382,8 +379,7 @@ is there some way to make an exception so that more than --these particular sold
 
 
 
-**The Hon.
-ChyrstiaFREELAND**:
+**The Hon. ChyrstiaFREELAND**:
 
 (voice oftranslator): Minister Freeland, answer.
 The decision to respond toquÉbec's request that went to the Prime Minister is an important one.
@@ -404,8 +400,7 @@ What about the volunteers?can you give us an idea of howmany more people could b
 
 
 
-**The Hon.
-ChyrstiaFREELAND**:
+**The Hon. ChyrstiaFREELAND**:
 
 (voice oftranslator): answer, ministerfreeland.
 At this point, no. What I do want to underscore is that it is essential to work in close cooperation with theprovince.
@@ -662,8 +657,7 @@ and maybe now, bill, would youlike to answer the part of thequestion directed at
 
 
 
-**The Hon.
-Bill Morneau**:
+**The Hon. Bill Morneau**:
 
 The key -- the key thing that we'veheard from businesses across the country really is that they need access to credit.
 We've got a particular challenge where businesses are either not operating or operating with significantly less revenue for a period of time.

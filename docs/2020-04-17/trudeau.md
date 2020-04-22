@@ -28,7 +28,7 @@ Right now, many energy firms are experiencing a cash crunch so they don't have t
 Today's announcement will allow for this kind of work to be done and create jobs people need during this difficult time.
 Through the wells and methane initiatives, we estimate that we will maintain roughly 10, 000 jobs across the country.
 Just because we're in a health crisis doesn't mean we can neglect the environmental crisis.
-We're also working with b. D.c. and EDC To expand credit support for at-risk medium-sized energy companis so they can maintain operations and keep employees.[speaking french].
+We're also working with b. D.c. and EDC To expand credit support for at-risk medium-sized energy companis so they can maintain operations and keep employees.
 
 
 
@@ -94,7 +94,7 @@ At the heart of the charter is the notion of choice, that we can choose the kind
 As our country confront this is pandemic, I'm especially grateful that Canadians have chosen to protect each other and care for one another.
 To everyone who has stayed home and followed public health recommendations, thank you.
 Making that choice together today will ensure that we remain who we are as Canadians for generations to come.
-Merci.[speaking french].
+Merci.
 
 
 

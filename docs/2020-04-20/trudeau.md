@@ -59,7 +59,7 @@ Know one man's action can build a wall between us and a better day, no matter ho
 Canadians are kind and generous.
 We are there for each other and we look out for one another.
 As families grieve the loss of aloved one, all Canadians are standing with them.
-The pandemic will prevent us from mourning together in person, but a vigil will be heldvirtually to celebrate the livesof the victims on 7:00 p. M. on friday, through the facebook group account -- "colchester supporting our community."it's important we come together to support our communities.
+The pandemic will prevent us from mourning together in person, but a vigil will be heldvirtually to celebrate the livesof the victims on 7:00 p. M. on Friday, through the facebook group account -- "colchester supporting our community."it's important we come together to support our communities.
 I've spoken with premier mcneil, RCMP commissioner lufti and manyother nova Scotians.
 I know that people have questions.
 This is an ongoing investigation, but the RCMP and local authorities will keep you updated.
@@ -69,7 +69,7 @@ Let us instead focus all our attention on the lives we lost and the families and
 
 [speaking french] 
 
-[voice of interpreter] while the pandemic will prevent us from gathering and mourning together, a virtualvigil will be held on friday at 7:00 p. M. through the facebook group colchester supporting our community.
+[voice of interpreter] while the pandemic will prevent us from gathering and mourning together, a virtualvigil will be held on Friday at 7:00 p. M. through the facebook group colchester supporting our community.
 It will be an opportunity to support the lives of these victims and be there for their families and their loved ones.
 I hope many of you will join with us on this occasion.
 As we seek to understand what happened yesterday, we must be there for each other.
@@ -88,4 +88,4 @@ I promise.
 
 
 
-[speaking french].
+

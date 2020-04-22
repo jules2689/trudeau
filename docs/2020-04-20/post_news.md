@@ -26,7 +26,7 @@ He was also asked about gun control legislation.
 Again, it's difficult to know because there are so few details about motive and about how this all unfolded at this point whether or not that would have made a difference, but those questions are interesting because the government had been promising gun control legislation for a number of months.
 My understanding the last conversation about it was that something was expected this spring.
 They had been promising it right through the election campaign.
-They did a consultation last April so about a year ago.
+They did a consultation last April, so about a year ago.
 There were calls for people who wanted more to bring that legislation in sooner.
 I notice the Prime Minister said they still intend to, but once this pandemic thing is over.
 That gives us an indication when that might happen.
@@ -71,7 +71,7 @@ Thank you, Rosie
 
 **Rosemary**:
 
-How did you find out what was unfolding in Portapique, I guess late Saturday
+How did you find out what was unfolding in Portapique, I guess late Saturday.
 
 
 

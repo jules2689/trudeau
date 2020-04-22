@@ -104,14 +104,15 @@ We are putting forward new measures almost every single day, and I think it is e
 That is something that we are also very much focused on. We have proposed that the house of commons return in some fashion every single week, to permit engagement on accountability and also pass further measures to help Canadians.
 Right now we're in a situation where M.P.s across the country and their staff are wondering ifthey're going to have to get on planes tomorrow and fly to ottawa.
 Obviously that is not something from a public health standpoint we should want to see happening.
-Right now on the books the rule is parliament needs to re-open fully on Monday That is obviously not a good idea, which is why we've proposed measures going forward that we're discussing with the other parties.
+Right now on the books the rule is parliament needs to re-open fully on Monday.
+That is obviously not a good idea, which is why we've proposed measures going forward that we're discussing with the other parties.
 We certainly hope we can come to an agreement so we all don't have to convene in the house of commons on Monday morning.[speaking french] [voice of interpreter] we are still in discussions with the other parties.
 We have proposed that the house of commons sit every week to ensure that there is an opportunity to ask questions of the government and also to be able to pass other measures thatwill help Canadians.
-The reality is that monday morning 338 members of parliament and the teams are supposed to be in ottawa.
+The reality is that Monday morning 338 members of parliament and the teams are supposed to be in ottawa.
 They are expected to be in ottawa then so that parliament can reconvene.
 Obviously that would not be a good idea in the current context.
 Now we have made proposals to ensure that we can get work doneand keep our democracy working and healthy, while also keeping people safe.
-and we really hope that the other parties will agree with these proposals because I do think it would be a terrible problem if we all had to return to parliament on monday.[end of translation].
+and we really hope that the other parties will agree with these proposals because I do think it would be a terrible problem if we all had to return to parliament on Monday.[end of translation].
 
 ---
 

@@ -15,7 +15,7 @@ We're going to see people engaged in this issue people biting their nails.
 There is something of a face-offbetween his party and the conservative party.
 They do have a deal with the bloc quÉbÉcois and they are close to a deal with the n. D.p. They are really at odds with theconservatives.
 Now let's throw another element into this, elizabeth may, the green party, was tweeting if there was some sort of agreementthat would require, as she put it, frequent return to the houseof commons, she wouldn't give unanimous consent to that or letthat happen because she thinks it is a public health issue.
-She was engaging with candace bergen who said she essentially agrees everyone having to come back on monday would be irresponsible, not a good idea.
+She was engaging with candace bergen who said she essentially agrees everyone having to come back on Monday would be irresponsible, not a good idea.
 It was implicit and not explicit, she was putting the responsibility on the liberals.
 We need a deal to make this happen.
 She said parliament isn't ready for a virtual parliament.
@@ -88,7 +88,7 @@ How needed was this going to be?was there a real desire for additional money for
 
 Absolutely.
 There are actually over 50, 000 indigenous businesses across thecountry, and 95% of those are small- and medium-sized businesses.
-In march we sent a letter to theprime Minister and the COVID-19 cabinet along with a number of our friends including the national aboriginal capital commission, which the Prime Minister mentioned today.
+In March we sent a letter to theprime Minister and the COVID-19 cabinet along with a number of our friends including the national aboriginal capital commission, which the Prime Minister mentioned today.
 We wanted to ensure there was a way that small- and medium-sizedenterprises could access the liquidity and capital that was going out through the community emergency business account.
 This is a much-needed and welcome announcement.
 
@@ -821,7 +821,7 @@ The legends, Ok. and it got shut down, obviously, because no one is able to do a
 
 
 
-Well, it was a unanimousdecision, we got shut down because of COVID-19 on march13th, friday the 13th and nomore hockey.
+Well, it was a unanimousdecision, we got shut down because of COVID-19 on march13th, Friday the 13th and nomore hockey.
 But we have lots of money leftand a refund of $4, 200.
 So our chief organizer, whothought he's going to get a taxdonation back, a refund back, hetopped it off to make the $7, 000in the kitty.
 We're not trying to blow our ownhorns but show other hockeyteams across the country whatthey can do. So $7, 000 has gone to the ottawafood bank and the ottawa missionhelping those who live onstreets and need a safe bed.
@@ -844,7 +844,8 @@ Well, they can't right now, buteven that money, a bit of thatmoney could go a lo
 
 It's a good idea.
 Senator, I'll ask you the other part of your job question, ifthat's Ok. Yesterday or the day before, losing track of time, the senate decided it would suspend sittinguntil, I think, the beginning ofjune.
-As you know, the house of commons is grappling with that right now and they have yet to reach an agreement on what'sgoing to happen on Monday What are your thoughts on that?
+As you know, the house of commons is grappling with that right now and they have yet to reach an agreement on what'sgoing to happen on Monday.
+What are your thoughts on that?
 
 
 

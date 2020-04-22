@@ -23,10 +23,10 @@ Obviously the point of virtual sittings would be to ensure that Canadians not wi
 That is a technological challenge that we'll work very, very hard on to ensure that, as we move forward on virtual parliament solutions as the speaker in the house of commons work on that, that we make sure that every voice can be heard of the 338 Canadians.
 At the same time, we have proposed to the opposition parties that parliament could come back every single week to discuss legislation and to ensure that there is accountability.
 We immediate to make sure that our democracy continues to function and this is something that we're very serious about.
-Right now, on the books, there is a rule that says 338M.P.s need to get on flights sunday evening to come back to ottawa on monday morning as parliament is supposed to resume.
+Right now, on the books, there is a rule that says 338M.P.s need to get on flights Sunday evening to come back to ottawa on Monday morning as parliament is supposed to resume.
 That is obviously not a good idea.
 We're not in normal circumstances.
-So we're negotiating with all opposition parties to try and make sure we can find a way to keep the important work of our democracy going while at the same time respecting public health advice.[speaking french].
+So we're negotiating with all opposition parties to try and make sure we can find a way to keep the important work of our democracy going while at the same time respecting public health advice.
 
 
 
@@ -85,7 +85,7 @@ Follow-up question?
 **Reporter**:
 
 Yeah, thank you.
-Are you basically saying wait until the government comes up with another fix?as you know on saturday, M.P.s voted to support a motion that basically said if you need help, the government is going to ensure that if you applied for the CERB and you weren't supposed to be eligible you would be unjustly penalized.
+Are you basically saying wait until the government comes up with another fix?as you know on Saturday, M.P.s voted to support a motion that basically said if you need help, the government is going to ensure that if you applied for the CERB and you weren't supposed to be eligible you would be unjustly penalized.
 is the government saying the worst thing that happens for you if you apply for CERB and don't qualify that you will have to pay the money back in full next year.
 is that the worst thing that will happen to people who apply for CERB because they feel they need it?
 
@@ -96,7 +96,7 @@ is that the worst thing that will happen to people who apply for CERB because th
 We expect people to apply for the programmes for which they qualify.
 and, therefore, we are working to make sure we're expanding the qualifications so that people who need the help will get them.
 We'll continue to announce measures that will include more and more people, help more and more people as we move forward because, for all the millions of people and businesses and employers that we're helping across this country, we know there is more to do and that is what we're continually announcing almost every day.
-New measures to fix people and fix support for people in particular situations.[speaking french].
+New measures to fix people and fix support for people in particular situations.
 
 
 
@@ -106,13 +106,13 @@ We recognize the programmes that we created to help as many people as possible a
 Because some people have special circumstances.
 Almost on a daily basis, we have been announcing changes or extensions of the programmes to allow people to receive more help based on the programmes we put in place.
 Operator: thank you.
-Merci.[speaking french].
+Merci.
 
 
 
 **Reporter**:
 
-[speaking french].
+
 
 
 
@@ -142,7 +142,7 @@ The oil and gas sector, because of the global price war, because of the lower de
 
 **Reporter**:
 
-[speaking french].
+
 
 
 
@@ -157,7 +157,7 @@ So, what do you say to those people who will be disappointed by the extent of th
 
 **Prime Minister Trudeau**:
 
-[speaking french].
+
 
 
 
@@ -170,13 +170,13 @@ At the same time, we're doing other things that the government of Alberta has be
 Particularly when it comes to methane.
 That is the choice we've been making to help Canadians answer we hope that all Canadians will have a better employment as a result.
 Operator: thank you.
-Merci.[speaking french].
+Merci.
 
 
 
 **Reporter**:
 
-Merci.[speaking french].
+Merci.
 
 
 
@@ -251,7 +251,7 @@ At the same time, recognizing that the situation in P.E.I. is very different fro
 But we all agreed that we need to continue to remain very, very vigilant as we carefully look at re-opening the economy, about relaunching certain sectors in the future.
 We will continue that in the principles and the steps that need to be taken.
 Of course, this is Canada, which means that there are very different needs and very different approaches that will be in place across the country.
-What we'll be working on to co-ordinate and collaborate on is that the messages that get out and the lens that we take and the data that we collect and the way we do this is aligned and coordinated so that we can maximize our chances of getting through this without having to fall back into self-isolation the way we have been these past few weeks.[speaking french].
+What we'll be working on to co-ordinate and collaborate on is that the messages that get out and the lens that we take and the data that we collect and the way we do this is aligned and coordinated so that we can maximize our chances of getting through this without having to fall back into self-isolation the way we have been these past few weeks.
 
 
 
