@@ -1,6 +1,6 @@
 require "optparse"
 
-options = { token: nil, force: false, video_id: nil, output_path: File.expand_path("../docs/", __FILE__) }
+options = { token: nil, force: false, video_id: nil, number: 5, output_path: File.expand_path("../docs/", __FILE__) }
 OptionParser.new do |opts|
   opts.banner = "Usage: captions.rb [options]"
 
@@ -14,6 +14,10 @@ OptionParser.new do |opts|
 
   opts.on("-v", "--video-id=VIDEO_ID", "Video ID of the Youtube video to process") do |f|
     options[:video_id] = f
+  end
+  
+  opts.on("-n", "--number=NUMBER", "Number of videos to process. Up to 50") do |n|
+    options[:number] = n
   end
 
   opts.on("-h", "--help") do
@@ -71,7 +75,7 @@ end
 
 videos = {}
 CLI::UI::Frame.open("Finding videos") do
-  parser = Trudeau::PlaylistParser.new(options[:token])
+  parser = Trudeau::PlaylistParser.new(options[:token], options[:number])
   videos = parser.parse
   videos.each do |_, video|
     puts "#{video[:date]} - #{video[:title]}"
