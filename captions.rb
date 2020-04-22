@@ -100,7 +100,7 @@ videos.each_with_index do |(id, video), idx|
     end
 
     current_readme << readme_preamble if current_readme.empty?
-    current_readme << "<div style='border: 1px solid #ccc; text-align: center; margin-bottom: 30px; border-radius: 10px;'>"
+    current_readme << "<div style='border: 1px solid #ccc; margin-bottom: 30px; border-radius: 10px;'>"
     current_readme << <<~EOF
     <iframe src="https://www.youtube.com/embed/#{id}"
     allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""
@@ -110,12 +110,12 @@ videos.each_with_index do |(id, video), idx|
     current_readme << "<div style='padding: 20px'>"
     current_readme << "<h3>#{video[:date]} - #{video[:title]}</h3>"
     current_readme << video[:description]
-    current_readme << "<ul><li><a href='https://www.youtube.com/watch?v=#{id})''>Video</a></li>"
-    current_readme << "<li><a href='./#{video[:date]}/#{id}/trudeau.md)''>Trudeau</a></li>"
-    current_readme << "<li><a href='./#{video[:date]}/#{id}/q_a.md)''>Q & A</a></li>"
-    current_readme << "<li><a href='./#{video[:date]}/#{id}/pre_news.md)''>News before Trudeau</a></li>"
-    current_readme << "<li><a href='./#{video[:date]}/#{id}/post_news.md)''>News after Trudeau</a></li></ul>"
-    current_readme << "\n</div>/div>"
+    current_readme << "<ul><li><a href='https://www.youtube.com/watch?v=#{id})'>Video</a></li>"
+    current_readme << "<li><a href='./#{video[:date]}/#{id}/trudeau.md)'>Trudeau</a></li>"
+    current_readme << "<li><a href='./#{video[:date]}/#{id}/q_a.md)'>Q & A</a></li>"
+    current_readme << "<li><a href='./#{video[:date]}/#{id}/pre_news.md)'>News before Trudeau</a></li>"
+    current_readme << "<li><a href='./#{video[:date]}/#{id}/post_news.md)'>News after Trudeau</a></li></ul>"
+    current_readme << "\n</div></div>"
 
     if !options[:force] && Dir.exist?(video_output_path)
       puts "Video downloaded already"
