@@ -93,4 +93,7 @@ Canada will turn back asylum-seekers attempting to enter the country outside of 
   - [News before Trudeau](./2020-04-03/pre_news.md)
   - [News after Trudeau](./2020-04-03/post_news.md)
 
-<ul style='display: inline-block; padding: 0; margin: 8px: 0; margin-top: 30px;'><li><a href='./PAGE_2'></a>Previous</li><li><a href='./PAGE_4'></a>Next</li></ul>
+<ul style='border: 1px solid #ccc; display: inline-block; padding: 0; margin: 8px: 0; margin-top: 30px;'>
+	<li style='display: inline; border-right: 1px solid #ccc'><a href='./PAGE_2'>Previous</a></li>
+	<li style='display: inline'><a href='./PAGE_4'>Next</a></li>
+</ul>
