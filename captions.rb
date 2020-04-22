@@ -100,18 +100,21 @@ videos.each_with_index do |(id, video), idx|
     end
 
     current_readme << readme_preamble if current_readme.empty?
-    current_readme << "\n### #{video[:date]} - #{video[:title]}"
+    current_readme << "<div style='border: 1px solid #ccc; padding: 20px; text-align: center; margin-bottom: 30px; border-radius: 20px;'>"
+    current_readme << "### #{video[:date]} - #{video[:title]}"
     current_readme << video[:description]
     current_readme << <<~EOF
     <iframe src="https://www.youtube.com/embed/#{id}"
             allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""
             style="width: 100%;" width="" height="250" frameborder="0"></iframe>
+    <br>
     EOF
     current_readme << "  - [Video](https://www.youtube.com/watch?v=#{id})"
     current_readme << "  - [Trudeau](./#{video[:date]}/#{id}/trudeau.md)"
     current_readme << "  - [Q & A](./#{video[:date]}/#{id}/q_a.md)"
     current_readme << "  - [News before Trudeau](./#{video[:date]}/#{id}/pre_news.md)"
     current_readme << "  - [News after Trudeau](./#{video[:date]}/#{id}/post_news.md)"
+    current_readme << "\n</div>"
 
     if !options[:force] && Dir.exist?(video_output_path)
       puts "Video downloaded already"
