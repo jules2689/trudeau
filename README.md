@@ -7,6 +7,7 @@ These notes are compiled and summarized by a human [here](https://www.notion.so/
 ### To Run
 
 1. Make sure a non-system Ruby is installed (I'm using 2.6.x)
+1. Run `bundle install` to install requires gems using Bundler
 1. Run `ruby captions.rb -h`
 1. Run `ruby captions.rb -v VIDEO_ID` to parse a single video to STDOUT (Video ID is in the youtube URL. E.g. https://www.youtube.com/watch?v=VIDEO_ID)
 1. Run `ruby captions.rb -t TOKEN` where token is a Google API token with the Youtube Data API enabled. This will parse the CBC playlist and output all files to the docs folder.

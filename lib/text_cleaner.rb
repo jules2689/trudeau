@@ -1,3 +1,5 @@
+require "spellchecker"
+
 module Trudeau
   class TextCleaner
     PROVINCES = [

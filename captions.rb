@@ -1,7 +1,4 @@
-require "net/http"
-require "uri"
 require "optparse"
-require "bundler/inline"
 
 options = { token: nil, force: false, video_id: nil, output_path: File.expand_path("../docs/", __FILE__) }
 OptionParser.new do |opts|
@@ -29,15 +26,10 @@ if options[:video_id].nil? && options[:token].nil?
   options[:token] = File.read(File.expand_path("../.token", __FILE__)).strip
 end
 
-gemfile do
-  source 'https://rubygems.org'
-  gem "nokogiri"
-  gem "activesupport"
-  gem "cli-ui"
-  gem "spellchecker"
-  gem "byebug"
-end
-
+require "net/http"
+require "uri"
+require "bundler/setup"
+require "cli/ui"
 require_relative 'lib/caption_parser'
 require_relative 'lib/playlist_parser'
 

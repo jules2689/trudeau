@@ -2,6 +2,7 @@ require "cgi"
 require "date"
 require "active_support/core_ext/string/inflections"
 require 'tempfile'
+require "nokogiri"
 require_relative './text'
 
 module Trudeau

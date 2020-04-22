@@ -1,14 +1,5 @@
 
-require "bundler/inline"
-
-gemfile do
-  source 'https://rubygems.org'
-  gem "nokogiri"
-  gem "activesupport"
-  gem "spellchecker"
-  gem "rspec"
-end
-
+require "bundler/setup"
 require "yaml"
 require_relative "../lib/caption_parser"
 require 'rspec/autorun'
