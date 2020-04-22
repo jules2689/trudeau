@@ -31,6 +31,7 @@ module Trudeau
       "p. E.I." => "P.E.I.",
       "e. D.c." => "EDC",
       "b. D.c," => "BDC",
+      "b. D.c." => "BDC",
       "m. L.a." => "MLA",
       "b. C." => "British Columbia",
       "w. H.o." => "W.H.O.",
@@ -56,7 +57,7 @@ module Trudeau
     private
 
     def post_clean
-      @text.gsub!(/\[speaking french\]\./i, "")
+      @text.gsub!(/\[speaking french\]\.?/i, "")
     end
 
     def fix_known_issues
@@ -162,6 +163,7 @@ module Trudeau
       @text.gsub!(/\bDHURG\b/i, "during this")
       @text.gsub!(/\bin may\b/i, "in May")
       @text.gsub!(/\bmay (\d)\b/i, 'May \1')
+      @text.gsub!(/\btohow\b/, "to how")
     end
 
     def fix_acronyms_and_words
