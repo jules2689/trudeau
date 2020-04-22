@@ -7,6 +7,7 @@ GEM
       minitest (~> 5.1)
       tzinfo (~> 1.1)
       zeitwerk (~> 2.2)
+    byebug (11.1.2)
     cli-ui (1.3.0)
     concurrent-ruby (1.1.6)
     diff-lcs (1.3)
@@ -40,6 +41,7 @@ PLATFORMS
 
 DEPENDENCIES
   activesupport
+  byebug
   cli-ui
   nokogiri
   rspec

@@ -85,8 +85,17 @@ module Trudeau
         if (dur = entry.attribute("dur"))
           duration += dur.value.to_f
         end
+
+        # Combine strings using a space
+        dialog_buffer += " " unless dialog_buffer.end_with?(" ")
         dialog_buffer += entry.text
       end
+
+      unescaped = CGI.unescapeHTML(dialog_buffer).strip
+      text_object = Trudeau::Text.new(unescaped, starting_time, duration)
+      @replaced_words.merge!(text_object.replaced_words)
+      @unknown_words.merge!(text_object.unknown_words)
+      @dialog[current_dialog] << text_object
 
       output_section_stats
       CLI::UI::Frame.divider(nil) unless ENV["TEST"]

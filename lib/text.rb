@@ -65,6 +65,9 @@ module Trudeau
     def clean_speaker_names!
       return unless @speaker
       @speaker.gsub!(/ChyrstiaFREELAND/, "Chrystia Freeland")
+      @speaker.gsub(/OPERATOR/, "Operator")
+      @speaker.gsub(/\[Speaking French\]/, "")
+      @speaker.gsub(/\(\s*\)/, "")
     end
 
     def humanize(msg)
