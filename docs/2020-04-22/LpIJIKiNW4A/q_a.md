@@ -2,308 +2,406 @@
 
 **Operator**:
 
-One question, onefollow-up. Please press star 1 at this timeif you have a question.
-The first question, please goahead.
-(speaking french).
-
----
-
-**Question**:
-
-Hello, My question is for Mr. Duclos.
-Regarding the measures that were announced today for students, you've stated that this benefit will apply to those who would be starting their studies inseptember.
-I would like to ask, does this include secondary five students entering in September and does this also include people who may have taken a break from their studies or who haven't been studying in the past year but who would be starting abachelor's or masters degree inseptember? does that apply to them? C.R.A.
+Thank you, Merci.
 
 
 
-Hello.
-My answer to both questions isyes.
-You can qualify.
-If somebody is starting or continuing their studies inseptember, they are eligible.
-Perfect, thank you.
-and regarding Quebec now, the press conference stated that you would be doubling budget for grants for students and quebecwon't be compensated and how much money would Quebec be receiving to offer its own financial assistance tostudents? who would like to respond? C.R.A. I don't have the exact amount, but I can assure you that it will be fair.
-It will double grants and loan amounts and we will be having these discussions with quebecand with the other problems that are not using our system, butabsolutely, this number will be doubled despair.
-and fair.
+
+**Reporter**:
+
+
+
+
+
+**Interpreter**:
+
+Good morning, Prime Minister.
+I'd like you to comment on the horror stories that we're hearing in many seniors homes.
+People who are dying home alone, no food, terrible lack of staff.
+Yes, this is a provincial jurisdiction, but given the seriousness of the situation, do you sfwoenld intervene and respond? yes.
+We're helping the provinces and will provide the necessary support to them.
+We are working with them now to ensure that employees who work and have low incomes will receive supplemental income and we are currently putting regulations in place to ensure that our seniors can be protected.
+But we all know that this is an extremely serious situation for our seniors and in seniors homes across the country, we're seeing the effects of COVID-19. People who are working in these homes are always doing an outstanding job.
+But now it is an even more difficult job.
+Follow-up? do you think that Quebec is control of the situation right now? we're taught about a serious lack of staff.
+Why have they not been deployed in regards to a potential military situation.
+We have received requests from Quebec and we did send in the army.
+We continue to work with Quebec to provide as much help as possible.
+But we know that Quebec is working very hard to resolve that situation.
 
 
 
 **Operator**:
 
-Thank you, nextquestion.
-The next question, please goahead.
-
----
-
-**Question**:
-
-Hello.
-The union for the borders say that immigrants would be able to cross the border and the Prime Minister was not able to answer my question this morning.
-Can you talk about these changes to the regulations? I can give you the information that I have.
-We renewed the agreement we have with the United States for 30additional to days, so this is ab order agreement.
-This agreement restricts only essential travel because ofcovid-19 and because of the realities faced in Canada expect United states.
-We made the right decision and we stated that staying home is the best way to maintain the health and safety of ourcitizens.
-This agreement, as you know includes an agreement betweencanada and the United States Canada can redirect assylumseekers to the United States.
-I would like to assure you that through this agreement with the United states, Canada will maintain all of its international obligations.
-I've stated that migrants would be redirected towards the United States because they are not essential travelers.
-Do you turn them towards the United states or are they welcomed in Canada? I don't quite understand.
-Have things changed?
-
-
-
-**Answer**:
-
-No, this decision has not changed and I would like to be very clear.
-Canada is taking its international obligations quite seriously regarding refugees including turning people towards the United States.
-I would like to reassurecanadians that this agreement that we have with the United States regarding turning assylumseekers towards the United States is not compromising ourcommitments.
-That's all.
 Thank you.
-Next question on the phone.
+Merci.
+Next question, Teresa wright, the kneadian press.
+Line open.
+
+
+
+**Reporter**:
+
+Good morning, Prime Minister.
+Could you please explain why will you not make the CERB a universal benefit?
+
+
+
+**Prime Minister Trudeau**:
+
+We just moved forward with support today.
+The Canada emergency response benefit is there for people who lost a paycheque.
+We recognize, because of COVID-19, there are many people out of work who were counting on a paycheque to be able to pay for their groceries, to be antibiotic to pay their rent.
+Those people are helped by the CERB.
+We are moving to ward with direct help for students.
+In many cases, school year term ends now, it's around the end of April and normally they would be looking for summer jobs.
+This is something that will not happen the same way or as easily this year.
+That is why we're moving forward with the Canada emergency student benefit.
+But on top of that, we will be helping students across the country by creating new jobs where young people can serve and contribute and get jobs.
+If they volunteer, we will be rewarding them for volunteering as well.
+We need to create a range of measures to support young people and that is what we've done today to the total of $9 billion.
+At the same time, we recognize that there are further gaps we need to continue to work on in terms of covering.
+We continue to work with allies and opposition parties and partners across areaings of the country to deliver more help to those who need it.
+
+
+
+Follow up question?
+
+
+
+**Prime Minister Trudeau**:
+
+
+
+
+
+**Interpreter**:
+
+The Canada emergency response benefit is already helping many people who lost a paycheque and we need it to help those people.
+But we also recognize that students who are finishing their school year would normally be looking for jobs now and for the summer.
+They will have a tough time finding one.
+They will be creating jobs in sectors that they can make themselves useful.
+At the seam time, we are delivering an emergency student benefit to ensure they have money to pay their rent and their groceries.
+
+
+
+**Reporter**:
+
+We heard many Canadians who are falling through the gaps.
+You said so yourself.
+There is a growing push for universal benefits.
+Why is this something that you are not doing at this point? our focus at this point is getting help to people who needed it. There are millions of Canadians who need help.
+There are others who do not need help and we feel that targeting the maximum amount of help to the people who needed it quickly was the right way to begin to get through this process.
+That is what we did with the Canada emergency response benefit that is delivering that help to over eight million Canadians already.
+We need to do more, and that is why we're announcing the Canada students benefit.
+But our approach has been to give as much help as possible to the people who need it. That is why we took the approach that we did.
+
+
+
+**Interpreter**:
+
+Our approach in this crisis and this situation has always been to provide as much help as possible to those who need it. There are millions of Canadians who need the emergency response benefit and the wage subsidy so we moved quickly to deliver those two programmes.
+But there are other Canadians who do not need help at this time.
+These people continue to work and receive a paycheque.
+Therefore, we can give the people to those who need it most instead of universal he. We need to be there for each other and we decided to give precedence to the people who need help.
+
+
+
+Next question.
 
 
 
 **Operator**:
 
-The next question, please go ahead.
-
----
-
-**Question**:
-
-Hello.
-I have a question regarding the distance for students.
-Will this be offered to canadianstudents abroad or only those who are here in Canada? why did you decide of theamount, that specific amount instead of offering the same$2, 000 that is offered to workers who are not students?
-
-
-
-**Answer**:
-
-I think that is question for C.R.A. C.R.A. would you like torespond.
-Yes, students need to be studying in Canada in September.
-It is not for students studyingabroad.
-The amount of $1250 was chosen because of other services that students have access to over the summer through the canadastudent loan and Canada studentgrant.
-Your french is very good, Minister.
-My next question has do with something completely different.
-Prisons, from the beginning you said you are following the situation and that you are trying to protect thatpopulation.
-We were talking about certain areas in which people are too close together and now there are issues regarding situations inprison.
-How did we get here and why we were not able to protectconvicts? perhaps Dr. Tam would like to add an answer after My answer.
-We stated from the beginning that prisoners are a vulnerable population because of the reality of conditions inprisons.
-We are taking this situation very seriously in the differentprisons.
-Minister Blair talked about this during our committee meetingyesterday.
-We are working closely with provisional authorities, especially in British columbiawe are taking additional measures in order to protect prisoners and those who work in those institutions.
-For example, masks were sentforthose working in questions.
-Perhaps Dr. Tam would have something to add.
-At the public health agency ofcanada we worked closely wit hour colleagues in the province sand territories.
-They put a nurse who specialize din prevention in the spread of diseases in order to offer support to prison staff.
-We are also continuing to work closely with our colleagues from the different departments inorderto ensure there is aprogramme to prevent infectionsethese programmes in prisons that fall under federaladministration.
 Thank you.
+Merci.
 
 
 
-Good morning.
-I'm with the<I> toronto star</I> . Dr. Tam, we've heard provinceslike Saskatchewan, Alberta, British Columbia, talk about their keennessto reopen soon, but looking atthe testing numbers and youremphasis on the need for masstesting before we reopen, canyou talk about what you seewould be the optimum testinglevel.
-What capacity do you want tosee, not only now at even 20, 000a day, you said, but the numbersyou post online suggest thatwe're far from widely testing incanada.
-So what's the optimum number andhow do you see that unrolling?
+
+**Reporter**:
 
 
 
-Interestingly not -- majority of the countries don't have an optimal number, but we need ab it of a target to work with.
-I know that we collaborate across Canada with provisional territory laboratories and that the capacity right now can increase to triple that amount, essentially, to close to 60, 000and we need the whole system to be working and people beingtested.
-But there are essentially an increase in capacity being built within the province andterritories.
-We're continuing to, of course, provide supplies and figure out all lines of slight, whetherit's reagents or swabs and that happens on a very daily basis and we're able to satisfy the request of the province andterritories.
-I think that's just the firstlayer.
-We're trying to assert in how much of the point of ca retesting the devices we can acquire and that's the canadiancompany.
-But we're acquiring international sources, as well.
-Those are expected to be distributed across the country but are targeting at the more rural areas where they can'taccess bigger labs right now.
-So we are at the moment working out some of the optimal lab testing strategies go forward.
-and that is just on the virus testing and as the serolgictestings come on board, we'll be looking how to assert those and once they're validated, what their role is in the actual support of the diagnostics, as well.
-So it is a bit of a target andevolution, but as a firsttraunch, roughly close to 60, 000is where the provinces can potentially expand to as Target already.
 
----
 
-**Question**:
+**Interpreter**:
 
-Just to clarify, that 60, 000 is the national figure per day.
-You're not saying in each province that wants to reopen.
+Good morning, Mr. Trudeau.
+I'd like you to comment on the plans of certain provinces to lift the lockdownment they're saying that slowly they have to re-open their economy and this is urgent.
+Are you comfortable with the beginnings of this relaxation of rules and will you be giving some flexibility to the provinces in terms of the border with the United States? can you clarify what you meant? for example, could the provinces re-open their border with the United States, before a federal order in council ends at the end of April or is your flexibility meaning to only do that later on? first of all, we all recognize that the pandemic is rolling out defrnlly in different provinces and regions.
+Therefore, the provinces and territories will be making their own decisions as to the next steps when I comes to re-opening the economy.
+But we are working with the provinces in close coordination to ensure that our principles and our approach are similar right across the country.
+So that people will understand what's happening in their area and across the country.
+With respect to the United States border, the measures that are now in place until may 21 will remain in place across the country and in terms of what happens after may 21, we'll have more discussions with the United States and probably across provinces on that.
+But this is a cross-Canada measure.
 
 
 
-That's the national.
+**Prime Minister Trudeau**:
 
----
-
-**Question**:
-
-You mentioned theserologicl testing and I'mcurious you think health Canada's to approving those.
-They said they're working with the national lab is have mentioned within week.
-So how close are you to having those tests approve and how do you see them working? do you see them as something that is well down the road in terms of assessing populationimmunity? and given the reports we heard about asymptomatic transmission, how crucial are they?
+We recognize that defrnl provinces will make different decisions about how and where to restart and open their economies.
+We will work to co-ordinate so that we're basing ourselves on sheared values, principles and scientific approaches across the country.
+Yes, provinces will take their decisions that we will work to co-ordinate in a cohesive story for all Canadians.
+In regards to re-opening the border with the United States, that is a federal and national decision that we will kaord naet.
+But the national measures will apply across the Canada-United States border regardless of provinces or jurisdictions.
 
 
 
-Yes.
-So as the first application, ithink, of serologic testing is to detect across Canada, what population had, in fact, been exposed to the virus because we do know that lap-confirmed casesright now of the people who havepresented or who have beentested is the tip of theiceberg, so serolgic testingoffers the opportunity to get ahandle on what the level ofimmunity may be in Canada.
-So that's definitely one of thekey objectives.
-and I think our lab is workingreally hard at validating theserolgic
 
 
 
-I think they're looking at what kind of public health measures can be eased off a bit.
-I think as I've said, we have to tread carefully at this point.
-I don't think anyone is not heeding that advice, is that we need to see passed the peak and come down the other side of the curve very carefully and anything can happen in any givenday.
-So I I think it is something that the provinces are reevaluating all of the time, but the other work I'm doing with the special advisory committee with the chief medical officers of health is looking at some of the criteria from health perspective as to what those indicators might be in order to assist in some of thosedecisions.
 
----
+**Interpreter**:
 
-**Question**:
-
-Can you elaborate, then? is it too soon to be putting ad ate on reopening the economy, first off? and what are the criteria thatyou're dealing with when talking with chief public health officers around the country in terms of evaluating when it'sappropriate to release or reduce some of these public healthmeasures?
+Follow-up?
 
 
 
-Some of the criteria are fairly technical, butessentially, we want to make sure that you're right at the bottom of that epidemic curve.
-So indications including things like hospitalizations and cases reported everyday and some of the reproduction numbers.
-For example, some of the types of things under discussion, butalso, there's other criteria in ensuring that the health system is ready to absorb more cases should that occur and that anyoutbreaks, in fact, of whether they be it long-term carefacilities and others arerapidly managed.
-It's to make sure those measuresare in place and so that'sactually under active discussionand we're working really, reallyhard at that, recognising wherewe're at the epidemic in canadabut do not let go of what we'redoing now.
-That's the most importantmessage.
-I've said there's a differentkind of epidemic going acrossthe country.
-So the timing of some of themeasures and changes in whathappens, there may be somevariations in that, but wewanted to get a nationalapproach in some of the publichealth criteria.
-So that's what we're working on.
-
----
-
-**Question**:
-
-Good morning.
-There's thousands of canadianshere right now that are kind of trapped there and we'rewondering today if there's any plans to have these eight planes from armatrak to come and getthem.
-How far along are we on that?
+**Reporter**:
 
 
 
-We are very aware of the problems being faced bycanadians in India.
-Speaks an a constituency M.P. and there are two other M.P.ssitting here with me and two on video link, one of the things that constituency M.P.s are inclose touch with is the personsituation of Canadians andthat's a really good thing.
-and we are working hard to bringthose Canadians back.
-I will be candid with you, mike, and with Canadians.
-This is complicated andchallenging because of therestrictions which are in placein india around the coronavirusand I do also want to be quiteclear that those canadianscoming back, that is not the endof the story.
-Anyone who comes into Canada issubject to mandatory quarantineorders and it is very important, no matter how delighted andrelieved people are to be cominghome after having been in adifficult situation, it isessential that they quarantineas soon as they get here andwe're very focused on that, too.
-
----
-
-**Question**:
-
-There were members of the British Columbia's Inuit community trying to arrange delights and that was shut down.
-They had permits to get flightsout.
-Was that shut down on thecanadian's end, somewhere inindia or do we have any more details on that?
 
 
+**Interpreter**:
 
-You know, mike, it is delicate and complicatedsituation, so I'm not going Togo into the details, apart from particularly because our objective needs to be not to do anything that would compromise the ability to get people home.
-We have very sympathetic with the concerns of people in canadatrying to get their friends and family home and we are workingvery, very hard to help make that happen and I do really want to emphasize the second part of that is people coming home have to and they are legally obliged to isolate for 14 days.
-That's very important piece thatwe're committed to. I do want to, as you mentioned British Columbia, thank the province of British Columbia which has been an excellent, very committed partner in ensuring the quarantine of everyone arriving into British Columbia (speaking french).
-
-
-
-Thank you, we're going to move back to the phone for threequestions.
-The next question, please goahead.
-(speaking french).
-
----
-
-**Question**:
-
-Thank you verymuch.
-My next question is for miss Freeland.
-I would like to go back toassylum seekers at the border.
-I do not understand.
-You're saying that nothing haschanged.
-However, in the degree that ihave, one can see that if people come to Canada seeking asylum, that's not included, and can you explain that to me more, please.
-I believe we were clear from thestart.
-There is an agreement with the United states in order to restrict nonessential travel.
-One element of that agreement was a decision made betweencanada and the united states which allows Canada to redirect individuals to the united states to asylum seekers, specifically.
-I know there are Canadians and that includes the government that have concerns regarding this process and I can assure you that through this agreement, we are maintaining our international commitments regarding refugees and thatturn-around.
-I can assure you that in whatwe're doing, we are certain thatwe are maintaining ourobligations regarding those whoare turned sent to the United States.
-Follow-up question.
-I just want to understand, madamfreeland, if an asylum seekerarrives at a regular bordercrossing and has no symptoms ofcovid-19, will that person be able to enter the country? and if an asylum seeker tries togo through passage, what willhappen to that person? the agreement that we have withthe United States concernsnonessential travel.
-There are a lot of people whocan travel from the United States tocanada and from Canada to theUnited States some of these people are nolonger allowed to enter intocanada.
-a new element regardingirregular assylum seekers isthat irregular assylum seekerswho try to take the roxam path, for example, are redirected to the United States.
-I would like to highlight thatwe are doing things in a waythat allows us to ensure properturn-around.
+Thank you.
+Coming back to the situation in Quebec, more than 50% of the deaths in Canada are in Quebec facilities.
+As a quebecer, what does it mean to see this and what can the federal government do other than beefing up people's wages and helping people with rent? what can you do on the ground? to try and flatten that curb and lessen the number of deaths that are occurring? we represent provincial jurisdiction and I believe that Quebec is doing a good job in managing those issues.
+But obviously we are there as a federal government to provide aid when it's needed and when Quebec asks us for that aid.
+We sent in the c. a.f. In Quebec.
+This was a request from Quebec.
+We provided direct support through other measures that will help.
+For example, regulations with represent to seniors homes that are applied across the country and that are in full alignment with Quebec's decisions.
+We are there to be a partner and support Quebec and respond to any requests for P.P.E., for example.
+Which Quebec has asked for.
+The federal government as its role to play.
+But we will always respect provincial jurisdiction and support them in responding.
 
 
 
 **Operator**:
 
-Next question on the phone, please go ahead.
-
----
-
-**Question**:
-
-Hi, thank you.
-My first question is concerningmodeling.
-Canada has been a couple week snow since they revealed modeling data for Canada, but why is the government refusing to release modeling numbers for the indigenous communities?
+Thank you.
+Merci.
+Next question, line open.
 
 
 
-So I didn't catch the very last part of your question.
+**Reporter**:
 
----
-
-**Question**:
-
-Sorry.
-I was just wondering why the government of Canada is not releasing numbers, modeling numbers for indigenouscommunities.
-
-
-
-So I think we collaborate with our indigenous partners and any departments can utilize.
-I think just to reemphasize that modeling is a planning tool, so as long it is useful for their planning purposes within I think, I think they can applied.
-They have very unique situation sand I think that has to be done in full consultation with communities or individual indigenous first nations andorganizations, as well.
-But it is just a tool for any sort of planning or preparednesspurposes.
-
----
-
-**Question**:
-
-I would like clarification to the 75 million for indigenous students.
-is this a part of the 9 billionthat's earmarked for each of thecategories? you said there was money for summer jobs and money for scholarships and such.
-is this on top of that? or is this part of it?
+Prime Minister, good morning.
+[inaudible] last week decided to [inaudible] to qualify for $40, 000 loan.
+It is a welcomed step.
+But still there are many small businesses leek small restaurants, convenience stores, Dr. cleaning shops who won't be ever to get this benefit because of many reasons.
+These are businesses already struggling and now we have a report that in Toronto [inaudible] won't re-open after three months.
+What [inaudible] is being done to help these businesses?
 
 
 
-C.R.A. I think that's foryou.
-Maybe un-mute yourself.
+**Prime Minister Trudeau**:
+
+We know that businesses, particularly small businesses, are facing an extremely difficult teem through COVID-19. and we need to support these small businesses, not just because they are main drao*efers of our economy and of our employment right across the country, but because we need them to be in good shape when this COVID-19 crisis is through so they can come back.
+That is why our crisis has been on those who lose a paycheque and their jobs with the Canada workers subsidy and the Canada emergency response benefit.
+We also recognize that small businesses, including the smallest businesses need help with access to credit which is why we put in place a 2k4r0r, 000 loan with a $10, 000 nonrepayable element that is going to be helping small businesses significantly.
+As you said, we heard from some very small businesses that weren't qualifying at the threshold with $50, 000, which is why we dropped it down to $20 240u thousand, which is the equivalent of one full-time worker at minimum wage for the year.
+We recognize that there are other small businesses that are not getting the support they need because of particularities in their circumstance and we're continuing to work with finance and with business associations to make sure that we're giving these businesses the support they need, not just to get through this difficult time but make sure they come back strong at the end of it.
 
 
 
-Yes, it is a part of the broader 8.$8 billion package that we announced today, including the programming, Canada student loans, the new benefits and, of course, the service benefit My colleague talked about.
-So it's a part of the biggerpackage, yes.
+and a follow-up?
 
 
 
-**Operator**:
+**Reporter**:
 
-The next question from radio-Canada.
-Please go ahead.
-(speaking french.
+Prime Minister, the [inaudible] is doing its best to bring Canadians back home.
+But there are 50, 000 Canadians stuck in India right now.
+Many of them are children.
+Families are worried about their well-being.
+They're frustrated that the canadian high commission office has not been able to provide them timely help.
+Even our high commissioner has apologized to them for this situation.
+is the Prime Minister aware of the situation and any immediate help for them?
 
----
 
-**Question**:
 
-I would like to go back to asylum seekers at theborder.
-This morning, the union of employees stated that changes happened yesterday and that it was reserved for these assylumseekers so that they might spend14 days in quarantine there before their request wasprocessed.
-is that true? thank you again for thequestion.
-Our agreement with the United States has not changed.
-When we renewed this agreement for 30 days, the agreement was the same -- it's the same as it was in March.
-I have not spoken directly with the union.
-However, we will be talking with the union or Minister Blair will do so in order to clarifyinformation, but I can assure you that the agreement has notchanged.
-Follow-up question.
+Prime Minister Trudeau's we are very aware of the challenge of cadians wanting to return to Canada at a time when international flights are extremely limited.
+We continue to work with governments around the world, including the indian government.
+We have welcomed over the past month about 20, 000 Canadians home from repatriation flights.
+It is important to be able to bring home Canadians.
+There are particularly high demands in some parts of world, including india, that we're working very, very hard, day and night to try to resolve.
+There's been many flights back from india, but there is a need for more.
 
----
 
-**Question**:
 
-Yes, thank you.
-My next question regardingswabs.
-In New Brunswick, Ontario and inquebec, Quebec stated having received swabs that werecontaminated.
-Are these swabs coming from the same provider that was problematic last time? can you tell us the necessary measures were taken so thatdoesn't happen again? regarding swabs, they are an essential element for us because swabs are essential for testing.
-There was a problem ten days ago with swabs received from china.
-When that happened, we made the decision to diversify the services of swabs and now we work with different companies who send swabs to Canada.
+**Reporter**:
+
+
+
+
+
+**Interpreter**:
+
+Good morning, Prime Minister.
+Obviously roxham road remains closed but people coming in to official border points will be able to apply for refugee status and be sent to a hotel.
+What exactly is the safe third party agreement Stael in place? we need some clarification on this.
+Based on what I know, the safe third country agreement still in place, if there are new directives, we will be following up to give you that information.
+But have things changed since last night? not as far as I know.
+But I know that Muenster Blair will be able to provide more information as to whether or not there are changes.
+
+
+
+**Prime Minister Trudeau**:
+
+Far I'm e I've been apprised there haven't been any changes at the border.
+But if there have been, I'm sure Minister Blair would be able to fill you in on those.
+
+
+
+**Reporter**:
+
+
+
+
+
+**Interpreter**:
+
+On the question of the guaranteed minimum income, do you not think it would have been simpler to put in place a more universal programme, more open administratively speaking? in other words, create a single benefit rather why not do that? were you afraid of significant abuse? there are some people who think it would have been a simpler solution but maybe not simpler at all in terms of its add mention.
+-- administration.
+It's not as simple as send ago cheque to every single Canadian, whatever their age or wherever they live.
+It is always bit more complicated than that.
+and second, and this is the major reason, we decided to help first and foremost, and as much as possible, the people who really need help.
+So all of these measures we introduced recognize that people have lost jobs and Lister that income because of COVID-19. It is not their fault and they need income in order to pay for their groceries and support their family and pay their rent.
+That is why we chose to move in a targeted fashion very quickly to deliver assistance to these people who need help and that is exactly what we did.
+We see that more than eight million Canadians are receiving the Canada emergency response benefit and just announced support for students as well.
+and there will be future announcements to help others who need help.
+
+
+
+**Reporter**:
+
+Yesterday you cede you would proceed with gun control legislation at the appropriate time.
+We've seen other countries, Australia and new Zealand, act very quickly after mass shootings.
+Why do you think this isn't the appropriate time? and do you not believe the department can't deal with two pressing issues at the same time?
+
+
+
+**Prime Minister Trudeau**:
+
+We are certainly looking at introducing the gun control measures that were ready to go but were suspended because of COVID-19. The rules the terms of parliament in a reduced state specifically sate that we need to only introduce measures related to COVID-19 but we will be seeing with other parties if there is an appetite to move more quickly in place given the tragedy we just had.
+
+
+
+**Interpreter**:
+
+We were almost in that position to introduce that bill before parliament was suspended.
+The conditions of parliament meeting in restricted numbers means that the legislation now that we introduce must be related to COVID-19. But we are prepared to speak to the other part is to see if they're prepared to move more quickly on strengthening gun control.
+
+
+
+**Reporter**:
+
+Are comparatively modest compared to other countries, particularly Australia after the port Arthur massacre in 1996.
+Are you willing now to revisit the measures before parliament and strengthen them, particularly with regard to ownership of restricted weapons like handguns and certain semi-automatic rifles?
+
+
+
+**Prime Minister Trudeau**:
+
+We made strong commitment in the last election campaign on strengthening gun control.
+There was
+
+
+
+a significant debate in this country that continues between parties in favour of strengthening gun control and other parties that want to weaken gun control.
+There continues to be a need for debate but we are resolute that we need to move forward on strengthening gun control legislation in small, common sense ways.
+They have no place in our communities, in our country, and that is why we'll be moving forward with legislation to ban them.
+
+
+
+**Reporter**:
+
+Hi, Prime Minister.
+Tom Perry with CBC.
+You said in your announcement you're making 76, 000 jobs for young people and they will be in sectors that need an extra hand right now and are on the front lines of the pandemic.
+We heard about contact tracing, needing people there.
+Where will they be working?
+
+
+
+Prime Minister Trudeau's we're looking at contact tracing and sectors that need extra support, perhaps agriculture and others.
+We will have more to say in the coming days as we develop this.
+But we know young people want and need good summer jobs and we're going to make sure that we can get them.
+
+
+
+**Reporter**:
+
+You talked earlier about seniors homes and the tragedy unfolding there.
+The government has announced support for essential workers there.
+Has there been much buy-in? is that helping anyone yet? and do you see a greater role for the federal government in ensuring a standard of care.
+
+
+
+**Prime Minister Trudeau**:
+
+We see a couple of provinces, like British Columbia and Quebec, move forward on support for essential workers who are low paid but in important areas like if long-term care facilities.
+That is why we are talking with provinces about expanding and supporting them in those programmes.
+There have been discussions ongoing with the provinces, recognizing as was pointed out that it is very much a provincial jurisdiction but recognize this is a problem we want help with.
+The larger question we're all facing is an understanding that in many parts of this country and many places across this country, the people who care for our most vulnerable are they themselves are the most vulnerable and we need to have a reflection as we get through this crisis and certainly after it on how we ensure that the people taking care of the most vulnerable are not themselves vulnerable.
+
+
+
+
+**Interpreter**:
+
+I think it is clear now that we're working with the provinces to help address all sorts of situations en colluding in seniors homes but we will have to reflect as a country and as a society on how we can ensure that the most vulnerable people are not being helped by people who are also extremely vulnerable.
+We need to ensure that people doing that important work of caring for elderly and vulnerable Canadians are not themselves extremely vulnerable economically.
+
+
+
+**Reporter**:
+
+Just to follow-up on seniors.
+There's been a number of announcements today for students, previously for businesses, etc.
+I wofnler specifically in terms of seniors and recently retired people who have lost their savings or substantial amount of savings due to COVID-19. Will there be help for them?
+
+
+
+Prime Minister Trudeau's yes, there will be help for seniors.
+People who lost their incomes and lost their jobs, that is what we did with the Canada emergency response benefit and the wage subsidy.
+Now, as the school year comes to an end in April for university students, we're moving forward with support for university students baz they are going to need help in finding a job, in getting income replacement at a time when they would be counting on money to help them pay rent and pay groceries.
+At the same time, even though many seniors continue to have the same fixed income they had from the government from pensions, there are concerns both about their long-term savings, which is why we made change on the rrif withdrawals and recognize that the cost of living has gone up for seniors as they're facing challenges because COVID-19 targets seniors to a greater degree.
+So, we're working right now on measures for seniors.
+I want to thank the other parties that made excellent suggestions and we'll have more to announce in the coming days.
+
+
+
+
+**Interpreter**:
+
+We decided to give a priority to people who had lost their pay cheques because of COVID-19. With the wage subsidy and the response benefit, we are helping those people two really needed help right away, as soon as the COVID-19 situation began.
+and today, because we are coming to the end of the school year for students in the post-secondary education centre, we realise we had to give them help because they will need to find jobs in May or jobs for the summer, so we're introducing the Canada emergency student benefit.
+We will also be looking at seniors situations.
+We have already brought in some mercks to help them, be we will be doing more and we will have more to say about that in the coming days.
+
+
+
+**Reporter**:
+
+Finally, in terms of those awful events that happened over the weekend in Nova Scotia, I'm wondering if your government is looking at introducing federal guidelines or have a deal with an active shooter?
+
+
+
+**Prime Minister Trudeau**:
+
+I think there are many families that are grieving incredible losses right now who are asking how things could have been difference and how they would have been warned earlier.
+Those are extremely important questions that I know will be addressed through the investigations and the conclusions.
+We need to protect citizens in every circumstance.
+and those are something that we'll be talk about in the coming days and weeks.
+Merci.
+
+
+
+
