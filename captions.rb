@@ -126,8 +126,8 @@ def pagination_for_idx(page, max)
   previous_link = page == 2 ? "README" : "PAGE_#{page - 1}"
   inner_border = page == max ? "" : "border-right: 1px solid #ccc"
   pagination = "\n\n<div style='border: 1px solid #ccc; display: inline-block; padding: 0; margin-top: 30px;'>\n"
-  pagination += "  <a style='display: inline-block; padding: 10px 0; width: 50px; text-align: center; #{inner_border}' href='./#{previous_link}.md'>←</a>\n" unless page < 2
-  pagination += "  <a style='display: inline-block; padding: 10px 0; width: 50px; text-align: center' href='./PAGE_#{page + 1}.md'>→</a>\n" unless page == max
+  pagination += "  <a style='display: inline-block; padding: 10px 0; width: 50px; text-align: center; #{inner_border}' href='./#{previous_link}'>←</a>\n" unless page < 2
+  pagination += "  <a style='display: inline-block; padding: 10px 0; width: 50px; text-align: center' href='./PAGE_#{page + 1}'>→</a>\n" unless page == max
   pagination + "</div>"
 end
 
