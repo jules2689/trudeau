@@ -12,7 +12,7 @@ module Trudeau
     end
 
     def parse
-      uri = URI.parse("https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&playlistId=#{PLAYLIST_ID}&key=#{@token}")
+      uri = URI.parse("https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&maxResults=50&playlistId=#{PLAYLIST_ID}&key=#{@token}")
       request = Net::HTTP::Get.new(uri)
       request["Accept"] = "application/json"
       response = Net::HTTP.start(uri.hostname, uri.port, use_ssl: true) do |http|
