@@ -18,7 +18,7 @@ Prime Minister Justin Trudeau offered more assurances that the federal governmen
 <div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/0k8vvTTy5UA/q_a.md'>Q & A</a></div>
 <br>
 <div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/0k8vvTTy5UA/pre_news.md'>Pre-Speech News</a></div>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/0k8vvTTy5UA/post_news.md'>News after Trudeau</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/0k8vvTTy5UA/post_news.md'>Post-Speech News</a></div>
 
 </div></div>
 <div style='border: 1px solid #ccc; margin-bottom: 30px; border-radius: 10px;'>
@@ -37,7 +37,7 @@ Prime Minister Justin Trudeau has announced a $82-billion aid package to help Ca
 <div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/AOCvtq_WVzo/q_a.md'>Q & A</a></div>
 <br>
 <div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/AOCvtq_WVzo/pre_news.md'>Pre-Speech News</a></div>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/AOCvtq_WVzo/post_news.md'>News after Trudeau</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/AOCvtq_WVzo/post_news.md'>Post-Speech News</a></div>
 
 </div></div>
 <div style='border: 1px solid #ccc; margin-bottom: 30px; border-radius: 10px;'>
@@ -56,7 +56,7 @@ Prime Minister Justin Trudeau is updating Canadians on the new measures the fede
 <div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/fuO4NB3AjzU/q_a.md'>Q & A</a></div>
 <br>
 <div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/fuO4NB3AjzU/pre_news.md'>Pre-Speech News</a></div>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/fuO4NB3AjzU/post_news.md'>News after Trudeau</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/fuO4NB3AjzU/post_news.md'>Post-Speech News</a></div>
 
 </div></div>
 <div style='border: 1px solid #ccc; margin-bottom: 30px; border-radius: 10px;'>
@@ -75,7 +75,7 @@ Prime Minister Justin Trudeau is speaking to Canadians about the spread of COVID
 <div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/JVMZC952AwE/q_a.md'>Q & A</a></div>
 <br>
 <div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/JVMZC952AwE/pre_news.md'>Pre-Speech News</a></div>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/JVMZC952AwE/post_news.md'>News after Trudeau</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/JVMZC952AwE/post_news.md'>Post-Speech News</a></div>
 
 </div></div>
 

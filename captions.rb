@@ -117,7 +117,7 @@ videos.each_with_index do |(id, video), idx|
     current_readme << "<div style='#{button_style}'><a href='./#{video[:date]}/#{id}/q_a.md'>Q & A</a></div>"
     current_readme << "<br>"
     current_readme << "<div style='#{button_style}'><a href='./#{video[:date]}/#{id}/pre_news.md'>Pre-Speech News</a></div>"
-    current_readme << "<div style='#{button_style}'><a href='./#{video[:date]}/#{id}/post_news.md'>News after Trudeau</a></div>"
+    current_readme << "<div style='#{button_style}'><a href='./#{video[:date]}/#{id}/post_news.md'>Post-Speech News</a></div>"
     current_readme << "\n</div></div>"
 
     if !options[:force] && Dir.exist?(video_output_path)

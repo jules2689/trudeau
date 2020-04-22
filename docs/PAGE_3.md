@@ -18,7 +18,7 @@ Businesses and non-profit organizations seeing a drop of at least 30 per cent in
 <div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/ZA_0LSt0Uiw/q_a.md'>Q & A</a></div>
 <br>
 <div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/ZA_0LSt0Uiw/pre_news.md'>Pre-Speech News</a></div>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/ZA_0LSt0Uiw/post_news.md'>News after Trudeau</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/ZA_0LSt0Uiw/post_news.md'>Post-Speech News</a></div>
 
 </div></div>
 <div style='border: 1px solid #ccc; margin-bottom: 30px; border-radius: 10px;'>
@@ -37,7 +37,7 @@ Prime Minister Justin Trudeau pledges more assistance for Canadian seniors and y
 <div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/OR8tU1uv2EA/q_a.md'>Q & A</a></div>
 <br>
 <div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/OR8tU1uv2EA/pre_news.md'>Pre-Speech News</a></div>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/OR8tU1uv2EA/post_news.md'>News after Trudeau</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/OR8tU1uv2EA/post_news.md'>Post-Speech News</a></div>
 
 </div></div>
 <div style='border: 1px solid #ccc; margin-bottom: 30px; border-radius: 10px;'>
@@ -56,7 +56,7 @@ Prime Minister Justin Trudeau has announced domestic travel restrictions by plan
 <div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/-3TZOqYFfww/q_a.md'>Q & A</a></div>
 <br>
 <div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/-3TZOqYFfww/pre_news.md'>Pre-Speech News</a></div>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/-3TZOqYFfww/post_news.md'>News after Trudeau</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/-3TZOqYFfww/post_news.md'>Post-Speech News</a></div>
 
 </div></div>
 <div style='border: 1px solid #ccc; margin-bottom: 30px; border-radius: 10px;'>
@@ -75,7 +75,7 @@ Prime Minister Justin Trudeau announced more help for small and medium-sized bus
 <div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/SPAdpHoq5E4/q_a.md'>Q & A</a></div>
 <br>
 <div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/SPAdpHoq5E4/pre_news.md'>Pre-Speech News</a></div>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/SPAdpHoq5E4/post_news.md'>News after Trudeau</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/SPAdpHoq5E4/post_news.md'>Post-Speech News</a></div>
 
 </div></div>
 <div style='border: 1px solid #ccc; margin-bottom: 30px; border-radius: 10px;'>
@@ -94,7 +94,7 @@ Prime Minister Justin Trudeau addresses the country as travellers returning to C
 <div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/AnX5bRmepmI/q_a.md'>Q & A</a></div>
 <br>
 <div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/AnX5bRmepmI/pre_news.md'>Pre-Speech News</a></div>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/AnX5bRmepmI/post_news.md'>News after Trudeau</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/AnX5bRmepmI/post_news.md'>Post-Speech News</a></div>
 
 </div></div>
 <div style='border: 1px solid #ccc; margin-bottom: 30px; border-radius: 10px;'>
@@ -113,7 +113,7 @@ The government has passed a COVID-19 aid package bill worth $107 billion to help
 <div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/GF6l3QUayiU/q_a.md'>Q & A</a></div>
 <br>
 <div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/GF6l3QUayiU/pre_news.md'>Pre-Speech News</a></div>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/GF6l3QUayiU/post_news.md'>News after Trudeau</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/GF6l3QUayiU/post_news.md'>Post-Speech News</a></div>
 
 </div></div>
 <div style='border: 1px solid #ccc; margin-bottom: 30px; border-radius: 10px;'>
@@ -132,7 +132,7 @@ Prime Minister Justin Trudeau is addressing the country as a small number of MPs
 <div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/MyHRODOzBb4/q_a.md'>Q & A</a></div>
 <br>
 <div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/MyHRODOzBb4/pre_news.md'>Pre-Speech News</a></div>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/MyHRODOzBb4/post_news.md'>News after Trudeau</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/MyHRODOzBb4/post_news.md'>Post-Speech News</a></div>
 
 </div></div>
 <div style='border: 1px solid #ccc; margin-bottom: 30px; border-radius: 10px;'>
@@ -151,7 +151,7 @@ Prime Minister Justin Trudeau warned of potential COVID-19 enforcement measures 
 <div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/hcPXrMpROsg/q_a.md'>Q & A</a></div>
 <br>
 <div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/hcPXrMpROsg/pre_news.md'>Pre-Speech News</a></div>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/hcPXrMpROsg/post_news.md'>News after Trudeau</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/hcPXrMpROsg/post_news.md'>Post-Speech News</a></div>
 
 </div></div>
 <div style='border: 1px solid #ccc; margin-bottom: 30px; border-radius: 10px;'>
@@ -170,7 +170,7 @@ Prime Minister Justin Trudeau says the $82-billion financial package announced e
 <div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/9QoBoeC6SAg/q_a.md'>Q & A</a></div>
 <br>
 <div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/9QoBoeC6SAg/pre_news.md'>Pre-Speech News</a></div>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/9QoBoeC6SAg/post_news.md'>News after Trudeau</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/9QoBoeC6SAg/post_news.md'>Post-Speech News</a></div>
 
 </div></div>
 <div style='border: 1px solid #ccc; margin-bottom: 30px; border-radius: 10px;'>
@@ -189,7 +189,7 @@ Canada will turn back asylum-seekers attempting to enter the country outside of 
 <div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/om2fbGu8giw/q_a.md'>Q & A</a></div>
 <br>
 <div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/om2fbGu8giw/pre_news.md'>Pre-Speech News</a></div>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/om2fbGu8giw/post_news.md'>News after Trudeau</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/om2fbGu8giw/post_news.md'>Post-Speech News</a></div>
 
 </div></div>
 
