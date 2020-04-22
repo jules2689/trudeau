@@ -78,23 +78,31 @@ CLI::UI::Frame.open("Finding videos") do
   end
 end
 
-readme = [<<~EOF]
+readmes = []
+current_readme = []
+readme_preamble = <<~EOF
 <div style="border: 1px solid #ccc; padding: 20px; text-align: center; margin-bottom: 30px; border-radius: 20px;">
 You can view a human summarized version of these notes <a href="https://www.notion.so/jnadeau/Covid-19-Canadian-PM-Trudeau-Summaries-9055578ceba94368a732b68904eae78f">at this link</a>.
 </div>
 EOF
 
-videos.each do |id, video|
+videos.each_with_index do |(id, video), idx|
   CLI::UI::Frame.open("#{video[:date]} - #{video[:title]}") do
     video_output_path = File.join(options[:output_path], video[:date])
 
-    readme << "\n### #{video[:date]} - #{video[:title]}"
-    readme << video[:description]
-    readme << "  - [Video](https://www.youtube.com/watch?v=#{id})"
-    readme << "  - [Trudeau](./#{video[:date]}/trudeau.md)"
-    readme << "  - [Q & A](./#{video[:date]}/q_a.md)"
-    readme << "  - [News before Trudeau](./#{video[:date]}/pre_news.md)"
-    readme << "  - [News after Trudeau](./#{video[:date]}/post_news.md)"
+    if idx > 0 && idx % 10 == 0
+      readmes << current_readme.join("\n")
+      current_readme = []
+    end
+
+    current_readme << readme_preamble if current_readme.empty?
+    current_readme << "\n### #{video[:date]} - #{video[:title]}"
+    current_readme << video[:description]
+    current_readme << "  - [Video](https://www.youtube.com/watch?v=#{id})"
+    current_readme << "  - [Trudeau](./#{video[:date]}/trudeau.md)"
+    current_readme << "  - [Q & A](./#{video[:date]}/q_a.md)"
+    current_readme << "  - [News before Trudeau](./#{video[:date]}/pre_news.md)"
+    current_readme << "  - [News after Trudeau](./#{video[:date]}/post_news.md)"
 
     if !options[:force] && Dir.exist?(video_output_path)
       puts "Video downloaded already"
@@ -108,7 +116,24 @@ videos.each do |id, video|
     end
   end
 end
+readmes << current_readme.join("\n")
 
-File.write(File.join(options[:output_path], 'README.md'), readme.join("\n"))
+def pagination_for_idx(page, max)
+  previous_link = page == 2 ? "README" : "PAGE_#{page - 1}"
+  pagination = "\n\n<ul style='display: inline-block; padding: 0; margin: 8px: 0; margin-top: 30px;'>"
+  pagination += "<li><a href='./#{previous_link}'></a>Previous</li>" unless page < 2
+  pagination += "<li><a href='./PAGE_#{page + 1}'></a>Next</li>" unless page == max
+  pagination + "</ul>"
+end
+
+number_of_pages = readmes.size
+main_readme = readmes.shift
+main_readme += pagination_for_idx(1, number_of_pages)
+File.write(File.join(options[:output_path], 'README.md'), main_readme)
+
+readmes.each_with_index do |readme, idx|
+  readme = readme + pagination_for_idx(idx + 2, number_of_pages)
+  File.write(File.join(options[:output_path], "PAGE_#{idx + 2}.md"), readme)
+end
 
 

@@ -32,7 +32,7 @@ jobs:
         ruby test/test.rb
     - name: Generate Dialog
       run: |
-        ruby captions.rb -t "${{ secrets.GOOGLE_TOKEN }}" --force
+        ruby captions.rb -t "${{ secrets.GOOGLE_TOKEN }}"
     - name: Commit Dialog
       run: |
         git config --local user.email "action@github.com"
