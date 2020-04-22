@@ -121,9 +121,9 @@ readmes << current_readme.join("\n")
 def pagination_for_idx(page, max)
   previous_link = page == 2 ? "README" : "PAGE_#{page - 1}"
   inner_border = page == max ? "" : "border-right: 1px solid #ccc"
-  pagination = "\n\n<ul style='border: 1px solid #ccc; display: inline-block; padding: 0; margin: 8px: 0; margin-top: 30px;'>\n"
-  pagination += "\t<li style='display: inline; #{inner_border}'><a href='./#{previous_link}'>Previous</a></li>\n" unless page < 2
-  pagination += "\t<li style='display: inline'><a href='./PAGE_#{page + 1}'>Next</a></li>\n" unless page == max
+  pagination = "\n\n<ul style='border: 1px solid #ccc; display: inline-block; padding: 10px 0; margin-top: 30px;'>\n"
+  pagination += "\t<li style='display: inline-block; width: 50px; text-align: center; #{inner_border}'><a href='./#{previous_link}'>←</a></li>\n" unless page < 2
+  pagination += "\t<li style='display: inline-block; width: 50px; text-align: center';><a href='./PAGE_#{page + 1}'>→</a></li>\n" unless page == max
   pagination + "</ul>"
 end
 

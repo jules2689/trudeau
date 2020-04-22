@@ -93,7 +93,7 @@ The Canadian government says it's ordering millions of masks and thousands of ve
   - [News before Trudeau](./2020-04-03/pre_news.md)
   - [News after Trudeau](./2020-04-03/post_news.md)
 
-<ul style='border: 1px solid #ccc; display: inline-block; padding: 0; margin: 8px: 0; margin-top: 30px;'>
-	<li style='display: inline; border-right: 1px solid #ccc'><a href='./README'>Previous</a></li>
-	<li style='display: inline'><a href='./PAGE_3'>Next</a></li>
+<ul style='border: 1px solid #ccc; display: inline-block; padding: 10px 0; margin-top: 30px;'>
+	<li style='display: inline-block; width: 50px; text-align: center; border-right: 1px solid #ccc'><a href='./README'>←</a></li>
+	<li style='display: inline-block; width: 50px; text-align: center';><a href='./PAGE_3'>→</a></li>
 </ul>
