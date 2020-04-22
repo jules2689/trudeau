@@ -94,5 +94,5 @@ Prime Minister Justin Trudeau discusses the Canada emergency business account, a
   - [News after Trudeau](./2020-04-10/post_news.md)
 
 <div style='border: 1px solid #ccc; display: inline-block; padding: 10px 0; margin-top: 30px;'>
-  <a style='display: inline-block; padding: 10px 0; width: 50px; text-align: center' href='./PAGE_2'>→</a>
+  <a style='display: inline-block; padding: 10px 0; width: 50px; text-align: center' href='./PAGE_2.md'>→</a>
 </div>
