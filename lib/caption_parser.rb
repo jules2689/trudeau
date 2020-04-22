@@ -125,7 +125,7 @@ module Trudeau
                                 .map { |e| e.to_s(include_speaker: false) }
                                 .join("\n")
           content, topics = trudeau_text.summarize(ratio: 50, topics: true)
-          output = "**This content is fully automated and not guaranteed to be accurate**\n\n"
+          output = "**This content is automatically generated and not guaranteed to be accurate**\n\n"
           output = "#{output}### Topics\n\n- #{topics.split(",").join("\n- ")}\n\n---\n\n### Summary:\n\n#{content}"
           File.write(path, output)
         end
