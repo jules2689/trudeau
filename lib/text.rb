@@ -32,6 +32,8 @@ module Trudeau
         @msg = @msg.gsub(/\[/, "\n\n[")
       end
 
+      clean_speaker_names!
+
       # Split up out put by sentence. This makes diffs easier to compare, but doesn't affect the markdown.
       # Check for 3 word chars before a period so we don't get things like Dr. and Mr. as places to split
       # Not perfect as this will capture things like `on.` too, but this is fine... it's only for diffs
@@ -59,6 +61,11 @@ module Trudeau
     end
 
     private
+
+    def clean_speaker_names!
+      return unless @speaker
+      @speaker.gsub!(/ChyrstiaFREELAND/, "Chrystia Freeland")
+    end
 
     def humanize(msg)
       return msg if msg.nil?
