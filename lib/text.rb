@@ -16,13 +16,13 @@ module Trudeau
         speaker, msg = raw_text.split(": ", 2)
 
         @speaker = speaker[2..-1].strip
-        @msg = humanize(msg)
+        @msg = clean_text(msg)
       else
-        @msg = humanize(raw_text)
+        @msg = clean_text(raw_text)
       end
 
       if @msg.nil? && !@speaker.nil?
-        @msg = humanize(@speaker.dup)
+        @msg = clean_text(@speaker.dup)
         @speaker = nil
       end
 
@@ -70,15 +70,15 @@ module Trudeau
       @speaker.gsub(/\(\s*\)/, "")
     end
 
-    def humanize(msg)
+    def clean_text(msg)
       return msg if msg.nil?
+
       msg = msg.strip.humanize
-      
       spellchecker = Trudeau::TextCleaner.new(msg)
       spellchecker.fix!
       @replaced_words.merge!(spellchecker.replaced_words)
       @unknown_words.merge!(spellchecker.unknown_words)
-      spellchecker.text
+      spellchecker.text.lstrip
     end
   end
 end

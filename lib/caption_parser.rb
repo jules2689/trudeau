@@ -87,7 +87,9 @@ module Trudeau
         end
 
         # Combine strings using a space
-        dialog_buffer += " " unless dialog_buffer.end_with?(" ")
+        if dialog_buffer.end_with?(".", ",", "!", "?", ":", ";", "\"", "'") && !entry.text.start_with?(" ")
+          dialog_buffer += " "
+        end
         dialog_buffer += entry.text
       end
 

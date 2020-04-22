@@ -58,9 +58,13 @@ module Trudeau
 
     def post_clean
       @text.gsub!(/\[speaking french\]\.?/i, "")
+      @text.gsub!(/Nova Scotian/i, "Nova Scotian")
     end
 
     def fix_known_issues
+      # Double+ spaces
+      @text.gsub!(/[ ]{2,}/, " ")
+
       # Together Fixes
       @text.gsub!(/\bto gether\b/, "together")
       @text.gsub!(/\bgether\b/, "gather")
@@ -201,6 +205,8 @@ module Trudeau
         else
           replacement = best_suggestion(entry[:suggestions].dup, entry[:original].dup)
           if replacement && replacement.strip != entry[:original].strip
+            punctuation = entry[:original].match(/.+([\.\?\!"',])/)
+            replacement = replacement + (punctuation ? punctuation[1] : "")
             @replaced_words[entry[:original]] = replacement
           else
             @unknown_words[entry[:original]] = entry[:suggestions]
