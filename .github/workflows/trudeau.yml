@@ -16,6 +16,9 @@ jobs:
     - name: Install Aspell
       run: |
         sudo apt-get install aspell aspell-en
+    - name: Run tests
+      run: |
+        ruby test/test.rb
     - name: Generate Dialog
       run: |
         ruby captions.rb -t "${{ secrets.GOOGLE_TOKEN }}" --force
