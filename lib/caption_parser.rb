@@ -111,7 +111,13 @@ module Trudeau
       @dialog.each do |key, entries|
         path = File.join(output_path, "#{key}.md")
         puts "Writing to #{path}" unless ENV["TEST"]
-        output = entries.map(&:to_s).join("\n")
+        title = case key
+        when :pre_news then "News before the Speech"
+        when :trudeau then "PM Trudeau Speech"
+        when :q_a then "Q & A"
+        when :post_news then "News after the Speech"
+        end
+        output = "##{title}\n\n#{entries.map(&:to_s).join("\n")}"
         if key == :trudeau
           output = "[Automated Summary can be read here](./#{key}_summary.md)\n\n#{output}"
         end
