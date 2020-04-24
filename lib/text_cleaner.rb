@@ -35,6 +35,8 @@ module Trudeau
       "m. L.a." => "MLA",
       "b. C." => "British Columbia",
       "w. H.o." => "W.H.O.",
+      "n. D.p." => "NDP",
+      "h. I.v." => "HIV",
     }
 
     attr_reader :original_text, :text, :replaced_words, :unknown_words
