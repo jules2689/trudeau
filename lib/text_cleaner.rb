@@ -37,6 +37,8 @@ module Trudeau
       "w. H.o." => "W.H.O.",
       "n. D.p." => "NDP",
       "h. I.v." => "HIV",
+      "p. M." => "PM",
+      "a. M." => "AM",
     }
 
     attr_reader :original_text, :text, :replaced_words, :unknown_words
