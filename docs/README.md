@@ -3,6 +3,25 @@ You can view a human summarized version of these notes <a href="https://www.noti
 </div>
 
 <div style='border: 1px solid #ccc; margin-bottom: 30px; border-radius: 10px;'>
+<iframe src="https://www.youtube.com/embed/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS5GNDg1Njc1QzZERjlFRjE5"
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""
+style="width: 100%; border-top-left-radius: 10px; border-top-right-radius: 10px;" width="" height="250" frameborder="0"></iframe>
+<br>
+
+<div style='padding: 20px'>
+<h3>Trudeau offers rent relief for businesses affected by COVID-19</h3>
+<strong>2020-04-24</strong>
+Prime Minister Justin Trudeau today announced a new rent subsidy program to help businesses forced to shut down due to the global pandemic, as some provinces begin to lay out plans to reopen their economies.
+
+<br><br>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-24/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS5GNDg1Njc1QzZERjlFRjE5/trudeau'>PM Trudeau Speech</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-24/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS5GNDg1Njc1QzZERjlFRjE5/q_a'>Q & A</a></div>
+<br>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-24/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS5GNDg1Njc1QzZERjlFRjE5/pre_news'>Pre-Speech News</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-24/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS5GNDg1Njc1QzZERjlFRjE5/post_news'>Post-Speech News</a></div>
+
+</div></div>
+<div style='border: 1px solid #ccc; margin-bottom: 30px; border-radius: 10px;'>
 <iframe src="https://www.youtube.com/embed/f9sL4sfufEU"
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""
 style="width: 100%; border-top-left-radius: 10px; border-top-right-radius: 10px;" width="" height="250" frameborder="0"></iframe>
@@ -171,25 +190,6 @@ Prime Minister Justin Trudeau has announced $1.7 billion to clean up orphan well
 <br>
 <div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-17/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS41QUZGQTY5OTE4QTREQUU4/pre_news'>Pre-Speech News</a></div>
 <div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-17/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS41QUZGQTY5OTE4QTREQUU4/post_news'>Post-Speech News</a></div>
-
-</div></div>
-<div style='border: 1px solid #ccc; margin-bottom: 30px; border-radius: 10px;'>
-<iframe src="https://www.youtube.com/embed/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS43NDhFRTgwOTRERTU4Rjg3"
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""
-style="width: 100%; border-top-left-radius: 10px; border-top-right-radius: 10px;" width="" height="250" frameborder="0"></iframe>
-<br>
-
-<div style='padding: 20px'>
-<h3>Trudeau plans to expand aid for businesses, assistance for commercial rent</h3>
-<strong>2020-04-16</strong>
-Prime Minister Justin Trudeau has announced more measures to help Canadian businesses get through the COVID-19 crisis, including expanded loan eligibility and assistance with commercial rent.
-
-<br><br>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-16/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS43NDhFRTgwOTRERTU4Rjg3/trudeau'>PM Trudeau Speech</a></div>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-16/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS43NDhFRTgwOTRERTU4Rjg3/q_a'>Q & A</a></div>
-<br>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-16/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS43NDhFRTgwOTRERTU4Rjg3/pre_news'>Pre-Speech News</a></div>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-16/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS43NDhFRTgwOTRERTU4Rjg3/post_news'>Post-Speech News</a></div>
 
 </div></div>
 
