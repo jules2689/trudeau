@@ -3,45 +3,7 @@ You can view a human summarized version of these notes <a href="https://www.noti
 </div>
 
 <div style='border: 1px solid #ccc; margin-bottom: 30px; border-radius: 10px;'>
-<iframe src="https://www.youtube.com/embed/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS5GM0Q3M0MzMzY5NTJFNTdE"
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""
-style="width: 100%; border-top-left-radius: 10px; border-top-right-radius: 10px;" width="" height="250" frameborder="0"></iframe>
-<br>
-
-<div style='padding: 20px'>
-<h3>Trudeau promises more Canadians to receive COVID-19 emergency benefit</h3>
-<strong>2020-04-06</strong>
-Prime Minister Justin Trudeau addresses the country as the application portal opens for Canadians to apply to the Canada Emergency Response Benefit (CERB). 
-
-<br><br>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-06/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS5GM0Q3M0MzMzY5NTJFNTdE/trudeau'>PM Trudeau Speech</a></div>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-06/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS5GM0Q3M0MzMzY5NTJFNTdE/q_a'>Q & A</a></div>
-<br>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-06/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS5GM0Q3M0MzMzY5NTJFNTdE/pre_news'>Pre-Speech News</a></div>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-06/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS5GM0Q3M0MzMzY5NTJFNTdE/post_news'>Post-Speech News</a></div>
-
-</div></div>
-<div style='border: 1px solid #ccc; margin-bottom: 30px; border-radius: 10px;'>
-<iframe src="https://www.youtube.com/embed/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS4yMDhBMkNBNjRDMjQxQTg1"
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""
-style="width: 100%; border-top-left-radius: 10px; border-top-right-radius: 10px;" width="" height="250" frameborder="0"></iframe>
-<br>
-
-<div style='padding: 20px'>
-<h3>COVID-19 update: Trudeau says 'millions of masks' coming from China | Special coverage</h3>
-<strong>2020-04-06</strong>
-Prime Minister Justin Trudeau is addressed the country as U.S. President Donald Trump pressures 3M to halt surgical-grade mask exports to other countries, including Canada.
-
-<br><br>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-06/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS4yMDhBMkNBNjRDMjQxQTg1/trudeau'>PM Trudeau Speech</a></div>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-06/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS4yMDhBMkNBNjRDMjQxQTg1/q_a'>Q & A</a></div>
-<br>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-06/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS4yMDhBMkNBNjRDMjQxQTg1/pre_news'>Pre-Speech News</a></div>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-06/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS4yMDhBMkNBNjRDMjQxQTg1/post_news'>Post-Speech News</a></div>
-
-</div></div>
-<div style='border: 1px solid #ccc; margin-bottom: 30px; border-radius: 10px;'>
-<iframe src="https://www.youtube.com/embed/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS4yMUQyQTQzMjRDNzMyQTMy"
+<iframe src="https://www.youtube.com/embed/5wpVPXD9gJI"
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""
 style="width: 100%; border-top-left-radius: 10px; border-top-right-radius: 10px;" width="" height="250" frameborder="0"></iframe>
 <br>
@@ -52,15 +14,15 @@ style="width: 100%; border-top-left-radius: 10px; border-top-right-radius: 10px;
 Prime Minister Justin Trudeau said today Parliament will be recalled to pass new legislation to deliver enhanced COVID-19 emergency aid measures.
 
 <br><br>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS4yMUQyQTQzMjRDNzMyQTMy/trudeau'>PM Trudeau Speech</a></div>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS4yMUQyQTQzMjRDNzMyQTMy/q_a'>Q & A</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/5wpVPXD9gJI/trudeau'>PM Trudeau Speech</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/5wpVPXD9gJI/q_a'>Q & A</a></div>
 <br>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS4yMUQyQTQzMjRDNzMyQTMy/pre_news'>Pre-Speech News</a></div>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS4yMUQyQTQzMjRDNzMyQTMy/post_news'>Post-Speech News</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/5wpVPXD9gJI/pre_news'>Pre-Speech News</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/5wpVPXD9gJI/post_news'>Post-Speech News</a></div>
 
 </div></div>
 <div style='border: 1px solid #ccc; margin-bottom: 30px; border-radius: 10px;'>
-<iframe src="https://www.youtube.com/embed/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS41QTY1Q0UxMTVCODczNThE"
+<iframe src="https://www.youtube.com/embed/IBhTypl4wQo"
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""
 style="width: 100%; border-top-left-radius: 10px; border-top-right-radius: 10px;" width="" height="250" frameborder="0"></iframe>
 <br>
@@ -71,15 +33,15 @@ style="width: 100%; border-top-left-radius: 10px; border-top-right-radius: 10px;
 Prime Minister Justin Trudeau announced $100 million in new funding for food banks serving vulnerable Canadians across the country.
 
 <br><br>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS41QTY1Q0UxMTVCODczNThE/trudeau'>PM Trudeau Speech</a></div>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS41QTY1Q0UxMTVCODczNThE/q_a'>Q & A</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/IBhTypl4wQo/trudeau'>PM Trudeau Speech</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/IBhTypl4wQo/q_a'>Q & A</a></div>
 <br>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS41QTY1Q0UxMTVCODczNThE/pre_news'>Pre-Speech News</a></div>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS41QTY1Q0UxMTVCODczNThE/post_news'>Post-Speech News</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/IBhTypl4wQo/pre_news'>Pre-Speech News</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/IBhTypl4wQo/post_news'>Post-Speech News</a></div>
 
 </div></div>
 <div style='border: 1px solid #ccc; margin-bottom: 30px; border-radius: 10px;'>
-<iframe src="https://www.youtube.com/embed/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS5EQUE1NTFDRjcwMDg0NEMz"
+<iframe src="https://www.youtube.com/embed/JVMZC952AwE"
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""
 style="width: 100%; border-top-left-radius: 10px; border-top-right-radius: 10px;" width="" height="250" frameborder="0"></iframe>
 <br>
@@ -90,15 +52,15 @@ style="width: 100%; border-top-left-radius: 10px; border-top-right-radius: 10px;
 Prime Minister Justin Trudeau is speaking to Canadians about the spread of COVID-19. Earlier today he warned Canadians against international travel and is considering tightening the border to some international travellers.
 
 <br><br>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS5EQUE1NTFDRjcwMDg0NEMz/trudeau'>PM Trudeau Speech</a></div>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS5EQUE1NTFDRjcwMDg0NEMz/q_a'>Q & A</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/JVMZC952AwE/trudeau'>PM Trudeau Speech</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/JVMZC952AwE/q_a'>Q & A</a></div>
 <br>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS5EQUE1NTFDRjcwMDg0NEMz/pre_news'>Pre-Speech News</a></div>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS5EQUE1NTFDRjcwMDg0NEMz/post_news'>Post-Speech News</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/JVMZC952AwE/pre_news'>Pre-Speech News</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/JVMZC952AwE/post_news'>Post-Speech News</a></div>
 
 </div></div>
 <div style='border: 1px solid #ccc; margin-bottom: 30px; border-radius: 10px;'>
-<iframe src="https://www.youtube.com/embed/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS41Mzk2QTAxMTkzNDk4MDhF"
+<iframe src="https://www.youtube.com/embed/fuO4NB3AjzU"
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""
 style="width: 100%; border-top-left-radius: 10px; border-top-right-radius: 10px;" width="" height="250" frameborder="0"></iframe>
 <br>
@@ -109,15 +71,15 @@ style="width: 100%; border-top-left-radius: 10px; border-top-right-radius: 10px;
 Prime Minister Justin Trudeau is updating Canadians on the new measures the federal government has implemented to help combat COVID-19.
 
 <br><br>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS41Mzk2QTAxMTkzNDk4MDhF/trudeau'>PM Trudeau Speech</a></div>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS41Mzk2QTAxMTkzNDk4MDhF/q_a'>Q & A</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/fuO4NB3AjzU/trudeau'>PM Trudeau Speech</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/fuO4NB3AjzU/q_a'>Q & A</a></div>
 <br>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS41Mzk2QTAxMTkzNDk4MDhF/pre_news'>Pre-Speech News</a></div>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS41Mzk2QTAxMTkzNDk4MDhF/post_news'>Post-Speech News</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/fuO4NB3AjzU/pre_news'>Pre-Speech News</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/fuO4NB3AjzU/post_news'>Post-Speech News</a></div>
 
 </div></div>
 <div style='border: 1px solid #ccc; margin-bottom: 30px; border-radius: 10px;'>
-<iframe src="https://www.youtube.com/embed/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS4zMDg5MkQ5MEVDMEM1NTg2"
+<iframe src="https://www.youtube.com/embed/AOCvtq_WVzo"
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""
 style="width: 100%; border-top-left-radius: 10px; border-top-right-radius: 10px;" width="" height="250" frameborder="0"></iframe>
 <br>
@@ -128,15 +90,15 @@ style="width: 100%; border-top-left-radius: 10px; border-top-right-radius: 10px;
 Prime Minister Justin Trudeau has announced a $82-billion aid package to help Canadians and businesses with the global COVID-19 pandemic, including income supports, wage subsidies and tax deferrals.
 
 <br><br>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS4zMDg5MkQ5MEVDMEM1NTg2/trudeau'>PM Trudeau Speech</a></div>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS4zMDg5MkQ5MEVDMEM1NTg2/q_a'>Q & A</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/AOCvtq_WVzo/trudeau'>PM Trudeau Speech</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/AOCvtq_WVzo/q_a'>Q & A</a></div>
 <br>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS4zMDg5MkQ5MEVDMEM1NTg2/pre_news'>Pre-Speech News</a></div>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS4zMDg5MkQ5MEVDMEM1NTg2/post_news'>Post-Speech News</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/AOCvtq_WVzo/pre_news'>Pre-Speech News</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/AOCvtq_WVzo/post_news'>Post-Speech News</a></div>
 
 </div></div>
 <div style='border: 1px solid #ccc; margin-bottom: 30px; border-radius: 10px;'>
-<iframe src="https://www.youtube.com/embed/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS45ODRDNTg0QjA4NkFBNkQy"
+<iframe src="https://www.youtube.com/embed/0k8vvTTy5UA"
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""
 style="width: 100%; border-top-left-radius: 10px; border-top-right-radius: 10px;" width="" height="250" frameborder="0"></iframe>
 <br>
@@ -147,15 +109,15 @@ style="width: 100%; border-top-left-radius: 10px; border-top-right-radius: 10px;
 Prime Minister Justin Trudeau offered more assurances that the federal government would help all Canadians through the COVID-19 crisis — but warned that "extraordinary" measures to contain the virus could be in place for weeks or months.
 
 <br><br>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS45ODRDNTg0QjA4NkFBNkQy/trudeau'>PM Trudeau Speech</a></div>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS45ODRDNTg0QjA4NkFBNkQy/q_a'>Q & A</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/0k8vvTTy5UA/trudeau'>PM Trudeau Speech</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/0k8vvTTy5UA/q_a'>Q & A</a></div>
 <br>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS45ODRDNTg0QjA4NkFBNkQy/pre_news'>Pre-Speech News</a></div>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS45ODRDNTg0QjA4NkFBNkQy/post_news'>Post-Speech News</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/0k8vvTTy5UA/pre_news'>Pre-Speech News</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/0k8vvTTy5UA/post_news'>Post-Speech News</a></div>
 
 </div></div>
 <div style='border: 1px solid #ccc; margin-bottom: 30px; border-radius: 10px;'>
-<iframe src="https://www.youtube.com/embed/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS5EMEEwRUY5M0RDRTU3NDJC"
+<iframe src="https://www.youtube.com/embed/om2fbGu8giw"
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""
 style="width: 100%; border-top-left-radius: 10px; border-top-right-radius: 10px;" width="" height="250" frameborder="0"></iframe>
 <br>
@@ -166,15 +128,15 @@ style="width: 100%; border-top-left-radius: 10px; border-top-right-radius: 10px;
 Canada will turn back asylum-seekers attempting to enter the country outside of official border points, announced Prime Minister Justin Trudeau. It part of a set of extreme new measures meant to stop the spread of COVID-19.
 
 <br><br>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS5EMEEwRUY5M0RDRTU3NDJC/trudeau'>PM Trudeau Speech</a></div>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS5EMEEwRUY5M0RDRTU3NDJC/q_a'>Q & A</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/om2fbGu8giw/trudeau'>PM Trudeau Speech</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/om2fbGu8giw/q_a'>Q & A</a></div>
 <br>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS5EMEEwRUY5M0RDRTU3NDJC/pre_news'>Pre-Speech News</a></div>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS5EMEEwRUY5M0RDRTU3NDJC/post_news'>Post-Speech News</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/om2fbGu8giw/pre_news'>Pre-Speech News</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/om2fbGu8giw/post_news'>Post-Speech News</a></div>
 
 </div></div>
 <div style='border: 1px solid #ccc; margin-bottom: 30px; border-radius: 10px;'>
-<iframe src="https://www.youtube.com/embed/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS40NzZCMERDMjVEN0RFRThB"
+<iframe src="https://www.youtube.com/embed/9QoBoeC6SAg"
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""
 style="width: 100%; border-top-left-radius: 10px; border-top-right-radius: 10px;" width="" height="250" frameborder="0"></iframe>
 <br>
@@ -185,11 +147,49 @@ style="width: 100%; border-top-left-radius: 10px; border-top-right-radius: 10px;
 Prime Minister Justin Trudeau says the $82-billion financial package announced earlier this week is just 'a very first step' as health-care officials warn social distancing could last months.
 
 <br><br>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS40NzZCMERDMjVEN0RFRThB/trudeau'>PM Trudeau Speech</a></div>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS40NzZCMERDMjVEN0RFRThB/q_a'>Q & A</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/9QoBoeC6SAg/trudeau'>PM Trudeau Speech</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/9QoBoeC6SAg/q_a'>Q & A</a></div>
 <br>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS40NzZCMERDMjVEN0RFRThB/pre_news'>Pre-Speech News</a></div>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS40NzZCMERDMjVEN0RFRThB/post_news'>Post-Speech News</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/9QoBoeC6SAg/pre_news'>Pre-Speech News</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/9QoBoeC6SAg/post_news'>Post-Speech News</a></div>
+
+</div></div>
+<div style='border: 1px solid #ccc; margin-bottom: 30px; border-radius: 10px;'>
+<iframe src="https://www.youtube.com/embed/hcPXrMpROsg"
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""
+style="width: 100%; border-top-left-radius: 10px; border-top-right-radius: 10px;" width="" height="250" frameborder="0"></iframe>
+<br>
+
+<div style='padding: 20px'>
+<h3>COVID-19 update: Trudeau warns of potential enforcement measures</h3>
+<strong>2020-04-03</strong>
+Prime Minister Justin Trudeau warned of potential COVID-19 enforcement measures as individuals continue to engage in "extremely concerning" activities. 
+
+<br><br>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/hcPXrMpROsg/trudeau'>PM Trudeau Speech</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/hcPXrMpROsg/q_a'>Q & A</a></div>
+<br>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/hcPXrMpROsg/pre_news'>Pre-Speech News</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/hcPXrMpROsg/post_news'>Post-Speech News</a></div>
+
+</div></div>
+<div style='border: 1px solid #ccc; margin-bottom: 30px; border-radius: 10px;'>
+<iframe src="https://www.youtube.com/embed/MyHRODOzBb4"
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""
+style="width: 100%; border-top-left-radius: 10px; border-top-right-radius: 10px;" width="" height="250" frameborder="0"></iframe>
+<br>
+
+<div style='padding: 20px'>
+<h3>COVID-19 update: MPs set to vote on emergency aid for Canadians</h3>
+<strong>2020-04-03</strong>
+Prime Minister Justin Trudeau is addressing the country as a small number of MPs return to Ottawa today to vote on measures to spend billions on aid for families and businesses struggling to cope as the coronavirus outbreak hammers the economy.
+
+<br><br>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/MyHRODOzBb4/trudeau'>PM Trudeau Speech</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/MyHRODOzBb4/q_a'>Q & A</a></div>
+<br>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/MyHRODOzBb4/pre_news'>Pre-Speech News</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/MyHRODOzBb4/post_news'>Post-Speech News</a></div>
 
 </div></div>
 
