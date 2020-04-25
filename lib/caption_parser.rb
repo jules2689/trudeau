@@ -117,7 +117,7 @@ module Trudeau
         when :q_a then "Q & A"
         when :post_news then "News after the Speech"
         end
-        output = "##{title}\n\n#{entries.map(&:to_s).join("\n")}"
+        output = "# #{title}\n\n#{entries.map(&:to_s).join("\n")}"
         if key == :trudeau
           output = "[Automated Summary can be read here](./#{key}_summary.md)\n\n#{output}"
         end
