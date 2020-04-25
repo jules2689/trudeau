@@ -39,7 +39,11 @@ module Trudeau
 
     def parse_items(parsed_resp)
       parsed_resp["items"].each_with_object({}) do |item, acc|
-        id = item["id"] || item["snippet"]["resourceId"]["videoId"]
+        id = if item["snippet"]["resourceId"]
+          item["snippet"]["resourceId"]["videoId"]
+        else
+          item["id"]
+        end
         acc[id] = {
           date: DateTime.parse(item["snippet"]["publishedAt"]).strftime('%Y-%m-%d'),
           sort_key: DateTime.parse(item["snippet"]["publishedAt"]),
