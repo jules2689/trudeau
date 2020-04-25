@@ -3,6 +3,25 @@ You can view a human summarized version of these notes <a href="https://www.noti
 </div>
 
 <div style='border: 1px solid #ccc; margin-bottom: 30px; border-radius: 10px;'>
+<iframe src="https://www.youtube.com/embed/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS5GM0Q3M0MzMzY5NTJFNTdE"
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""
+style="width: 100%; border-top-left-radius: 10px; border-top-right-radius: 10px;" width="" height="250" frameborder="0"></iframe>
+<br>
+
+<div style='padding: 20px'>
+<h3>Trudeau promises more Canadians to receive COVID-19 emergency benefit</h3>
+<strong>2020-04-06</strong>
+Prime Minister Justin Trudeau addresses the country as the application portal opens for Canadians to apply to the Canada Emergency Response Benefit (CERB). 
+
+<br><br>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-06/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS5GM0Q3M0MzMzY5NTJFNTdE/trudeau'>PM Trudeau Speech</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-06/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS5GM0Q3M0MzMzY5NTJFNTdE/q_a'>Q & A</a></div>
+<br>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-06/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS5GM0Q3M0MzMzY5NTJFNTdE/pre_news'>Pre-Speech News</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-06/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS5GM0Q3M0MzMzY5NTJFNTdE/post_news'>Post-Speech News</a></div>
+
+</div></div>
+<div style='border: 1px solid #ccc; margin-bottom: 30px; border-radius: 10px;'>
 <iframe src="https://www.youtube.com/embed/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS4yMDhBMkNBNjRDMjQxQTg1"
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""
 style="width: 100%; border-top-left-radius: 10px; border-top-right-radius: 10px;" width="" height="250" frameborder="0"></iframe>
@@ -171,25 +190,6 @@ Prime Minister Justin Trudeau says the $82-billion financial package announced e
 <br>
 <div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS40NzZCMERDMjVEN0RFRThB/pre_news'>Pre-Speech News</a></div>
 <div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS40NzZCMERDMjVEN0RFRThB/post_news'>Post-Speech News</a></div>
-
-</div></div>
-<div style='border: 1px solid #ccc; margin-bottom: 30px; border-radius: 10px;'>
-<iframe src="https://www.youtube.com/embed/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS5GNjNDRDREMDQxOThCMDQ2"
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""
-style="width: 100%; border-top-left-radius: 10px; border-top-right-radius: 10px;" width="" height="250" frameborder="0"></iframe>
-<br>
-
-<div style='padding: 20px'>
-<h3>COVID-19 update: Trudeau warns of potential enforcement measures</h3>
-<strong>2020-04-03</strong>
-Prime Minister Justin Trudeau warned of potential COVID-19 enforcement measures as individuals continue to engage in "extremely concerning" activities. 
-
-<br><br>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS5GNjNDRDREMDQxOThCMDQ2/trudeau'>PM Trudeau Speech</a></div>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS5GNjNDRDREMDQxOThCMDQ2/q_a'>Q & A</a></div>
-<br>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS5GNjNDRDREMDQxOThCMDQ2/pre_news'>Pre-Speech News</a></div>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/UExleUpQSGJSbkdhWXhMeWJibFhqTWJnaVBkdDZoaE83VS5GNjNDRDREMDQxOThCMDQ2/post_news'>Post-Speech News</a></div>
 
 </div></div>
 
