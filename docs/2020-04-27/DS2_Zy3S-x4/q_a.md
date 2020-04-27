@@ -428,9 +428,3 @@ There is no conclusive evidence on that.
 Now one day, perhaps soon, we may know that.
 But that is not the case now.
 So it would not be prudent at this time to base our thinking on the idea of herd immunity when we don't know whether that's a reality or not.
-
-
-
-**Reporter**:
-
-
