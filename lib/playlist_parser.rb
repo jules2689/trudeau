@@ -9,6 +9,7 @@ module Trudeau
 
     MISTAKEN_VIDEO_IDS = %w(
       f9sL4sfufEU
+      E4y412J7d8Y
     )
 
     def initialize(token, num_videos)
