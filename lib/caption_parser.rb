@@ -56,7 +56,7 @@ module Trudeau
               current_dialog = :q_a
             end
           when :q_a
-            if text_object.speaker == "Rosemary"
+            if text_object.speaker == "Rosemary" || text_object.speaker == "Vassy" || text_object.message.downcase.include?("that is prime minister")
               output_section_stats
               CLI::UI::Frame.divider("Found Post News") unless ENV["TEST"]
               current_dialog = :post_news
