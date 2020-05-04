@@ -1,2 +1,0 @@
-# News after the Speech
-
