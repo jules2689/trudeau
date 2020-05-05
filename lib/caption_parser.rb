@@ -50,7 +50,8 @@ module Trudeau
               "first question",
               "phone lines for some questions",
             ].map(&:downcase)
-            if text_object.speaker&.downcase&.include?("operator") || text_object.speaker&.downcase&.include?("question") || q_a_matches.any? { |t| text_object.msg.downcase.include?(t) || text_object.speaker&.downcase&.include?(t) }
+            speaker_match = text_object.speaker&.downcase&.include?("operator") || text_object.speaker&.downcase&.include?("reporter") || text_object.speaker&.downcase&.include?("question")
+            if speaker_match || q_a_matches.any? { |t| text_object.msg.downcase.include?(t) || text_object.speaker&.downcase&.include?(t) }
               output_section_stats
               CLI::UI::Frame.divider("Found Q & A") unless ENV["TEST"]
               current_dialog = :q_a
