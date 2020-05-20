@@ -9,9 +9,9 @@ style="width: 100%; border-top-left-radius: 10px; border-top-right-radius: 10px;
 <br>
 
 <div style='padding: 20px'>
-<h3>COVID-19 update: Trudeau addresses Canadians | Special coverage</h3>
+<h3>COVID-19 update: Trudeau announces commercial rent assistance program</h3>
 <strong>2020-05-20</strong>
-Prime Minister Justin Trudeau will update Canadians on the latest measures the federal government is taking to slow the spread of COVID-19.
+Prime Minister Justin Trudeau unveiled the Canada Emergency Commercial Rent Assistance program, designed to reduce rent by 75 per cent for small businesses affected by the COVID-19 pandemic. Federal and provincial governments will cover 50 per cent, while landlords absorb 25 per cent.
 
 <br><br>
 <div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-05-20/pQGE6Aayx_Q/trudeau'>PM Trudeau Speech</a></div>
