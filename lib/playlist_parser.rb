@@ -11,6 +11,7 @@ module Trudeau
       f9sL4sfufEU
       E4y412J7d8Y
       WZSQHWUhpFo
+      ad30D41UCT0
     )
 
     def initialize(token, num_videos)
