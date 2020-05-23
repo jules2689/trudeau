@@ -49,6 +49,7 @@ module Trudeau
             q_a_matches = [
               "first question",
               "phone lines for some questions",
+              "phone for questions",
             ].map(&:downcase)
             speaker_match = text_object.speaker&.downcase&.include?("operator") || text_object.speaker&.downcase&.include?("reporter") || text_object.speaker&.downcase&.include?("question")
             if speaker_match || q_a_matches.any? { |t| text_object.msg.downcase.include?(t) || text_object.speaker&.downcase&.include?(t) }
