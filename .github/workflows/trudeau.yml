@@ -37,8 +37,8 @@ jobs:
         ruby captions.rb -t "${{ secrets.GOOGLE_TOKEN }}" -n 50
     - name: Commit Dialog
       run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
+        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "GitHub Actions"
         git add --all .
         git commit -m "Add new dialog from Trudeau" || true
         remote_repo="https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git"
