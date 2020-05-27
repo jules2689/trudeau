@@ -3,6 +3,25 @@ You can view a human summarized version of these notes <a href="https://www.noti
 </div>
 
 <div style='border: 1px solid #ccc; margin-bottom: 30px; border-radius: 10px;'>
+<iframe src="https://www.youtube.com/embed/E4y412J7d8Y"
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""
+style="width: 100%; border-top-left-radius: 10px; border-top-right-radius: 10px;" width="" height="250" frameborder="0"></iframe>
+<br>
+
+<div style='padding: 20px'>
+<h3>Search underway for 5 passengers of crashed helicopter, Trudeau says</h3>
+<strong>2020-04-30</strong>
+One Canadian military member from Nova Scotia is dead and five others are missing after a helicopter serving with a NATO naval task force crashed in international waters, Prime Minister Justin Trudeau confirmed today.  
+
+<br><br>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-30/E4y412J7d8Y/trudeau'>PM Trudeau Speech</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-30/E4y412J7d8Y/q_a'>Q & A</a></div>
+<br>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-30/E4y412J7d8Y/pre_news'>Pre-Speech News</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-30/E4y412J7d8Y/post_news'>Post-Speech News</a></div>
+
+</div></div>
+<div style='border: 1px solid #ccc; margin-bottom: 30px; border-radius: 10px;'>
 <iframe src="https://www.youtube.com/embed/HJi3gGQ444A"
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""
 style="width: 100%; border-top-left-radius: 10px; border-top-right-radius: 10px;" width="" height="250" frameborder="0"></iframe>
@@ -171,25 +190,6 @@ Prime Minister Justin Trudeau addresses the mass shooting that took place over t
 <br>
 <div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-20/yKCkZ10-FBo/pre_news'>Pre-Speech News</a></div>
 <div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-20/yKCkZ10-FBo/post_news'>Post-Speech News</a></div>
-
-</div></div>
-<div style='border: 1px solid #ccc; margin-bottom: 30px; border-radius: 10px;'>
-<iframe src="https://www.youtube.com/embed/70aKpsEfk9s"
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""
-style="width: 100%; border-top-left-radius: 10px; border-top-right-radius: 10px;" width="" height="250" frameborder="0"></iframe>
-<br>
-
-<div style='padding: 20px'>
-<h3>Federal parties grapple over reconvening Parliament</h3>
-<strong>2020-04-19</strong>
-The Conservatives are calling for more in-person sittings, while other opposition parties are concerned over recalling MPs during the pandemic and prefer virtual sittings. 
-
-<br><br>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-19/70aKpsEfk9s/trudeau'>PM Trudeau Speech</a></div>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-19/70aKpsEfk9s/q_a'>Q & A</a></div>
-<br>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-19/70aKpsEfk9s/pre_news'>Pre-Speech News</a></div>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-19/70aKpsEfk9s/post_news'>Post-Speech News</a></div>
 
 </div></div>
 

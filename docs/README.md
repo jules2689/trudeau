@@ -3,6 +3,25 @@ You can view a human summarized version of these notes <a href="https://www.noti
 </div>
 
 <div style='border: 1px solid #ccc; margin-bottom: 30px; border-radius: 10px;'>
+<iframe src="https://www.youtube.com/embed/Nu45_O4mdPA"
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""
+style="width: 100%; border-top-left-radius: 10px; border-top-right-radius: 10px;" width="" height="250" frameborder="0"></iframe>
+<br>
+
+<div style='padding: 20px'>
+<h3>Trudeau responds to military report criticizing Quebec long-term care homes</h3>
+<strong>2020-05-27</strong>
+Prime Minister Justin Trudeau responds to a report prepared by the Canadian military about Quebec's long-term care homes that says the proper use of protective equipment and staffing shortages remain major challenges in the facilities.
+
+<br><br>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-05-27/Nu45_O4mdPA/trudeau'>PM Trudeau Speech</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-05-27/Nu45_O4mdPA/q_a'>Q & A</a></div>
+<br>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-05-27/Nu45_O4mdPA/pre_news'>Pre-Speech News</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-05-27/Nu45_O4mdPA/post_news'>Post-Speech News</a></div>
+
+</div></div>
+<div style='border: 1px solid #ccc; margin-bottom: 30px; border-radius: 10px;'>
 <iframe src="https://www.youtube.com/embed/s0nWX5fBdxk"
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""
 style="width: 100%; border-top-left-radius: 10px; border-top-right-radius: 10px;" width="" height="250" frameborder="0"></iframe>
@@ -171,25 +190,6 @@ Some trails, day use areas, green spaces and recreational boating will be availa
 <br>
 <div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-05-14/TCZIBW8XpK8/pre_news'>Pre-Speech News</a></div>
 <div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-05-14/TCZIBW8XpK8/post_news'>Post-Speech News</a></div>
-
-</div></div>
-<div style='border: 1px solid #ccc; margin-bottom: 30px; border-radius: 10px;'>
-<iframe src="https://www.youtube.com/embed/rcoiriMzBvA"
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""
-style="width: 100%; border-top-left-radius: 10px; border-top-right-radius: 10px;" width="" height="250" frameborder="0"></iframe>
-<br>
-
-<div style='padding: 20px'>
-<h3>Students can apply for COVID-19 emergency aid starting Friday</h3>
-<strong>2020-05-13</strong>
-Post-secondary students eligible for COVID-19 emergency aid can apply for the benefit starting Friday. Prime Minister Justin Trudeau advised claimants to sign up for an account on the Canada Revenue Agency website to ensure the process moves as quickly as possible.
-
-<br><br>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-05-13/rcoiriMzBvA/trudeau'>PM Trudeau Speech</a></div>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-05-13/rcoiriMzBvA/q_a'>Q & A</a></div>
-<br>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-05-13/rcoiriMzBvA/pre_news'>Pre-Speech News</a></div>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-05-13/rcoiriMzBvA/post_news'>Post-Speech News</a></div>
 
 </div></div>
 
