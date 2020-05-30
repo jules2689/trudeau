@@ -92,7 +92,8 @@ EOF
 
 videos.each_with_index do |(id, video), idx|
   CLI::UI::Frame.open("#{video[:date]} - #{video[:title]}") do
-    video_output_path = File.join(options[:output_path], video[:date], id)
+    page_id = id.start_with?("_") ? "doc_#{id}" : id
+    video_output_path = File.join(options[:output_path], video[:date], page_id)
 
     if idx > 0 && idx % 10 == 0
       readmes << current_readme.join("\n")
@@ -113,11 +114,11 @@ videos.each_with_index do |(id, video), idx|
     current_readme << video[:description]
     current_readme << "<br><br>"
     button_style = "display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;"
-    current_readme << "<div style='#{button_style}'><a href='./#{video[:date]}/#{id}/trudeau'>PM Trudeau Speech</a></div>"
-    current_readme << "<div style='#{button_style}'><a href='./#{video[:date]}/#{id}/q_a'>Q & A</a></div>"
+    current_readme << "<div style='#{button_style}'><a href='./#{video[:date]}/#{page_id}/trudeau'>PM Trudeau Speech</a></div>"
+    current_readme << "<div style='#{button_style}'><a href='./#{video[:date]}/#{page_id}/q_a'>Q & A</a></div>"
     current_readme << "<br>"
-    current_readme << "<div style='#{button_style}'><a href='./#{video[:date]}/#{id}/pre_news'>Pre-Speech News</a></div>"
-    current_readme << "<div style='#{button_style}'><a href='./#{video[:date]}/#{id}/post_news'>Post-Speech News</a></div>"
+    current_readme << "<div style='#{button_style}'><a href='./#{video[:date]}/#{page_id}/pre_news'>Pre-Speech News</a></div>"
+    current_readme << "<div style='#{button_style}'><a href='./#{video[:date]}/#{page_id}/post_news'>Post-Speech News</a></div>"
     current_readme << "\n</div></div>"
 
     if !options[:force] && Dir.exist?(video_output_path)
