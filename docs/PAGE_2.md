@@ -3,6 +3,25 @@ You can view a human summarized version of these notes <a href="https://www.noti
 </div>
 
 <div style='border: 1px solid #ccc; margin-bottom: 30px; border-radius: 10px;'>
+<iframe src="https://www.youtube.com/embed/3Emary9-kz4"
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""
+style="width: 100%; border-top-left-radius: 10px; border-top-right-radius: 10px;" width="" height="250" frameborder="0"></iframe>
+<br>
+
+<div style='padding: 20px'>
+<h3>Canada-U.S. border to remain closed for another month as provinces slowly reopen</h3>
+<strong>2020-05-19</strong>
+The Canada-U.S. border will remain closed for another 30 days. Prime Minister Justin Trudeau announced the deal to extend the closure during his daily news conference.
+
+<br><br>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-05-19/3Emary9-kz4/trudeau'>PM Trudeau Speech</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-05-19/3Emary9-kz4/q_a'>Q & A</a></div>
+<br>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-05-19/3Emary9-kz4/pre_news'>Pre-Speech News</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-05-19/3Emary9-kz4/post_news'>Post-Speech News</a></div>
+
+</div></div>
+<div style='border: 1px solid #ccc; margin-bottom: 30px; border-radius: 10px;'>
 <iframe src="https://www.youtube.com/embed/XXdYBaKeFxE"
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""
 style="width: 100%; border-top-left-radius: 10px; border-top-right-radius: 10px;" width="" height="250" frameborder="0"></iframe>
@@ -171,25 +190,6 @@ The federal government announced a multibillion-dollar deal with the provinces a
 <br>
 <div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-05-07/tXxXTtBDfH4/pre_news'>Pre-Speech News</a></div>
 <div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-05-07/tXxXTtBDfH4/post_news'>Post-Speech News</a></div>
-
-</div></div>
-<div style='border: 1px solid #ccc; margin-bottom: 30px; border-radius: 10px;'>
-<iframe src="https://www.youtube.com/embed/gNdytWoMWUY"
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""
-style="width: 100%; border-top-left-radius: 10px; border-top-right-radius: 10px;" width="" height="250" frameborder="0"></iframe>
-<br>
-
-<div style='padding: 20px'>
-<h3>Trudeau announces $252M emergency aid package for farmers, food processors hit by COVID-19</h3>
-<strong>2020-05-05</strong>
-The Liberal government unveiled a multimillion-dollar aid package this morning aimed at helping farmers and food processors safely navigate the novel coronavirus pandemic. MPs also held a second meeting of the special committee on COVID-19 via video conferencing.
-
-<br><br>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-05-05/gNdytWoMWUY/trudeau'>PM Trudeau Speech</a></div>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-05-05/gNdytWoMWUY/q_a'>Q & A</a></div>
-<br>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-05-05/gNdytWoMWUY/pre_news'>Pre-Speech News</a></div>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-05-05/gNdytWoMWUY/post_news'>Post-Speech News</a></div>
 
 </div></div>
 
