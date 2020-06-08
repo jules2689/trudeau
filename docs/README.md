@@ -9,9 +9,9 @@ style="width: 100%; border-top-left-radius: 10px; border-top-right-radius: 10px;
 <br>
 
 <div style='padding: 20px'>
-<h3>COVID-19 update: Trudeau addresses Canadians | Special coverage</h3>
+<h3>Exemption coming for families separated by COVID-19 travel restrictions</h3>
 <strong>2020-06-08</strong>
-Prime Minister Justin Trudeau will update Canadians on the latest measures the federal government is taking to slow the spread of COVID-19.
+"We are bringing in a limited exemption to allow immediate family members of citizens or permanent residents to come to Canada," Prime Minister Justin Trudeau said today during his morning COVID-19 news conference.
 
 <br><br>
 <div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-06-08/L-fX98e6SvU/trudeau'>PM Trudeau Speech</a></div>
