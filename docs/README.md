@@ -9,9 +9,10 @@ style="width: 100%; border-top-left-radius: 10px; border-top-right-radius: 10px;
 <br>
 
 <div style='padding: 20px'>
-<h3>Private video</h3>
+<h3>Liberals propose tighter rules around CERB</h3>
 <strong>2020-06-09</strong>
-This video is private.
+The Liberal government is proposing legislation that would impose tighter rules for claiming the Canada Emergency Response Benefit (CERB) and is threatening to impose fines and jail time on those who deliberately lie on applications.  
+
 <br><br>
 <div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-06-09/68-pe-SrM1g/trudeau'>PM Trudeau Speech</a></div>
 <div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-06-09/68-pe-SrM1g/q_a'>Q & A</a></div>
