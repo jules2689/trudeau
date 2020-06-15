@@ -3,22 +3,22 @@ You can view a human summarized version of these notes <a href="https://www.noti
 </div>
 
 <div style='border: 1px solid #ccc; margin-bottom: 30px; border-radius: 10px;'>
-<iframe src="https://www.youtube.com/embed/5wpVPXD9gJI"
+<iframe src="https://www.youtube.com/embed/pdWJ0V5csVY"
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""
 style="width: 100%; border-top-left-radius: 10px; border-top-right-radius: 10px;" width="" height="250" frameborder="0"></iframe>
 <br>
 
 <div style='padding: 20px'>
-<h3>COVID-19 update: Trudeau recalls Parliament to pass enhanced emergency aid</h3>
-<strong>2020-04-03</strong>
-Prime Minister Justin Trudeau said today Parliament will be recalled to pass new legislation to deliver enhanced COVID-19 emergency aid measures.
+<h3>COVID-19 update: Trudeau says 'millions of masks' coming from China | Special coverage</h3>
+<strong>2020-04-06</strong>
+Prime Minister Justin Trudeau is addressed the country as U.S. President Donald Trump pressures 3M to halt surgical-grade mask exports to other countries, including Canada.
 
 <br><br>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/5wpVPXD9gJI/trudeau'>PM Trudeau Speech</a></div>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/5wpVPXD9gJI/q_a'>Q & A</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-06/pdWJ0V5csVY/trudeau'>PM Trudeau Speech</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-06/pdWJ0V5csVY/q_a'>Q & A</a></div>
 <br>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/5wpVPXD9gJI/pre_news'>Pre-Speech News</a></div>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-03/5wpVPXD9gJI/post_news'>Post-Speech News</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-06/pdWJ0V5csVY/pre_news'>Pre-Speech News</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-06/pdWJ0V5csVY/post_news'>Post-Speech News</a></div>
 
 </div></div>
 
