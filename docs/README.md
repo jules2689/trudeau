@@ -9,9 +9,9 @@ style="width: 100%; border-top-left-radius: 10px; border-top-right-radius: 10px;
 <br>
 
 <div style='padding: 20px'>
-<h3>COVID-19 update: Trudeau addresses Canadians | Special coverage</h3>
+<h3>Trudeau announces CERB payments to be extended for 2 more months</h3>
 <strong>2020-06-16</strong>
-Prime Minister Justin Trudeau will update Canadians on the latest measures the federal government is taking to slow the spread of COVID-19.
+Prime Minister Justin Trudeau announced today that the Canada emergency response benefit will be extended for eight weeks for those who still can't work as provinces and territories gradually reopen their economies.
 
 <br><br>
 <div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-06-16/ipvrtaTyhsQ/trudeau'>PM Trudeau Speech</a></div>
