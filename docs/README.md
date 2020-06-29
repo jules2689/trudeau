@@ -3,6 +3,25 @@ You can view a human summarized version of these notes <a href="https://www.noti
 </div>
 
 <div style='border: 1px solid #ccc; margin-bottom: 30px; border-radius: 10px;'>
+<iframe src="https://www.youtube.com/embed/t_0XoNZ7KlA"
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""
+style="width: 100%; border-top-left-radius: 10px; border-top-right-radius: 10px;" width="" height="250" frameborder="0"></iframe>
+<br>
+
+<div style='padding: 20px'>
+<h3>COVID-19 update: Trudeau addresses Canadians | Special coverage</h3>
+<strong>2020-06-29</strong>
+Prime Minister Justin Trudeau will update Canadians on the latest measures the federal government is taking to slow the spread of COVID-19.
+
+<br><br>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-06-29/t_0XoNZ7KlA/trudeau'>PM Trudeau Speech</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-06-29/t_0XoNZ7KlA/q_a'>Q & A</a></div>
+<br>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-06-29/t_0XoNZ7KlA/pre_news'>Pre-Speech News</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-06-29/t_0XoNZ7KlA/post_news'>Post-Speech News</a></div>
+
+</div></div>
+<div style='border: 1px solid #ccc; margin-bottom: 30px; border-radius: 10px;'>
 <iframe src="https://www.youtube.com/embed/9byorXCv9D0"
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""
 style="width: 100%; border-top-left-radius: 10px; border-top-right-radius: 10px;" width="" height="250" frameborder="0"></iframe>
@@ -171,25 +190,6 @@ During what is usually a daily briefing on COVID-19, Trudeau took his time answe
 <br>
 <div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-06-02/eVuHWvi86OQ/pre_news'>Pre-Speech News</a></div>
 <div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-06-02/eVuHWvi86OQ/post_news'>Post-Speech News</a></div>
-
-</div></div>
-<div style='border: 1px solid #ccc; margin-bottom: 30px; border-radius: 10px;'>
-<iframe src="https://www.youtube.com/embed/snuuc4nsMkY"
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""
-style="width: 100%; border-top-left-radius: 10px; border-top-right-radius: 10px;" width="" height="250" frameborder="0"></iframe>
-<br>
-
-<div style='padding: 20px'>
-<h3>Ottawa to fast-track $2.2B to help municipalities hit by pandemic</h3>
-<strong>2020-06-01</strong>
-The federal government is accelerating the delivery of infrastructure cash to help struggling municipalities taking a financial hit from COVID-19.
-
-<br><br>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-06-01/snuuc4nsMkY/trudeau'>PM Trudeau Speech</a></div>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-06-01/snuuc4nsMkY/q_a'>Q & A</a></div>
-<br>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-06-01/snuuc4nsMkY/pre_news'>Pre-Speech News</a></div>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-06-01/snuuc4nsMkY/post_news'>Post-Speech News</a></div>
 
 </div></div>
 

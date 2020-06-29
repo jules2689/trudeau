@@ -3,6 +3,25 @@ You can view a human summarized version of these notes <a href="https://www.noti
 </div>
 
 <div style='border: 1px solid #ccc; margin-bottom: 30px; border-radius: 10px;'>
+<iframe src="https://www.youtube.com/embed/K60KUHbmG_k"
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""
+style="width: 100%; border-top-left-radius: 10px; border-top-right-radius: 10px;" width="" height="250" frameborder="0"></iframe>
+<br>
+
+<div style='padding: 20px'>
+<h3>Trudeau pledges $350M to community groups helping seniors, homeless</h3>
+<strong>2020-04-21</strong>
+Prime Minister Justin Trudeau has announced $350 million for community groups and national charities such as the United Way and Red Cross.
+
+<br><br>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-21/K60KUHbmG_k/trudeau'>PM Trudeau Speech</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-21/K60KUHbmG_k/q_a'>Q & A</a></div>
+<br>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-21/K60KUHbmG_k/pre_news'>Pre-Speech News</a></div>
+<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-21/K60KUHbmG_k/post_news'>Post-Speech News</a></div>
+
+</div></div>
+<div style='border: 1px solid #ccc; margin-bottom: 30px; border-radius: 10px;'>
 <iframe src="https://www.youtube.com/embed/yKCkZ10-FBo"
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""
 style="width: 100%; border-top-left-radius: 10px; border-top-right-radius: 10px;" width="" height="250" frameborder="0"></iframe>
@@ -171,25 +190,6 @@ Prime Minister Justin Trudeau discusses the Canada emergency business account, a
 <br>
 <div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-10/F-UQwgj4CR4/pre_news'>Pre-Speech News</a></div>
 <div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-10/F-UQwgj4CR4/post_news'>Post-Speech News</a></div>
-
-</div></div>
-<div style='border: 1px solid #ccc; margin-bottom: 30px; border-radius: 10px;'>
-<iframe src="https://www.youtube.com/embed/Qvb4WIC7Ccw"
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""
-style="width: 100%; border-top-left-radius: 10px; border-top-right-radius: 10px;" width="" height="250" frameborder="0"></iframe>
-<br>
-
-<div style='padding: 20px'>
-<h3>'This is the new normal,' until COVID-19 vaccine developed: Trudeau</h3>
-<strong>2020-04-09</strong>
-Prime Minister Justin Trudeau tells Canadians that efforts to keep COVID-19 case numbers down will take "months of continued, determined effort." He said "this is the new normal" until a vaccine is developed. Trudeau begins to speak at 13:35. 
-
-<br><br>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-09/Qvb4WIC7Ccw/trudeau'>PM Trudeau Speech</a></div>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-09/Qvb4WIC7Ccw/q_a'>Q & A</a></div>
-<br>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-09/Qvb4WIC7Ccw/pre_news'>Pre-Speech News</a></div>
-<div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-04-09/Qvb4WIC7Ccw/post_news'>Post-Speech News</a></div>
 
 </div></div>
 
