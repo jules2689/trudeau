@@ -9,9 +9,9 @@ style="width: 100%; border-top-left-radius: 10px; border-top-right-radius: 10px;
 <br>
 
 <div style='padding: 20px'>
-<h3>COVID-19 update: Trudeau addresses Canadians | Special coverage</h3>
+<h3>COVID-19 update: Trudeau optimistic about declining COVID-19 cases and deaths</h3>
 <strong>2020-06-29</strong>
-Prime Minister Justin Trudeau will update Canadians on the latest measures the federal government is taking to slow the spread of COVID-19.
+Despite a few recent outbreaks across the country, Prime Minister Justin Trudeau said today new federal figures show efforts to fight the novel coronavirus in Canada are working.
 
 <br><br>
 <div style='display: inline; padding: 10px; border: 1px solid #ccc; line-height: 50px;'><a href='./2020-06-29/t_0XoNZ7KlA/trudeau'>PM Trudeau Speech</a></div>
