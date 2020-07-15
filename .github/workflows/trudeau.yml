@@ -1,10 +1,10 @@
 name: Download Trudeau Dialog
 on:
-  schedule:
-    # 5pm UTC is 1pm eastern, which should be adequate time for the videos to become available
-    - cron:  '10 17 * * *'
-    - cron:  '10 18 * * *'
-    - cron:  '10 20 * * *'
+#   schedule:
+#     # 5pm UTC is 1pm eastern, which should be adequate time for the videos to become available
+#     - cron:  '10 17 * * *'
+#     - cron:  '10 18 * * *'
+#     - cron:  '10 20 * * *'
   push: {}
 
 jobs:
